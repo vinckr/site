@@ -12,14 +12,14 @@ import { markdown } from "./utils/markdown.js";
   <head>
   <meta charset="UTF-8" />
   <title>Link Collection - vinckr.com</title>
-  <link rel="stylesheet" href="./styles/default.css">
+  <link rel="stylesheet" href="./public/styles/default.css">
   </head>
   <body>
   ${rendered}
   </body>
-  </html>`;
-  await fs.mkdirs("./public");
-  await fs.writeFile("./public/links.html", htmlFile, "utf8");
+  </html>`; //  await fs.mkdirs("./public");
+
+  await fs.writeFile("./links.html", htmlFile, "utf8");
   console.log("HTML generated.");
 })();
 //# sourceMappingURL=links.js.map

@@ -1,11 +1,8 @@
 body {
   font-family: "Arial", sans-serif;
   color: #808080;
-  background-color: #1c1c1c;
+  background-color: #000000;
   background-image: url("../../public/images/background.svg");
-}
-
-p {
   line-height: 1.8;
 }
 
@@ -13,7 +10,8 @@ a {
   cursor: pointer;
   color: #0069aa;
   text-decoration: none;
-  line-height: 1.5;
+  background-color: #000000;
+  padding: 2px;
 }
 
 .header {

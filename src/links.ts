@@ -23,9 +23,9 @@ import { markdown } from "./utils/markdown.js";
   </body>
   </html>`;
 
-  await fs.mkdirs("./public");
+//  await fs.mkdirs("./public");
 
-  await fs.writeFile("./public/links.html", htmlFile, "utf8");
+  await fs.writeFile("./links.html", htmlFile, "utf8");
 
   console.log("HTML generated.");
 })();

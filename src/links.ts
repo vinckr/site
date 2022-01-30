@@ -16,7 +16,7 @@ import { markdown } from "./utils/markdown.js";
   <head>
   <meta charset="UTF-8" />
   <title>Link Collection - vinckr.com</title>
-  <link rel="stylesheet" href="./styles/default.css">
+  <link rel="stylesheet" href="./public/styles/default.css">
   </head>
   <body>
   ${rendered}

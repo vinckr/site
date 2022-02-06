@@ -1,7 +1,7 @@
 body {
   font-family: "Arial", sans-serif;
-  color: #808080;
-  background-color: #000000;
+  color: #aaaaaa;
+  background-color: #1c1c1c;
   background-image: url("../../public/images/background.svg");
   line-height: 1.8;
 }
@@ -10,8 +10,16 @@ a {
   cursor: pointer;
   color: #0069aa;
   text-decoration: none;
-  background-color: #000000;
-  padding: 2px;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 15px;
+}
+
+.nav li a {
+  color: #0069aa;
+  padding: 0px 16px;
 }
 
 .header {

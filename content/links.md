@@ -1,4 +1,3 @@
-
 # Curated Links
 
 ## Reading Material
@@ -25,7 +24,7 @@ Publications that have a high quality standard and single articles.
 
 ## Writing
 
-Everything relevant to wordsmiths.
+Everything relevant to text creation.
 
 - [Generative text editor](https://automotron.io/) 
 - [Cliche Finder](http://cliche.theinfo.org/)
@@ -43,13 +42,13 @@ Resources for web development and related topics.
 ### Design
 
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
-- [Convert plain text (letters, sometimes numbers, sometimes punctuation) to obscure characters from Unicode.](http://qaz.wtf/u/convert.cgi) 
+- [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi) 
 - [Emojipedia](https://emojipedia.org/) 
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/) 
 - [Unsplash - copyright free images.](https://unsplash.com)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
-- [Toolkit for building animations in the WebGL Shader language.](https://smoothstep.io/) 
+- [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/) 
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
 - [A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
@@ -66,7 +65,7 @@ Resources for web development and related topics.
 - [HTML Code Generators](https://www.htmlbasix.com/)
 - [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
-- [A list of everything that _could_ go in the head of your HTML document](https://github.com/joshbuchea/HEAD)
+- [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
 - [Details on `<details>`](https://github.com/muan/details-on-details) 
 
 ### CSS
@@ -109,7 +108,7 @@ Collections of condensed knowledge.
 - [Learn pandas - Python Data Analysis Library](https://kellyfoulk.herokuapp.com/post/3)
 - [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [Postgres indexes introduction](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
-- [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
+- [Beej's Guide to using internet sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr) 
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
@@ -138,7 +137,7 @@ Official courses and other learning resources, for beginners and experts.
 - [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
 - [Temporary email service](https://mailcare.io/)
 
-#### Remote
+#### Remote Work
 
 - [Checklist for video calls](https://checklist.video/checklist/)
 
@@ -161,19 +160,19 @@ These sparked my interest, but I did not yet try out.
 - [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)
-- [DragonRuby Game Toolkit - Professional grade 2D game engine.](http://dragonruby.org/toolkit/game) 
+- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game) 
 - [Wildcard is a browser extension to modify websites](https://www.geoffreylitt.com/wildcard/) 
 - [Web interface for advanced reddit searches](https://redditsearch.io/) 
 - [Simple bookmark manager built with Go](https://github.com/go-shiori/shiori) 
 - [Archivy - Self-hosted knowledge repository](https://archivy.github.io/) 
 - [Screenshot software](https://github.com/flameshot-org/flameshot)
-- [Tooll - OSS tool for creating interactive 3d contentand animations.](http://tooll.io/) 
+- [Tooll - OSS tool for creating interactive 3d content and animations](http://tooll.io/) 
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
 - [A single Bash script to create blogs.](https://github.com/cfenollosa/bashblog) 
 - [Zapier/IFTTT alternative based on Github actions](https://github.com/actionsflow/actionsflow )
-- [Type with your voice on Mac/Windows/Linux using electronjs and google chrome](https://github.com/fxnoob/voice-typing-for-desktop) 
+- [Type with your voice on Mac/Windows/Linux using electronjs and chrome](https://github.com/fxnoob/voice-typing-for-desktop) 
 - [Event/agent & automation system with lots of bees](https://github.com/muesli/beehive)
-- [Tiny (2 KB) JavaScript library for creating user interfaces.](https://redom.js.org/)
+- [Tiny (2 KB) JavaScript library for creating user interfaces](https://redom.js.org/)
 
 ## Mixed Tools
 
@@ -189,4 +188,3 @@ No category for these. Feel free to [propose one](https://github.com/vinckr/vinc
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
-

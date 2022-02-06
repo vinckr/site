@@ -63,7 +63,7 @@ Resources for web development and related topics.
 ### HTML
 
 - [HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
-- [HTML Code Generators](https://www.htmlbasix.com/generators/)
+- [HTML Code Generators](https://www.htmlbasix.com/)
 - [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 - [A list of everything that _could_ go in the head of your HTML document](https://github.com/joshbuchea/HEAD)
@@ -74,11 +74,10 @@ Resources for web development and related topics.
 - [Some CSS generators](https://markodenic.com/css-generators/)
 - [Generate Soft-UI CSS code](https://neumorphism.io)
 - [Animations for eccentric developers](https://www.joerezendes.com/projects/Woah.css/)
-- [CSS ellipses loading animation](https://jongacnik.com/text/ellipses-loader)
 - [Flexbox vs. CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
 - [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 - [Neat CSS tricks](https://markodenic.com/css-tips/)
-
+- [SimpleCSS - Classless CSS](https://simplecss.org/)
 
 ### Tools & Tricks
 
@@ -112,6 +111,7 @@ Collections of condensed knowledge.
 - [Postgres indexes introduction](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
 - [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr) 
+- [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
 ## Learning
 
@@ -127,14 +127,14 @@ Official courses and other learning resources, for beginners and experts.
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books )
 - [Creative Coding Resources](https://timrodenbroeker.de/resources/)
-- [List of GitHub Repositories full of Resources](https://github.com/pawelborkar/awesome-56repos)
+- [List of GitHub Repositories full of Resources](https://github.com/pawelborkar/awesome-repos)
 - [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science) 
 
 ### Code Examples
 
 - [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
-- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose/5)
+- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 - [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
 - [Temporary email service](https://mailcare.io/)
 
@@ -158,6 +158,7 @@ Resources for builders.
 
 These sparked my interest, but I did not yet try out.
 
+- [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)
 - [DragonRuby Game Toolkit - Professional grade 2D game engine.](http://dragonruby.org/toolkit/game) 
@@ -186,6 +187,6 @@ No category for these. Feel free to [propose one](https://github.com/vinckr/vinc
 
 - [Squiggle animation tool](http://www.mrsquiggles.com/) 
 - [Visual representation of git repo](https://gource.io/)
-
-
+- [Simple animation tool](https://animatize.com/)
+- [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 

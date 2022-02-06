@@ -12,7 +12,7 @@ Publications that have a high quality standard and single articles.
 ### Articles
 
 - [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
-- [Herzberg’s Two-Factor Theory Theory of Motivation and Hygiene - workplace motivaton](https://www.managementstudyhq.com/herzbergs-two-factor-theory-of-motivation-and-hygiene.html)
+- [Herzberg’s Two-Factor Theory of Motivation and Hygiene](https://www.managementstudyhq.com/herzbergs-two-factor-theory-of-motivation-and-hygiene.html)
 - [Largest English-language technology media company that focuses on Asia](https://www.techinasia.com/) 
 - [Pizza recipe: EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097) 
 - [The Grand Unified Theory of Documentation](https://documentation.divio.com/) 

@@ -84,6 +84,8 @@ Resources for web development and related topics.
 - [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
 - [Open source, experimental, and tiny tools list](https://tinytools.directory/)
 - [Debug Shell Scripts](https://explainshell.com/)
+- [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [Just your IP, nothing else](https://justyourip.com/)
 
 ### Documentation
 

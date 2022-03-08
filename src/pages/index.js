@@ -17,12 +17,12 @@ const IndexPage = () => (
     I believe in the power and merit of open source software and a free and open internet. 
   </p>
   <p>
-    I work at <Link to="https://ory.sh/">Ory</Link> building a resilient developer community.
+    I work at <a href="https://ory.sh/">Ory</a> building a resilient developer community.
   </p>
   <p>
     Feel free to <a href="mailto:hi@vinckr.com">contact me</a>, if you have a request, question, or need help with your open source project. </p>
   <p>
-    Have a look around, I have an old-timey <a href="./links.html">link collection</a>.
+    Have a look around, I have an old-timey <Link to="/links">link collection</Link> and a <Link to="/blog">blog</Link>.
   </p>
   <img src={helloGIF} alt="Greetings" />
   </Layout>

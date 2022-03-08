@@ -1,4 +1,9 @@
-# H1
+---
+slug: "hello-world"
+date: "2022-03-08"
+title: "hello world"
+description: "my first blogpost. wow."
+---
 
 ## H2
 
@@ -6,11 +11,12 @@
 
 #### H4
 
-**bold text**
+Some _italicized text_.
 
-_italicized text_
+Some **bold text**.
 
-> blockquote
+> A blockquote
+> pretty long quote
 
 1. First item
 2. Second item

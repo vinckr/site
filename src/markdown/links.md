@@ -1,4 +1,9 @@
-# Curated Links
+---
+slug: "/links"
+date: "2022-03-08"
+title: "links"
+description: "A collection of links to various websites, resources and even more link collections."
+---
 
 ## Reading Material
 
@@ -6,16 +11,16 @@ Publications that have a high quality standard and single articles.
 
 ### Publications
 
-- [The Baffler](https://thebaffler.com/) 
+- [The Baffler](https://thebaffler.com/)
 - [Teleport Magazine (Science Fiction)](https://www.teleportmagazine.com/)
 
 ### Articles
 
 - [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 - [Herzberg’s Two-Factor Theory of Motivation and Hygiene](https://www.managementstudyhq.com/herzbergs-two-factor-theory-of-motivation-and-hygiene.html)
-- [Largest English-language tech media on focusing on Asia](https://www.techinasia.com/) 
-- [Pizza recipe: EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097) 
-- [The Grand Unified Theory of Documentation](https://documentation.divio.com/) 
+- [Largest English-language tech media on focusing on Asia](https://www.techinasia.com/)
+- [Pizza recipe: EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097)
+- [The Grand Unified Theory of Documentation](https://documentation.divio.com/)
 - [Bastard operator from Hell!](http://www.dit.upm.es/~jantonio/personal/sysadmin/) 
 - [What would it take to set software free?](https://logicmag.io/failure/freedom-isnt-free/)
 - [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) 

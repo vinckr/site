@@ -1,13 +1,14 @@
 import * as React from "react"
-import { Link, graphql, StaticQuery } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogIndex = ({ location }) => {
-  const data = useStaticQuery(graphql`
+
+const data = useStaticQuery(graphql`
 query {
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/blog/"}}) {
+    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/blog/"}} sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           id
@@ -16,6 +17,7 @@ query {
             slug
             date
           }
+          html
         }
       }
     }
@@ -23,7 +25,7 @@ query {
 `
 )
 
-const posts = data.markdownRemark.edges.node
+const posts = data.allMarkdownRemark.edges.node
 
 return (
     <Layout location={location}>

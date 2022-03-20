@@ -1,5 +1,5 @@
 ---
-slug: "macos-setup"
+slug: "/macos-setup/"
 date: "2022-03-14"
 title: "My MacOS Setup"
 description: "My MacOS setup."

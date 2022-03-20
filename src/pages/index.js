@@ -26,6 +26,7 @@ const IndexPage = () => (
   </p>
   <img src={helloGIF} alt="Greetings" />
   </Layout>
+  
 )
 
 export default IndexPage

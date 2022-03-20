@@ -10,12 +10,16 @@ module.exports = {
             link:'/'
         },
         {
-            name:'links',
-            link:'/links'
-        },
-        {
             name:'blog',
             link:'/blog'
+        },
+        {
+            name:'links',
+            link:'/links'
+        },        
+        {
+          name:'contact',
+          link:'mailto:mail@vinckr.com'
         }
       ]
   },

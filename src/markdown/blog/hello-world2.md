@@ -1,43 +1,35 @@
 ---
 slug: "hello-world2"
 date: "2022-03-24"
-title: "hello world"
+title: "Building my personal page with GatsbyJS"
 description: "my second blogpost. wow."
 ---
 
-## H2
+gatsby-cli didnt work, gave up after 5 minutes to get it to work, npm is doing fine
 
-### H3
+`npx gatsby new vinckr https://github.com/gatsbyjs/gatsby-starter-blog`
 
-#### H4
+starting with the starter blog but I decide to go back to the [basic starter template](https://gatsbystarterdefaultsource.gatsbyjs.io/).
 
-Some _italicized text_.
+Gatsby has a number of good [starters](https://www.gatsbyjs.com/starters) for all kinds of CMSs or types of websites, but I like to start with the very basic template and build on top of it to really grok how things work in Gatsby.
 
-Some **bold text**.
+## Code reference
 
-> A blockquote
-> pretty long quote
+This is some boilerplate code for my own reference, this helps me to find things again.
 
-1. First item
-2. Second item
-3. Third item
+#### Static Image
 
-- First item
-- Second item
-- Third item
-
-`code`
-
----
-
-```javascript
-function() {
-  console.log("This is some javascript included in a markdown code block, and it will be converted to valid HTML with code syntax highlighting.");
-}
+```js
+    <StaticImage
+      src="../images/hello.png"
+      formats={["auto", "png"]}
+      alt="I hope you had a good time."
+      style={{ marginBottom: `1.45rem` }}
+    />
 ```
 
-<kbd>this is a keyboard input html element</kbd>
+#### Link
 
-```html
-<span>this will remain html even after the Markdown is converted to HTML</span>
+```js
+      <Link to="/some-route/">Some link text</Link>
 ```

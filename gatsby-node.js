@@ -17,7 +17,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         ) {
           nodes {
             id
-            fields {
+            frontmatter {
               slug
             }
           }
@@ -46,7 +46,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
       createPage({
-        path: post.fields.slug,
+        path: post.frontmatter.slug,
         component: blogPost,
         context: {
           id: post.id,
@@ -99,17 +99,14 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type MarkdownRemark implements Node {
       frontmatter: Frontmatter
-      fields: Fields
     }
 
     type Frontmatter {
       title: String
       description: String
       date: Date @dateformat
-    }
-
-    type Fields {
       slug: String
     }
+
   `)
 }

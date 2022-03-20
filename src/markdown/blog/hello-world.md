@@ -5,5 +5,4 @@ title: "Hello world"
 description: "New Beginnings"
 ---
 
-
-Hello world
+Hello world.

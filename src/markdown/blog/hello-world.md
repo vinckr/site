@@ -1,8 +1,9 @@
 ---
 slug: "hello-world"
-date: "2022-03-08"
-title: "New Beginnings"
+date: "2022-03-12"
+title: "Hello world"
 description: "New Beginnings"
 ---
 
-Some text about this webpage and blog writing and so on
+
+Hello world

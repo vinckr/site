@@ -1,6 +1,5 @@
 ---
 slug: "/links/"
-date: "2022-03-08"
 title: "Links"
 description: "A collection of links to various websites, resources and even more link collections."
 ---

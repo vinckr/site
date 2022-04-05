@@ -29,7 +29,7 @@ should have been on the soundtrack: https://www.youtube.com/watch?v=I9MZNEXrElw
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>
 
-You should read this. Like most Kafka stories it is really short. It centers around a paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. The whole setting is just great, for example the protagonist trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems it is an unsolvable dilemma and only the beginning of paranoia.  
+Read this. Like most Kafka stories it is really short. It centers around a paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. The whole setting is just great, for example the protagonist trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems it is an unsolvable dilemma and only the beginning of paranoia.  
 In my mind the protagonist is a badger, it seemed to fit the story as I imagined it for a couple of reasons which i wont go into here now, to not spoil the story. 
 </details>
 

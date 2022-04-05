@@ -26,8 +26,6 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="All posts" />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
-          const title = post.frontmatter.title || post.frontmatter.slug
-
           return (
             <li key={post.frontmatter.slug}>
               <article
@@ -35,22 +33,13 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                <header>
                   <h2>
                     <Link to={post.frontmatter.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
+                      <span itemProp="headline">{post.frontmatter.slug}</span>
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
+                  <p>{post.frontmatter.description}</p>
               </article>
             </li>
           )

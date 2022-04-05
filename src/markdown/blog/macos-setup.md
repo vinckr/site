@@ -1,15 +1,16 @@
 ---
-slug: "/macos-setup/"
+slug: "/macos-setup"
 date: "2022-03-14"
 title: "My MacOS Setup"
-description: "My MacOS setup."
+description: "💻"
 published: true
 ---
 
 Start with a clean install.
-Open the [terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) app and copy and paste the commands.
+Open the [terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) app and copy and paste the commands.  
+This is probably outdated as I only update it when setting up MacOs.
 
->While nothing here can harm your hardware, only run these commands if you know what you are doing.
+>! Only run these commands if you know what you are doing. !
 
 #### Widen the space between apps in Dock
 
@@ -54,24 +55,30 @@ xcode-select --install
 
 #### Install shells
 
+```bash
 brew install zsh
 brew install zsh-completions
 brew install --cask iterm2
+```
 
 #### Customize shell
 
-https://github.com/ohmyzsh/ohmyzsh
+[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
+```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
-https://github.com/romkatv/powerlevel10k
+[powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+```bash
 brew install romkatv/powerlevel10k/powerlevel10k && \
 echo '# Theme configuration: PowerLevel10K' >>! ~/.zshrc && \
 echo 'source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc && \
 echo '# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.' >>! ~/.zshrc && \
 echo '[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh' >>! ~/.zshrc
 omz update
+```
 
 #### Install & customize git
 
@@ -152,7 +159,7 @@ brew install --cask figma
 brew install --cask obs
 brew install --cask adobe-creative-cloud
 brew install vcl
-````
+```
 
 #### update npm
 
@@ -163,7 +170,7 @@ brew install vcl
 ```bash
 brew install alt-tab
 brew install --cask rectangle
-````
+```
 
 #### Reset Launchpad & Dock
 
@@ -173,14 +180,9 @@ defaults write com.apple.dock ResetLaunchPad -boolean true; killall Dock
 brew update && brew upgrade && brew doctor && brew cleanup
 ```
 
-
-gh repo clone ory/kratos; gh repo clone ory/hydra; gh repo clone ory/keto; gh repo clone ory/oathkeeper; gh repo clone ory/web; gh repo clone ory/docs; gh repo clone ory/meta
-
 Browser settings:
 
 - Turn off _save passwords_ on all browsers
-extensions:
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
-- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)

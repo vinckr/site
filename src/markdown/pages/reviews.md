@@ -47,12 +47,22 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 
 ### watchlist 
 
-incomplete list of movies I want to watch
+for my own reference, a list of movies to watch
 
 - [The Lighthouse](https://www.imdb.com/title/tt7984734/)
 - [Color out of space](https://www.imdb.com/title/tt5073642/)
 - [Under Siege](https://www.imdb.com/title/tt0105690/)
 - [Croupier](https://m.imdb.com/title/tt0159382/)
+- [Super Mario Bros.](https://www.imdb.com/title/tt0108255/)
+- [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
+- [Face/Off](https://www.imdb.com/title/tt0119094/)
+- [Liquid Sky](https://www.imdb.com/title/tt0085852/)
+- [Suspiria](https://www.imdb.com/title/tt0076786)
+- [Mad Detective](https://www.imdb.com/title/tt0969269/)
+- [Collateral](https://www.imdb.com/title/tt0369339/)
+- [Road to perdition](https://www.imdb.com/title/tt0257044)
+- [Hollywoodland](https://www.imdb.com/title/tt0427969/)
+- [It follows](https://www.imdb.com/title/tt3235888/)
 
 <!-- 
 //template

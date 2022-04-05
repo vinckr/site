@@ -40,7 +40,9 @@ section,
 summary {
   display: block;
 }
-
+article.post-list-item{
+ padding: 1.42rem 0;
+}
 footer {
   text-align: center;
 }
@@ -217,7 +219,7 @@ h2 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 0.45rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -384,6 +386,7 @@ table {
   width: 100%;
 }
 blockquote {
+  border-radius: 0.25rem;
   margin-left: 1.45rem;
   margin-right: 1.45rem;
   margin-top: 0;

@@ -1,6 +1,6 @@
 ---
-slug: "/macos-setup"
-date: "2022-03-14"
+slug: "/macos/"
+date: "2022-03-24"
 title: "My MacOS Setup"
 description: "💻"
 published: true

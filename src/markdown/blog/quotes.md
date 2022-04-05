@@ -6,7 +6,7 @@ description: "📝"
 published: true
 ---
 
-![Sunrise](../../images/sunrise.png)
+![](../../images/sunrise.png)
 
 Some quotes I want to share.  
 Not all of these are to be taken serious. I don't fully endorse, believe in, or live by the content of each quote (but some of them), I just find them worth to collect and share. Some are statements made by famous people, others I found in random places on the internet. (Attribution added where I am certain.)

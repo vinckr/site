@@ -9,6 +9,7 @@ I sometimes review and rate media I consume.
 ### 🎞 movies
 
 #### [Moonfall](https://www.imdb.com/title/tt5834426/): 3
+
 <details><summary markdown="span">➜ click for full Moonfall review.</summary>
 
 If you enjoy apocalyptic movies (uh, like most other Emmerich movies) and conspiracy theories I can recommend it.

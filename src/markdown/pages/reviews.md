@@ -11,11 +11,11 @@ I sometimes review and rate media I consume.
 #### [Moonfall](https://www.imdb.com/title/tt5834426/): 3
 <details><summary markdown="span">➜ click for full Moonfall review.</summary>
 
-If you enjoy apocalyptic movies (uh like most other Emmerich movies) and conspiracy theories I can recommend it.
-I love everything about the moon so i had to watch this. This movie is so full of tropes it made it hard to watch at times.
+If you enjoy apocalyptic movies (uh, like most other Emmerich movies) and conspiracy theories I can recommend it.
+I love everything about the moon so I had to watch this. This movie is so full of tropes it made it hard to watch at times.
 Some convoluted family relations and characters I did not care to follow, but John Bradley saved it for me.
-We learn that anyone can fly and operate a spaceshuttle under any conditions with some helpful comments by a pro.
-Watch it for the destruction and great visuals - the rest is a bit meh. People who care about space realism will probably get very mad watching this.
+We learn that anyone can fly and operate a space shuttle under any conditions with some helpful comments by a pro.
+Watch it for the destruction and great visuals - the rest is a bit meh. People who care about realism in science fiction will probably get very mad watching this.
 
 should have been on the soundtrack: https://www.youtube.com/watch?v=I9MZNEXrElw
 
@@ -29,8 +29,8 @@ should have been on the soundtrack: https://www.youtube.com/watch?v=I9MZNEXrElw
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>
 
-Read this. Like most Kafka stories it is really short. It centers around a paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. The whole setting is just great, for example the protagonist trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems it is an unsolvable dilemma and only the beginning of paranoia.  
-In my mind the protagonist is a badger, it seemed to fit the story as I imagined it for a couple of reasons which i wont go into here now, to not spoil the story. 
+Read this. Like most Kafka stories it is short. The story is centered around the paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. For example the protagonist is trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems this is a problem that can't be solved and only the beginning of the protagonists paranoia.  
+In my mind the protagonist is a badger, it seemed to fit the story as I imagined it.
 </details>
 
 ---

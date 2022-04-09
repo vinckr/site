@@ -2,7 +2,7 @@
 slug: "/git/"
 date: "2022-04-05"
 title: "My git cheatsheet"
-description: "git commands I often forget"
+description: "git cheatsheet"
 published: true
 ---
 

@@ -2,7 +2,7 @@
 slug: "/css/"
 date: "2022-04-05"
 title: "My css cheatsheet"
-description: "css I often forget"
+description: "CSS cheatsheet"
 published: false
 ---
 

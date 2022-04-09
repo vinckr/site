@@ -2,7 +2,7 @@
 slug: "/markdown/"
 date: "2022-03-14"
 title: "Markdown"
-description: "Cheatsheet for markdown"
+description: "cheatsheet for markdown"
 published: true
 ---
 

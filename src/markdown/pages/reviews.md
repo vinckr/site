@@ -24,6 +24,18 @@ should have been on the soundtrack: https://www.youtube.com/watch?v=I9MZNEXrElw
 
 ---
 
+#### [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600/): 3
+
+<details><summary markdown="span">➜ click for full Spiderman review.</summary>
+
+Overall it was entertaining, everything looked very much like CGI. When Willem Dafoe first appeared I thought they completely animated him, same with Tobey Maguire. Not sure if this was intended effect, but they looked like using a bad bluescreen. The superhero effects were good otherwise, but the faces had this uncanny valley feeling to them.
+The story is based on an interesting concept on multiverses and it was my first contact with how the DC(?) universe handles these different time and storylines.I love about the multiverse that you can imagine all kinds of stories and it is still all in contained in a "consistent" universe.  
+All in all i don't regret seeing the movie, but you also have not missed much if you don't see it.
+
+</details>
+
+---
+
 ### 📖 books
 
 #### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 5

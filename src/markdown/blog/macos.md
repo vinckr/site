@@ -2,7 +2,7 @@
 slug: "/macos/"
 date: "2022-03-24"
 title: "My MacOS Setup"
-description: "commands i run on a new workstation"
+description: "setup for a fresh macos"
 published: true
 ---
 

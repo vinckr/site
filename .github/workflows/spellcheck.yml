@@ -20,4 +20,6 @@ jobs:
           path: "./"
           locale: "US"
           level: "warning"
-          pattern: "*.md"
+          pattern: |
+            *.md
+            *.mdx

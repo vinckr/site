@@ -1,22 +1,23 @@
-
-name: Typo CI
+name: spellchecker
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
-  spellcheck:
-    name: Typo CI (GitHub Action)
+  misspell:
+    name: runner / misspell
     runs-on: ubuntu-latest
-    timeout-minutes: 4
-    if: "!contains(github.event.head_commit.message, '[ci skip]')"
     steps:
-    - name: TypoCheck
-      uses: typoci/spellcheck-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check out code.
+        uses: actions/checkout@v1
+      - name: misspell
+        id: check_for_typos
+        uses: reviewdog/action-misspell@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: "./"
+          locale: "US"
+          level: "warning"
+          pattern: "*.md"

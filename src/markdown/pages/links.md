@@ -101,8 +101,8 @@ Resources for web development and related topics.
 
 ### GameDev
 
-- [M.U.G.E.N](http://www.elecbyte.com/mugendocs-11b1/mugen.html). A 2D fighting game engine that is enables you to create commercial-quality fighting games.
-- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game) 
+- [M.U.G.E.N- 2D fighting game engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
+- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 
 ## Cheat Sheets

@@ -45,10 +45,9 @@ Resources for web development and related topics.
 
 ### Design
 
-- [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
+- [Werner’s Nomenclature of Colors](https://www.c82.net/werner/#colors)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi) 
 - [Emojipedia](https://emojipedia.org/) 
-- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/) 
 - [Unsplash - copyright free images.](https://unsplash.com)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
@@ -90,6 +89,7 @@ Resources for web development and related topics.
 - [Debug Shell Scripts](https://explainshell.com/)
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 - [Just your IP, nothing else](https://justyourip.com/)
+- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
 
 ### Documentation
 
@@ -98,6 +98,12 @@ Resources for web development and related topics.
 - [Writing Great Technical Documentation](https://jacobian.org/2009/nov/11/technical-style/)
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [React&Markdown for building documentation fast](https://docusaurus.io/)
+
+### GameDev
+
+- [M.U.G.E.N](http://www.elecbyte.com/mugendocs-11b1/mugen.html). A 2D fighting game engine that is enables you to create commercial-quality fighting games.
+- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game) 
+- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 
 ## Cheat Sheets
 
@@ -166,7 +172,6 @@ These sparked my interest, but I did not yet try out.
 - [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)
-- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game) 
 - [Wildcard is a browser extension to modify websites](https://www.geoffreylitt.com/wildcard/) 
 - [Web interface for advanced reddit searches](https://redditsearch.io/) 
 - [Simple bookmark manager built with Go](https://github.com/go-shiori/shiori) 

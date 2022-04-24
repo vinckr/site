@@ -23,6 +23,7 @@ published: true
 - `git rev-list --count --since="Jan 1 2020" --before="Jan 1 2021" --all` number
 of commits over timeframe
 - `git log --format='%aN' | sort -u` : list all contributors by name
+- `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 
 ## Troubleshooting
 
@@ -50,15 +51,6 @@ git fetch origin <branch-name>
 git checkout -b <branch-name> origin/<branch-name>
 ```
 
----
-
-solve merge conflict:
-
-1. press "i" (i for insert)
-1. write your merge message
-1. press "esc" (escape)
-1. write ":wq" (write & quit)
-1. then press enter
 
 ## Further Reference
 

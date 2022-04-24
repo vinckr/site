@@ -19,7 +19,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           path: "./"
           locale: "US"
-          level: "warning"
+          level: "info"
+          fail_on_error: true
           pattern: |
             *.md
             *.mdx

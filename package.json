@@ -23,7 +23,8 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "text-runner": "^5.0.1"
   },
   "keywords": [
     "gatsby"

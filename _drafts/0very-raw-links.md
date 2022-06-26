@@ -1,349 +1,132 @@
 
 # next monthly:
 
-movies: 
-1975 documentary The Man Who Skied Down Everest
-
-
-https://www.youtube.com/watch?v=-nKjl9xrU6Q
-https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition
-https://youtu.be/tIt-l2YmH8M
-https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984
-https://arxiv.org/pdf/2204.06974.pdf
-https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a?permalink_comment_id=4138989
-https://workmode.co/
-https://darknetdiaries.com/episode/39/
-https://www.hudsandguis.com/
-https://littr.me/
-https://www.insanelyusefulwebsites.com/
-https://github.com/yukondude/Scripnix
-https://github.com/munificent/hauberk/blob/db360d9efa714efb6d937c31953ef849c7394a39/lib/src/content/dungeon.dart
-https://jleightcap.srht.site/blog/openphone.html
-https://news.ycombinator.com/item?id=31060023
-https://indieblog.page/suggest
-https://www.goodreads.com/book/show/206902.Storming_the_Court
-https://www.goodreads.com/book/show/78924.The_Evolution_of_Deadly_Conflict_in_Liberia
-https://securityzines.com/#comics
-https://robertheaton.com/almost-scammed/
-https://strike.market/stocks/TSLA
-https://www.mooreds.com/wordpress/archives/3513
-https://draft.dev/
-https://www.codetable.net/
-https://minimal.gallery/
-https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
-https://twitter.com/RiversHaveWings/status/1462859669454536711
-https://creator.nightcafe.studio/
-https://news.ycombinator.com/item?id=31121105
-Emil Heidenreich Linkedin
-https://thisanimedoesnotexist.ai/
-https://thisanimedoesnotexist.ai/slider.html?seed=51436
-https://www.youtube.com/watch?v=aEpk_yGjn0E
-https://thisanimedoesnotexist.ai/slider.html?seed=04684
-https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising
-https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/
-https://news.ycombinator.com/item?id=31132365
-https://hype4.academy/articles/design/neubrutalism-is-taking-over-web
-https://thiscatdoesnotexist.com/
-https://www.contv.com
-https://afdah.top/
-https://azm.to/
-https://vumoo.to/movies/20190213-the-death-of-stalin-2017
+movies:
+[The Man Who Skied Down Everest](https://www.imdb.com/title/tt0073340/)
+[Time of the Gypsies](https://www.imdb.com/title/tt0097223/)
+[O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/)
 https://en.wikipedia.org/wiki/The_Inner_Circle_(1991_film)
 https://en.wikipedia.org/wiki/Axis_of_Time
-https://flant.com/k8s-iceberg.svg
-
-
-https://www.youtube.com/watch?v=5d6SEQQbwtU&list=PLjHf9jaFs8XWoGULb2HQRvhzBclS1yimW
-
-https://quii.gitbook.io/learn-go-with-tests/
-https://www.hyperui.dev/components/reviews
 https://de.m.wikipedia.org/wiki/Angriffsziel_Moskau
-https://blog.concannon.tech/tech-talk/tbd54566975/
+https://en.m.wikipedia.org/wiki/Ambulance_(film)
 
-Your mother is so fat she'll never move away from your apartment." "My mother is a woman of substance." "Don't forget." "So is your grandfather." "It's hard to forget." "It's a beautiful evening." "Thank you." "It's nice out." "I think it's nice out, too." "So we're even." "Oh, no, we're not." "Did you see my handbag?" "Yes." "My wallet's gone." "Where did you leave it?" "Um..." "In the restaurant?" "It could be anywhere." "Someone could have picked it up." "What's the point of being on a "no pickpockets" table?" "Well, I'm gonna go get it." "No, please don't." "I should be able to get it without looking like a bumbler." "Do you think you can handle that?" "I know I can handle it." "Oh." "It's not here."
-Your mother is so fat she has no energy to eat. My mother is not so fat, she doesn’t even know that fat has calories
-Your mother is so fat she doesn't know the meaning of the word sexy." "What are you talking about?" "My mother?" "Yeah, your mom." "She thinks I'm not sexy." "You don't say." "My mother is not fat." "She's the opposite of fat." "Okay?" "And don't even think about putting my mother on the list of people who can make a fat joke." "You know, you really disappoint me sometimes." "I do?" "When you're not being a douche bag, which is most of the time." "And there's no way in hell that you are in a committed relationship with that hag in your apartment." " What do you mean?" " Well, let's start with the hair." "It looks like it was glued on, and then the rest is..." "She's a goddamn time bomb." "Okay?" "Every time I spend a minute around her, she goes, "Boom." She goes boom
-Your mother is so fat she wears bikinis for outerwear!" We all laughed, and I knew our friendship had not been broken. I asked the boys, "So, what are you going to do?" Trey said, "I thought I'd work on my car, or maybe start making money selling dope. Do a lot of stupid shit that would make my parents happy." "I want to be a pilot," said Tyler. "So, you just want to drive planes?" "Naw. I'd really like to fly." "So, you want to be a pilot, but you don't want to be in a cockpit?" Tyler said, "Yeah, like an airplane without a pilot." "I'd like that," I said. "I'm really interested in that." Trey said, "Hey, you wanna work with me?" "Sure." Trey had b
-Your mother is so fat she should've drowned herself by now. A little salt would do a world 'r this. And then it hit me. The salt. What I used in that salad I had, what I use on bread. I knew this for certain; this is where the real money in that sandwich went, as soon as she dropped those three little grains. As soon and how long as salt left my wife I would begin to feed the worms inside her skin as surely as a dog takes time before he begins biting the bones off you to suck at the blood underneath. For the first time in ten miles that damned sandwich came home to haunt me. I shoulda killed him, that black bugger who said what was inside that ham on crackin' rusks. 'I like a bit of cheddar but sometimes my husband wants salt.
+watched:
+death of stalin 5/5
+northman 4/5
 
-https://textsynth.com/playground.html
-http://www.aaronsw.com/weblog/
-https://darknetdiaries.com/episode/71/
-https://publiccode.eu/
-https://github.com/adnanaga/pushy
-https://thequietus.com/articles/31275-film-werner-herzog-anniversary-fitzcarraldo-blockbuster
-https://simonhearne.com/
+books:
+https://en.m.wikipedia.org/wiki/Bald%27s_Leechbook
+Nuking the Moon: And Other Intelligence Schemes and Military Plots Left on the Drawing Board
+https://www.goodreads.com/book/show/206902.Storming_the_Court
+https://www.goodreads.com/book/show/78924.The_Evolution_of_Deadly_Conflict_in_Liberia
+
+other:
+https://darknetdiaries.com/episode/39/
+- add blog here https://indieblog.page/suggest
+
+music:
+https://www.youtube.com/watch?v=-nKjl9xrU6Q
 https://internationalchrome.bandcamp.com/album/international-chromies-vol-2-dagga-house-of-flying-daggers-ep
 https://internationalchrome.bandcamp.com/album/the-great-red-spot
 https://internationalchrome.bandcamp.com/track/electro-slave-jensen-interceptor-remix
-https://youtu.be/Xw6nXSEqRrc
-https://merely.xyz/games/
-https://www.acs.org/content/acs/en/pressroom/newsreleases/2022/march/in-a-surprise-move-honeybee-tongue-hairs-repel-water.html
-https://stackdiary.com/free-hosting-for-developers/
-https://stallman.org/stallman-computing.html#internetuse
-https://archive.nytimes.com/www.nytimes.com/books/98/09/13/specials/maynard-mag.html
-https://gaclient.com/
-https://www.youtube.com/watch?v=BEXuK073bkE&t=749s
-https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html?m=1
-https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
-https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
-https://www.reddit.com/r/selfhosted/comments/fxotbi/comment/fn1u3p4/
-https://eugenkiss.github.io/7guis/tasks/
-https://yunohost.org/#/
-https://seths.blog/2022/05/half-baked/?via=thomas.me
-https://github.com/PayDevs/awesome-oss-monetization/blob/main/approaches/paid-hosting.md
-https://wireframe.raspberrypi.com/books/code-the-classics1
-https://dollchan.net/bytebeat/#v3b64q1ZKzk9JVbJSKtHSKFEzNDO2MLE3szLV1NIw0dUwVCuxs7PQ1LSz0zBW0wWyLTVrgKSZUi0A
-https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html
-The Architecture of Open Source Applications
-aosabook.org
-https://aosabook.org/en/index.html
-https://wireframe.raspberrypi.com/books/code-the-classics1
-https://memex.marginalia.nu/log/57-dont-know-how-to-build-software.gmi
-https://github.com/zeljkoobrenovic/sokrates-oss-landscape-analysis
-https://startuptrail.engine.is/
-https://tamagui.dev/blog/tamagui-enters-beta-themes-and-animations
-
-OAmg · Open Access for Everyone · Download and read over 200 million research papers
-Description
-oa.mg
-https://oa.mg/
-https://github.com/resume/resume.github.com
 https://www.youtube.com/watch?v=sxeKcmyW2YM
 https://youtu.be/XkYRK-8qGJw
-https://www.discogs.com/master/275515-Naitklub-Whores-In-This-House
-play this 
 https://youtu.be/jWLaHF69S5Y
-https://www.junodownload.com/products/six-foe-seasons/1219731-02/?track_number=3
 https://www.youtube.com/watch?v=9D-XNpi5JI8
 https://youtu.be/0_kCeQBlHto
-https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows
-https://rapidapi.com/products/hub/
-
-https://github.com/PayDevs/awesome-oss-monetization
-https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/
-https://github.com/jaxxstorm/pulumi-examples/pull/97
-https://www.lastpass.com/features/username-generator
-https://en.m.wikipedia.org/wiki/Ambulance_(film)
-https://christine.website/blog/robocadey-2022-04-30
-Claws Mail - The user-friendly, lightweight, and fast e-mail client
-www.claws-mail.org
-https://www.claws-mail.org/
-https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/
-https://github.com/onceupon/Bash-Oneliner
-https://m.youtube.com/watch?v=p0O1VVqRSK0
-https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/
-https://withoutdistractions.com/
-
-http://chillestmonkey.com/
-
-https://github.com/mljar/mercury
-https://full-stack.blend.com/how-we-write-github-actions-in-go.html#how-we-release-actions-in-go
-https://en.m.wikipedia.org/wiki/Permaculture
-Vince Houghton 
-
-Nuking the Moon: And Other Intelligence Schemes and Military Plots Left on the Drawing Board
-https://m.youtube.com/watch?reload=9&v=A4n2pW-Op-8
-https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/
-Image attached to message
-PikaPods - Instant Open Source App Hosting
-Run the finest Open Source web apps from $1/month, fully managed, no tracking, no ads.
-www.pikapods.com
-https://www.pikapods.com/
-https://consilienceproject.org/endgames-of-bad-communication/
-https://billwadge.com/2022/03/10/tech-talks-dont-have-to-be-boring-follow-these-simple-rules/
-https://grapee.jp/en/199026
-https://simonwillison.net/2022/Mar/14/shot-scraper-template/
-https://simonwillison.net/2022/Mar/14/shot-scraper-template/
-
-Image attached to message
-I'm All-In on Server-Side SQLite
-Ben Johnson has joined Fly.io
-fly.io
-https://fly.io/blog/all-in-on-sqlite-litestream/
-The next chapter for Cloudflare Workers: open source
-As the first announcement of Platform Week, today Cloudflare is announcing the open sourcing of the Workers runtime under the Apache-2.0 license
-blog.cloudflare.com
-https://blog.cloudflare.com/workers-open-source-announcement/
-https://www.microsoft.com/security/blog/2022/05/09/building-a-safer-world-together-with-our-partners-introducing-microsoft-security-experts/
-https://ehmatthes.com/blog/pycon_2022_highlights/
-https://himalayas.app/companies
-The Path of Madness — brandur.org
-brandur.org
-https://brandur.org/nanoglyphs/029-path-of-madness#footnote-1-source
-European Commission prefers breaking privacy to protecting kids | Light Blue Touchpaper
-www.lightbluetouchpaper.org
-https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/
-
-https://github.com/alufers/mitmproxy2swagger
-https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/
 https://www.youtube.com/watch?v=BpSygUv0qEE
+https://metalbootlegs08.blogspot.com/?m=1
+
+eh:
+https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition
+https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a?permalink_comment_id=4138989
+[social link aggregator service](https://littr.me/)
+
+to linklist
+[Code table - browse alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
+https://minimal.gallery/
+https://thisxdoesnotexist.com/
+https://textsynth.com/playground.html
+https://simonhearne.com/
+https://merely.xyz/games/
+https://yunohost.org/#/
+https://dollchan.net/bytebeat/
+https://aosabook.org/en/index.html
+https://wireframe.raspberrypi.com/books/code-the-classics1
+https://oa.mg/
+https://github.com/FdelMazo/obliquestrategies/
+https://github.com/PayDevs/awesome-oss-monetization
+https://github.com/onceupon/Bash-Oneliner
+https://github.com/mljar/mercury
+https://billwadge.com/2022/03/10/tech-talks-dont-have-to-be-boring-follow-these-simple-rules/
+https://himalayas.app/companies
+https://github.com/alufers/mitmproxy2swagger
 https://sliderland.blinry.org/
-https://www.cursordanceparty.com/
 https://build.washingtonpost.com/
-
-Map of Reddit
-This website shows a map of reddit. Each dot is a subreddit. Two dots within the same cluster are usually close to each other if multiple users frequently leave comments on both subreddits
-anvaka.github.io
 https://anvaka.github.io/map-of-reddit/?x=259179.7911253572&y=564162.277420807&z=757949.5017832002
-https://github.com/watermelontools/wm-extension
-https://github.com/readme/guides/hiring-technical-talent
-https://www.failory.com/startups/germany-unicorns
-https://archive.ph/ouR1B
-Refactoring UI
-www.refactoringui.com
-https://www.refactoringui.com/
-
-https://symphonyinacid.net/
-Image attached to message
-react-snippets/Router.js at main · ashok-khanna/react-snippets
-A sample of useful snippets in React. Contribute to ashok-khanna/react-snippets development by creating an account on GitHub.
-github.com
-https://github.com/ashok-khanna/react-snippets/blob/main/Router.js
-https://sre.google/books/
-https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a
-Image attached to message
-GitHub - edrys-org/edrys: Edrys is an open and modular remote teaching platform (and the first live LMS)
-Edrys is an open and modular remote teaching platform (and the first live LMS) - GitHub - edrys-org/edrys: Edrys is an open and modular remote teaching platform (and the first live LMS)
-github.com
-https://github.com/edrys-org/edrys
-Image attached to message
-The Future is Vast: Longtermism’s perspective on humanity’s past, present, and future
-If we manage to avoid a large catastrophe, we are living at the early beginnings of human history.
-ourworldindata.org
-https://ourworldindata.org/longtermism
-https://en.m.wikipedia.org/wiki/Bald%27s_Leechbook
-Leonid Rogozov - Wikipedia
-en.m.wikipedia.org
-https://en.m.wikipedia.org/wiki/Leonid_Rogozov#Antarctic_service
 https://donotresearch.net/
 http://www.s-n-d.si/
 https://false-utopia.com/
+https://sre.google/books/
+https://github.com/edrys-org/edrys
 https://www.gigmit.com/en/
-Time of the gypsies
-Image attached to message
-The Modern JavaScript Tutorial
-javascript.info
-https://javascript.info/
-https://www.webpagetest.org/
-https://github.com/muxamilian/duralava
-https://hacker-recommended-books.vercel.app/category/0/past-6-months/page/0/0
-https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
-https://smallandroidphone.com/
-
-Urza's AI
-www.urzas.ai
 https://www.urzas.ai/cards/?card_id=6c6354e2-c2e9-41e9-ab0d-63d83685ba7a
-https://github.com/infrahq/infra
-https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/
-MB8
-metalbootlegs08.blogspot.com
-https://metalbootlegs08.blogspot.com/?m=1
-Image attached to message
-https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers
-https://blog.lazerwalker.com/2022/05/10/virtual-events.html
+https://github.com/paxtonhare/demo-magic
+https://www.insanelyusefulwebsites.com/)
+
+check:
+https://creator.nightcafe.studio/
+https://darknetdiaries.com/episode/71/
+https://wireframe.raspberrypi.com/books/code-the-classics1
+https://github.com/resume/resume.github.com
+https://javascript.info/
+https://thisanimedoesnotexist.ai/slider.html?seed=04684
+https://thisanimedoesnotexist.ai/slider.html?seed=51436
+
+kindosuss
+sehrstarkeshnpasswort
+
+# to sort:
+{
+
 https://github.com/molleindustria/likelike-online
-Thumbnail link preview for un.curl.dev
-README - Uncurled
-un.curl.dev
 https://un.curl.dev/
 https://platform.leolabs.space/visualizations/leo
 https://news.ycombinator.com/item?id=31412738
 https://zitadel.com/pricing/v2
-
 https://github.com/holoviz/panel
-Image attached to message
-Web Applications 101
-Everything you need to know about web applications in modern web development. You will learn about traditional websites, full-stack web applications, client-side and server-side rendering/routing, single-page applications, code splitting, APIs, microservices, static site generation ...
-www.robinwieruch.de
 https://www.robinwieruch.de/web-applications/
 https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi
-Mito | Home
-www.trymito.io
 https://www.trymito.io/
 https://dl.acm.org/
-Winning solutions of kaggle competitions
-Explore and run machine learning code with Kaggle Notebooks | Using data from [Private Datasource]
-www.kaggle.com
 https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 https://archive.org/details/understandingstressesandstrains
 https://drajmarsh.bitbucket.io/supershapes.html
-Image attached to message
-GitHub - hng/tech-coops: A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
-A list of tech coops and resources concerning tech coops and worker owned cooperatives in general. - GitHub - hng/tech-coops: A list of tech coops and resources concerning tech coops and worker own...
-github.com
 https://github.com/hng/tech-coops
-blinkenbox-kollektiv - IT-Dienstleistungen in Berlin
-blinkenbox.coop
 https://blinkenbox.coop/
 https://rarehistoricalphotos.com/vintage-computer-ads/
-Image attached to message
-https://github.com/FdelMazo/obliquestrategies/
-https://mschf.xyz/
-Image attached to message
-MSCHF
-New drops every Monday at 11am EST.
-mschf.xyz
 https://mschf.xyz/
 https://news.ycombinator.com/item?id=31471127
 https://github.com/formkit/auto-animate
 https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 https://www.sipri.org/media/press-release/2022/world-stumbling-new-era-risk-concludes-sipri-report
 https://welofi.bandcamp.com/album/lone-thugz-in-harmony
-
 https://www.goodreads.com/book/show/37506348-winners-take-all
-Image attached to message
-Decision to Leave - Wikipedia
-en.m.wikipedia.org
 https://en.m.wikipedia.org/wiki/Decision_to_Leave
 https://welofi.bandcamp.com/album/lone-thugz-in-harmony
 https://habibibass.bandcamp.com/album/bounce-operators-vol-1
-kindosuss
-sehrstarkeshnpasswort
-The mindless tyranny of 'what if it changes?' as a software design principle - Blogomatano
-chriskiehl.com
 https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes
-Image attached to message
-kic-reference-architectures/pulumi/python at master · nginxinc/kic-reference-architectures
-Ingress Controller Reference Architectures. Contribute to nginxinc/kic-reference-architectures development by creating an account on GitHub.
-github.com
 https://github.com/nginxinc/kic-reference-architectures/tree/master/pulumi/python
-Thumbnail link preview for www.autodidacts.io
-Host a Ghost Blog for Free on Fly.io — In 1 Minute
-Ghost is one of the fastest-growing publishing platforms. However, for those looking to dip their toes in the water, one aspect can be off-putting: the shiny Ghost(Pro) hosting (referral link) starts at $11/month or $108/year — $300/year a year if you want to use your own theme
-www.autodidacts.io
 https://www.autodidacts.io/host-a-ghost-blog-free-on-fly-io/
-Cockpit 269 — Cockpit Project
-Cockpit makes it easy to administer your Linux servers via a web browser.
-cockpit-project.org
 https://cockpit-project.org/blog/cockpit-269.html
 https://www.stef.be/bassoontracker/
 https://www.simplemobiletools.com/
 https://github.com/eclipsesource/jsonforms
-WebAuthn, and only WebAuthn
-Why we implemented WebAuthn for Two Factor Authentication
-blog.mailpace.com
-https://blog.mailpace.com/blog/why-we-use-webauthn-for-2fa/
 https://sharedphysics.com/everything-is-important/#step-0-create-consensus-that-there-is-a-problem
 https://www.logo.wine/
-https://github.com/paxtonhare/demo-magic
-
-Image attached to message
-How to Write Email with Military Precision
-When you send an email, the first thing your recipient sees is the subject line, so make sure it’s as clear as possible: What is your email’s purpose? What do you want your recipient to do? Take a page from military personnel. Their subject lines use keywords in all caps to note the email’s purpose. For example: INFO – For informational purposes only REQUEST – Seeks permission or approval by the recipient ACTION – The recipient must take some action These demarcations might seem obvious or needlessly exclamatory, but they make your emails stand out in the recipient’s inbox. So if you need to send your direct reports a status update, try using the subject line: INFO – Status Update. If you need your manager to approve your vacation request, you could write REQUEST – Vacation. Using these key words also forces you to think about what you really want from someone before you contribute to their email clutter.
-hbr.org
-Nov 22, 2016
 https://hbr.org/2016/11/how-to-write-email-with-military-precision
 http://www.figlet.org/
 https://www.amazon.de/1491-Revelations-Americas-Before-Columbus/dp/1400032059
-https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/
-
-see 15: "almost noone got JWTs right on the first try"
-JWT is notoriously hard to get right, even if you’re using a library, and there were a lot of implementations that failed to properly expire tokens on logout, incorrectly checked the JWT for authenticity, or simply trusted it by default.
-Twitter to pay $150 million penalty for allegedly breaking its privacy promises – again
-It’s FTC 101. Companies can’t tell consumers they will use their personal information for one purpose and then use it for another.
-www.ftc.gov
-May 23, 2022
 https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again
 https://hackerone.com/reports/173551
 https://github.com/furkanonder/karbon
@@ -351,27 +134,14 @@ https://keunwoo.com/notes/rebooting/
 https://syften.com/
 https://jason.today/little-worlds
 https://write.as/b3f03bcjpgp2gkf1
-"It's easier to ask for forgiveness than permission
-Image attached to message
 https://abooklikefoo.com/escape
-Serial Experiments Lain
 https://planetariasoundsystem.bandcamp.com/track/t-gi-waxing-taxing
 https://planetariasoundsystem.bandcamp.com/track/mac-address-1b-1e-a2-88-6c-39-work
 https://planetariasoundsystem.bandcamp.com/track/highlimiter-crazy-as-ur-pussy
-
-camargue -> marseille
 https://about-france.com/tourism/camargue.htm
-patches
 https://about.gitlab.com/company/stewardship/
-
-Image attached to message
-Copy Ipsum: A landing page template for writing unignorable copy for landing pages
-A Webflow HTML landing page template that shows you how to structure your web copy. And how to write unignorable copy, 2x faster - even if writing isn't your thing. Perfect for micro startups & indie makers.
-www.copyipsum.com
 https://www.copyipsum.com/
 https://news.ycombinator.com/item?id=31526649
-
-only in it to pimp the culture? fuck that, we keep the passion
 https://www.tofugu.com/reviews/hiroaki-sato-legends-of-the-samurai/
 https://news.ycombinator.com/item?id=31435677
 https://privacytests.org/android.html
@@ -390,9 +160,6 @@ https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
 https://feross.org/coding-in-the-wild/
 https://standardjs.com/
 https://feross.org/support/
-
-# to sort:
-
 https://plan.planbuildr.com/business-plan/new
 https://mjg59.dreamwidth.org/59353.html
 https://tilepieces.net/
@@ -441,7 +208,6 @@ https://librewolf.net/
 https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html?m=1
 https://mrd0x.com/browser-in-the-browser-phishing-attack/
 http://www.uchronia.net/label/gibsagency.html
-scaleway.com
 https://magmastudio.io/
 https://scrapingfish.com/blog/scraping-instagram
 https://archive.org/details/hifidelity
@@ -707,7 +473,6 @@ https://archive.fo/Umn02
 https://www.kapwing.com/tools/smart-cut
 https://tweetfeast.com/
 https://github.com/muxamilian/duralava#readme
-
 https://github.com/danistefanovic/build-your-own-x Build your own (insert
 technology here)
 https://github.com/public-apis/public-apis A collective list of free APIs
@@ -790,7 +555,6 @@ https://github.com/stared/science-based-games-list
 https://github.com/EliotAndres/kaggle-past-solutions
 https://archive.org/details/HardcoreVinylCollection78GB/
 https://b-ok.cc/
-https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 http://alexnisnevich.github.io/untrusted/
 https://warrior.js.org/
 http://bofh.bjash.com/
@@ -801,9 +565,6 @@ https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-mo
 https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/
 https://en.m.wikipedia.org/wiki/Thwaites_Glacier
 https://berlincodeofconduct.org/
-https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files
-https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/
-https://www.linode.com/de/compare/
 https://iximiuz.com/en/posts/container-learning-path/
 https://github.com/projectM-visualizer/projectm
 https://news.ycombinator.com/item?id=7260087
@@ -857,7 +618,6 @@ https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/
 https://www.outreachy.org/
 https://sentry.io/for/open-source/
 https://sustainoss.org/
-www.apress.com
 https://www.apress.com/gp/book/9781484272169
 https://doriantaylor.com/agile-as-trauma
 https://github.com/dotnet/sdk/issues/22247
@@ -874,7 +634,6 @@ https://news.ycombinator.com/item?id=29076184
 https://xkcd.com/1319/
 https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
 http://sso.tax/
-www.okayhq.com
 https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams
 https://www.consul.io/docs/architecture/consensus
 http://www.datocms.com/
@@ -1249,7 +1008,5 @@ https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
 https://dev.to/andrewbaisden/how-i-write-articles-3985
 https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma
 https://blog.johnnyreilly.com/2021/05/01/blog-archive-for-docusaurus/
-
-### for later eh
-
 https://tonsky.me/blog/how-to-subscribe/
+}

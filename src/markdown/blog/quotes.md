@@ -32,11 +32,19 @@ Not all of these are to be taken serious. I don't fully endorse, believe in, or 
 .
 >"The evolution of the idea of money is closely associated, for reasons which must be apparent to even the most casual observer, with the development of the notions of sin and guilt. Even in the earliest periods of trade we find rudimentary principles at work such as would lead us to believe that primitive man had evolved methods of exchange which sui generis implied the existence of debt. It was not until Ricardo’s time, however, that a formula was arrived at which expressed the relationship between debtor and creditor beyond all caviling. With almost Euclidian simplicity Ricardo summed it up thus: "a debt is discharged by the delivery of money." The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful." - [Henry Miller](https://en.wikipedia.org/wiki/Henry_Miller)
 .
->"No plan survives first contact with the enemy" - Moltke.  
+>What a liberation to realize that the “voice in my head” is not who I am. Who am I then? The one who sees that.” - [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle)
+.
+>"No plan survives first contact with the enemy" - [Moltke](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)  
+.
+>We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can’t have both.” — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
+.
+>The difference between a journeyman and a master is the journeyman is saying “it’s never done that” whilst the master is already running.
 .
 >"Don’t do anything in extremes, including not doing anything in extremes."
 .
 >"There are bold X, and old X, but no old, bold X. Replace X with any practitioners subject to sufficient risk as a result of their practice."
+.
+>"It's easier to ask for forgiveness than permission"
 .
 >"You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest."
 .

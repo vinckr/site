@@ -1,5 +1,13 @@
 ## Halde
 
+## new from log add to links
+
+- [The Codeless Code](http://thecodelesscode.com/). The hackers I Ching.
+- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷 
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
+- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications. 
+- [555 Timer Circuits](https://www.555-timer-circuits.com/). The 555 was one of the chips I used the most in university and it has an truly awesome range of applications, this site does a good job of summarizing it and also provides schematics.
+
 ## New categories to add
 
 ### Sound
@@ -54,15 +62,10 @@ dig WWW.VINCKR.COM +nostats +nocomments +nocmd
 
 ### Quotes
 
-DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE
 ¯\_(ツ)_/¯
 
 
 Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
-
-
-
-
 
 Der uns gewohnte Ordnungsrahmen steht stark unter Druck.
 
@@ -291,11 +294,5 @@ How to structure your project and manage static resources in React Native
 
 https://the-spinel.itch.io/winsome-heartwood Cool solo table-top RPG
 https://usedevbook.com/ Executable Code in documentation.
-
-
-uuuh
-
-gkdkxjJwb72js7si2h
-prisout64
 
 ---

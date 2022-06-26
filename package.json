@@ -36,7 +36,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "release": "format; test; build"
+    "release": "npm run format;npm run  test;npm run  build"
   },
   "repository": {
     "type": "git",

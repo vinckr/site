@@ -7,8 +7,7 @@ published: false
 ---
 
 Now I dont live in Munich anymore, but still visit regularly. I think the city has great living quality, even if culture is somewhat stifled and it is a very expensive city.
-This post will feature some of my tips for people visiting the city for the first time. 
-
+This post will feature some of my tips for people visiting the city for the first time.
 
 https://paros-muenchen.de/
 pizza
@@ -17,7 +16,7 @@ pizza
 
 pasta
 
-"Junge Römer" / "piccolo principe" 
+"Junge Römer" / "piccolo principe"
 
 spanish&paella
 
@@ -25,7 +24,7 @@ spanish&paella
 
 hot pot all you can eat
 
-"Chois" 
+"Chois"
 
 sushi
 
@@ -39,7 +38,7 @@ burger
 
 "mystolz the burger boss"
 
-deluxe indian 
+deluxe indian
 
 "Sangeet"
 
@@ -51,7 +50,7 @@ greek
 
 "Melina" / "paros"
 
-chinese 
+chinese
 
 authentic chinese"Mai Garten"
 

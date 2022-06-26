@@ -1,4 +1,3 @@
-
 # next monthly:
 
 movies:
@@ -22,6 +21,7 @@ https://www.goodreads.com/book/show/78924.The_Evolution_of_Deadly_Conflict_in_Li
 
 other:
 https://darknetdiaries.com/episode/39/
+
 - add blog here https://indieblog.page/suggest
 
 music:
@@ -87,6 +87,7 @@ kindosuss
 sehrstarkeshnpasswort
 
 # to sort:
+
 {
 
 https://github.com/molleindustria/likelike-online
@@ -870,7 +871,7 @@ https://news.findka.com/p/some-thoughts-on-newsletter-advertising
 https://www.jefftk.com/p/why-i-work-on-ads
 http://jwegan.com/growth-hacking/manage-email-reputation-stop-email-going-to-spam-folder/
 https://darekkay.com/blog/evaluatory-personal-sites/
-https://blog.jeremyshaw.co.nz/2021/05/04/What-I-Learned-From-2-Years-at-a-Digital-Agency/	
+https://blog.jeremyshaw.co.nz/2021/05/04/What-I-Learned-From-2-Years-at-a-Digital-Agency/
 https://bzg.fr/en/on-using-to-do-lists-efficiently/
 https://rosie.land/posts/everything-takes-longer-than-you-expect
 https://kubami.com/articles/my-modern-saas-software-stack/

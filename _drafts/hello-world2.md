@@ -20,16 +20,16 @@ This is some boilerplate code for my own reference, this helps me to find things
 #### Static Image
 
 ```js
-    <StaticImage
-      src="../images/hello.png"
-      formats={["auto", "png"]}
-      alt="I hope you had a good time."
-      style={{ marginBottom: `1.45rem` }}
-    />
+<StaticImage
+  src="../images/hello.png"
+  formats={["auto", "png"]}
+  alt="I hope you had a good time."
+  style={{ marginBottom: `1.45rem` }}
+/>
 ```
 
 #### Link
 
 ```js
-      <Link to="/some-route/">Some link text</Link>
+<Link to="/some-route/">Some link text</Link>
 ```

@@ -16,4 +16,4 @@ For just this reason focusing on constructive or creative efforts in my own doma
 This blog and website are my garden and I can tend do it and grow and nurture it or just sit in the shade and relax a bit.  
 This is my garden, look upon my works ye mighty and despair.
 
->“There will always be people who say it does not exist because they cannot have it. But I tell you it is true and that you have it and that you are lucky even if you die tomorrow.” ― For Whom the Bell Tolls
+> “There will always be people who say it does not exist because they cannot have it. But I tell you it is true and that you have it and that you are lucky even if you die tomorrow.” ― For Whom the Bell Tolls

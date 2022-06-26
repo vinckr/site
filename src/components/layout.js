@@ -17,10 +17,10 @@ const Layout = ({ children }) => {
     query SiteTitleQuery {
       site {
         siteMetadata {
-          title 
+          title
           menuLinks {
-              name
-              link
+            name
+            link
           }
         }
       }
@@ -29,7 +29,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header menuLinks={data.site.siteMetadata.menuLinks} siteTitle={data.site.siteMetadata?.title || `Title`} />
+      <Header
+        menuLinks={data.site.siteMetadata.menuLinks}
+        siteTitle={data.site.siteMetadata?.title || `Title`}
+      />
       <div
         style={{
           margin: `0 auto`,
@@ -41,12 +44,12 @@ const Layout = ({ children }) => {
       </div>
 
       <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-          © {new Date().getFullYear()}, Built with ❤️.
-        </footer>
+        style={{
+          marginTop: `2rem`,
+        }}
+      >
+        © {new Date().getFullYear()}, Built with ❤️.
+      </footer>
     </>
   )
 }

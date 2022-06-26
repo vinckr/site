@@ -3,9 +3,9 @@
 ## new from log add to links
 
 - [The Codeless Code](http://thecodelesscode.com/). The hackers I Ching.
-- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷 
+- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
-- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications. 
+- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
 - [555 Timer Circuits](https://www.555-timer-circuits.com/). The 555 was one of the chips I used the most in university and it has an truly awesome range of applications, this site does a good job of summarizing it and also provides schematics.
 
 ## New categories to add
@@ -14,7 +14,7 @@
 
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
-- [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/) 
+- [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 
 #### Music
 
@@ -26,7 +26,7 @@ https://github.com/Glorf/recipenlg A Cooking Recipes Dataset f
 
 #### Hosting
 
-- [Neocities - __Free__](https://neocities.org/)
+- [Neocities - **Free**](https://neocities.org/)
 - [Backblaze](https://www.backblaze.com/b2/cloud-storage-pricing.html)
 
 #### Art
@@ -41,8 +41,7 @@ YouTube Videos in 2021
 
 #### Great HN Threads
 
-- [Recommended resources for pricing digital products/services?](https://news.ycombinator.com/item?id=29954871) 
-
+- [Recommended resources for pricing digital products/services?](https://news.ycombinator.com/item?id=29954871)
 
 ---
 
@@ -53,7 +52,7 @@ https://upload.wikimedia.org/wikipedia/commons/e/ea/Hieronymus_Bosch_-_The_Garde
 
 ### linux commands
 
-show all active ports 
+show all active ports
 `sudo lsof -iTCP -sTCP:LISTEN -n -P`
 kill process for that port
 `sudo kill -9 <PID>`
@@ -62,19 +61,13 @@ dig WWW.VINCKR.COM +nostats +nocomments +nocmd
 
 ### Quotes
 
-¯\_(ツ)_/¯
-
+¯\_(ツ)\_/¯
 
 Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
 
 Der uns gewohnte Ordnungsrahmen steht stark unter Druck.
 
-
-
- "Hinter jedem Menschen, der jetzt lebt, stehen dreißig Geister, denn das ist das Verhältnis, in dem die Toten gegen die Lebenden in der Überzahl sind. Seit dem Anbruch der Zeit sind auf dem Planeten Erde rund hundert Milliarden Menschen gewandelt."
-
-
-
+"Hinter jedem Menschen, der jetzt lebt, stehen dreißig Geister, denn das ist das Verhältnis, in dem die Toten gegen die Lebenden in der Überzahl sind. Seit dem Anbruch der Zeit sind auf dem Planeten Erde rund hundert Milliarden Menschen gewandelt."
 
 The Aneristic Principle is that of apparent order; the Eristic Principle is that of apparent disorder. Both order and disorder are man made concepts and are artificial divisions of pure chaos, which is a level deeper than is the level of distinction making.
 With our concept-making apparatus called "the brain" we look at reality through the ideas-about-reality which our cultures give us. The ideas-about-reality are mistakenly labeled "reality" and unenlightened people are forever perplexed by the fact that other people, especially other cultures, see "reality" differently.
@@ -84,20 +77,17 @@ Disorder is simply unrelated information viewed through some particular grid. Bu
 The belief that "order is true" and disorder is false or somehow wrong, is the Aneristic Illusion. To say the same of disorder, is the Eristic Illusion. The point is that (little-t) truth is a matter of definition relative to the grid one is using at the moment, and that (capital-T) Truth, metaphysical reality, is irrelevant to grids entirely. Pick a grid, and through it some chaos appears ordered and some appears disordered. Pick another grid, and the same chaos will appear differently ordered and disordered.Reality is the original Rorschach. Verily! So much for all that.
 —Malaclypse the Younger, Principia Discordia, Pages 00049–00050
 
-
-
 May 8, 2021
-The animal is aging. Not surprising; I knew it would happen eventually, but I didn't make any provisions to deal with that eventuality.  Somehow the reality crept up on me. And now it must be dealt with, day after day. 
-It is restless in the night, moaning about aches, unable to find a comfortable position for sleep.  It awakes me too early, muscles stiff and reluctant to move but unable to return to sleep. And if I let it sit still, it dozes off in the middle of the day.  Finding foods it can eat without upsetting its digestion has become a task as it rejects more and more foods but balks at the monotonous diet it can manage.  And despite restricting its food, it is putting on pounds, its middle thickening as the creature loses strength, loses flexibility.  
-When it was young, I drove it hard.  I fed it whatever was to hand, or didn't feed it at all.  It slept only when I no longer needed its labor at the end of a long day. Day after day of steady work, night sleep sacrificed for more work; It didn't seem to mind.  It could run, it could climb, it could carry heavy loads.  It was never the loveliest of its kind, but it had endurance and strength beyond what some others  possessed.  It still does, but it pays more dearly when what I demand exceeds what I should expect of it.  It never had fast reflexes, and now it's even slower to react.  
-The animal remembers every harsh thing I've done to it. I kept it too long in the cold, frostbiting its feet, and now every cold floor reminds it of what I did.   I have degenerated its joints to keep to a schedule.  Now its grip is fading.  I risked its eyesight by staring endlessly at a screen, and now the colors are fading out of its day.
-As our time together is winding slowy to a close, I wish I'd taken better care of it.  Better food, more exercise, more relaxation . . . but I also wonder if it would have made any difference.  I tell myself it still has useful years ahead of it, even if it can't do some of the things it once accomplished with ease.  I reflect, sheepishly, that it is the only animal I have ever treated this way.  Would I have fed a beloved dog stimulants to keep it working when it needed sleep? Never.  Would I have dosed a cat with a mild poisoning of alcohol to relax it among strangers?  Of course not.
+The animal is aging. Not surprising; I knew it would happen eventually, but I didn't make any provisions to deal with that eventuality. Somehow the reality crept up on me. And now it must be dealt with, day after day.
+It is restless in the night, moaning about aches, unable to find a comfortable position for sleep. It awakes me too early, muscles stiff and reluctant to move but unable to return to sleep. And if I let it sit still, it dozes off in the middle of the day. Finding foods it can eat without upsetting its digestion has become a task as it rejects more and more foods but balks at the monotonous diet it can manage. And despite restricting its food, it is putting on pounds, its middle thickening as the creature loses strength, loses flexibility.  
+When it was young, I drove it hard. I fed it whatever was to hand, or didn't feed it at all. It slept only when I no longer needed its labor at the end of a long day. Day after day of steady work, night sleep sacrificed for more work; It didn't seem to mind. It could run, it could climb, it could carry heavy loads. It was never the loveliest of its kind, but it had endurance and strength beyond what some others possessed. It still does, but it pays more dearly when what I demand exceeds what I should expect of it. It never had fast reflexes, and now it's even slower to react.  
+The animal remembers every harsh thing I've done to it. I kept it too long in the cold, frostbiting its feet, and now every cold floor reminds it of what I did. I have degenerated its joints to keep to a schedule. Now its grip is fading. I risked its eyesight by staring endlessly at a screen, and now the colors are fading out of its day.
+As our time together is winding slowy to a close, I wish I'd taken better care of it. Better food, more exercise, more relaxation . . . but I also wonder if it would have made any difference. I tell myself it still has useful years ahead of it, even if it can't do some of the things it once accomplished with ease. I reflect, sheepishly, that it is the only animal I have ever treated this way. Would I have fed a beloved dog stimulants to keep it working when it needed sleep? Never. Would I have dosed a cat with a mild poisoning of alcohol to relax it among strangers? Of course not.
 But this one animal received no mercy from me. And I regret that now.
-And so we enter our 70th year together.  Me, and the animal I live inside. 
+And so we enter our 70th year together. Me, and the animal I live inside.
 Be kind to animals. It's never too late to start.
 
-
-Stood in firelight, sweltering. Bloodstain on chest like map of violent new continent. Felt cleansed. Felt dark planet turn under my feet and knew what cats know that makes them scream like babies in night. 
+Stood in firelight, sweltering. Bloodstain on chest like map of violent new continent. Felt cleansed. Felt dark planet turn under my feet and knew what cats know that makes them scream like babies in night.
 
 Looked at sky through smoke heavy with human fat and God was not there. The cold, suffocating dark goes on forever and we are alone. Live our lives, lacking anything better to do. Devise reason later. Born from oblivion; bear children, hell-bound as ourselves, go into oblivion. There is nothing else.
 Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose. This rudderless world is not shaped by vague metaphysical forces. It is not God who kills the children. Not fate that butchers them or destiny that feeds them to the dogs. It’s us. Only us. Streets stank of fire. The void breathed hard on my heart, turning its illusions to ice, shattering them. Was reborn then, free to scrawl my own design on this morally blank world.
@@ -116,8 +106,8 @@ Once we know that - and burndown charts are quite good at convincing people that
 Suddenly, the manager and the engineers are on equal footing. The manager is a trained negotiator and can fire you, but the engineers have empirical truth on their side: this is not a matter of opinion, and the facts are not going to change. Better still, the engineers mostly don't care too much what order they do the features in (within reason). So the manager or PM, who is now making the scheduling decisions, doesn't need to negotiate with engineers. They can negotiate with sales or marketing or bizdev teams or whoever, who have actual feature requirements and date requirements, and agree on a combination of features and dates that is physically possible in the real world.
 And then, crucially, they will not tell those dates to the engineering team. The engineering team doesn't need to know. That would be setting a goal, and goals are bad. The engineers just do the work in priority order, and don't multitask too much, and let statistics handle things. No student syndrome, no Whatever Conference rush, no working weekends, no burnout, and no lazy days needed to recover from burnout.
 
-1. Create a One-Liner that tells the primary reason your offering needs to exist and be adopted by your customer. 
-2. Associate each Feature with a Benefit, all pointing back to the One-Liner. 
+1. Create a One-Liner that tells the primary reason your offering needs to exist and be adopted by your customer.
+2. Associate each Feature with a Benefit, all pointing back to the One-Liner.
 3. Create a Landing Page that proves 1 and 2.
 
 After two years of doc writing at amazon, probably Over 1000 pages of content at this point-
@@ -134,7 +124,6 @@ Take a break when your brain is fried, walk around, come back to it fresh
 
 #### books
 
-
 An Introduction to General Systems Thinking" by Gerald M. Weinberg (1975):
 The Emperor Wears No Clothes
 Anti-Oedipu
@@ -145,7 +134,7 @@ Ferdydurke Witold Gombrowicz ( Danuta Borchardt )
 Reise nach Petuschk
 Collected Prose Works Of Alexander Pushkin
 Gödel Escher bach
-Yukio mishima 
+Yukio mishima
 Osamu dazai
 
 Authors:
@@ -156,7 +145,7 @@ Norman Spinrad
 Michael Moorcock
 Brian Aldiss
 JG Ballard
-Olaf Stapledon 
+Olaf Stapledon
 HG Wells
 Larry Niven
 Poul Anderson
@@ -165,7 +154,7 @@ John Varley
 Alfred Bester
 Thomas Pynchon
 
-####  recipes
+#### recipes
 
 pancakes
 Take sweet cream 3/4 + pint. Flower a
@@ -181,18 +170,16 @@ your cream. beat it well. Half a grated nutmeg
 This is the right way
 https://rarecooking.com
 
-0.5 	kg 	Weißbrot oder Semmeln (2 - 3 Tage alt)
-1 	Prise 	Muskat
-3 	EL 	Mehl (zum Formen der Knödel)
-2 	Stk 	Eier
-1 	TL 	Butter für die Pfanne
-1 	Stk 	Zwiebel
-1 	Bund 	Petersilie
-1 	Prise 	Salz
-0.5 	l 	Milch
-1 	Prise 	Pfeffer
-
-
+0.5 kg Weißbrot oder Semmeln (2 - 3 Tage alt)
+1 Prise Muskat
+3 EL Mehl (zum Formen der Knödel)
+2 Stk Eier
+1 TL Butter für die Pfanne
+1 Stk Zwiebel
+1 Bund Petersilie
+1 Prise Salz
+0.5 l Milch
+1 Prise Pfeffer
 
 Eine flache Gratinform mit Butter einfetten. Den Knoblauch schälen. Entweder fein würfeln und in der Form verteilen oder direkt in die Form pressen. Die Kartoffeln schälen und in feine Scheiben schneiden (ich nehme dafür einen Gurkenhobel, das geht am schnellsten).
 Die Hälfte der Kartoffelscheiben in die Form schichten. Mit Kräutersalz und frisch geriebenem Muskat leicht würzen, anschließend die restlichen Kartoffeln darauf schichten.
@@ -201,13 +188,14 @@ Die Sahne und die Milch mischen. Mit dem Gemüsebrühepulver, Kräutersalz, Musk
 Im vorgeheizten Backofen bei 180 °C Ober-/Unterhitze ca. 1 Stunde backen. Heiß servieren.
 
 ### dreams
-Rage virus 
-Extreme mutations 
-Weird substance in kids creates super sayajins
-Showdown in big office 
 
-Oasis launch 
-Jannis insane 
+Rage virus
+Extreme mutations
+Weird substance in kids creates super sayajins
+Showdown in big office
+
+Oasis launch
+Jannis insane
 Master mask Maker with Toni prank
 
 ### music
@@ -234,6 +222,7 @@ https://youtu.be/EY07XkagdnQ
 https://www.youtube.com/watch?v=aDAcTZ0XeYw
 
 ---
+
 Warez
 https://z-lib.org/
 https://de1lib.org/
@@ -250,6 +239,7 @@ https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6
 https://de.m.wikipedia.org/wiki/Bassam_Tibi
 https://news.ycombinator.com/item?id=29957127
 exudes a sense of simple, quick, solid quality.
+
 ---
 
 ## for Ory:
@@ -267,7 +257,8 @@ esbuild / SWC are pushing JS tooling
 Bun is pushing SWC
 What else?
 
---- 
+---
+
 hansi
 
 https://www.saveur.com/food/slovenia-beekeeping-sustainable-honey-food-system/
@@ -290,7 +281,6 @@ https://github.com/dharmatech/executable-tutorials/blob/main/executable-tutorial
 
 https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
 How to structure your project and manage static resources in React Native
-
 
 https://the-spinel.itch.io/winsome-heartwood Cool solo table-top RPG
 https://usedevbook.com/ Executable Code in documentation.

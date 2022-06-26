@@ -105,13 +105,12 @@ Cmd+K = Composition Settings
 
 If you want to know your external ip address using ipinfo.io you can simple run this command or you even add this command as your bash alias.
 
-
 history | awk '{print $2}' | sort | uniq -c | sort -rn | head.
 
 If you want to see which commands you run often you can run the following command and you can even add in your .bashrc as an alias.
 
-
 with grip
+
 > render markdown in browser (for exporting as pdf) `grip your_markdown.md`
 
 > spellcheck `spellchecker -f file`

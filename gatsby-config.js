@@ -4,28 +4,28 @@ module.exports = {
     description: `personal site`,
     author: `@vinckr`,
     siteUrl: `https://vinckr.com/`,
-    menuLinks:[
-        {
-            name:'home',
-            link:'/'
-        },
-        {
-            name:'blog',
-            link:'/blog'
-        },
-        {
-            name:'links',
-            link:'/links'
-        },
-        {
-            name:'reviews',
-            link:'/reviews'
-        },
-        {
-          name:'login',
-          link:'/login'
-        }
-      ]
+    menuLinks: [
+      {
+        name: "home",
+        link: "/",
+      },
+      {
+        name: "blog",
+        link: "/blog",
+      },
+      {
+        name: "links",
+        link: "/links",
+      },
+      {
+        name: "reviews",
+        link: "/reviews",
+      },
+      {
+        name: "login",
+        link: "/login",
+      },
+    ],
   },
   plugins: [
     {

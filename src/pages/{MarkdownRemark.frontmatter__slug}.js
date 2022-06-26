@@ -11,25 +11,24 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-    <Seo title="links" />
-    <div className="blog-post-container">
-      <div className="blog-post">
-        <h1>{frontmatter.title}</h1>
-        <small>{frontmatter.date}</small>
-        <p>{frontmatter.description}</p>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
+      <Seo title="links" />
+      <div className="blog-post-container">
+        <div className="blog-post">
+          <h1>{frontmatter.title}</h1>
+          <small>{frontmatter.date}</small>
+          <p>{frontmatter.description}</p>
+          <div
+            className="blog-post-content"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </div>
       </div>
-    </div>
     </Layout>
-
   )
 }
 
 export const pageQuery = graphql`
-  query($id: String!) {
+  query ($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

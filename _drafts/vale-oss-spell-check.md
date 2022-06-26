@@ -1,17 +1,18 @@
 # How to use Vale as free, private and customizable open source alternative to Grammarly
 
-Grammarly provides a great service that has changed my writing workflow. But I always wondered if there was a better way than firing up a browser and copy-pasting my text. Also I had no options to add custom rules, seeing the real errors is sometimes hard when your text also contains code examples and markdown syntax. 
+Grammarly provides a great service that has changed my writing workflow. But I always wondered if there was a better way than firing up a browser and copy-pasting my text. Also I had no options to add custom rules, seeing the real errors is sometimes hard when your text also contains code examples and markdown syntax.
 
 https://github.com/errata-ai/vale
 
-Vale is a great open-source alternative to Grammarly, used by companies like Gitlab, Linode, brew and more. You can install it locally and run it in your IDE, browser, text editor or via the CLI. I prefer running it through the CLI, as I just want to do a check once or twice before submitting my text. A continous spell and style check is also possible. 
-Vale contains two main components - or rather three: 
-- the vale.ini 
-Your main configuration file
+Vale is a great open-source alternative to Grammarly, used by companies like Gitlab, Linode, brew and more. You can install it locally and run it in your IDE, browser, text editor or via the CLI. I prefer running it through the CLI, as I just want to do a check once or twice before submitting my text. A continous spell and style check is also possible.
+Vale contains two main components - or rather three:
+
+- the vale.ini
+  Your main configuration file
 - Styles
-The styles for your text - for example "Avoid future tense, use present instead" or "Avoid sentences longer than X words"
+  The styles for your text - for example "Avoid future tense, use present instead" or "Avoid sentences longer than X words"
 - Vocab
-This contains words you want to excempt from the Spellcheck, for example product names or people names that come up a lot. 
+  This contains words you want to excempt from the Spellcheck, for example product names or people names that come up a lot.
 
 https://docs.errata.ai/
 
@@ -28,8 +29,8 @@ Check if Vale installed correctly.
 
 vale -h
 
-add a 
-.vale.ini 
+add a
+.vale.ini
 to your root, in my case (MacOS) this is my user folder,
 you can alternatively also add it to a folder/project individually if those require custom or different styles.
 
@@ -62,7 +63,7 @@ We are going to change the Vocab to our custom vocabulary `Ory`
 + Vocab = Ory
 ```
 
-Inside the Vocab should be a `acccept.txt` and `reject.txt`; if not create them. 
+Inside the Vocab should be a `acccept.txt` and `reject.txt`; if not create them.
 
 add the following to `acccept.txt`:
 
@@ -77,6 +78,7 @@ Oathkeeper
 Now these unique names will be ignored by the spellcheck. One item per line.
 
 Finally add an alias for .mdx files, so they get treated like .md files.
+
 ```diff
 + [formats]
 + mdx = md
@@ -85,7 +87,7 @@ Finally add an alias for .mdx files, so they get treated like .md files.
 Now you can run Vale like so:
 
 `vale yourdocument.md`
-or 
+or
 `vale vale src/markdown/blog/some-blogpost.mdx`
 
 You can also embedd Vale in your IDE, text editor or other tools, see the documentation for more information

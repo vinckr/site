@@ -20,9 +20,9 @@ Publications that have a high quality standard and single articles.
 - [Largest English-language tech media on focusing on Asia](https://www.techinasia.com/)
 - [Pizza recipe: EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097)
 - [The Grand Unified Theory of Documentation](https://documentation.divio.com/)
-- [Bastard operator from Hell!](http://www.dit.upm.es/~jantonio/personal/sysadmin/) 
+- [Bastard operator from Hell!](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
 - [What would it take to set software free?](https://logicmag.io/failure/freedom-isnt-free/)
-- [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) 
+- [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 
@@ -30,29 +30,29 @@ Publications that have a high quality standard and single articles.
 
 Everything relevant to text creation.
 
-- [Generative text editor](https://automotron.io/) 
+- [Generative text editor](https://automotron.io/)
 - [Cliche Finder](http://cliche.theinfo.org/)
-- [Juicy text processor with various effects](https://ash-k.itch.io/textreme) 
-- [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) 
+- [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
+- [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 - [Word to Markdown Converter](https://word2md.com/)
-- [Open source page layout program](https://www.scribus.net/introduction/) 
+- [Open source page layout program](https://www.scribus.net/introduction/)
 - [OSS flat-file cms for text-driven websites](https://typemill.net/)
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
 
 ## Development
 
-Resources for web development and related topics. 
+Resources for web development and related topics.
 
 ### Design
 
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
-- [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi) 
-- [Emojipedia](https://emojipedia.org/) 
+- [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
+- [Emojipedia](https://emojipedia.org/)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
-- [Open source wire frame kit for quick design](https://bloouikit.com/) 
+- [Open source wire frame kit for quick design](https://bloouikit.com/)
 - [Unsplash - copyright free images.](https://unsplash.com)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
-- [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/) 
+- [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/)
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
 - [A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
@@ -61,7 +61,7 @@ Resources for web development and related topics.
 ### Fonts
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) 
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 
 ### HTML
 
@@ -70,7 +70,7 @@ Resources for web development and related topics.
 - [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 - [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
-- [Details on `<details>`](https://github.com/muan/details-on-details) 
+- [Details on `<details>`](https://github.com/muan/details-on-details)
 
 ### CSS
 
@@ -104,7 +104,7 @@ Resources for web development and related topics.
 Collections of condensed knowledge.
 
 - [OWASP - For almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) 
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [List of lists for all CS topics.](https://github.com/sindresorhus/awesome)
 - [git commands for everyday use](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 - [Fix your git mistakes](https://ohshitgit.com/)
@@ -115,7 +115,7 @@ Collections of condensed knowledge.
 - [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [Postgres indexes introduction](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
 - [Beej's Guide to using internet sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
-- [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr) 
+- [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
 ## Learning
@@ -124,17 +124,17 @@ Official courses and other learning resources, for beginners and experts.
 
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
-- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/) 
+- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 - [Study plan for software engineers](https://github.com/jwasham/coding-interview-university)
-- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/ )
+- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
 - [Python IDE for beginners](https://thonny.org/)
 - [Creative Coding Course](https://www.edx.org/course/creative-coding)
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509)
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books )
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Creative Coding Resources](https://timrodenbroeker.de/resources/)
 - [List of GitHub Repositories full of Resources](https://github.com/pawelborkar/awesome-repos)
 - [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
-- [Self-taught education in Computer Science](https://github.com/ossu/computer-science) 
+- [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
 
 ### Code Examples
 
@@ -166,31 +166,32 @@ These sparked my interest, but I did not yet try out.
 - [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)
-- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game) 
-- [Wildcard is a browser extension to modify websites](https://www.geoffreylitt.com/wildcard/) 
-- [Web interface for advanced reddit searches](https://redditsearch.io/) 
-- [Simple bookmark manager built with Go](https://github.com/go-shiori/shiori) 
-- [Archivy - Self-hosted knowledge repository](https://archivy.github.io/) 
+- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
+- [Wildcard is a browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
+- [Web interface for advanced reddit searches](https://redditsearch.io/)
+- [Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
+- [Archivy - Self-hosted knowledge repository](https://archivy.github.io/)
 - [Screenshot software](https://github.com/flameshot-org/flameshot)
-- [Tooll - OSS tool for creating interactive 3d content and animations](http://tooll.io/) 
+- [Tooll - OSS tool for creating interactive 3d content and animations](http://tooll.io/)
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
-- [A single Bash script to create blogs.](https://github.com/cfenollosa/bashblog) 
-- [Zapier/IFTTT alternative based on Github actions](https://github.com/actionsflow/actionsflow )
-- [Type with your voice on Mac/Windows/Linux using electronjs and chrome](https://github.com/fxnoob/voice-typing-for-desktop) 
+- [A single Bash script to create blogs.](https://github.com/cfenollosa/bashblog)
+- [Zapier/IFTTT alternative based on Github actions](https://github.com/actionsflow/actionsflow)
+- [Type with your voice on Mac/Windows/Linux using electronjs and chrome](https://github.com/fxnoob/voice-typing-for-desktop)
 - [Event/agent & automation system with lots of bees](https://github.com/muesli/beehive)
 - [Tiny (2 KB) JavaScript library for creating user interfaces](https://redom.js.org/)
 
 ## Mixed Tools
 
 No category for these. Feel free to [propose one](https://github.com/vinckr/vinckr.github.io/issues/new)!
+
 - [Ebook reader inside the browser](https://www.loudreader.com/)
 - [Is your browser fingerprint unique?](https://amiunique.org/fp)
 - [HTML Over The Wire](https://hotwire.dev/)
 - [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
 
-## Fun 
+## Fun
 
-- [Squiggle animation tool](http://www.mrsquiggles.com/) 
+- [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)

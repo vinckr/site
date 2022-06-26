@@ -38,12 +38,13 @@ All in all i don't regret seeing the movie, but you also have not missed much if
 
 ### 📖 books
 
-#### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 5
+#### [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>): 5
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>
 
 Read this. Like most Kafka stories it is short. The story is centered around the paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. For example the protagonist is trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems this is a problem that can't be solved and only the beginning of the protagonists paranoia.  
 In my mind the protagonist is a badger, it seemed to fit the story as I imagined it.
+
 </details>
 
 ---
@@ -58,7 +59,7 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 
 ---
 
-### watchlist 
+### watchlist
 
 for my own reference, a list of movies to watch
 
@@ -77,12 +78,12 @@ for my own reference, a list of movies to watch
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [It follows](https://www.imdb.com/title/tt3235888/)
 
-<!-- 
+<!--
 //template
 ### 🎶 music
 ### 🎮 games
 
-#### [<title-goes-here>](<link-to-source>) 
+#### [<title-goes-here>](<link-to-source>)
 <details><summary markdown="span">➜ click for full X review.</summary>
 
 review details here.

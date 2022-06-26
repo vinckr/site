@@ -1,12 +1,23 @@
 ---
 slug: "/reviews/"
 title: "Reviews"
-description: "A collection of short reviews of music, movies, games and books."
+description: "A collection of reviews."
 ---
 
-I sometimes review and rate media I consume.
+I sometimes review and rate media I consume. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 ### 🎞 movies
+
+#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
+
+<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
+
+If you haven't watched it stop reading this and watch it.
+One of the best movies - definitely the B&W movie I enjoyed the most. Incredible performance by the actors - any crimes against taste Pattinson might have committed in the past are hereby forgiven ten times over.
+
+</details>
+
+---
 
 #### [Moonfall](https://www.imdb.com/title/tt5834426/): 3
 
@@ -61,9 +72,7 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 
 ### watchlist
 
-for my own reference, a list of movies to watch
-
-- [The Lighthouse](https://www.imdb.com/title/tt7984734/)
+- ~[The Lighthouse](https://www.imdb.com/title/tt7984734/)~
 - [Color out of space](https://www.imdb.com/title/tt5073642/)
 - [Under Siege](https://www.imdb.com/title/tt0105690/)
 - [Croupier](https://m.imdb.com/title/tt0159382/)
@@ -77,6 +86,13 @@ for my own reference, a list of movies to watch
 - [Road to perdition](https://www.imdb.com/title/tt0257044)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [It follows](https://www.imdb.com/title/tt3235888/)
+- [The Man Who Skied Down Everest](https://www.imdb.com/title/tt0073340/)
+- [Time of the Gypsies](https://www.imdb.com/title/tt0097223/)
+- [O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/)
+- [Fail-safe](https://www.imdb.com/title/tt0058083/)
+- [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
+- [The inner circle](https://www.imdb.com/title/tt0103838/)
+
 
 <!--
 //template

@@ -16,30 +16,33 @@
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 
-#### Music
+### Music
 
 - [Find collabs and remix material](https://www.brew.fm/)
 
-#### Datasets
+### Datasets
 
 https://github.com/Glorf/recipenlg A Cooking Recipes Dataset f
 
-#### Hosting
+### Hosting
 
 - [Neocities - **Free**](https://neocities.org/)
 - [Backblaze](https://www.backblaze.com/b2/cloud-storage-pricing.html)
 
-#### Art
+### Art
 
 [Meshroom](https://alicevision.org/#meshroom). A free, open-source 3D Reconstruction Software based on the AliceVision framework.
 https://www.eatmy.art/
 
-#### SEO & Content
+### SEO & Content
 
 https://backlinko.com/how-to-rank-youtube-videos YouTube SEO: How to Rank
 YouTube Videos in 2021
 
-#### Great HN Threads
+
+## Other stuff
+
+### Great HN Threads
 
 - [Recommended resources for pricing digital products/services?](https://news.ycombinator.com/item?id=29954871)
 
@@ -136,6 +139,10 @@ Collected Prose Works Of Alexander Pushkin
 Gödel Escher bach
 Yukio mishima
 Osamu dazai
+https://en.m.wikipedia.org/wiki/Bald%27s_Leechbook
+Nuking the Moon: And Other Intelligence Schemes and Military Plots Left on the Drawing Board
+https://www.goodreads.com/book/show/206902.Storming_the_Court
+https://www.goodreads.com/book/show/78924.The_Evolution_of_Deadly_Conflict_in_Liberia
 
 Authors:
 
@@ -200,6 +207,17 @@ Master mask Maker with Toni prank
 
 ### music
 
+https://www.youtube.com/watch?v=-nKjl9xrU6Q
+https://internationalchrome.bandcamp.com/album/international-chromies-vol-2-dagga-house-of-flying-daggers-ep
+https://internationalchrome.bandcamp.com/album/the-great-red-spot
+https://internationalchrome.bandcamp.com/track/electro-slave-jensen-interceptor-remix
+https://www.youtube.com/watch?v=sxeKcmyW2YM
+https://youtu.be/XkYRK-8qGJw
+https://youtu.be/jWLaHF69S5Y
+https://www.youtube.com/watch?v=9D-XNpi5JI8
+https://youtu.be/0_kCeQBlHto
+https://www.youtube.com/watch?v=BpSygUv0qEE
+https://metalbootlegs08.blogspot.com/?m=1
 https://youtu.be/TMaeZ5whLwU
 https://youtu.be/8TToLgW7zuc
 https://youtu.be/R5tBMYqHnxM
@@ -229,7 +247,7 @@ https://de1lib.org/
 
 ---
 
-## Put into my blog
+### Put into my blog
 
 Muhammads favorite commandline one liners
 https://muhammadraza.me/2021/Oneliners/
@@ -242,7 +260,7 @@ exudes a sense of simple, quick, solid quality.
 
 ---
 
-## for Ory:
+### for Ory:
 
 https://onlineornot.com/incident-management/incident-response/communicating-users-incidents
 https://portswigger.net/daily-swig/chrome-to-bolster-csrf-protections-with-cors-preflight-checks-on-private-network-requests
@@ -263,7 +281,15 @@ hansi
 
 https://www.saveur.com/food/slovenia-beekeeping-sustainable-honey-food-system/
 
-## dont know if add
+### dont know if add
+
+https://creator.nightcafe.studio/
+https://darknetdiaries.com/episode/71/
+https://wireframe.raspberrypi.com/books/code-the-classics1
+https://github.com/resume/resume.github.com
+https://javascript.info/
+https://thisanimedoesnotexist.ai/slider.html?seed=04684
+https://thisanimedoesnotexist.ai/slider.html?seed=51436
 
 Create executables for Unix, Windows, and MacOS https://justine.lol/ape.html
 

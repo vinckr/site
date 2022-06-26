@@ -1,6 +1,5 @@
 import fs from "fs-extra"
 import { markdown } from "./utils/markdown.js"
-
 ;(async function () {
   console.log("Converting Markdown to HTML...") // markdown source
 

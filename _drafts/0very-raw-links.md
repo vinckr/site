@@ -1,48 +1,19 @@
 # next monthly:
 
 movies:
-[The Man Who Skied Down Everest](https://www.imdb.com/title/tt0073340/)
-[Time of the Gypsies](https://www.imdb.com/title/tt0097223/)
-[O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/)
-https://en.wikipedia.org/wiki/The_Inner_Circle_(1991_film)
-https://en.wikipedia.org/wiki/Axis_of_Time
-https://de.m.wikipedia.org/wiki/Angriffsziel_Moskau
-https://en.m.wikipedia.org/wiki/Ambulance_(film)
-
 watched:
 death of stalin 5/5
 northman 4/5
 
-books:
-https://en.m.wikipedia.org/wiki/Bald%27s_Leechbook
-Nuking the Moon: And Other Intelligence Schemes and Military Plots Left on the Drawing Board
-https://www.goodreads.com/book/show/206902.Storming_the_Court
-https://www.goodreads.com/book/show/78924.The_Evolution_of_Deadly_Conflict_in_Liberia
-
 other:
 https://darknetdiaries.com/episode/39/
 
-- add blog here https://indieblog.page/suggest
+check:
 
-music:
-https://www.youtube.com/watch?v=-nKjl9xrU6Q
-https://internationalchrome.bandcamp.com/album/international-chromies-vol-2-dagga-house-of-flying-daggers-ep
-https://internationalchrome.bandcamp.com/album/the-great-red-spot
-https://internationalchrome.bandcamp.com/track/electro-slave-jensen-interceptor-remix
-https://www.youtube.com/watch?v=sxeKcmyW2YM
-https://youtu.be/XkYRK-8qGJw
-https://youtu.be/jWLaHF69S5Y
-https://www.youtube.com/watch?v=9D-XNpi5JI8
-https://youtu.be/0_kCeQBlHto
-https://www.youtube.com/watch?v=BpSygUv0qEE
-https://metalbootlegs08.blogspot.com/?m=1
+# to sort:
 
-eh:
-https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition
-https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a?permalink_comment_id=4138989
-[social link aggregator service](https://littr.me/)
+{
 
-to linklist
 [Code table - browse alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
 https://minimal.gallery/
 https://thisxdoesnotexist.com/
@@ -73,23 +44,6 @@ https://www.gigmit.com/en/
 https://www.urzas.ai/cards/?card_id=6c6354e2-c2e9-41e9-ab0d-63d83685ba7a
 https://github.com/paxtonhare/demo-magic
 https://www.insanelyusefulwebsites.com/)
-
-check:
-https://creator.nightcafe.studio/
-https://darknetdiaries.com/episode/71/
-https://wireframe.raspberrypi.com/books/code-the-classics1
-https://github.com/resume/resume.github.com
-https://javascript.info/
-https://thisanimedoesnotexist.ai/slider.html?seed=04684
-https://thisanimedoesnotexist.ai/slider.html?seed=51436
-
-kindosuss
-sehrstarkeshnpasswort
-
-# to sort:
-
-{
-
 https://github.com/molleindustria/likelike-online
 https://un.curl.dev/
 https://platform.leolabs.space/visualizations/leo

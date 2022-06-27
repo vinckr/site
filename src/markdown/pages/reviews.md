@@ -13,7 +13,9 @@ I sometimes review and rate media I consume. Don't take it too seriously - it's 
 <details><summary markdown="span">➜ click for full Lighthouse review.</summary>
 
 If you haven't watched it stop reading this and watch it.
-One of the best movies - definitely the B&W movie I enjoyed the most. Incredible performance by the actors - any crimes against taste Pattinson might have committed in the past are hereby forgiven ten times over.
+One of the best movies - definitely the B&W movie I enjoyed the most. 
+I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
+Incredible performance by the actors - any crimes against taste Pattinson might have committed in the past are hereby forgiven ten times over.
 
 </details>
 
@@ -56,15 +58,6 @@ Zero hacking present in the movie, its mostly about credit card fraud.
 </details>
 
 ---
-
-#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
-
-<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
-
-Awesome movie, any sins that Pattinson committed with Twilight are more than forgiven. He is a great actor and pairs very well with Dafoe in this masterpiece. I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
-
-</details>
-
 
 ### 📖 books
 

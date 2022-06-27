@@ -1,0 +1,126 @@
+description:
+  'Create an experience report to help us improve'
+labels:
+  - feat
+name: 'Experience report'
+body:
+  - attributes:
+      value: |
+        Thank you for creating a report of your experience using this product!
+
+        Experience reports focus on dissatisfaction encountered while using Ory products. They don't need to propose solutions. To propose a solution, please open a feature request or draft a design document and reference an experience report motivating the new feature.
+        Experience reports help us understand where people are having trouble using Ory products in the real world. This helps shape the Ory's product portfolio roadmap.
+        The best experience reports tell: (1) what you wanted to do, (2) what you ended up doing, and (3) why that wasn’t great.
+
+    type: markdown
+  - attributes:
+      label: 'Preflight checklist'
+      options:
+        - label:
+            'I could not find a solution in the existing issues, docs, nor
+            discussions.'
+          required: true
+        - label:
+            "I agree to follow this project's [Code of
+            Conduct](https://github.com/ory/$REPOSITORY/blob/master/CODE_OF_CONDUCT.md)."
+          required: true
+        - label:
+            "I have read and am following this repository's [Contribution
+            Guidelines](https://github.com/ory/$REPOSITORY/blob/master/CONTRIBUTING.md)."
+          required: true
+        - label:
+            'This issue affects my [Ory Cloud](https://www.ory.sh/) project.'
+        - label:
+            'I have joined the [Ory Community Slack](https://slack.ory.sh).'
+        - label:
+            'I am signed up to the [Ory Security Patch
+            Newsletter](https://ory.us10.list-manage.com/subscribe?u=ffb1a878e4ec6c0ed312a3480&id=f605a41b53).'
+    id: checklist
+    type: checkboxes
+  - attributes:
+      description:
+        'Please describe the use case you wanted to address with the Ory product.'
+      label: 'What we wanted to do'
+      placeholder:
+        "A concise description of your use case and what you wanted to achieve."
+    id: usecase
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      description: |
+        'What did you end up doing to address your use case? Please describe."
+      placeholder: |
+        "A clear and concise description of what you did to achieve your goals.
+        Optional: If possible illustrate with real concrete examples, ideally from production use."
+      label: 'What we actually did'
+    id: solution
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      description: |
+        'What did not work well with your solution? Please describe."
+      placeholder: |
+       "A concise description of problems you encountered in your use case. Please note that you do not have to provide a solution to the problem in this report. If possible, please illustrate with real concrete examples, ideally from production use.
+      label: 'What didn’t work well'
+    id: problem
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      description: "Describe alternatives you've considered"
+      label: 'Workarounds or alternatives'
+    id: alternatives
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      label: 'What Ory services are used in this report?'
+      options:
+        - Identity Management (Ory Kratos)
+        - Permissions & Access Control (Ory Keto)
+        - OAuth2.0 & OpenID Connect (Ory Hydra)
+        - Zero Trust Proxy (Ory Oathkeeper)
+    id: services
+    type: dropdown
+  - attributes:
+      label: 'On which operating system are you running Ory?'
+      options:
+        - Ory Cloud
+        - macOS
+        - Linux
+        - Windows
+        - FreeBSD
+        - Other
+    id: operating-system
+    type: dropdown
+  - attributes:
+      label: 'In which environment are you deploying?'
+      options:
+        - Ory Cloud
+        - Docker
+        - 'Docker Compose'
+        - 'Kubernetes with Helm'
+        - Kubernetes
+        - Binary
+        - Other
+    id: deployment
+    type: dropdown
+  - attributes:
+      description: 'What version of our software are you running?'
+      label: Version
+    id: version
+    type: input
+    validations:
+      required: true
+  - attributes:
+      label: 'When self-hosting, what database are you using?'
+    id: database
+    type: textarea
+  - attributes:
+      description:
+        'Other relevant context or screenshots.'
+      label: Additional Context
+    id: additional
+    type: textarea

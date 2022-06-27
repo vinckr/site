@@ -90,6 +90,7 @@ Resources for web development and related topics.
 - [Debug Shell Scripts](https://explainshell.com/)
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 - [Just your IP, nothing else](https://justyourip.com/)
+- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
 
 ### Documentation
 
@@ -98,6 +99,12 @@ Resources for web development and related topics.
 - [Writing Great Technical Documentation](https://jacobian.org/2009/nov/11/technical-style/)
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [React&Markdown for building documentation fast](https://docusaurus.io/)
+
+### GameDev
+
+- [M.U.G.E.N- 2D fighting game engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
+- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
+- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 
 ## Cheat Sheets
 

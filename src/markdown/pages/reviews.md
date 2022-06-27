@@ -47,9 +47,37 @@ All in all i don't regret seeing the movie, but you also have not missed much if
 
 ---
 
+#### [The Hacker (2016)](https://www.imdb.com/title/tt3173594/): 1
+
+<details><summary markdown="span">➜ click for full Hacker review.</summary>
+
+I knew it would be cringe going into it, but damn, it was hard to sit through this.
+Zero hacking present in the movie, its mostly about credit card fraud.
+</details>
+
+---
+
+#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
+
+<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
+
+Awesome movie, any sins that Pattinson committed with Twilight are more than forgiven. He is a great actor and pairs very well with Dafoe in this masterpiece. I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
+
+</details>
+
+
 ### 📖 books
 
-#### [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>): 5
+#### [Hollow](https://www.goodreads.com/book/show/56212878-hollow)
+
+<details><summary markdown="span">➜ click for full Hollow review.</summary>: 5
+
+Very entertaining and unusual.
+A band of criminals violent criminals escort a mysterious bone-eating oracle to the tower of Babel through a medieval wasteland right out of a Bosch painting. Would recommend. After finishing it I am looking forward to read the Vorrh trilogy next.
+
+</details>
+
+#### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>
 
@@ -72,6 +100,8 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 
 ### watchlist
 
+for my own reference, a list of movies to watch
+
 - ~[The Lighthouse](https://www.imdb.com/title/tt7984734/)~
 - [Color out of space](https://www.imdb.com/title/tt5073642/)
 - [Under Siege](https://www.imdb.com/title/tt0105690/)
@@ -93,16 +123,28 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 - [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
 - [The inner circle](https://www.imdb.com/title/tt0103838/)
 
+### readlist
 
-<!--
-//template
-### 🎶 music
-### 🎮 games
+for my own reference, a list of books to read
 
-#### [<title-goes-here>](<link-to-source>)
-<details><summary markdown="span">➜ click for full X review.</summary>
-
-review details here.
-
-</details>
---->
+- [I Am Legend and Other Stories](https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories)
+- [Moscow to the End of the Line](https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line)
+- [American Psycho](https://www.goodreads.com/book/show/28676.American_Psycho)
+- [A Book of Five Rings](https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings)
+- [Flowers for Algernon](https://www.goodreads.com/book/show/36576608-flowers-for-algernon)
+- [The Forge and the Crucible: The Origins and Structure of Alchemy](https://www.goodreads.com/book/show/144902.The_Forge_and_the_Crucible)
+- [The Fateful Adventures of the Good Soldier Svejk](https://www.goodreads.com/book/show/10130301-the-fateful-adventures-of-the-good-soldier-svejk-book-one)
+- [Doktor Schiwago](https://www.goodreads.com/book/show/2000039.Doktor_Schiwago)
+- [Zashchita Luzhina](https://www.goodreads.com/book/show/41716508-zashchita-luzhina-luzhins-verteidigung)
+- [The Petty Demon](https://www.goodreads.com/book/show/162259.The_Petty_Demon)
+- [Crowds and Power](https://www.goodreads.com/book/show/79917.Crowds_and_Power)
+- [Light and Color in the Outdoors](https://www.goodreads.com/book/show/740853.Light_and_Color_in_the_Outdoors?)
+- [A Thousand Plateaus: Capitalism and Schizophrenia](https://www.goodreads.com/book/show/118316.A_Thousand_Plateaus) 
+- [The Death and Life of Great American Cities](https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities)
+- [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State)
+- [Snow Country](https://www.goodreads.com/book/show/14028.Snow_Country)
+- [The Tea Party in the Woods](https://www.goodreads.com/book/show/25583502-the-tea-party-in-the-woods)
+- [Legal Systems Very Different from Ours](https://www.goodreads.com/book/show/30066446-legal-systems-very-different-from-ours)
+- [Making History: The Storytellers Who Shaped the Past](https://www.goodreads.com/book/show/58462626-making-history)
+- [Confessions of an Economic Hit Man](https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man)
+- [The Memoirs of Casanova](https://www.goodreads.com/book/show/20504101-the-memoirs-of-casanova)

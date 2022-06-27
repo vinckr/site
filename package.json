@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "vinckr",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "My personal site",
+  "version": "0.0.1",
   "dependencies": {
     "gatsby": "^4.9.2",
     "gatsby-plugin-gatsby-cloud": "^4.9.0",
@@ -23,12 +22,12 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "text-runner": "^5.0.1"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -36,7 +35,8 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "release": "npm run format;npm run  test;npm run  build"
   },
   "repository": {
     "type": "git",

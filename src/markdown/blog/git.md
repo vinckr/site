@@ -6,7 +6,7 @@ description: "git cheatsheet"
 published: true
 ---
 
->git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.
+> git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.
 
 ## Basics
 
@@ -21,13 +21,13 @@ published: true
 - `git branch | grep -v "master" | xargs git branch -D` : delete all local branches except master
 - `git add .` : add all files of the current directory to track (including untracked
 - `git rev-list --count --since="Jan 1 2020" --before="Jan 1 2021" --all` number
-of commits over timeframe
+  of commits over timeframe
 - `git log --format='%aN' | sort -u` : list all contributors by name
 - `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 
 ## Troubleshooting
 
-__Use the following with caution!__
+**Use the following with caution!**
 
 - `git revert <commit-id>` : revert a commit that is already pushed
 - `git commit --amend -m "<new-commit-message>"` : fix commit message (only use if you haven't pushed already!)

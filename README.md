@@ -1,8 +1,6 @@
 # vinckr.com
 
-
 ## Release
-
 
 Create html from markdown:
 `node ./dist/links.js`
@@ -11,4 +9,3 @@ or
 
 Check links:
 `npx text-runner --online`
-

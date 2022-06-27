@@ -1,12 +1,25 @@
 ---
 slug: "/reviews/"
 title: "Reviews"
-description: "A collection of short reviews of music, movies, games and books."
+description: "A collection of reviews."
 ---
 
-I sometimes review and rate media I consume.
+I sometimes review and rate media I consume. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 ### 🎞 movies
+
+#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
+
+<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
+
+If you haven't watched it stop reading this and watch it.
+One of the best movies - definitely the B&W movie I enjoyed the most. 
+I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
+Incredible performance by the actors - any crimes against taste Pattinson might have committed in the past are hereby forgiven ten times over.
+
+</details>
+
+---
 
 #### [Moonfall](https://www.imdb.com/title/tt5834426/): 3
 
@@ -46,32 +59,26 @@ Zero hacking present in the movie, its mostly about credit card fraud.
 
 ---
 
-#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
-
-<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
-
-Awesome movie, any sins that Pattinson committed with Twilight are more than forgiven. He is a great actor and pairs very well with Dafoe in this masterpiece. I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
-
-</details>
-
-
 ### 📖 books
 
 #### [Hollow](https://www.goodreads.com/book/show/56212878-hollow)
 
-<details><summary markdown="span">➜ click for full Hollow review.</summary>
+<details><summary markdown="span">➜ click for full Hollow review.</summary>: 5
 
 Very entertaining and unusual.
 A band of criminals violent criminals escort a mysterious bone-eating oracle to the tower of Babel through a medieval wasteland right out of a Bosch painting. Would recommend. After finishing it I am looking forward to read the Vorrh trilogy next.
 
 </details>
 
-#### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 5
+---
+
+#### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>
 
 Read this. Like most Kafka stories it is short. The story is centered around the paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. For example the protagonist is trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems this is a problem that can't be solved and only the beginning of the protagonists paranoia.  
 In my mind the protagonist is a badger, it seemed to fit the story as I imagined it.
+
 </details>
 
 ---
@@ -86,10 +93,11 @@ In my mind the protagonist is a badger, it seemed to fit the story as I imagined
 
 ---
 
-### watchlist 
+### watchlist
 
 for my own reference, a list of movies to watch
 
+- ~[The Lighthouse](https://www.imdb.com/title/tt7984734/)~
 - [Color out of space](https://www.imdb.com/title/tt5073642/)
 - [Under Siege](https://www.imdb.com/title/tt0105690/)
 - [Croupier](https://m.imdb.com/title/tt0159382/)
@@ -103,6 +111,12 @@ for my own reference, a list of movies to watch
 - [Road to perdition](https://www.imdb.com/title/tt0257044)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [It follows](https://www.imdb.com/title/tt3235888/)
+- [The Man Who Skied Down Everest](https://www.imdb.com/title/tt0073340/)
+- [Time of the Gypsies](https://www.imdb.com/title/tt0097223/)
+- [O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/)
+- [Fail-safe](https://www.imdb.com/title/tt0058083/)
+- [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
+- [The inner circle](https://www.imdb.com/title/tt0103838/)
 
 ### readlist
 
@@ -129,16 +143,3 @@ for my own reference, a list of books to read
 - [Making History: The Storytellers Who Shaped the Past](https://www.goodreads.com/book/show/58462626-making-history)
 - [Confessions of an Economic Hit Man](https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man)
 - [The Memoirs of Casanova](https://www.goodreads.com/book/show/20504101-the-memoirs-of-casanova)
-
-<!-- 
-//template
-### 🎶 music
-### 🎮 games
-
-#### [<title-goes-here>](<link-to-source>) 
-<details><summary markdown="span">➜ click for full X review.</summary>
-
-review details here.
-
-</details>
---->

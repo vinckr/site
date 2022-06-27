@@ -33,13 +33,13 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                  <h2>
-                    <Link to={post.frontmatter.slug} itemProp="url">
-                      <span itemProp="headline">{post.frontmatter.slug}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                  <p>{post.frontmatter.description}</p>
+                <h2>
+                  <Link to={post.frontmatter.slug} itemProp="url">
+                    <span itemProp="headline">{post.frontmatter.slug}</span>
+                  </Link>
+                </h2>
+                <small>{post.frontmatter.date}</small>
+                <p>{post.frontmatter.description}</p>
               </article>
             </li>
           )
@@ -59,9 +59,12 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/blog/" } frontmatter: {published: {ne: false}} } 
+      filter: {
+        fileAbsolutePath: { regex: "/blog/" }
+        frontmatter: { published: { ne: false } }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
-      ) {
+    ) {
       nodes {
         excerpt
         frontmatter {

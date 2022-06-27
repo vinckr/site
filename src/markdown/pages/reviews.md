@@ -70,6 +70,8 @@ A band of criminals violent criminals escort a mysterious bone-eating oracle to 
 
 </details>
 
+---
+
 #### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4
 
 <details><summary markdown="span">➜ click for full Der Bau review.</summary>

@@ -1,14 +1,65 @@
 # next monthly:
 
-movies:
-watched:
-death of stalin 5/5
-northman 4/5
-
 other:
 https://darknetdiaries.com/episode/39/
 
-check:
+Hated gg allin https://www.youtube.com/watch?v=0UR2Y94gmgU
+https://youtu.be/q9zZumLdwk8
+https://youtu.be/i2_KEEy0ef0
+
+
+https://css-irl.info/
+nice design!!
+
+## to check github
+
+
+https://github.com/cavi-au/Consent-O-Matic
+https://github.com/saasify-sh/saasify
+https://github.com/builderio/mitosis
+https://github.com/frameworkless-movement/awesome-frameworkless
+https://github.com/iamadamdev/bypass-paywalls-chrome/
+https://lit.dev/
+https://fresh.deno.dev/
+https://github.com/SuboptimalEng/gamedex
+https://github.com/aconbere/scala-markov
+https://github.com/ergochat/ergo
+https://github.com/ueberdosis/tiptap
+https://github.com/kuprel/min-dalle
+https://github.com/multiprocessio/datastation
+https://github.com/snakers4/silero-models
+https://github.com/karatelabs/karate
+https://github.com/yewstack/yew
+https://github.com/sitaramc/gitolite
+https://github.com/LemmyNet/lemmy
+https://github.com/borisdayma/dalle-mini
+https://github.com/bradtraversy/50projects50days
+https://github.com/flossbank
+https://github.com/LGUG2Z/unsubscan
+https://github.com/asciinema/asciinema
+https://github.com/cavi-au/Consent-O-Matic
+https://github.com/saasify-sh/saasify
+https://github.com/builderio/mitosis
+https://github.com/frameworkless-movement/awesome-frameworkless
+https://github.com/iamadamdev/bypass-paywalls-chrome/
+https://lit.dev/
+https://fresh.deno.dev/
+https://github.com/SuboptimalEng/gamedex
+https://github.com/aconbere/scala-markov
+https://github.com/ergochat/ergo
+https://github.com/ueberdosis/tiptap
+https://github.com/kuprel/min-dalle
+https://github.com/multiprocessio/datastation
+https://github.com/snakers4/silero-models
+https://github.com/karatelabs/karate
+https://github.com/yewstack/yew
+https://github.com/sitaramc/gitolite
+https://github.com/LemmyNet/lemmy
+https://github.com/borisdayma/dalle-mini
+https://github.com/bradtraversy/50projects50days
+https://github.com/flossbank
+https://github.com/LGUG2Z/unsubscan
+https://github.com/asciinema/asciinema
 
 # to sort:
 

@@ -1,24 +1,5 @@
 ## Halde
 
-## new from log add to links
-
-- [The Codeless Code](http://thecodelesscode.com/). The hackers I Ching.
-- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
-- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
-- [555 Timer Circuits](https://www.555-timer-circuits.com/). The 555 was one of the chips I used the most in university and it has an truly awesome range of applications, this site does a good job of summarizing it and also provides schematics.
-
-## New categories to add
-
-### Sound
-
-- [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
-- [Freeware VSTs](http://www.airwindows.com/vsts/)
-- [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
-
-### Music
-
-- [Find collabs and remix material](https://www.brew.fm/)
 
 ### Datasets
 
@@ -34,19 +15,18 @@ https://github.com/Glorf/recipenlg A Cooking Recipes Dataset f
 [Meshroom](https://alicevision.org/#meshroom). A free, open-source 3D Reconstruction Software based on the AliceVision framework.
 https://www.eatmy.art/
 
-### SEO & Content
+### Great HN Threads & Blog
 
-https://backlinko.com/how-to-rank-youtube-videos YouTube SEO: How to Rank
-YouTube Videos in 2021
+- [Recommended resources for pricing digital products/services](https://news.ycombinator.com/item?id=29954871)
 
-
-## Other stuff
-
-### Great HN Threads
-
-- [Recommended resources for pricing digital products/services?](https://news.ycombinator.com/item?id=29954871)
-
----
+good blogs: 
+- https://blog.codinghorror.com/
+- https://drewdevault.com/
+- https://danluu.com/
+- https://www.go350.com/
+- https://www.jeffgeerling.com/blog
+- https://www.taniarascia.com/
+- https://jvns.ca/
 
 ### images
 
@@ -63,6 +43,15 @@ kill process for that port
 dig WWW.VINCKR.COM +nostats +nocomments +nocmd
 
 ### Quotes
+
+
+Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness
+It is not possible to step twice into the same river according to Heraclitus, or to come into contact twice with a mortal being in the same state. (Plutarch)
+
+That day, beginning with the fissure opening on the frontier, the shape of the world began to crumble.
+Change gives the illusion of progress
+they love you then they hate you thats the curse
+
 
 ¯\_(ツ)\_/¯
 
@@ -125,7 +114,16 @@ Little wine/beer/whiskey can help (but you probably don’t want to do this earl
 Long Hot shower can help you gather your thoughts
 Take a break when your brain is fried, walk around, come back to it fresh
 
-#### books
+### removed articles, add again somewhere?
+
+- [The Future of Web Software Is HTML over WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+- [Herzberg’s Two-Factor Theory of Motivation and Hygiene](https://www.managementstudyhq.com/herzbergs-two-factor-theory-of-motivation-and-hygiene.html)
+- [Pizza recipe: EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097)
+- [The Grand Unified Theory of Documentation](https://documentation.divio.com/)
+- [What would it take to set software free?](https://logicmag.io/failure/freedom-isnt-free/)
+- [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+
+### books
 
 An Introduction to General Systems Thinking" by Gerald M. Weinberg (1975):
 The Emperor Wears No Clothes
@@ -161,7 +159,16 @@ John Varley
 Alfred Bester
 Thomas Pynchon
 
-#### recipes
+### movies
+
+hershel gordon lewis splatter
+william castle tingler / house of haunted hill 
+russ meyer
+
+### recipes
+
+https://thehappyfoodie.co.uk/recipes/pollo-al-ajillo-chicken-cooked-with-bay-garlic-and-white-wine/
+https://www.bonappetit.com/recipe/grilled-chicken-board-dressing
 
 pancakes
 Take sweet cream 3/4 + pint. Flower a
@@ -206,6 +213,20 @@ Jannis insane
 Master mask Maker with Toni prank
 
 ### music
+
+
+https://youtu.be/whw1PxFkaos
+https://youtu.be/rdfrVyCYiGM
+https://youtu.be/52vRcMbYf-0
+https://youtu.be/mZv54K2er18
+https://youtu.be/TEYdP_OJKNw
+https://youtu.be/LNE1ijrjXcE
+https://youtu.be/M2U0AUkB3nk
+https://www.youtube.com/watch?v=4yFTOvO0utY
+https://youtu.be/WxTotAO5QJA
+https://youtu.be/HHOn8u-c2wk
+https://youtu.be/KUnUv_395vY
+https://youtu.be/0SDjlBwoGos
 
 https://www.youtube.com/watch?v=-nKjl9xrU6Q
 https://internationalchrome.bandcamp.com/album/international-chromies-vol-2-dagga-house-of-flying-daggers-ep

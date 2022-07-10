@@ -22,9 +22,9 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "ory-prettier-styles": "~1.3.0",
-    "prettier": "^2.5.1",
-    "text-runner": "^5.0.1"
+    "ory-prettier-styles": "1.3.0",
+    "prettier": "2.5.1",
+    "text-runner": "5.0.1"
   },
   "keywords": [
     "gatsby"
@@ -33,6 +33,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write .",
+    "text-run": "text-run",
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -41,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/vinckr/vinckr.com"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/vinckr/vinckr.com/issues"
   }
 }

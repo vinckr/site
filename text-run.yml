@@ -1,0 +1,4 @@
+exclude:
+  - ^_drafts\/.*
+
+ignoreLinkTargets:

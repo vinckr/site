@@ -1,4 +1,3 @@
-
 To stop all Docker containers, simply run the following command in your terminal:
 docker kill $(docker ps -q)
 How to Remove All Docker Containers

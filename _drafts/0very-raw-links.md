@@ -7,12 +7,10 @@ Hated gg allin https://www.youtube.com/watch?v=0UR2Y94gmgU
 https://youtu.be/q9zZumLdwk8
 https://youtu.be/i2_KEEy0ef0
 
-
 https://css-irl.info/
 nice design!!
 
 ## to check github
-
 
 https://github.com/cavi-au/Consent-O-Matic
 https://github.com/saasify-sh/saasify

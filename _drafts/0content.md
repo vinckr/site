@@ -1,6 +1,5 @@
 ## Halde
 
-
 ### Datasets
 
 https://github.com/Glorf/recipenlg A Cooking Recipes Dataset f
@@ -19,7 +18,8 @@ https://www.eatmy.art/
 
 - [Recommended resources for pricing digital products/services](https://news.ycombinator.com/item?id=29954871)
 
-good blogs: 
+good blogs:
+
 - https://blog.codinghorror.com/
 - https://drewdevault.com/
 - https://danluu.com/
@@ -44,14 +44,12 @@ dig WWW.VINCKR.COM +nostats +nocomments +nocmd
 
 ### Quotes
 
-
 Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness
 It is not possible to step twice into the same river according to Heraclitus, or to come into contact twice with a mortal being in the same state. (Plutarch)
 
 That day, beginning with the fissure opening on the frontier, the shape of the world began to crumble.
 Change gives the illusion of progress
 they love you then they hate you thats the curse
-
 
 ¯\_(ツ)\_/¯
 
@@ -162,7 +160,7 @@ Thomas Pynchon
 ### movies
 
 hershel gordon lewis splatter
-william castle tingler / house of haunted hill 
+william castle tingler / house of haunted hill
 russ meyer
 
 ### recipes
@@ -213,7 +211,6 @@ Jannis insane
 Master mask Maker with Toni prank
 
 ### music
-
 
 https://youtu.be/whw1PxFkaos
 https://youtu.be/rdfrVyCYiGM

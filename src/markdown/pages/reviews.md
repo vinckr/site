@@ -18,8 +18,8 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 
 ### 📖 books
 
-- [Hollow](https://www.goodreads.com/book/show/56212878-hollow):  5/5
-- [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4/5
+- [Hollow](https://www.goodreads.com/book/show/56212878-hollow): 5/5
+- [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>): 4/5
 
 ### rating
 
@@ -59,7 +59,6 @@ for my own reference, a list of movies to watch
 - [A Writer's Odyssey](https://www.imdb.com/title/tt9685342/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
 
-
 ### readlist
 
 for my own reference, a list of books to read
@@ -76,7 +75,7 @@ for my own reference, a list of books to read
 - [The Petty Demon](https://www.goodreads.com/book/show/162259.The_Petty_Demon)
 - [Crowds and Power](https://www.goodreads.com/book/show/79917.Crowds_and_Power)
 - [Light and Color in the Outdoors](https://www.goodreads.com/book/show/740853.Light_and_Color_in_the_Outdoors?)
-- [A Thousand Plateaus: Capitalism and Schizophrenia](https://www.goodreads.com/book/show/118316.A_Thousand_Plateaus) 
+- [A Thousand Plateaus: Capitalism and Schizophrenia](https://www.goodreads.com/book/show/118316.A_Thousand_Plateaus)
 - [The Death and Life of Great American Cities](https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities)
 - [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State)
 - [Snow Country](https://www.goodreads.com/book/show/14028.Snow_Country)

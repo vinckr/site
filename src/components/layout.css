@@ -40,8 +40,8 @@ section,
 summary {
   display: block;
 }
-article.post-list-item{
- padding: 1.42rem 0;
+article.post-list-item {
+  padding: 1.42rem 0;
 }
 footer {
   text-align: center;
@@ -458,7 +458,7 @@ li > p {
   margin-bottom: calc(1.45rem / 2);
 }
 code {
-  font-size: 0.80rem;
+  font-size: 0.8rem;
   line-height: 1.55rem;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",

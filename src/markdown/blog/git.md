@@ -51,7 +51,6 @@ git fetch origin <branch-name>
 git checkout -b <branch-name> origin/<branch-name>
 ```
 
-
 ## Further Reference
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)

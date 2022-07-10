@@ -12,6 +12,7 @@ Some quotes I want to share.
 Not all of these are to be taken serious. I don't fully endorse, believe in, or live by the content of each quote (but some of them), I just find them worth to collect and share. Some are statements made by famous people, others I found in random places on the internet. (Attribution added where I am certain.)
 
 .
+
 > "The possible has been tried and failed. Now it’s time to try the impossible." - [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)
 > .
 > "It’s a responsibility to be as open as you possibly can to the world as an aesthetic object" - [Zadie Smith](https://en.wikipedia.org/wiki/Zadie_Smith)
@@ -59,4 +60,4 @@ Not all of these are to be taken serious. I don't fully endorse, believe in, or 
 > "Truth is dead. There is only output."
 > .
 > "Don’t hate the media. Be the media."
-.
+> .

@@ -4,84 +4,22 @@ title: "Reviews"
 description: "A collection of reviews."
 ---
 
-I sometimes review and rate media I consume. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+I review and rate some of the media I consume. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 ### 🎞 movies
 
-#### [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5
-
-<details><summary markdown="span">➜ click for full Lighthouse review.</summary>
-
-If you haven't watched it stop reading this and watch it.
-One of the best movies - definitely the B&W movie I enjoyed the most. 
-I haven't watched a black & white film in a very long time but in this one it is hardly noticeable as it is so gripping.
-Incredible performance by the actors - any crimes against taste Pattinson might have committed in the past are hereby forgiven ten times over.
-
-</details>
-
----
-
-#### [Moonfall](https://www.imdb.com/title/tt5834426/): 3
-
-<details><summary markdown="span">➜ click for full Moonfall review.</summary>
-
-If you enjoy apocalyptic movies (uh, like most other Emmerich movies) and conspiracy theories I can recommend it.
-I love everything about the moon so I had to watch this. This movie is so full of tropes it made it hard to watch at times.
-Some convoluted family relations and characters I did not care to follow, but John Bradley saved it for me.
-We learn that anyone can fly and operate a space shuttle under any conditions with some helpful comments by a pro.
-Watch it for the destruction and great visuals - the rest is a bit meh. People who care about realism in science fiction will probably get very mad watching this.
-
-should have been on the soundtrack: https://www.youtube.com/watch?v=I9MZNEXrElw
-
-</details>
-
----
-
-#### [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600/): 3
-
-<details><summary markdown="span">➜ click for full Spiderman review.</summary>
-
-Overall it was entertaining, everything looked very much like CGI. When Willem Dafoe first appeared I thought they completely animated him, same with Tobey Maguire. Not sure if this was intended effect, but they looked like using a bad bluescreen. The superhero effects were good otherwise, but the faces had this uncanny valley feeling to them.
-The story is based on an interesting concept on multiverses and it was my first contact with how the DC(?) universe handles these different time and storylines.I love about the multiverse that you can imagine all kinds of stories and it is still all in contained in a "consistent" universe.  
-All in all i don't regret seeing the movie, but you also have not missed much if you don't see it.
-
-</details>
-
----
-
-#### [The Hacker (2016)](https://www.imdb.com/title/tt3173594/): 1
-
-<details><summary markdown="span">➜ click for full Hacker review.</summary>
-
-I knew it would be cringe going into it, but damn, it was hard to sit through this.
-Zero hacking present in the movie, its mostly about credit card fraud.
-</details>
-
----
+- [The Wire](https://www.imdb.com/title/tt0306414/) 5/5
+- [The Death of Stalin](https://www.imdb.com/title/tt4686844/) 5/5
+- [The Northman](https://www.imdb.com/title/tt11138512/) 4/5
+- [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5/5
+- [Moonfall](https://www.imdb.com/title/tt5834426/): 3/5
+- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600/): 3/5
+- [The Hacker (2016)](https://www.imdb.com/title/tt3173594/): 1/5
 
 ### 📖 books
 
-#### [Hollow](https://www.goodreads.com/book/show/56212878-hollow)
-
-<details><summary markdown="span">➜ click for full Hollow review.</summary>: 5
-
-Very entertaining and unusual.
-A band of criminals violent criminals escort a mysterious bone-eating oracle to the tower of Babel through a medieval wasteland right out of a Bosch painting. Would recommend. After finishing it I am looking forward to read the Vorrh trilogy next.
-
-</details>
-
----
-
-#### [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4
-
-<details><summary markdown="span">➜ click for full Der Bau review.</summary>
-
-Read this. Like most Kafka stories it is short. The story is centered around the paranoid protagonist describing life in his burrow and the measures he(?) takes to secure it from his enemies. For example the protagonist is trying to decide if he should keep an entrance so he can escape in emergencies. But then the escape hatch could be used by the enemy to invade the burrow. It seems this is a problem that can't be solved and only the beginning of the protagonists paranoia.  
-In my mind the protagonist is a badger, it seemed to fit the story as I imagined it.
-
-</details>
-
----
+- [Hollow](https://www.goodreads.com/book/show/56212878-hollow):  5/5
+- [Der Bau/The Burrow](https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)): 4/5
 
 ### rating
 
@@ -117,6 +55,10 @@ for my own reference, a list of movies to watch
 - [Fail-safe](https://www.imdb.com/title/tt0058083/)
 - [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
 - [The inner circle](https://www.imdb.com/title/tt0103838/)
+- [Into Eternity](https://www.imdb.com/title/tt1194612/)
+- [A Writer's Odyssey](https://www.imdb.com/title/tt9685342/)
+- [Evilspeak](https://www.imdb.com/title/tt0082346/)
+
 
 ### readlist
 
@@ -143,3 +85,8 @@ for my own reference, a list of books to read
 - [Making History: The Storytellers Who Shaped the Past](https://www.goodreads.com/book/show/58462626-making-history)
 - [Confessions of an Economic Hit Man](https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man)
 - [The Memoirs of Casanova](https://www.goodreads.com/book/show/20504101-the-memoirs-of-casanova)
+- [Nonzero: The Logic of Human Destiny](https://www.goodreads.com/book/show/9526993-nonzero)
+- [Die molussische Katakombe](https://www.goodreads.com/book/show/4529828-die-molussische-katakombe)
+- [My Confession: Recollections of a Rogue](https://www.goodreads.com/book/show/1094401.My_Confession)
+- [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee)
+- [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)

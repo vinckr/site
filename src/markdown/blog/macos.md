@@ -72,12 +72,23 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ```bash
-brew install romkatv/powerlevel10k/powerlevel10k && \
-echo '# Theme configuration: PowerLevel10K' >>! ~/.zshrc && \
-echo 'source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc && \
-echo '# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.' >>! ~/.zshrc && \
-echo '[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh' >>! ~/.zshrc
-omz update
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+```
+
+##### Autosuggestions
+
+```bash
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+Add inside ~/.zshrc:
+
+```bash
+plugins=( 
+    # other plugins...
+    zsh-autosuggestions
+)
 ```
 
 #### Install & customize git
@@ -98,6 +109,7 @@ Add to .gitconfig:
   tags = tag -l
   branches = branch -a
   remotes = remote -v
+  sync = town sync
   # Pretty log output
   hist = log --graph --pretty=format:'%Cred%h%Creset %s%C(yellow)%d%Creset %Cgreen(%cr)%Creset [%an]' --abbrev-commit --date=relative
 
@@ -152,18 +164,17 @@ brew install --cask slack
 brew install --cask signal
 ```
 
-#### Install design & content tools
+#### Install design, content, and other tools
 
 ```bash
 brew install --cask figma
 brew install --cask obs
 brew install --cask adobe-creative-cloud
-brew install vcl
+brew install --cask vlc
+brew install --cask foobar2000
+brew install --cask figma
+brew install youtube-dl
 ```
-
-#### update npm
-
-`npm i -g npm@latest`
 
 #### Install misc. tools
 
@@ -175,7 +186,6 @@ brew install --cask rectangle
 #### Reset Launchpad & Dock
 
 ```bash
-
 defaults write com.apple.dock ResetLaunchPad -boolean true; killall Dock
 brew update && brew upgrade && brew doctor && brew cleanup
 ```

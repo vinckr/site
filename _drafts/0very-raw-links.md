@@ -1,14 +1,186 @@
 # next monthly:
 
-other:
-https://darknetdiaries.com/episode/39/
+https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/
+may is best option to visit kirgijstan
+https://github.com/nitnelave/lldap
+https://play0ad.com/
+https://マリウス.com/running-an-open-source-home-area-network/
+Wurst, Cheese, Milch, Brot, Eier
+https://allenpike.com/2022/giving-a-shit
+Bildanhang
+ZITADEL • Identity Experience Platform
+Are magic links are still viable as an authentication method or are you better off using newer passwordless alternatives?
+zitadel.com
+https://zitadel.com/blog/magic-links
+https://hackernoon.com/recreate-a-simple-pokemon-game-with-70-lines-of-javascript
+https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/
+https://web.stanford.edu/class/cs101/
+https://thegreatestbooks.org/
+Show HN: GitHop | Hacker News
+news.ycombinator.com
+https://news.ycombinator.com/item?id=32104656
+https://www.libhunt.com/site/find_alternatives
+https://news.ycombinator.com/item?id=32101055
+https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%20%3Fweb%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3917681%3B%0A%20%20%20%20wdt%3AP856%20%3Fweb.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0ALIMIT%2050
+https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html
 
-Hated gg allin https://www.youtube.com/watch?v=0UR2Y94gmgU
-https://youtu.be/q9zZumLdwk8
-https://youtu.be/i2_KEEy0ef0
+https://github.com/mgunyho/tere
+https://how-i-experience-web-today.com/detail.html#
+https://m.ebay-kleinanzeigen.de/s-anzeige/mountainbike-herrenrad-diamant-x-treme-28-zoll-/2125580909-217-9632
+https://github.com/tylertreat/comcast
+https://www.gutekueche.at/aioli-dip-rezept-11931
+https://www.flowful.app/
+https://github.com/ripienaar/free-for-dev
+https://news.ycombinator.com/item?id=32152949
+https://tld-list.com/
+http://www.textfiles.com/directory.html
+https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy
+https://shop.flipperzero.one/
+https://www.engadget.com/2017-08-10-silent-10-minute-song-itunes-car-stereo-trick.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAIbQzmVtFflvB0bu6P_XJhClVHF_CwY0qhkIlodcC9aA7GjTZYGjrh2KwWJ6GIIWBOmWn9ozudvlrnDWu2ctTOxVYzstdMR7QCz87aL53HIHp0TF0_CjwDwNJnIdFIRpRE_vLAthHQI0S00WskvuR51ZbDNllh4Sask4ShFblMQ2
+https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/
+If I was handed teams I could vastly improve it on my own over a 6 month period. However the most significant change would be replacing Azure AD/B2C for auth with literally any other auth solution.
+If work violates your values, quitting is an expression of integrity.
+https://m.imgur.com/a/wpZ4w
+https://github.com/jjazzboss/JJazzLab-X
+https://github.com/sterchelen/hssp
+https://engineering.fb.com/2022/07/20/security/how-meta-and-the-security-industry-collaborate-to-secure-the-internet/
+Infected Mushroom - Symphonatic (Infected Mushroom & Astrix Remix)
 
-https://css-irl.info/
-nice design!!
+play next time
+https://showerloop.org/
+Bildanhang
+I Regret my $46k Website Redesign
+Mistakes I made working with my first design agency.
+mtlynch.io 21. Juli 2022
+https://mtlynch.io/tinypilot-redesign/
+https://news.ycombinator.com/item?id=32176748
+https://music.apple.com/us/album/a-a-a-a-a-very-good-song-silent-track-single/1268932999
+https://en.m.wikipedia.org/wiki/Emperor_X
+Advertising itself isn't a bad communication strategy and I think many developers are fine with it, they simply don't want propoganda. Raise my awareness of something useful I'm not aware of and then be honest about it, don't make absurd claims and don't skip cons (I know, business types only want to ever speak in the positive, especially in marketing).
+
+If you give me a fair assessment of something without BS, I can be happy with the benefits when I understand the shortcomings. The second I see all these omissions, which is everywhere, is the second you're put in the BS until proven otherwise box by default. Developers trust other devs because other devs tend to give you this information and don't paint everything as rosy perfection
+https://news.ycombinator.com/item?id=32196417
+effenberger Couture
+https://github.com/nedlir/OfficerBreaker
+e27 a15 40w Max 230v
+https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274
+https://github.com/cloudscape-design/components
+https://standardebooks.org/
+https://mobile.twitter.com/edjgeek/status/1550593312909819904
+https://www.openculture.com/freeonlinecourses
+https://zim-wiki.org/
+https://github.com/jrm4/Eight-Five-Zero
+https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
+https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/
+go full course https://www.youtube.com/watch?v=yyUHQIec83I
+figma portfolio builder https://youtu.be/towt2Niq_3U
+api cthulhu
+
+great fire has destroyed startup
+i am cleaning up the mess, found this thumbdrive,
+digging through the dirt
+
+i am specialized cleaner but have a thing for software
+
+find this weird journal on the thumbdrive, just consisting of randomly named files:
+
+asd.txt
+i was working remote, corona yada yada.
+
+great old ones some spooky premonition
+then new guy at work slack, noone mentioned him,
+
+opening tickets "integrate cthulhu api, azathoth microservice, implement some idea from mad arab paper" assigning me
+https://youtu.be/NTJQTc-TqpU
+m.ammoth.us/blog/2010/10/magnasanti/
+https://nadia.xyz/shameless
+https://www.useplunk.com/
+MJML - The Responsive Email Framework
+mjml.io
+https://mjml.io/
+https://kottke.org/
+https://youtu.be/qsRuhCflRyg
+https://news.ycombinator.com/item?id=32241820
+https://www.goodreads.com/book/show/902987.In_The_Garden_Of_Unearthly_Delights
+It’s always worth having a few philosophers around the place. One minute it’s all Is Truth Beauty and Is Beauty Truth, and Does A Falling Tree in the Forest Make A Sound if There’s No One There to Hear It, and then, just when you think they’re going to start dribbling, one of ’em says, “Incidentally, putting a thirty-foot parabolic reflector on a high place to shoot the rays of the sun at an enemy’s ships would be a very interesting demonstration of optical principles.”
+2012 Olympic Opening
+https://2b2t.miraheze.org/wiki/Nocom
+srewsdfvjkgfewwetzhl432
+https://mathspp.com/blog/how-to-create-a-python-package-in-2022
+https://youtu.be/JamuWEvkshQ
+http://www.quodb.com
+
+https://schoolmaker.com/course-creation-guide
+Sammouda audited the client-side code inside apps.facebook.com and found a number of high-severity bugs in our OAuth implementation that could have led to an account takeover scenario
+https://a16z.com/2022/07/20/the-company-of-the-future-is-default-global/
+
+https://medium.com/@TessaMero/just-hired-to-build-or-head-a-developer-relations-team-75e922b617ba
+2 mutti
+2 mozarella
+zuvh
+
+- www.henricodolfing.com
+  https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html?m=1
+  O(n^2) is the sweet spot of badly scaling algorithms: fast enough to make it into production, but slow enough to make things fall down once it gets there.
+  https://m.ebay-kleinanzeigen.de/s-anzeigen/berlin/t490/c0-l3331
+
+lac de saint croix, 6h schluchtenwanderung dann kajak
+
+Aix-en-Provence
+https://www.goodreads.com/book/show/48484.Blindsight
+https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions
+https://en.m.wikipedia.org/wiki/Buridan%27s_ass
+https://kcm.trellix.com/corporate/index?page=content&id=SB10385
+https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html
+https://www.goodreads.com/quotes/58702-i-know-not-all-that-may-be-coming-but-be
+https://en.m.wikipedia.org/wisavedki/Nonlinear_junction_detector
+https://www.cryptomuseum.com/covert/bugs/ec/srt107/index.htm
+https://github.com/multycloud/multy
+https://colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC
+https://microship.com/microship/
+https://kbclip.com/
+http://www.blosxom.com/
+https://ritza.co/
+https://commoncog.com/beware-what-sounds-insightful/
+https://developers.google.com/tech-writing
+https://www.fivetran.com/
+https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
+guide how to compress imags with https://www.npmjs.com/package/pngquant
+https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots/
+https://pngquant.org/
+https://gohugo.io/templates/introduction/
+https://www.gamesindustry.biz/is-activision-blizzard-in-a-rough-patch-or-a-longer-decline-this-week-in-business
+https://kevin.burke.dev/kevin/reddits-database-has-two-tables/
+https://news.ycombinator.com/item?id=32409966
+https://github.com/DeutscheKI/tevr-asr-tool
+https://www.freecivweb.org/
+https://www.imdb.com/title/tt0221111
+https://www.imdb.com/title/tt0208911/
+https://www.imdb.com/title/tt0118736/
+https://www.imdb.com/title/tt0079147
+https://www.imdb.com/title/tt0088196
+https://mindustrygame.github.io/
+https://news.ycombinator.com/item?id=32422871
+https://github.com/Sycnex/Windows10Debloater
+https://daniloedu.medium.com/my-take-on-how-duckduckgo-can-outperform-google-e52191e49558
+https://www.techdirt.com/2022/08/11/study-shows-anti-piracy-ads-often-made-people-pirate-more/
+https://github.com/undergroundwires/privacy.sexy
+https://news.ycombinator.com/item?id=32424839
+https://lethain.com/present-to-executives/
+
+https://youtu.be/yX-YaUjZPAQ
+https://youtu.be/Jba2HtUPpQI
+https://youtu.be/MFEEozCd9ZU
+https://youtu.be/D600kwz_hok
+https://youtu.be/RqyTp_icP_g
+https://youtu.be/OAz1IO04VbM
+https://youtu.be/ne9LJi3t3pI
+https://www.youtube.com/watch?v=NchBJGimlCA
+https://www.youtube.com/watch?v=Mngm8k4_qAc
+https://www.youtube.com/watch?v=zGM8PT1eAvY
+
+ïnspiration für eisbachcallin.com
+https://www.ismusberlin.com/residents
 
 ## to check github
 

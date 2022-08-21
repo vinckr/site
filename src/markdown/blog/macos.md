@@ -85,7 +85,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 Add inside ~/.zshrc:
 
 ```bash
-plugins=( 
+plugins=(
     # other plugins...
     zsh-autosuggestions
 )

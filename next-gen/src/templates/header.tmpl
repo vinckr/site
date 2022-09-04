@@ -1,4 +1,4 @@
-
+{{define "header" -}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,10 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>vinckr.com - Links</title>
-    </head>
+    <title>{{.SiteTitle}} - {{.Title}}</title>
+</head>
 <body>
     <div class="navigation">
-
-
-        <p><a href="
+    {{range $i, $Element := .Navigation}}        
+    <a href="./{{ $Element }}.html">{{ $Element }}</a>
+    {{end}}
+    </div>
+{{end}}

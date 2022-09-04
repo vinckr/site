@@ -1,0 +1,13 @@
+{
+  "Page": {
+    "SiteTitle": "vinckr.com",
+    "Navigation": ["index", "links"],
+    "Welcome": "hello 👋",
+    "Title": "Home",
+    "About": [
+      "My name is Vincent and this is my personal website. There are many like it but this one is mine. I believe in the power and merit of open source software and a free and open internet.",
+      "Feel free to write me an email to hi[ät]vinckr.com about anything, I would love to hear from you!",
+      "Thanks for visiting!"
+    ]
+  }
+}

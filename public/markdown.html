@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="canonical" href="https://vinckr.com" />
+    <meta property="og:site_name" content="vinckr" />
+    <meta property="og:title" content="vinckr" />
+    <meta property="og:url" content="https://vinckr.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="vinckr personal website." />
+    <meta property="og:image" content="img/logo.png" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="106" />
+    <meta itemprop="name" content="vinckr" />
+    <meta itemprop="url" content="https://vinckr.com" />
+    <meta
+      itemprop="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
+    <meta
+      name="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <title>vinckr.com - Blog</title>
+</head>
+<body>
+    <div class="header">
+        <h1>vinckr.com</h1>
+        <div class="nav">
+        <ul>
+            <li><a href="welcome.html">home</a></li>
+            <li><a href="blog.html">blog</a></li>
+            <li><a href="links.html">links</a></li>
+        </ul>
+        </div>
+    </div>
+
+<!DOCTYPE html>
+<div class="content">
+    <h3>Cheatsheet for markdown</h3>
+
+<p><em>Last updated on 14.03.2022</em></p>
+
+<p>This is a quick reference and testing ground. I use markdown as source files for this blog,</p>
+
+<ul>
+<li><a href="http://daringfireball.net/projects/markdown/">John Gruber&rsquo;s original spec</a></li>
+<li><a href="http://github.github.com/github-flavored-markdown/">Github-flavored Markdown info page</a>.</li>
+</ul>
+
+<h2>Lists</h2>
+
+<pre><code class="language-markdown">1. First ordered list item
+1. Another item
+   - Unordered sub-list.
+1. Just use 1s, the numbers work automatically
+   1. Ordered sub-lis
+1. And another item.
+
+   Text that should be aligned with the above item.
+</code></pre>
+
+<ol>
+<li>First ordered list item</li>
+<li>Another item
+
+<ul>
+<li>Unordered sub-list.</li>
+</ul></li>
+<li>Just use 1s, the numbers work automatically
+
+<ol>
+<li>Ordered sub-lis</li>
+</ol></li>
+<li>And another item.</li>
+</ol>
+
+<p>Text that should be aligned with the above item.</p>
+
+<h2>Links</h2>
+
+<pre><code class="language-markdown">[An inline-style link](https://www.google.com)
+
+[A reference-style link][arbitrary case-insensitive reference text]
+
+[Numbers for reference-style link definitions][1]
+
+Use the [link text itself][an inline-style link](https://www.example.com)
+
+[A reference-style link][arbitrary case-insensitive reference text]
+
+[Numbers for reference-style link definitions][1]
+
+Use the [link text itself]
+
+Reference links:
+
+[arbitrary case-insensitive reference text]: https://www.example.com
+[1]: http://example.com
+[link text itself]: http://www.example.com
+</code></pre>
+
+<p><a href="https://www.example.com">An inline-style link</a></p>
+
+<p><a href="https://www.example.com">A reference-style link</a></p>
+
+<p><a href="http://example.com">Numbers for reference-style link definitions</a></p>
+
+<p>Use the <a href="http://www.example.com">link text itself</a></p>
+
+<h2>Images</h2>
+
+<pre><code class="language-markdown">Inline-style:
+![alt text](../../images/sunrise.png)
+
+Reference-style:
+![alt text][sunrise]
+
+[sunrise]: ../../images/sunrise.png
+</code></pre>
+
+<p>Inline-style:
+<img src="../../images/sunrise.png" alt="alt text" /></p>
+
+<p>Reference-style:
+<img src="../../images/sunrise.png" alt="alt text" title="" /></p>
+
+<h2>Code and Syntax Highlighting</h2>
+
+<pre><code class="language-markdown">`code` has `back-ticks around` it.
+</code></pre>
+
+<p>Inline <code>code</code> has <code>back-ticks around</code> it.</p>
+
+<pre lang="markdown"><code>```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+</code></pre>
+
+<pre><code class="language-javascript">var s = &quot;JavaScript syntax highlighting&quot;;
+alert(s);
+</code></pre>
+
+<pre><code class="language-python">s = &quot;Python syntax highlighting&quot;
+print s
+</code></pre>
+
+<h2>Tables</h2>
+
+<p>Tables don&rsquo;t look great right now, but you can use them.
+Colons can be used to align columns.</p>
+
+<pre><code class="language-markdown">| Tables     |          Hold | Data |
+| ---------- | ------------: | :--: |
+| col 3 is   | right-aligned | 123  |
+| col 2 is   |      centered | 456  |
+| some other |          text | 789  |
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th align="right">Hold</th>
+<th align="center">Data</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td align="right">right-aligned</td>
+<td align="center">123</td>
+</tr>
+
+<tr>
+<td>col 2 is</td>
+<td align="right">centered</td>
+<td align="center">456</td>
+</tr>
+
+<tr>
+<td>some other</td>
+<td align="right">text</td>
+<td align="center">789</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Blockquotes</h2>
+
+<pre><code class="language-markdown">&gt; Blockquotes to emulate reply text.
+&gt; This line is part of the same quote.
+
+Some other text
+
+&gt; This is a long quoted line that will still be quoted properly when it wraps. You can _put_ **emphasis** and _italics_ into a blockquote as well.
+</code></pre>
+
+<blockquote>
+<p>Blockquotes to emulate reply text.
+This line is part of the same quote.</p>
+</blockquote>
+
+<p>Some other text</p>
+
+<blockquote>
+<p>This is a long quoted line that will still be quoted properly when it wraps. You can <em>put</em> <strong>emphasis</strong> and <em>italics</em> into a blockquote as well.</p>
+</blockquote>
+
+<h2>Horizontal Rule</h2>
+
+<pre><code class="language-markdown">A line
+
+---
+</code></pre>
+
+<p>A line</p>
+
+<p>&ndash;</p>
+
+<h2>YouTube Videos</h2>
+
+<pre><code class="language-markdown">&lt;a href=&quot;https://www.youtube.com/watch?feature=player_embedded&amp;v=dQw4w9WgXcQ
+&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/8AkLfYOgIrE/0.jpg&quot;
+alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;
+</code></pre>
+
+<p><a href="https://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
+" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></p>
+
+<p>Or, in pure Markdown, but losing the image sizing and border:</p>
+
+<pre><code class="language-markdown">[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+</code></pre>
+
+<p><a href="http://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="IMAGE ALT TEXT HERE" /></a></p>
+
+<h2>Headers</h2>
+
+<pre><code class="language-markdown"># H1
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
+
+###### H6
+</code></pre>
+
+<h1>H1</h1>
+
+<h2>H2</h2>
+
+<h3>H3</h3>
+
+<h4>H4</h4>
+
+<h5>H5</h5>
+
+<h6>H6</h6>
+
+<h2>Emphasis</h2>
+
+<pre><code class="language-markdown">Emphasis, aka italics, with _asterisks_ or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+</code></pre>
+
+<p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
+
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+</div>
+
+<div class="footer">
+        All Rites Reversed Ⓚ 2022 by <a href="https://github.com/vinckr">vinckr</a>. 
+    </div>
+</body>
+</html>
+

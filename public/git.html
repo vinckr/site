@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="canonical" href="https://vinckr.com" />
+    <meta property="og:site_name" content="vinckr" />
+    <meta property="og:title" content="vinckr" />
+    <meta property="og:url" content="https://vinckr.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="vinckr personal website." />
+    <meta property="og:image" content="img/logo.png" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="106" />
+    <meta itemprop="name" content="vinckr" />
+    <meta itemprop="url" content="https://vinckr.com" />
+    <meta
+      itemprop="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
+    <meta
+      name="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <title>vinckr.com - Blog</title>
+</head>
+<body>
+    <div class="header">
+        <h1>vinckr.com</h1>
+        <div class="nav">
+        <ul>
+            <li><a href="welcome.html">home</a></li>
+            <li><a href="blog.html">blog</a></li>
+            <li><a href="links.html">links</a></li>
+        </ul>
+        </div>
+    </div>
+
+<!DOCTYPE html>
+<div class="content">
+    <h3>git cheatsheet</h3>
+
+<p><em>Last updated on 05.04.2022</em></p>
+
+<blockquote>
+<p>git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.</p>
+</blockquote>
+
+<h2>Basics</h2>
+
+<ul>
+<li><code>git init</code>: start a new repository.</li>
+<li><code>git status</code>: check current status.</li>
+<li><code>git commit -am &quot;&lt;commit-message&gt;</code>: commit all changes in the working directory with a message added on.</li>
+<li><code>git switch -c &lt;branch-name&gt;</code>: create a branch and switch to it (<code>git checkout -b</code> will do the same, omit <code>-c</code> to just switch branches, use <code>-t</code> to set origin as upstream).</li>
+<li><code>git merge [branch]</code>: merge named branch into current branch.</li>
+<li><code>git branch &lt;branch-name&gt; -d</code> : delete branch if not tracked (<code>-D</code> to force, caution!).</li>
+<li><code>git log --pretty=oneline</code>: show a graph of commit history.</li>
+<li><code>git remote -v</code> : check origins.</li>
+<li><code>git branch | grep -v &quot;master&quot; | xargs git branch -D</code> : delete all local branches except master.</li>
+<li><code>git add .</code> : add all files of the current directory to track (including untracked).</li>
+<li><code>git rev-list --count --since=&quot;Jan 1 2020&quot; --before=&quot;Jan 1 2021&quot; --all</code> number of commits over timeframe.</li>
+<li><code>git log --format='%aN' | sort -u</code> : list all contributors by name.</li>
+<li><code>git log --all --full-history -- &quot;**/some-file.*&quot;</code>: search git history for a specific file. Useful when something got deleted.</li>
+<li><code>git fetch origin &lt;your-branch&gt;:&lt;your-branch&gt;</code>: fetch a branch.</li>
+</ul>
+
+<h2>Troubleshooting</h2>
+
+<p><strong>Use the following with caution!</strong></p>
+
+<ul>
+<li><code>git revert &lt;commit-id&gt;</code> : revert a commit that is already pushed.</li>
+<li><code>git commit --amend -m &quot;&lt;new-commit-message&gt;&quot;</code> : fix commit message (only use if you haven&rsquo;t pushed already!).</li>
+<li><code>git rm --cached -r .</code> : remove everything from git cache.</li>
+<li><code>git reset --soft HEAD~N</code> : undo last N commits, but keep changes locally.</li>
+<li><code>git reset --hard HEAD~N</code> : undo and delete last N commits.</li>
+<li><code>git reset --hard origin/&lt;branch-name&gt;</code> : undo all local commits to a branch.</li>
+<li>add files to last commit (only use if you haven&rsquo;t pushed already!).</li>
+</ul>
+
+<pre><code class="language-bash">git add &lt;file_name&gt;
+git commit --amend HEAD~1
+</code></pre>
+
+<ul>
+<li>delete local copy of branch and fetch upstream:</li>
+</ul>
+
+<pre><code class="language-bash">git switch master
+git branch -d &lt;branch-name&gt;
+git fetch origin &lt;branch-name&gt;
+git checkout -b &lt;branch-name&gt; origin/&lt;branch-name&gt;
+</code></pre>
+
+<h2>Further Reference</h2>
+
+<ul>
+<li><a href="https://ohshitgit.com/">Oh Shit, Git!?!</a></li>
+<li><a href="http://marklodato.github.io/visual-git-guide/index-en.html">A Visual Git Reference</a></li>
+<li><a href="https://wiki.spheredev.org/index.php/Git_for_the_lazy">Git for the lazy</a></li>
+<li><a href="https://gitimmersion.com/">Git Immersion: A guided tour</a></li>
+<li><a href="https://gitfu.wordpress.com/">git-fu</a></li>
+</ul>
+
+</div>
+
+<div class="footer">
+        All Rites Reversed Ⓚ 2022 by <a href="https://github.com/vinckr">vinckr</a>. 
+    </div>
+</body>
+</html>
+

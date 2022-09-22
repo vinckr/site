@@ -1,13 +1,11 @@
-u:
-	echo "update"
-	git add .
-	git commit -m "chore: update"
-
 
 build:
 	echo "Building HTML files"
 	go run build.go
+
+u:
+	make build
 	git add .
-	git commit -m "chore: lazy update"
+	git commit -m "chore: update"
 
 

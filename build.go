@@ -25,7 +25,10 @@ func getYear() string {
 	return time.Now().Format("2006")
 }
 
-func buildPage(directory string) {
+// declare a ...string
+// https://stackoverflow.com/questions/23542989/how-do-i-pass-a-variable-number-of-arguments-to-a-function-in-go
+
+func buildPage(directory string, templates ...string) {
 
 	// get list of files in markdown directory
 	files, readDirErr := os.ReadDir(directory)
@@ -48,7 +51,7 @@ func buildPage(directory string) {
 		fmt.Print("Pagetitle: " + data.PageTitle)
 
 		// insert body in template
-		var templates = template.Must(template.ParseFiles("./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl"))
+		var templates = template.Must(template.ParseFiles(templates...))
 		build := new(strings.Builder)
 		templateErr := templates.ExecuteTemplate(build, "Page", data)
 		if templateErr != nil {
@@ -67,5 +70,5 @@ func buildPage(directory string) {
 
 func main() {
 
-	buildPage("./markdown/")
+	buildPage("./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 }

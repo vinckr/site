@@ -43,7 +43,7 @@ a {
 .header {
   display: grid;
   background-color: #000000;
-  grid-template-columns: 0.3fr 1fr;
+  grid-template-columns: 0.1fr 1fr;
   align-items: center;
 }
 
@@ -58,7 +58,6 @@ a {
 .nav {
   list-style-type: none;
   color: #000000;
-  margin-top: 1rem 0 1rem;
 }
 
 .nav li {
@@ -78,4 +77,5 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 75%;
 }

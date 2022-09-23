@@ -11,9 +11,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #dedede;
-  background-image: url("./static/img/bg.png");
+  /*   background-image: url("./static/img/bg.png");
+ */
   background-repeat: repeat;
-  background-color: #1c1c1c;
+  background-color: black;
   font-family: arial, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -71,4 +72,10 @@ a {
   padding: 1rem;
   max-width: 960px;
   margin: 0 auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

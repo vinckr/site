@@ -38,7 +38,7 @@ func buildPage(directory string) {
 		markdownFile := directory + file.Name()
 		content, readErr := os.ReadFile(markdownFile)
 		if readErr != nil {
-			log.Fatalf("%s file not found", markdownFile)
+			log.Fatalf("%s file not found", readErr)
 		}
 
 		// convert markdown to html body
@@ -52,14 +52,14 @@ func buildPage(directory string) {
 		build := new(strings.Builder)
 		templateErr := templates.ExecuteTemplate(build, "Page", data)
 		if templateErr != nil {
-			log.Fatalf("Error building the template:", templateErr)
+			log.Fatalf("Error building the template %s", templateErr)
 		}
 
 		// write html file
 		outPath := "./public/" + file.Name() + ".html"
 		writeErr := ioutil.WriteFile(outPath, []byte(build.String()), 0644)
 		if writeErr != nil {
-			log.Fatalf("Error writing to %s", outPath)
+			log.Fatalf("Error writing to %s", writeErr)
 		}
 		fmt.Printf("\nHTML file %s created \n", outPath)
 	}

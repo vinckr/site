@@ -55,4 +55,4 @@ git checkout -b <branch-name> origin/<branch-name>
 - [Git Immersion: A guided tour](https://gitimmersion.com/)
 - [git-fu](https://gitfu.wordpress.com/)
 
-<img class="center" src="./static/img/hero-git.png" alt="Hero Image" />
+<img class="center" src="./static/img/hero-git.png" alt="" />

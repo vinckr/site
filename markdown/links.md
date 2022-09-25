@@ -1,3 +1,8 @@
+---
+pagetitle: "Links"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ## Links
 
 _Last updated on 22.09.2022_

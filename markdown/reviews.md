@@ -1,3 +1,8 @@
+---
+pagetitle: "Reviews"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ## Reviews
 
 _Last updated on 22.09.2022_
@@ -28,8 +33,6 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 1. pretty good. worth to check out
 1. amazing. highly recommended
 1. masterpiece. must consume
-
----
 
 ### watchlist
 

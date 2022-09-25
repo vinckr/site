@@ -1,3 +1,8 @@
+---
+pagetitle: "Index"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ## hello stranger &#128075;
 
 Welcome to my personal website. There are many like it but this one is

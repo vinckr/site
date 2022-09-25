@@ -1,3 +1,8 @@
+---
+pagetitle: "My MacOS Setup"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ### My MacOS Setup
 
 _Last updated on 24.03.2022_

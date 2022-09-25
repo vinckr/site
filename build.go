@@ -10,10 +10,11 @@ import (
 	"text/template"
 	"time"
 
+	"github.com/adrg/frontmatter"
 	"github.com/gomarkdown/markdown"
 )
 
-// struct for data object
+// struct for data object including content and global config
 type data struct {
 	Body      string
 	PageTitle string
@@ -22,8 +23,11 @@ type data struct {
 	Author    string
 }
 
-func getYear() string {
-	return time.Now().Format("2006")
+// struct for frontmatter
+var pagematter struct {
+	PageTitle string
+	Tags      []string
+	Linklist  []string
 }
 
 // get files in directory
@@ -42,6 +46,15 @@ func readMarkdownFile(directory string, filename string) []byte {
 		log.Fatalf("Error reading file: %s", readErr)
 	}
 	return md
+}
+
+// split body and frontmatter
+func bodyOnly(md []byte) []byte {
+	bodyOnly, err := frontmatter.Parse(strings.NewReader(string(md)), &pagematter)
+	if err != nil {
+		log.Fatalf("Error parsing frontmatter: %s", err)
+	}
+	return bodyOnly
 }
 
 // insert body in template
@@ -67,22 +80,21 @@ func writeHTMLFile(file fs.DirEntry, page string) {
 
 func buildPage(directory string, templates ...string) {
 
-	// frontmatter globals
+	// global config
 	author := "vinckr"
 	sitetitle := "vinckr.com"
-	currentyear := getYear()
+	currentyear := time.Now().Format("2006")
+
 	files := getFiles(directory)
-
+	// build pages from files in directory
 	for _, file := range files {
-
 		md := readMarkdownFile(directory, file.Name())
+		bodyOnly := bodyOnly(md)
 		// convert markdown to html body
-		body := string(markdown.ToHTML(md, nil, nil))
-
+		body := markdown.ToHTML(bodyOnly, nil, nil)
 		// build page object with html body and frontmatter
-		page := data{body, "Blog", sitetitle, currentyear, author}
-		fmt.Print("Pagetitle: " + page.PageTitle)
-
+		page := data{string(body), pagematter.PageTitle, sitetitle, currentyear, author}
+		// build page with template and write to file
 		build := buildTemplate(page, templates...)
 		writeHTMLFile(file, build)
 	}

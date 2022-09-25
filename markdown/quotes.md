@@ -1,3 +1,8 @@
+---
+pagetitle: "Quotes"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ### Quotes
 
 _Last updated on 13.03.2022_

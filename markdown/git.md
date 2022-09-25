@@ -1,3 +1,8 @@
+---
+pagetitle: "git Cheatsheet"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ### git cheatsheet
 
 _Last updated on 05.04.2022_
@@ -47,7 +52,7 @@ git fetch origin <branch-name>
 git checkout -b <branch-name> origin/<branch-name>
 ```
 
-## Further Reference
+## Further reference
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)

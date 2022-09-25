@@ -1,6 +1,5 @@
 ---
 pagetitle: "Quotes"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 ### Quotes

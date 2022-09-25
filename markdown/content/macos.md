@@ -1,6 +1,5 @@
 ---
 pagetitle: "My MacOS Setup"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 ### My MacOS Setup

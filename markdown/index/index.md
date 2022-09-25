@@ -1,6 +1,5 @@
 ---
 pagetitle: "Index"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 # hello stranger &#128075;
@@ -13,10 +12,9 @@ useful resources. Here you can read about topics that interest me, check
 out interesting links, or some of the other pages. I am passionate about
 philosophy, open source software, music, literature, liminal spaces and
 communities.  
-If you are interested in what I am doing professionally or
-you want help with building a community your open source project, please
-feel free to write me, contact below.  
-I think everyone should have their personal space online outside the control of big social media giants,
+Are you interested in what I am doing for work or
+you need help with building a community your open source project? Feel free to write me, find the contact below.  
+Everyone should have their personal space online outside the control of big social media giants,
 furthering the creativity and diversity online.
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 

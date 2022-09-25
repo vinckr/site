@@ -1,6 +1,5 @@
 ---
 pagetitle: "git Cheatsheet"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 # git cheatsheet

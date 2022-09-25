@@ -25,31 +25,33 @@ type data struct {
 
 // struct for frontmatter
 var pagematter struct {
-	PageTitle string
-	Tags      []string
-	Linklist  []string
+	PageTitle   string
+	Tags        []string
+	Log         []string
+	Cheatssheet []string
+	Other       []string
 }
 
 // get files in directory
-func getFiles(directory string) []fs.DirEntry {
-	files, readDirErr := os.ReadDir(directory)
+func getFilesFromDirectory(path string) []fs.DirEntry {
+	files, readDirErr := os.ReadDir(path)
 	if readDirErr != nil {
-		log.Fatalf("Error reading files: %s", readDirErr)
+		log.Fatalf("Error getting filelist: %s", readDirErr)
 	}
 	return files
 }
 
-// read markdown file
-func readMarkdownFile(directory string, filename string) []byte {
-	md, readErr := os.ReadFile(directory + filename)
+// read markdown file from directory
+func readMarkdownFileFromDirectory(path string, filename string) []byte {
+	md, readErr := os.ReadFile(path + filename)
 	if readErr != nil {
-		log.Fatalf("Error reading file: %s", readErr)
+		log.Fatalf("Error reading markdown file: %s", readErr)
 	}
 	return md
 }
 
 // split body and frontmatter
-func bodyOnly(md []byte) []byte {
+func splitBodyAndFrontmatter(md []byte) []byte {
 	bodyOnly, err := frontmatter.Parse(strings.NewReader(string(md)), &pagematter)
 	if err != nil {
 		log.Fatalf("Error parsing frontmatter: %s", err)
@@ -69,8 +71,8 @@ func buildTemplate(data data, templates ...string) string {
 }
 
 // write html file
-func writeHTMLFile(file fs.DirEntry, page string) {
-	outPath := "./public/" + strings.TrimSuffix(file.Name(), ".md") + ".html"
+func writeHTMLFile(file fs.DirEntry, outpath string, page string) {
+	outPath := outpath + strings.TrimSuffix(file.Name(), ".md") + ".html"
 	writeErr := ioutil.WriteFile(outPath, []byte(page), 0644)
 	if writeErr != nil {
 		log.Fatalf("Error writing file: %s", writeErr)
@@ -78,37 +80,38 @@ func writeHTMLFile(file fs.DirEntry, page string) {
 	fmt.Printf("\nHTML file %s created \n", outPath)
 }
 
-func buildPage(directory string, templates ...string) {
+func buildPages(path string, outpath string, templates ...string) {
 
 	// global config
 	author := "vinckr"
 	sitetitle := "vinckr.com"
 	currentyear := time.Now().Format("2006")
 
-	files := getFiles(directory)
+	files := getFilesFromDirectory(path)
 	// build pages from files in directory
 	for _, file := range files {
-		md := readMarkdownFile(directory, file.Name())
-		bodyOnly := bodyOnly(md)
+		md := readMarkdownFileFromDirectory(path, file.Name())
+		bodyOnly := splitBodyAndFrontmatter(md)
 		// convert markdown to html body
 		body := markdown.ToHTML(bodyOnly, nil, nil)
 		// build page object with html body and frontmatter
 		page := data{string(body), pagematter.PageTitle, sitetitle, currentyear, author}
+		fmt.Printf("Building page %s:", page.PageTitle)
 		// build page with template and write to file
 		build := buildTemplate(page, templates...)
-		writeHTMLFile(file, build)
+		writeHTMLFile(file, outpath, build)
 	}
 }
 
 func main() {
 
-	// build blogindex
-	//buildPage(blogData, "./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
+	//build blogindex
+	buildPages("./markdown/blog-index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
 
-	// build other pages
-	//buildPage("./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	//build home page
+	buildPages("./markdown/index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	// build all pages
-	buildPage("./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPages("./markdown/content/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 }

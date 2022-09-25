@@ -1,7 +1,8 @@
 ---
-pagetitle: "Blog"
-tags: ["go", "yaml", "json", "toml"]
-linklist: ["go", "yaml", "json", "toml"]
+pagetitle: "Writing"
+log: ["04-22", "05-22", "06-22", "07-22"]
+cheatsheet: ["git", "macos"]
+other: ["quotes", "reviews"]
 ---
 
 # Blog

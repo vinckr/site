@@ -1,6 +1,5 @@
 ---
 pagetitle: "Reviews"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 ## Reviews

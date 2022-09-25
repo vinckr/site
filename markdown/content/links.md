@@ -1,6 +1,5 @@
 ---
 pagetitle: "Links"
-tags: ["go", "yaml", "json", "toml"]
 ---
 
 # Links
@@ -13,6 +12,7 @@ A collection of links to various websites, resources and even more link collecti
 
 Start reading and never stop.
 
+- [Free and liberated ebooks](https://standardebooks.org/)
 - [The Baffler](https://thebaffler.com/)
 - [Teleport Magazine (Science Fiction)](https://www.teleportmagazine.com/)
 - [Global Grey](https://www.globalgreyebooks.com/)
@@ -27,6 +27,7 @@ Start reading and never stop.
 - [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
+- [textfiles.com](http://www.textfiles.com/directory.html)
 
 ## Writing
 
@@ -130,22 +131,12 @@ Resources for web development and related topics.
 - [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 
-## Sound
-
-Anything related to producing sound/music.
-
-- [Commercial-free, underground/alternative radios](https://somafm.com/)
-- [Surge Synth Projects](https://surge-synth-team.org/)
-- [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
-- [Freeware VSTs](http://www.airwindows.com/vsts/)
-- [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
-- [Find collabs and remix material](https://www.brew.fm/)
-
-## Learning
+### Learning
 
 Official courses and other learning resources.
 
 - [Web Applications 101](https://www.robinwieruch.de/web-applications/)
+- [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
@@ -162,32 +153,9 @@ Official courses and other learning resources.
 - [List of GitHub Repositories full of Resources](https://github.com/pawelborkar/awesome-repos)
 - [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
 
-### Security
-
-Learning and other resources focused on (online) security.
-
-- [OWASP - For almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
-- [Explaining CSRF, CORS, and HTTP Security headers](https://blog.vnaik.com/posts/web-attacks.html)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
-- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
-- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷
-
-### Code Examples
-
-- [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
-- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
-- [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
-- [Temporary email service](https://mailcare.io/)
-
-## Remote
-
-- [Remote Friendly Jobs](https://remotefriendly.com/)
-- [Checklist for video calls](https://checklist.video/checklist/)
-
-## Product
-
-Resources for builders & founders.
+### Product
 
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
@@ -197,10 +165,59 @@ Resources for builders & founders.
 - [List on online earning](https://github.com/onmyway133/awesome-online-earning)
 - [Find pre-validated ideas](http://ideasfilter.com/)
 - [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+- [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
+- [Compare prices of all top-level domains](https://tld-list.com/)
+- [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
 
-## New Tools
+### Security
 
-These sparked my interest, but I did not yet try out.
+- [OWASP - For almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
+- [Explaining CSRF, CORS, and HTTP Security headers](https://blog.vnaik.com/posts/web-attacks.html)
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
+- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
+- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog).
+
+### Code Examples
+
+- [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
+- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
+- [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
+- [Temporary email service](https://mailcare.io/)
+
+## Sound
+
+Anything related to producing sound/music.
+
+- [Commercial-free, underground/alternative radios](https://somafm.com/)
+- [Surge Synth Projects](https://surge-synth-team.org/)
+- [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
+- [Freeware VSTs](http://www.airwindows.com/vsts/)
+- [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
+- [Find collabs and remix material](https://www.brew.fm/)
+
+## Remote
+
+- [Remote Friendly Jobs](https://remotefriendly.com/)
+- [Checklist for video calls](https://checklist.video/checklist/)
+
+## Fun
+
+- [Squiggle animation tool](http://www.mrsquiggles.com/)
+- [Visual representation of git repo](https://gource.io/)
+- [Simple animation tool](https://animatize.com/)
+- [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
+
+## Mixed
+
+- [Ebook reader inside the browser](https://www.loudreader.com/)
+- [Is your browser fingerprint unique?](https://amiunique.org/fp)
+- [HTML Over The Wire](https://hotwire.dev/)
+- [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
+- [555 Timer Circuits](https://www.555-timer-circuits.com/)
+
+## New Stuff
+
+Try these out some time.
 
 - [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
@@ -218,20 +235,5 @@ These sparked my interest, but I did not yet try out.
 - [Type with your voice on Mac/Windows/Linux using electronjs and chrome](https://github.com/fxnoob/voice-typing-for-desktop)
 - [Event/agent & automation system with lots of bees](https://github.com/muesli/beehive)
 - [Tiny (2 KB) JavaScript library for creating user interfaces](https://redom.js.org/)
-
-## Fun
-
-- [Squiggle animation tool](http://www.mrsquiggles.com/)
-- [Visual representation of git repo](https://gource.io/)
-- [Simple animation tool](https://animatize.com/)
-- [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
-
-## Mixed
-
-- [Ebook reader inside the browser](https://www.loudreader.com/)
-- [Is your browser fingerprint unique?](https://amiunique.org/fp)
-- [HTML Over The Wire](https://hotwire.dev/)
-- [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
-- [555 Timer Circuits](https://www.555-timer-circuits.com/).
 
 <img class="center" src="./img/hero-links.png" alt="A decorative image" />

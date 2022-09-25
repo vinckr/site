@@ -37,5 +37,3 @@ It is really easy and cheap.
 ![](./img/counter.gif)
 
 ![](./img/notepad.gif)
-![](./img/ie_logo.gif)
-![](./img/ns_logo.gif)

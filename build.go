@@ -109,7 +109,7 @@ func buildPages(path string, outpath string, templates ...string) {
 func main() {
 
 	//build blogindex
-	buildPages("./markdown/blog-index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
+	buildPages("./markdown/blogIndex/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blogIndex.tmpl")
 
 	//build home page
 	buildPages("./markdown/index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")

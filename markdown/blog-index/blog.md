@@ -1,7 +1,7 @@
 ---
-pagetitle: "Writing"
-log: ["04-22", "05-22", "06-22", "07-22"]
-cheatsheet: ["git", "macos"]
+pagetitle: "Blog"
+log: ["07-22", "06-22", "05-22", "04-22"]
+cheatssheet: ["git", "macos"]
 other: ["quotes", "reviews"]
 ---
 
@@ -9,6 +9,7 @@ other: ["quotes", "reviews"]
 
 ## Monthly logs
 
+- [07-22](./07-22.html)
 - [06-22](./06-22.html)
 - [05-22](./05-22.html)
 - [04-22](./04-22.html)

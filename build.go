@@ -15,22 +15,24 @@ import (
 )
 
 // struct for data object including content and global config
+
 type data struct {
-	Body      string
-	PageTitle string
-	SiteTitle string
-	Year      string
-	Author    string
+	Body       string
+	SiteTitle  string
+	Year       string
+	Author     string
+	Pagematter pagematter
 }
 
-// struct for frontmatter
-var pagematter struct {
+type pagematter struct {
 	PageTitle   string
 	Tags        []string
 	Log         []string
 	Cheatssheet []string
 	Other       []string
 }
+
+var matter pagematter
 
 // get files in directory
 func getFilesFromDirectory(path string) []fs.DirEntry {
@@ -52,10 +54,11 @@ func readMarkdownFileFromDirectory(path string, filename string) []byte {
 
 // split body and frontmatter
 func splitBodyAndFrontmatter(md []byte) []byte {
-	bodyOnly, err := frontmatter.Parse(strings.NewReader(string(md)), &pagematter)
+	bodyOnly, err := frontmatter.Parse(strings.NewReader(string(md)), &matter)
 	if err != nil {
 		log.Fatalf("Error parsing frontmatter: %s", err)
 	}
+	fmt.Printf(" Frontmatter: %s", matter)
 	return bodyOnly
 }
 
@@ -95,8 +98,8 @@ func buildPages(path string, outpath string, templates ...string) {
 		// convert markdown to html body
 		body := markdown.ToHTML(bodyOnly, nil, nil)
 		// build page object with html body and frontmatter
-		page := data{string(body), pagematter.PageTitle, sitetitle, currentyear, author}
-		fmt.Printf("Building page %s:", page.PageTitle)
+		page := data{string(body), sitetitle, currentyear, author, matter}
+		fmt.Printf("Building page %s:", page.Pagematter.PageTitle)
 		// build page with template and write to file
 		build := buildTemplate(page, templates...)
 		writeHTMLFile(file, outpath, build)

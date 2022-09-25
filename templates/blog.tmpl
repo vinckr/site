@@ -1,6 +1,25 @@
 {{define "Body" -}}
 <!DOCTYPE html>
-<div class="content">
-    some test
-</div>
+
+<h2>Log</h2>
+<ul>
+{{ range .Pagematter.Log }}
+    <li><a href="./{{ . }}">{{ . }}</a></li>
+{{end}}
+</ul>
+
+<h2>Cheatssheet</h2>
+<ul>
+{{ range .Pagematter.Cheatssheet }}
+    <li><a href="./{{ . }}">{{ . }}</a></li>
+{{end}}
+</ul>
+
+<h2>Other</h2>
+<ul>
+{{ range .Pagematter.Other }}
+    <li><a href="./{{ . }}">{{ . }}</a></li>
+{{end}}
+</ul>
+
 {{end}}

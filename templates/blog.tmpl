@@ -1,25 +1,28 @@
 {{define "Body" -}}
 <!DOCTYPE html>
 
+<article>
 <h2>Log</h2>
 <ul>
 {{ range .Pagematter.Log }}
-    <li><a href="./{{ . }}">{{ . }}</a></li>
+    <li><a href="./{{ . }}.html">{{ . }}</a></li>
 {{end}}
 </ul>
 
 <h2>Cheatssheet</h2>
 <ul>
 {{ range .Pagematter.Cheatssheet }}
-    <li><a href="./{{ . }}">{{ . }}</a></li>
+    <li><a href="./{{ . }}.html">{{ . }}</a></li>
 {{end}}
 </ul>
 
 <h2>Other</h2>
 <ul>
 {{ range .Pagematter.Other }}
-    <li><a href="./{{ . }}">{{ . }}</a></li>
+    <li><a href="./{{ . }}.html">{{ . }}</a></li>
 {{end}}
 </ul>
+    {{ .Body }}
+</article>
 
 {{end}}

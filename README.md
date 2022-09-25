@@ -1,4 +1,4 @@
-# A.S.S. (A Static Site) Builder
+# 🍑 - "A Static Site" Builder
 
 ## Build
 

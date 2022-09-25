@@ -1,6 +1,6 @@
 ---
 pagetitle: "Blog"
-log: ["07-22", "06-22", "05-22", "04-22"]
+log: ["08-22", "07-22", "06-22", "05-22", "04-22"]
 cheatssheet: ["git", "macos"]
 other: ["quotes", "reviews"]
 ---

@@ -102,7 +102,6 @@ func buildPage(directory string, templates ...string) {
 
 func main() {
 
-	//blogData := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
 	// build blogindex
 	//buildPage(blogData, "./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
 

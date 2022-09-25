@@ -3,13 +3,13 @@ pagetitle: "Links"
 tags: ["go", "yaml", "json", "toml"]
 ---
 
-## Links
+# Links
 
 _Last updated on 22.09.2022_
 
 A collection of links to various websites, resources and even more link collections
 
-### Reading
+## Reading
 
 Start reading and never stop.
 
@@ -28,7 +28,7 @@ Start reading and never stop.
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
 
-### Writing
+## Writing
 
 Everything relevant to text creation.
 
@@ -41,7 +41,7 @@ Everything relevant to text creation.
 - [OSS flat-file cms for text-driven websites](https://typemill.net/)
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
 
-### Cheat Sheets
+## Cheat Sheets
 
 Collections of condensed knowledge.
 
@@ -58,11 +58,11 @@ Collections of condensed knowledge.
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
-### Development
+## Development
 
 Resources for web development and related topics.
 
-#### Design
+### Design
 
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
@@ -77,12 +77,12 @@ Resources for web development and related topics.
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
 
-##### Fonts
+#### Fonts
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 
-#### HTML
+### HTML
 
 - [HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 - [HTML Code Generators](https://www.htmlbasix.com/)
@@ -91,7 +91,7 @@ Resources for web development and related topics.
 - [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
 - [Details on `<details>`](https://github.com/muan/details-on-details)
 
-#### CSS
+### CSS
 
 - [Some CSS generators](https://markodenic.com/css-generators/)
 - [Generate Soft-UI CSS code](https://neumorphism.io)
@@ -102,7 +102,7 @@ Resources for web development and related topics.
 - [Neat CSS tricks](https://markodenic.com/css-tips/)
 - [SimpleCSS - Classless CSS](https://simplecss.org/)
 
-#### Tools & Tricks
+### Tools & Tricks
 
 - [Dan's Tools](https://www.danstools.com/)
 - [Browser support tables for support of front-end web](https://caniuse.com/)
@@ -116,7 +116,7 @@ Resources for web development and related topics.
 - [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
 - [Awesome AutoHotkey libraries, library distributions, scripts, tools and resources](https://github.com/ahkscript/awesome-AutoHotkey)
 
-#### Documentation
+### Documentation
 
 - [Simplified Technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English)
 - [Google Docs Style Highlights](https://developers.google.com/style/highlights)
@@ -124,13 +124,13 @@ Resources for web development and related topics.
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [React&Markdown for building documentation fast](https://docusaurus.io/)
 
-#### GameDev
+### GameDev
 
 - [M.U.G.E.N- 2D fighting game engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
 - [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 
-### Sound
+## Sound
 
 Anything related to producing sound/music.
 
@@ -141,7 +141,7 @@ Anything related to producing sound/music.
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 - [Find collabs and remix material](https://www.brew.fm/)
 
-### Learning
+## Learning
 
 Official courses and other learning resources.
 
@@ -163,7 +163,7 @@ Official courses and other learning resources.
 - [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
 
-#### Security
+### Security
 
 Learning and other resources focused on (online) security.
 
@@ -173,19 +173,19 @@ Learning and other resources focused on (online) security.
 - [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
 - [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog). Does what it says, it finds leaked credentials like API keys, PATs etc. 🐷
 
-#### Code Examples
+### Code Examples
 
 - [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
 - [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 - [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
 - [Temporary email service](https://mailcare.io/)
 
-### Remote Work
+## Remote
 
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Checklist for video calls](https://checklist.video/checklist/)
 
-### Product
+## Product
 
 Resources for builders & founders.
 
@@ -198,7 +198,7 @@ Resources for builders & founders.
 - [Find pre-validated ideas](http://ideasfilter.com/)
 - [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
 
-### New Tools
+## New Tools
 
 These sparked my interest, but I did not yet try out.
 
@@ -219,14 +219,14 @@ These sparked my interest, but I did not yet try out.
 - [Event/agent & automation system with lots of bees](https://github.com/muesli/beehive)
 - [Tiny (2 KB) JavaScript library for creating user interfaces](https://redom.js.org/)
 
-### Fun
+## Fun
 
 - [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 
-### Mixed
+## Mixed
 
 - [Ebook reader inside the browser](https://www.loudreader.com/)
 - [Is your browser fingerprint unique?](https://amiunique.org/fp)

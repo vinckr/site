@@ -4,20 +4,20 @@ tags: ["go", "yaml", "json", "toml"]
 linklist: ["go", "yaml", "json", "toml"]
 ---
 
-## Blog
+# Blog
 
-### Monthly logs
+## Monthly logs
 
 - [06-22](./06-22.html)
 - [05-22](./05-22.html)
 - [04-22](./04-22.html)
 
-### Cheatsheets
+## Cheatsheets
 
 - [git](./git.html)
 - [macos](./macos.html)
 
-### Other
+## Other
 
 - [quotes](./quotes.html)
 - [reviews](./reviews.html)

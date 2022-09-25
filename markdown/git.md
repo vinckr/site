@@ -3,7 +3,7 @@ pagetitle: "git Cheatsheet"
 tags: ["go", "yaml", "json", "toml"]
 ---
 
-### git cheatsheet
+# git cheatsheet
 
 _Last updated on 05.04.2022_
 

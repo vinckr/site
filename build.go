@@ -19,7 +19,7 @@ type data struct {
 	PageTitle string
 	SiteTitle string
 	Year      string
-	Name      string
+	Author    string
 }
 
 func getYear() string {
@@ -44,36 +44,47 @@ func readMarkdownFile(directory string, filename string) []byte {
 	return md
 }
 
+// insert body in template
+func buildTemplate(data data, templates ...string) string {
+	var t = template.Must(template.ParseFiles(templates...))
+	build := new(strings.Builder)
+	templateErr := t.ExecuteTemplate(build, "Page", data)
+	if templateErr != nil {
+		log.Fatalf("Error building the template %s", templateErr)
+	}
+	return build.String()
+}
+
+// write html file
+func writeHTMLFile(file fs.DirEntry, page string) {
+	outPath := "./public/" + strings.TrimSuffix(file.Name(), ".md") + ".html"
+	writeErr := ioutil.WriteFile(outPath, []byte(page), 0644)
+	if writeErr != nil {
+		log.Fatalf("Error writing file: %s", writeErr)
+	}
+	fmt.Printf("\nHTML file %s created \n", outPath)
+}
+
 func buildPage(directory string, templates ...string) {
 
+	// frontmatter globals
+	author := "vinckr"
+	sitetitle := "vinckr.com"
+	currentyear := getYear()
 	files := getFiles(directory)
 
 	for _, file := range files {
-		md := readMarkdownFile(directory, file.Name())
 
+		md := readMarkdownFile(directory, file.Name())
 		// convert markdown to html body
 		body := string(markdown.ToHTML(md, nil, nil))
-		currentyear := getYear()
-		data := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
-		fmt.Print("Pagetitle: " + data.PageTitle)
-		// pageData := data{body, data}
-		// data := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
 
-		// insert body in template
-		var templates = template.Must(template.ParseFiles(templates...))
-		build := new(strings.Builder)
-		templateErr := templates.ExecuteTemplate(build, "Page", data)
-		if templateErr != nil {
-			log.Fatalf("Error building the template %s", templateErr)
-		}
+		// build page object with html body and frontmatter
+		page := data{body, "Blog", sitetitle, currentyear, author}
+		fmt.Print("Pagetitle: " + page.PageTitle)
 
-		// write html file
-		outPath := "./public/" + file.Name() + ".html"
-		writeErr := ioutil.WriteFile(outPath, []byte(build.String()), 0644)
-		if writeErr != nil {
-			log.Fatalf("Error writing to %s", writeErr)
-		}
-		fmt.Printf("\nHTML file %s created \n", outPath)
+		build := buildTemplate(page, templates...)
+		writeHTMLFile(file, build)
 	}
 }
 

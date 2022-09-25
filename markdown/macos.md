@@ -1,3 +1,8 @@
+---
+pagetitle: "My MacOS Setup"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ### My MacOS Setup
 
 _Last updated on 24.03.2022_
@@ -193,4 +198,4 @@ Browser settings:
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 
-<img class="center" src="./img/hero-macos.png" alt="" />
+<img class="center" src="./img/hero-macos.png" alt="A decorative image" />

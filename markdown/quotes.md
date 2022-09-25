@@ -1,3 +1,8 @@
+---
+pagetitle: "Quotes"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ### Quotes
 
 _Last updated on 13.03.2022_
@@ -52,4 +57,4 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Don’t hate the media. Be the media."
 
-<img class="center" src="./img/hero-quotes.png" alt="" />
+<img class="center" src="./img/hero-quotes.png" alt="A decorative image" />

@@ -1,3 +1,8 @@
+---
+pagetitle: "Reviews"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ## Reviews
 
 _Last updated on 22.09.2022_
@@ -28,8 +33,6 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 1. pretty good. worth to check out
 1. amazing. highly recommended
 1. masterpiece. must consume
-
----
 
 ### watchlist
 
@@ -89,4 +92,4 @@ for my own reference, a list of books to read
 - [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee)
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 
-<img class="center" src="./img/hero-reviews.png" alt="" />
+<img class="center" src="./img/hero-reviews.png" alt="A decorative image" />

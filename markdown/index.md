@@ -1,3 +1,8 @@
+---
+pagetitle: "Index"
+tags: ["go", "yaml", "json", "toml"]
+---
+
 ## hello stranger &#128075;
 
 Welcome to my personal website. There are many like it but this one is
@@ -10,25 +15,22 @@ philosophy, open source software, music, literature, liminal spaces and
 communities.  
 If you are interested in what I am doing professionally or
 you want help with building a community your open source project, please
-feel free to write me an [email](mailto:mail@vinckr.com).
+feel free to write me, contact below.  
+I think everyone should have their personal space online outside the control of big social media giants,
+furthering the creativity and diversity online.
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
-![Greetings](./img/hello.gif)
-
-```
-Want a personal website of your own?
-But you are not sure where to start?
-I will help you create one for free!
-It is really easy and cheap,
-You just need a domain.
-```
-
-<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="" /></a>
-
-I think everyone should have their personal space online outside the control of big social media giants,
-furthering the creativity and diversity online one webpage at a time.
-
 `- vinckr`
+
+![Thanks for visiting!](./img/hello.gif)
+
+Want a personal website of your own?  
+Not sure where to start?  
+I will help you create one!  
+It is really easy and cheap.  
+[Contact me](mailto:mail@vinckr.com).
+
+<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="A decorative image" /></a>
 
 ![](./img/counter.gif)
 

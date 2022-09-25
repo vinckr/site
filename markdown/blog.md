@@ -1,6 +1,12 @@
+---
+pagetitle: "Blog"
+tags: ["go", "yaml", "json", "toml"]
+linklist: ["go", "yaml", "json", "toml"]
+---
+
 ## Blog
 
-### Monthly Logs
+### Monthly logs
 
 - [06-22](./06-22.html)
 - [05-22](./05-22.html)
@@ -16,4 +22,4 @@
 - [quotes](./quotes.html)
 - [reviews](./reviews.html)
 
-<img class="center" src="./img/hero-blog.png" alt="" />
+<img class="center" src="./img/hero-blog.png" alt="A decorative image" />

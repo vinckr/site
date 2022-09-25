@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/fs"
 	"io/ioutil"
 	"log"
 	"os"
@@ -25,30 +26,38 @@ func getYear() string {
 	return time.Now().Format("2006")
 }
 
-// declare a ...string
-// https://stackoverflow.com/questions/23542989/how-do-i-pass-a-variable-number-of-arguments-to-a-function-in-go
+// get files in directory
+func getFiles(directory string) []fs.DirEntry {
+	files, readDirErr := os.ReadDir(directory)
+	if readDirErr != nil {
+		log.Fatalf("Error reading files: %s", readDirErr)
+	}
+	return files
+}
+
+// read markdown file
+func readMarkdownFile(directory string, filename string) []byte {
+	md, readErr := os.ReadFile(directory + filename)
+	if readErr != nil {
+		log.Fatalf("Error reading file: %s", readErr)
+	}
+	return md
+}
 
 func buildPage(directory string, templates ...string) {
 
-	// get list of files in markdown directory
-	files, readDirErr := os.ReadDir(directory)
-	if readDirErr != nil {
-		log.Fatal("Error reading files: ", readDirErr)
-	}
+	files := getFiles(directory)
 
 	for _, file := range files {
-		// read markdown file
-		markdownFile := directory + file.Name()
-		content, readErr := os.ReadFile(markdownFile)
-		if readErr != nil {
-			log.Fatalf("%s file not found", readErr)
-		}
+		md := readMarkdownFile(directory, file.Name())
 
 		// convert markdown to html body
-		body := string(markdown.ToHTML(content, nil, nil))
+		body := string(markdown.ToHTML(md, nil, nil))
 		currentyear := getYear()
 		data := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
 		fmt.Print("Pagetitle: " + data.PageTitle)
+		// pageData := data{body, data}
+		// data := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
 
 		// insert body in template
 		var templates = template.Must(template.ParseFiles(templates...))
@@ -70,5 +79,14 @@ func buildPage(directory string, templates ...string) {
 
 func main() {
 
+	//blogData := data{body, "Blog", "vinckr.com", currentyear, "vinckr"}
+	// build blogindex
+	//buildPage(blogData, "./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
+
+	// build other pages
+	//buildPage("./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+
+	// build all pages
 	buildPage("./markdown/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+
 }

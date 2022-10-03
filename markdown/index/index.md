@@ -17,8 +17,8 @@ Are you interested in what I am doing for work or
 you need help with building a community your open source project? Feel free to write me, find the contact below.  
 Everyone should have their personal space online outside the control of big social media giants,
 furthering the creativity and diversity online.
-I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
+I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 `- vinckr`
 
 ![Thanks for visiting!](./img/hello.gif)

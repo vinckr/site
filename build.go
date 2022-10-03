@@ -127,9 +127,9 @@ func main() {
 	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blogIndex.tmpl")
 
 	//build home page
-	buildPages("./markdown/index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPage("./markdown/", "index.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	// build all pages
-	buildPages("./markdown/content/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPages("./markdown/blog/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 }

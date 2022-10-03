@@ -84,9 +84,12 @@ func writeHTMLFile(fileName string, outpath string, page string) {
 }
 
 func buildPage(dir string, fileName string, outpath string, templates ...string) {
+
+	// global config
 	author := "vinckr"
 	sitetitle := "vinckr.com"
 	currentyear := time.Now().Format("2006")
+	// get markdown body
 	md := readMarkdownFileFromDirectory(dir, fileName)
 	bodyOnly := splitBodyAndFrontmatter(md)
 	// convert markdown to html body
@@ -101,8 +104,6 @@ func buildPage(dir string, fileName string, outpath string, templates ...string)
 
 func buildPages(dir string, outpath string, templates ...string) {
 
-	// global config
-
 	files := getFilesFromDirectory(dir)
 	// build pages from files in directory
 	for _, file := range files {
@@ -112,16 +113,6 @@ func buildPages(dir string, outpath string, templates ...string) {
 }
 
 func main() {
-
-	// global config
-	// an object holding the global config
-	// this could be a json file or a yaml file
-	// or a database
-	// or a combination of all of the above
-	// or a combination of all of the above and more
-	// or a combination of all of the above and more and more
-	// or a combination of all of the above and more and more and more
-	// or a combination of all of the above and more and more and more and more
 
 	//build blogindex
 	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blogIndex.tmpl")

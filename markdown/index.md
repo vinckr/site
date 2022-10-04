@@ -5,25 +5,21 @@ pagetitle: "Index"
 # hello stranger &#128075;
 
 Welcome to my personal website. There are many like it but this one is
-mine.
+mine. It is my virtual garden, testlab, and archive. Read about
+topics that interest me, check out [links](./links.html), or some of the
+other pages. I am interested in philosophy, open source software, music,
+literature, liminal spaces and communities.
 
-It is my virtual garden, testlab, and archive for thoughts and
-useful resources. Here you can read about topics that interest me, check
-out [links](./links.html), or some of the other pages. I am interested in
-philosophy, open source software, music, literature, liminal spaces and
-communities.
-
-Are you interested in what I am doing for work or
-you need help with building a community your open source project? Feel free to [write me](mailto:mail@vinckr.com).
-Everyone should have their personal space online outside the control of big social media giants,
-furthering the creativity and diversity online.
+Would you like your own personal website or need help with building a community
+or open source project? Feel free to [write me](mailto:mail@vinckr.com).
+Everyone should have a personal space online, furthering creativity and diversity.
 
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
 `- vinckr`
 
-<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="A decorative image" /></a>
-
 ![Thanks for visiting!](./img/hello.gif)
+
+<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="A decorative image" /></a>
 
 ![](./img/notepad.gif)

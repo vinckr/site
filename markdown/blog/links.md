@@ -4,7 +4,7 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 22.09.2022_
+_Last updated on 04.10.2022_
 
 A collection of links to various websites, resources and even more link collections
 

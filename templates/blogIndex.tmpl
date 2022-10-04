@@ -2,21 +2,21 @@
 <!DOCTYPE html>
 
 <article>
-<h2>Log</h2>
+<h3>Log</h3>
 <ul>
 {{ range .Pagematter.Log }}
     <li><a href="./{{ . }}.html">{{ . }}</a></li>
 {{end}}
 </ul>
 
-<h2>Cheatssheet</h2>
+<h3>Cheatssheet</h3>
 <ul>
 {{ range .Pagematter.Cheatssheet }}
     <li><a href="./{{ . }}.html">{{ . }}</a></li>
 {{end}}
 </ul>
 
-<h2>Other</h2>
+<h3>Other</h3>
 <ul>
 {{ range .Pagematter.Other }}
     <li><a href="./{{ . }}.html">{{ . }}</a></li>

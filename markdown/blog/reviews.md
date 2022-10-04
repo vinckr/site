@@ -10,6 +10,7 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 
 ### 🎞 movies
 
+- [Collateral](https://www.imdb.com/title/tt0369339/) 4/5
 - [What We Do in the Shadows](https://www.imdb.com/title/tt3416742/) 5/5
 - [The Wire](https://www.imdb.com/title/tt0306414/) 5/5
 - [The Death of Stalin](https://www.imdb.com/title/tt4686844/) 5/5
@@ -46,7 +47,6 @@ for my own reference, a list of movies to watch
 - [Liquid Sky](https://www.imdb.com/title/tt0085852/)
 - [Suspiria](https://www.imdb.com/title/tt0076786)
 - [Mad Detective](https://www.imdb.com/title/tt0969269/)
-- [Collateral](https://www.imdb.com/title/tt0369339/)
 - [Road to perdition](https://www.imdb.com/title/tt0257044)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [It follows](https://www.imdb.com/title/tt3235888/)

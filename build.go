@@ -58,7 +58,7 @@ func splitBodyAndFrontmatter(md []byte) []byte {
 	if err != nil {
 		log.Fatalf("Error parsing frontmatter: %s", err)
 	}
-	fmt.Printf(" Frontmatter: %s", matter)
+	//fmt.Printf(" Frontmatter: %s", matter)
 	return bodyOnly
 }
 
@@ -74,47 +74,53 @@ func buildTemplate(data data, templates ...string) string {
 }
 
 // write html file
-func writeHTMLFile(file fs.DirEntry, outpath string, page string) {
-	outPath := outpath + strings.TrimSuffix(file.Name(), ".md") + ".html"
+func writeHTMLFile(fileName string, outpath string, page string) {
+	outPath := outpath + strings.TrimSuffix(fileName, ".md") + ".html"
 	writeErr := ioutil.WriteFile(outPath, []byte(page), 0644)
 	if writeErr != nil {
 		log.Fatalf("Error writing file: %s", writeErr)
 	}
-	fmt.Printf("\nHTML file %s created \n", outPath)
+	fmt.Printf("\n" + fileName + " written to " + outPath)
 }
 
-func buildPages(path string, outpath string, templates ...string) {
+func buildPage(dir string, fileName string, outpath string, templates ...string) {
 
 	// global config
 	author := "vinckr"
 	sitetitle := "vinckr.com"
 	currentyear := time.Now().Format("2006")
+	// get markdown body
+	md := readMarkdownFileFromDirectory(dir, fileName)
+	bodyOnly := splitBodyAndFrontmatter(md)
+	// convert markdown to html body
+	body := markdown.ToHTML(bodyOnly, nil, nil)
+	// build page object with html body and frontmatter
+	page := data{string(body), sitetitle, currentyear, author, matter}
+	fmt.Printf("\nBuilding page %s:", page.Pagematter.PageTitle)
+	// build page with template and write to file
+	build := buildTemplate(page, templates...)
+	writeHTMLFile(fileName, outpath, build)
+}
 
-	files := getFilesFromDirectory(path)
+func buildPages(dir string, outpath string, templates ...string) {
+
+	files := getFilesFromDirectory(dir)
 	// build pages from files in directory
 	for _, file := range files {
-		md := readMarkdownFileFromDirectory(path, file.Name())
-		bodyOnly := splitBodyAndFrontmatter(md)
-		// convert markdown to html body
-		body := markdown.ToHTML(bodyOnly, nil, nil)
-		// build page object with html body and frontmatter
-		page := data{string(body), sitetitle, currentyear, author, matter}
-		fmt.Printf("Building page %s:", page.Pagematter.PageTitle)
-		// build page with template and write to file
-		build := buildTemplate(page, templates...)
-		writeHTMLFile(file, outpath, build)
+		fileName := file.Name()
+		buildPage(dir, fileName, outpath, templates...)
 	}
 }
 
 func main() {
 
 	//build blogindex
-	buildPages("./markdown/blog-index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blog.tmpl")
+	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blogIndex.tmpl")
 
 	//build home page
-	buildPages("./markdown/index/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPage("./markdown/", "index.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	// build all pages
-	buildPages("./markdown/content/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPages("./markdown/blog/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 }

@@ -4,7 +4,7 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 22.09.2022_
+_Last updated on 04.10.2022_
 
 A collection of links to various websites, resources and even more link collections
 
@@ -28,6 +28,7 @@ Start reading and never stop.
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
 - [textfiles.com](http://www.textfiles.com/directory.html)
+- [Domus Kaotica Marauder Underground](https://dkmu.org/)
 
 ## Writing
 
@@ -194,6 +195,7 @@ Anything related to producing sound/music.
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 - [Find collabs and remix material](https://www.brew.fm/)
+- [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 
 ## Remote
 
@@ -206,6 +208,7 @@ Anything related to producing sound/music.
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
+- [Meme generator from Ace Attorney](https://objection.lol/)
 
 ## Mixed
 
@@ -219,6 +222,7 @@ Anything related to producing sound/music.
 
 Try these out some time.
 
+- [Pipedream Automation](https://pipedream.com/)
 - [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)

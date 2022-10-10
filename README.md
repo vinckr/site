@@ -4,8 +4,15 @@
 
 Run this command to build the blog HTML from the files in `/markdown`
 
-```go
-go run build.go
+```bash
+make build
+```
+
+Run this command to build the blog HTML from the files in `/markdown`
+and commit all changes.
+
+```bash
+make u
 ```
 
 ## TODO Launch
@@ -17,25 +24,21 @@ go run build.go
 - [x] Navigation
 - [x] basic welcome
 - [x] other pages
-- [ ] Publish & deploy
-
-more:
-
-- [ ] build welcome page from template
-  - [ ] modify build func to take arguments (folder and template)
-- [ ] fancy welcome
-- [ ] frontmatter per blogpost
-  - [ ] Title
+- [x] Publish & deploy
+- [x] build welcome page from template
+  - [x] modify build func to take arguments (folder and template)
+- [x] fancy welcome
+- [x] frontmatter per blogpost
+  - [x] Title
 - [ ] dynamically build navigation
 - [ ] mobile/desktop view
+- [ ] proper struct for global and site config
+- [ ] more pages 
+  - [ ] art (+pic-host)
+  - [ ] music (+ mixcloud embed + 5 tracks blog)
+- [ ] new sitemap/navigation
+- [ ] page category?
 
-## Structure:
-
-welcome page -> hand-written HTML
-
-blog -> generated from markdown using mdtohtml
-
-content-pages -> generated from markdown using mdtohtml
 
 galleries?
 

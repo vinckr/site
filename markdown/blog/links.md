@@ -87,6 +87,7 @@ Resources for web development and related topics.
 ### HTML
 
 - [HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 - [HTML Code Generators](https://www.htmlbasix.com/)
 - [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
@@ -117,6 +118,8 @@ Resources for web development and related topics.
 - [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
 - [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
 - [Awesome AutoHotkey libraries, library distributions, scripts, tools and resources](https://github.com/ahkscript/awesome-AutoHotkey)
+- [Syncthing - sync anything](https://syncthing.net/)
+
 
 ### Documentation
 
@@ -209,6 +212,7 @@ Anything related to producing sound/music.
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 - [Meme generator from Ace Attorney](https://objection.lol/)
+- [jes/nightdrive: Night-time driving simulation](https://github.com/jes/nightdrive)
 
 ## Mixed
 

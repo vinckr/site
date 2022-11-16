@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>vinckr - Blog</title>
+    <title>vinckr - Random cheatsheet</title>
 
     <link rel="stylesheet" href="style.css">
 
@@ -45,48 +45,28 @@
     </div>
 
 <!DOCTYPE html>
-
 <article>
-<h3>Log</h3>
-<ul>
+    <h1>Random cheatsheet</h1>
 
-    <li><a href="./09-22.html">09-22</a></li>
+<p><em>Last updated on 26.06.2022</em></p>
 
-    <li><a href="./08-22.html">08-22</a></li>
+<p>A mixed collection of commands I had to look up at some point and collect here for future reference.
+Probably not useful at all for anyone else but me ;-)</p>
 
-    <li><a href="./07-22.html">07-22</a></li>
+<h3>Mixed/UNIX</h3>
 
-    <li><a href="./06-22.html">06-22</a></li>
+<p>Show all active ports: <code>sudo lsof -iTCP -sTCP:LISTEN -n -P</code><br>
+Kill process for that port:<code>sudo kill -9 &lt;PID&gt;</code><br>
+DNS Lookup: <code>dig WWW.VINCKR.COM +nostats +nocomments +nocmd</code></p>
 
-    <li><a href="./05-22.html">05-22</a></li>
+<h2>CSS</h2>
 
-    <li><a href="./04-22.html">04-22</a></li>
+<p>Child selector selects all elements that are the children of a specified element (<a href="https://www.w3schools.com/css/css_combinators.asp">See also</a>)<br>
+<code>div &gt; p</code></p>
 
-</ul>
-
-<h3>Cheatssheet</h3>
-<ul>
-
-    <li><a href="./git.html">git</a></li>
-
-    <li><a href="./macos.html">macos</a></li>
-
-    <li><a href="./cheatsheet.html">cheatsheet</a></li>
-
-</ul>
-
-<h3>Other</h3>
-<ul>
-
-    <li><a href="./quotes.html">quotes</a></li>
-
-    <li><a href="./reviews.html">reviews</a></li>
-
-</ul>
-    <p><img class="center" src="./img/hero-blog.png" alt="A decorative image" /></p>
+<p><img class="center" src="./img/hero-git.png" alt="A decorative image" /></p>
 
 </article>
-
 
 <div class="footer">
         All Rites Reversed Ⓚ 2022 by <a href="https://github.com/vinckr">vinckr</a>. Powered by <a href="https://golang.org">Go</a>.

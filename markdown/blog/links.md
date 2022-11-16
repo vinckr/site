@@ -213,6 +213,7 @@ Anything related to producing sound/music.
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 - [Meme generator from Ace Attorney](https://objection.lol/)
 - [jes/nightdrive: Night-time driving simulation](https://github.com/jes/nightdrive)
+- [Animal mug designs](https://www.mugexpert.net/)
 
 ## Mixed
 

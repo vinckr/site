@@ -4,9 +4,9 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 04.10.2022_
+_Last updated on 17.11.2022_
 
-A collection of links to various websites, resources and even more link collections
+A collection of links to various websites, resources and even more link collections.
 
 ## Reading
 
@@ -21,14 +21,24 @@ Start reading and never stop.
 - [Cryptome](https://cryptome.org/)
 - [Agora Road's Macintosh Cafe - A Nostalgic Y2K Forum Community](https://forum.agoraroad.com/index.php)
 - [The Codeless Code](http://thecodelesscode.com/)
-- [Bastard Operator from Hell](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
 - [TechinAsia - Largest English-language tech media on focusing on Asia](https://www.techinasia.com/)
 - [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
 - [textfiles.com](http://www.textfiles.com/directory.html)
-- [Domus Kaotica Marauder Underground](https://dkmu.org/)
+- [Gruppe Magazine](http://gruppemagazine.com/)
+- [The Anarchist Library](https://theanarchistlibrary.org/)
+
+### Notable Wikipedia Articles
+
+- [Preparedness paradox](https://en.m.wikipedia.org/wiki/Preparedness_paradox)
+- [Nocturnal bottleneck](https://en.m.wikipedia.org/wiki/Nocturnal_bottleneck)
+- [Eight Immortals](https://en.wikipedia.org/wiki/Eight_Immortals)
+- [Kramatorsk radiological accident](https://en.m.wikipedia.org/wiki/Kramatorsk_radiological_accident)
+- [List of orphan source incidents](https://en.m.wikipedia.org/wiki/List_of_orphan_source_incidents)
+- [Feraliminal Lycanthropizer](https://en.m.wikipedia.org/wiki/Feraliminal_Lycanthropizer)
+- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/International_Air_Transport_Association_code#IATA_meal_codes)
 
 ## Writing
 
@@ -59,6 +69,7 @@ Collections of condensed knowledge.
 - [Beej's Guide to using internet sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
+- [Code table - alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
 
 ## Development
 
@@ -68,16 +79,19 @@ Resources for web development and related topics.
 
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
-- [Emojipedia](https://emojipedia.org/)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/)
 - [Unsplash - copyright free images.](https://unsplash.com)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
 - [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/)
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
-- [A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
+- [A series of exquisite and compact effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
+- [90's Cursor Effects](https://tholman.com/cursor-effects/)
+- [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
+- [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
+
 
 #### Fonts
 
@@ -93,9 +107,11 @@ Resources for web development and related topics.
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 - [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
 - [Details on `<details>`](https://github.com/muan/details-on-details)
+- [Useful HTML tricks](https://markodenic.com/html-tips/)
 
 ### CSS
 
+- [58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 - [Some CSS generators](https://markodenic.com/css-generators/)
 - [Generate Soft-UI CSS code](https://neumorphism.io)
 - [Animations for eccentric developers](https://www.joerezendes.com/projects/Woah.css/)
@@ -104,6 +120,8 @@ Resources for web development and related topics.
 - [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 - [Neat CSS tricks](https://markodenic.com/css-tips/)
 - [SimpleCSS - Classless CSS](https://simplecss.org/)
+- [Grid by Example](https://gridbyexample.com/)
+- [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 
 ### Tools & Tricks
 
@@ -117,9 +135,9 @@ Resources for web development and related topics.
 - [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
 - [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
 - [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
-- [Awesome AutoHotkey libraries, library distributions, scripts, tools and resources](https://github.com/ahkscript/awesome-AutoHotkey)
 - [Syncthing - sync anything](https://syncthing.net/)
-
+- [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
+- [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
 
 ### Documentation
 
@@ -158,6 +176,8 @@ Official courses and other learning resources.
 - [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
+- [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
+- [A Tour of Go](https://go.dev/tour/welcome/1)
 
 ### Product
 
@@ -172,6 +192,13 @@ Official courses and other learning resources.
 - [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
 - [Compare prices of all top-level domains](https://tld-list.com/)
 - [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
+- [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
+- [deck.rocks: Generate pitch decks using GPT-3](https://www.deck.rocks/)
+- [Git Trends](https://www.gittrends.xyz/)
+- [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
+- [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
+- [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
+
 
 ### Security
 
@@ -187,6 +214,10 @@ Official courses and other learning resources.
 - [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 - [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
 - [Temporary email service](https://mailcare.io/)
+- [Modern Application Reference Architectures](https://github.com/nginxinc/kic-reference-architectures/)
+- [Website in CLI format](https://github.com/rootvc/cli-website)
+- [Castlevania-Roguelike](https://github.com/Andres6936/Castlevania-Roguelike)
+- [Todolist project made with React JS and Typescript.](https://github.com/ronaldprofile/todolist-with-reactjs)
 
 ## Sound
 
@@ -200,9 +231,37 @@ Anything related to producing sound/music.
 - [Find collabs and remix material](https://www.brew.fm/)
 - [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 
+## Generative Art
+
+### Generators
+
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/lstein/stable-diffusion)
+
+### Tools
+
+- [Vertex Meadow](https://www.vertexmeadow.xyz/)
+- [Remove Background from Image](https://www.remove.bg/)
+- [EbSynth - Transform Video by Painting Over a Single Frame](https://ebsynth.com/)
+- [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
+
+### Prompt Engineering
+
+- [DALL·E 2 Largest image database](https://dalle2.gallery/)
+- [OTP prompt generator](https://atsuzaki-playground.neocities.org/)
+- [Prompt Generator](http://dalle2-prompt-generator.s3-website-us-west-2.amazonaws.com/)
+- [Prompt resources & tools](https://dallery.gallery/prompt-resources-tools-ai-art/)
+- [List of science fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
+- [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
+- [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
+- [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
+- [Krea Prompts API](https://devapi.krea.ai/)
+
 ## Remote
 
 - [Remote Friendly Jobs](https://remotefriendly.com/)
+- [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Checklist for video calls](https://checklist.video/checklist/)
 
 ## Fun
@@ -214,35 +273,24 @@ Anything related to producing sound/music.
 - [Meme generator from Ace Attorney](https://objection.lol/)
 - [jes/nightdrive: Night-time driving simulation](https://github.com/jes/nightdrive)
 - [Animal mug designs](https://www.mugexpert.net/)
+- [you-are-here](https://s-n-d.si/)
+- [Time Cube](https://timecube.2enp.com/)
+- [The Restart Page - Free unlimited rebooting experience from vintage operating systems](http://www.therestartpage.com/)
+- [Creed Thoughts](https://creedthoughtsgov.com/september-20-2007/)
+- [Holotypic occlupanid researc group](https://horg.com/)
+- [Domus Kaotica Marauder Underground](https://dkmu.org/)
+- [Bastard Operator from Hell](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
 
-## Mixed
+## Uncategorized
 
 - [Ebook reader inside the browser](https://www.loudreader.com/)
 - [Is your browser fingerprint unique?](https://amiunique.org/fp)
 - [HTML Over The Wire](https://hotwire.dev/)
 - [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
 - [555 Timer Circuits](https://www.555-timer-circuits.com/)
-
-## New Stuff
-
-Try these out some time.
-
-- [Pipedream Automation](https://pipedream.com/)
-- [Offline Speech to Text for Desktop Linux](https://github.com/ideasman42/nerd-dictation)
-- [Double-Entry Accounting from Text Files](https://beancount.github.io/)
-- [React component to display an array of words/sentences with a typewriter effect](https://github.com/adrianmcli/react-rotating-text)
-- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
-- [Wildcard is a browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
 - [Web interface for advanced reddit searches](https://redditsearch.io/)
-- [Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
-- [Archivy - Self-hosted knowledge repository](https://archivy.github.io/)
-- [Screenshot software](https://github.com/flameshot-org/flameshot)
-- [Tooll - OSS tool for creating interactive 3d content and animations](http://tooll.io/)
+- [Wildcard - Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
-- [A single Bash script to create blogs.](https://github.com/cfenollosa/bashblog)
-- [Zapier/IFTTT alternative based on Github actions](https://github.com/actionsflow/actionsflow)
-- [Type with your voice on Mac/Windows/Linux using electronjs and chrome](https://github.com/fxnoob/voice-typing-for-desktop)
-- [Event/agent & automation system with lots of bees](https://github.com/muesli/beehive)
-- [Tiny (2 KB) JavaScript library for creating user interfaces](https://redom.js.org/)
+- [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 
-<img class="center" src="./img/hero-links.png" alt="A decorative image" />
+<img class="center" src="./img/hero-links.png" alt="Content ends here" />

@@ -59,6 +59,10 @@ for my own reference, a list of movies to watch
 - [Into Eternity](https://www.imdb.com/title/tt1194612/)
 - [A Writer's Odyssey](https://www.imdb.com/title/tt9685342/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
+- [Conan the Barbarian](https://www.imdb.com/title/tt0082198/)
+- [The Last Duel](https://m.imdb.com/title/tt4244994/)
+- [Margin Call](https://m.imdb.com/title/tt1615147/)
+- [Legend](https://www.imdb.com/title/tt0089469/)
 
 ### readlist
 
@@ -90,5 +94,6 @@ for my own reference, a list of books to read
 - [My Confession: Recollections of a Rogue](https://www.goodreads.com/book/show/1094401.My_Confession)
 - [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee)
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
+- [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
 
-<img class="center" src="./img/hero-reviews.png" alt="A decorative image" />
+<img class="center" src="./img/hero-reviews.png" alt="Content ends here" />

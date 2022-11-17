@@ -48,7 +48,7 @@
 <article>
     <h1>git cheatsheet</h1>
 
-<p><em>Last updated on 05.04.2022</em></p>
+<p><em>Last updated on 17.11.2022</em></p>
 
 <blockquote>
 <p>git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.</p>
@@ -71,6 +71,14 @@
 <li><code>git log --format='%aN' | sort -u</code> : list all contributors by name.</li>
 <li><code>git log --all --full-history -- &quot;**/some-file.*&quot;</code>: search git history for a specific file. Useful when something got deleted.</li>
 <li><code>git fetch origin &lt;your-branch&gt;:&lt;your-branch&gt;</code>: fetch a branch.</li>
+</ul>
+
+<h3>config</h3>
+
+<ul>
+<li><code>git config --global color.ui auto</code>: helpful colors.</li>
+<li><code>git config --global user.name &quot;vinckr&quot;</code>: set user name globally for commits.</li>
+<li><code>git config --global user.email &quot;vinckr@example.com&quot;</code>: set email globally for commits.</li>
 </ul>
 
 <h2>Troubleshooting</h2>
@@ -111,7 +119,7 @@ git checkout -b &lt;branch-name&gt; origin/&lt;branch-name&gt;
 <li><a href="https://gitfu.wordpress.com/">git-fu</a></li>
 </ul>
 
-<p><img class="center" src="./img/hero-git.png" alt="A decorative image" /></p>
+<p><img class="center" src="./img/hero-git.png" alt="Content ends here" /></p>
 
 </article>
 

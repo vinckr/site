@@ -48,23 +48,54 @@
 <article>
     <h1>Random cheatsheet</h1>
 
-<p><em>Last updated on 26.06.2022</em></p>
+<p><em>Last updated on 17.11.2022</em></p>
 
 <p>A mixed collection of commands I had to look up at some point and collect here for future reference.
-Probably not useful at all for anyone else but me ;-)</p>
+Probably not useful for anyone else but me ;-).</p>
 
-<h3>Mixed/UNIX</h3>
+<h2>Mixed/UNIX</h2>
 
-<p>Show all active ports: <code>sudo lsof -iTCP -sTCP:LISTEN -n -P</code><br>
-Kill process for that port:<code>sudo kill -9 &lt;PID&gt;</code><br>
-DNS Lookup: <code>dig WWW.VINCKR.COM +nostats +nocomments +nocmd</code></p>
+<ul>
+<li><code>history | awk '{print $2}' | sort | uniq -c | sort -rn | head</code>: see which commands you run often.</li>
+<li><code>curl ipinfo.io</code>: external ip address using ipinfo.io</li>
+<li><code>lsof -iTCP -sTCP:LISTEN -n -P</code>: show all active ports.</li>
+<li><code>kill -9 &lt;PID&gt;</code>: kill process for a port.</li>
+<li><code>dig WWW.VINCKR.COM +nostats +nocomments +nocmd</code>: DNS lookup.</li>
+<li><code>ps uax</code>: networks.</li>
+<li><code>chmod +x name_of_file.sh</code>: make bash file executable.</li>
+</ul>
 
 <h2>CSS</h2>
 
-<p>Child selector selects all elements that are the children of a specified element (<a href="https://www.w3schools.com/css/css_combinators.asp">See also</a>)<br>
-<code>div &gt; p</code></p>
+<ul>
+<li><code>div &gt; p</code>: child selector selects all elements that are the children of a specified element (<a href="https://www.w3schools.com/css/css_combinators.asp">See also</a>)</li>
+</ul>
 
-<p><img class="center" src="./img/hero-git.png" alt="A decorative image" /></p>
+<h2>Docker</h2>
+
+<ul>
+<li><code>docker kill $(docker ps -q)</code>: stop all Docker containers.</li>
+<li><code>docker rm $(docker ps -a -q)</code>: remove all Docker containers.</li>
+<li><code>docker rmi $(docker images -q)</code>: remove all Docker images.</li>
+</ul>
+
+<h2>git town</h2>
+
+<p>Aliases for git-town, add to git config:</p>
+
+<pre><code>git config --global alias.append &quot;town append&quot;
+git config --global alias.hack &quot;town hack&quot;
+git config --global alias.kill &quot;town kill&quot;
+git config --global alias.repo &quot;town repo&quot;
+git config --global alias.ship &quot;town ship&quot;
+git config --global alias.sync &quot;town sync&quot;
+git config --global alias.new-pr &quot;town new-pull-request&quot;
+git config --global alias.prepend &quot;town prepend&quot;
+git config --global alias.prune-branches &quot;town prune-branches&quot;
+git config --global alias.rename-branch &quot;town rename-branch&quot;
+</code></pre>
+
+<p><img class="center" src="./img/hero-git.png" alt="Content ends here" /></p>
 
 </article>
 

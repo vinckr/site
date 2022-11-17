@@ -5,4 +5,4 @@ cheatssheet: ["git", "macos", "cheatsheet"]
 other: ["quotes", "reviews"]
 ---
 
-<img class="center" src="./img/hero-blog.png" alt="A decorative image" />
+<img class="center" src="./img/hero-blog.png" alt="Content ends here" />

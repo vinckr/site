@@ -4,7 +4,7 @@ pagetitle: "git Cheatsheet"
 
 # git cheatsheet
 
-_Last updated on 05.04.2022_
+_Last updated on 17.11.2022_
 
 > git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.
 
@@ -24,6 +24,12 @@ _Last updated on 05.04.2022_
 - `git log --format='%aN' | sort -u` : list all contributors by name.
 - `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 - `git fetch origin <your-branch>:<your-branch>`: fetch a branch.
+
+### config 
+
+- `git config --global color.ui auto`: helpful colors.
+- `git config --global user.name "vinckr"`: set user name globally for commits.
+- `git config --global user.email "vinckr@example.com"`: set email globally for commits.
 
 ## Troubleshooting
 
@@ -59,4 +65,4 @@ git checkout -b <branch-name> origin/<branch-name>
 - [Git Immersion: A guided tour](https://gitimmersion.com/)
 - [git-fu](https://gitfu.wordpress.com/)
 
-<img class="center" src="./img/hero-git.png" alt="A decorative image" />
+<img class="center" src="./img/hero-git.png" alt="Content ends here" />

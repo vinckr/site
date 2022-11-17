@@ -22,6 +22,6 @@ Follow me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchang
 
 ![Thanks for visiting!](./img/hello.gif)
 
-<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="A decorative image" /></a>
+<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="Content ends here" /></a>
 
 ![](./img/notepad.gif)

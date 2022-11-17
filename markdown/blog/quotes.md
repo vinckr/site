@@ -2,9 +2,9 @@
 pagetitle: "Quotes"
 ---
 
-### Quotes
+## Quotes
 
-_Last updated on 13.03.2022_
+_Last updated on 17.11.2022_
 
 I don't fully endorse, believe in, or live by the content of these quotes, I find them worthy to collect and share. Some are statements made by famous people, others were found in random places on the internet. (Attribution added where I am somewhat certain.)
 
@@ -26,7 +26,7 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Could I interest you in everything all of the time?" - [Bo Burnham](https://www.youtube.com/watch?v=8NJDMV9hJxc)
 
-> "The evolution of the idea of money is closely associated, for reasons which must be apparent to even the most casual observer, with the development of the notions of sin and guilt. Even in the earliest periods of trade we find rudimentary principles at work such as would lead us to believe that primitive man had evolved methods of exchange which sui generis implied the existence of debt. It was not until Ricardo’s time, however, that a formula was arrived at which expressed the relationship between debtor and creditor beyond all caviling. With almost Euclidian simplicity Ricardo summed it up thus: "a debt is discharged by the delivery of money." The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful." - [Henry Miller](https://en.wikipedia.org/wiki/Henry_Miller)
+> "The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful." - [Henry Miller](https://en.wikipedia.org/wiki/Henry_Miller)
 
 > What a liberation to realize that the “voice in my head” is not who I am. Who am I then? The one who sees that.” - [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle)
 
@@ -34,7 +34,15 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can’t have both.” — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
 
-> The difference between a journeyman and a master is the journeyman is saying “it’s never done that” whilst the master is already running.
+>"It is not possible to come into contact twice with a mortal being in the same state." - [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
+
+## No attribution
+
+> "Slow is smooth, smooth is fast."
+
+> "Change gives the illusion of progress."
+
+> "The difference between a journeyman and a master is the journeyman is saying “it’s never done that” whilst the master is already running."
 
 > "Don’t do anything in extremes, including not doing anything in extremes."
 
@@ -56,4 +64,8 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Don’t hate the media. Be the media."
 
-<img class="center" src="./img/hero-quotes.png" alt="A decorative image" />
+> "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
+
+> "Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness"
+
+<img class="center" src="./img/hero-quotes.png" alt="Content ends here" />

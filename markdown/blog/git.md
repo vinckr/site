@@ -50,7 +50,7 @@ git commit --amend HEAD~1
 
 - delete local copy of branch and fetch upstream:
 
-```bash
+```bash 
 git switch master
 git branch -d <branch-name>
 git fetch origin <branch-name>

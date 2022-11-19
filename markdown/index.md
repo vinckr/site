@@ -16,12 +16,12 @@ Everyone should have a personal space online, furthering creativity and diversit
 
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
-Follow me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
-
-`- vinckr`
+- vinckr
 
 ![Thanks for visiting!](./img/hello.gif)
 
 <a href="blog.html"><img class="center" src="./img/hero-index.png" alt="Content ends here" /></a>
+
+Find me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
 
 ![](./img/notepad.gif)

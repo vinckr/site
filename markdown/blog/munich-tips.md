@@ -22,10 +22,12 @@ Take with a grain of salt 😉
 
 ### Chinese
 
-Authentic Chinese:  
+Authentic Chinese:
+
 - [Mai Garten](https://www.mai-garten.com/)
 
-European:  
+European:
+
 - [Kam Yi](https://kamyi.com/)
 
 ### Ethiopian

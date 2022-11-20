@@ -47,11 +47,18 @@ European:
 
 - [Sangeet](http://www.sangeet-online.de/)
 - [Palast der Winde](https://www.palastderwinde.de/)
+- Snack: Chat Junction (Breiterhof Passage) 
+
+### Korean 
+
+- [Hansik](http://muenchen-hansik.de/)
 
 ### Pizza
 
 - [Mimmo e co](https://www.mimmoeco.de/)
 - [Solo pizza](https://www.solopizza.de/)
+- [Forza Napoli](https://forzanapoli.de/)
+- Pinsa: [Morelli](https://morelli-la-pinsapizzeria.business.site/)
 
 ### Pasta
 
@@ -62,13 +69,15 @@ European:
 
 - [Bodega dali](https://bodega-dali.de/)
 
-### Sushi
+### Sushi/Japanese
 
 - [Sushiya sansaro](https://www.sushiya.de/)
 - Yuki Hana (Stollbergstraße 6, 80539)
+- [Suziki](https://www.feinkost-ysuzuki.com/)
 
 ### Vegan
 
 Asian:  
+
 - [Soy](https://soy-muenchen.com/)
 

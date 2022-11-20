@@ -1,7 +1,5 @@
 
 html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
   font-size: 1.25em;
   font-family: system-ui;
   --code-color: #302b5f;

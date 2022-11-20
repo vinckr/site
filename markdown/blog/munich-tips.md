@@ -4,7 +4,9 @@ pagetitle: Where to eat in Munich
 
 # Where to eat in Munich
 
-A list of good restaurants and places to eat in Munich. Take with a grain of salt ;-)
+A list of good restaurants and places to eat in Munich. Provided the address where a website is missing.
+
+Take with a grain of salt 😉
 
 ### Austrian
 
@@ -22,6 +24,7 @@ A list of good restaurants and places to eat in Munich. Take with a grain of sal
 
 Authentic Chinese:  
 - [Mai Garten](https://www.mai-garten.com/)
+
 European:  
 - [Kam Yi](https://kamyi.com/)
 

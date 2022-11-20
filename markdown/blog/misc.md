@@ -1,8 +1,8 @@
 ---
-pagetitle: "Random cheatsheet"
+pagetitle: "Misc cheatsheet"
 ---
 
-# Random cheatsheet
+# Misc cheatsheet
 
 _Last updated on 17.11.2022_
 

@@ -25,11 +25,7 @@ type data struct {
 }
 
 type pagematter struct {
-	PageTitle   string
-	Tags        []string
-	Log         []string
-	Cheatssheet []string
-	Other       []string
+	PageTitle string
 }
 
 var matter pagematter
@@ -92,7 +88,7 @@ func buildPage(dir string, fileName string, outpath string, templates ...string)
 	md := readMarkdownFileFromDirectory(dir, fileName)
 	bodyOnly := splitBodyAndFrontmatter(md)
 	// convert markdown to html body
-	extensions := parser.CommonExtensions | parser.Footnotes
+	extensions := parser.CommonExtensions | parser.Footnotes | parser.Includes
 	parser := parser.NewWithExtensions(extensions)
 	body := markdown.ToHTML(bodyOnly, parser, nil)
 	// build page object with html body and frontmatter
@@ -116,7 +112,7 @@ func buildPages(dir string, outpath string, templates ...string) {
 func main() {
 
 	//build blogindex
-	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/blogIndex.tmpl")
+	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	//build home page
 	buildPage("./markdown/", "index.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")

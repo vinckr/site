@@ -29,6 +29,8 @@ Start reading and never stop.
 - [textfiles.com](http://www.textfiles.com/directory.html)
 - [Gruppe Magazine](http://gruppemagazine.com/)
 - [The Anarchist Library](https://theanarchistlibrary.org/)
+- [Domus Kaotica Marauder Underground](https://dkmu.org/)
+- [HN Classics](https://posobin.com/hn_classics/)
 
 ### Notable Wikipedia Articles
 
@@ -77,6 +79,7 @@ Resources for web development and related topics.
 
 ### Design
 
+- [Awwwards](https://www.awwwards.com/)
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
@@ -88,10 +91,15 @@ Resources for web development and related topics.
 - [A series of exquisite and compact effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
+  <<<<<<< Updated upstream
 - [90's Cursor Effects](https://tholman.com/cursor-effects/)
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
 
+=======
+
+- [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
+  > > > > > > > Stashed changes
 
 #### Fonts
 
@@ -198,7 +206,7 @@ Official courses and other learning resources.
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
 - [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
-
+- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
 
 ### Security
 
@@ -293,4 +301,4 @@ Anything related to producing sound/music.
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 
-<img class="center" src="./img/hero-links.png" alt="Content ends here" />
+<img class="center" src="./img/hero-links.png" alt="Content ends here">

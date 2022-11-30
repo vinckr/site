@@ -5,4 +5,4 @@ cheatssheet: ["git", "macos", "cheatsheet"]
 other: ["quotes", "reviews", "munich-tips"]
 ---
 
-<img class="center" src="./img/hero-blog.png" alt="Content ends here" />
+<img class="center" src="./img/hero-blog.png" alt="Content ends here">

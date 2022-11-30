@@ -10,15 +10,19 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 
 ### 🎞 movies
 
-- [Collateral](https://www.imdb.com/title/tt0369339/) 4/5
-- [What We Do in the Shadows](https://www.imdb.com/title/tt3416742/) 5/5
-- [The Wire](https://www.imdb.com/title/tt0306414/) 5/5
-- [The Death of Stalin](https://www.imdb.com/title/tt4686844/) 5/5
-- [The Northman](https://www.imdb.com/title/tt11138512/) 4/5
-- [The Lighthouse](https://www.imdb.com/title/tt7984734/): 5/5
-- [Moonfall](https://www.imdb.com/title/tt5834426/): 3/5
-- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600/): 3/5
-- [The Hacker (2016)](https://www.imdb.com/title/tt3173594/): 1/5
+- [Reality](https://www.imdb.com/title/tt2392672) 3/5
+- [Dune](https://www.imdb.com/title/tt1160419) 3/5
+- [Get Out](https://www.imdb.com/title/tt5052448) 5/5
+- [Nope](https://www.imdb.com/title/tt10954984) 4/5
+- [Collateral](https://www.imdb.com/title/tt0369339) 4/5
+- [What We Do in the Shadows](https://www.imdb.com/title/tt3416742) 5/5
+- [The Wire](https://www.imdb.com/title/tt0306414) 5/5
+- [The Death of Stalin](https://www.imdb.com/title/tt4686844) 5/5
+- [The Northman](https://www.imdb.com/title/tt11138512) 4/5
+- [The Lighthouse](https://www.imdb.com/title/tt7984734): 5/5
+- [Moonfall](https://www.imdb.com/title/tt5834426): 3/5
+- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600): 3/5
+- [The Hacker (2016)](https://www.imdb.com/title/tt3173594): 1/5
 
 ### 📖 books
 
@@ -63,6 +67,11 @@ for my own reference, a list of movies to watch
 - [The Last Duel](https://m.imdb.com/title/tt4244994/)
 - [Margin Call](https://m.imdb.com/title/tt1615147/)
 - [Legend](https://www.imdb.com/title/tt0089469/)
+- [Dead or Alive](https://www.imdb.com/title/tt0221111)
+- [The King Is Alive](https://www.imdb.com/title/tt0208911)
+- [Six-String Samurai](https://www.imdb.com/title/tt0118736)
+- [Mad Monkey Kung Fu](https://www.imdb.com/title/tt0079147)
+- [Streetwise](https://www.imdb.com/title/tt0088196)
 
 ### readlist
 
@@ -96,4 +105,4 @@ for my own reference, a list of books to read
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 - [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
 
-<img class="center" src="./img/hero-reviews.png" alt="Content ends here" />
+<img class="center" src="./img/hero-reviews.png" alt="A decorative image" >

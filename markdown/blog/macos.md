@@ -197,4 +197,4 @@ Browser settings:
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 
-<img class="center" src="./img/hero-macos.png" alt="Content ends here" />
+<img class="center" src="./img/hero-macos.png" alt="Content ends here">

@@ -25,7 +25,7 @@ _Last updated on 17.11.2022_
 - `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 - `git fetch origin <your-branch>:<your-branch>`: fetch a branch.
 
-### config 
+### config
 
 - `git config --global color.ui auto`: helpful colors.
 - `git config --global user.name "vinckr"`: set user name globally for commits.
@@ -50,7 +50,7 @@ git commit --amend HEAD~1
 
 - delete local copy of branch and fetch upstream:
 
-```bash 
+```bash
 git switch master
 git branch -d <branch-name>
 git fetch origin <branch-name>
@@ -65,4 +65,4 @@ git checkout -b <branch-name> origin/<branch-name>
 - [Git Immersion: A guided tour](https://gitimmersion.com/)
 - [git-fu](https://gitfu.wordpress.com/)
 
-<img class="center" src="./img/hero-git.png" alt="Content ends here" />
+<img class="center" src="./img/hero-git.png" alt="Content ends here">

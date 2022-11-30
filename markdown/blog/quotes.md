@@ -34,7 +34,7 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can’t have both.” — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
 
->"It is not possible to come into contact twice with a mortal being in the same state." - [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
+> "It is not possible to come into contact twice with a mortal being in the same state." - [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 
 ## No attribution
 
@@ -68,4 +68,4 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness"
 
-<img class="center" src="./img/hero-quotes.png" alt="Content ends here" />
+<img class="center" src="./img/hero-quotes.png" alt="Content ends here">

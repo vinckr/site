@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>vinckr - Misc cheatsheet</title>
+    <title>Misc cheatsheet - vinckr</title>
 
     <link rel="stylesheet" href="style.css">
 
@@ -44,7 +44,6 @@
         </div>
     </div>
 
-<!DOCTYPE html>
 <article>
     <h1>Misc cheatsheet</h1>
 
@@ -95,7 +94,106 @@ git config --global alias.prune-branches &quot;town prune-branches&quot;
 git config --global alias.rename-branch &quot;town rename-branch&quot;
 </code></pre>
 
-<p><img class="center" src="./img/hero-git.png" alt="Content ends here" /></p>
+<h2>markdown</h2>
+
+<p>Documenting some lesser know markdown features of my blog, curtesy of <a href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions">CommonExtensions</a>, <a href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes">Footnotes</a></p>
+
+<ul>
+<li><p>Ignore emphasis markers inside w*ord*s</p></li>
+
+<li><p>Add a footnote<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p></li>
+</ul>
+
+<pre><code>Here is a footnote reference[^1] and some more text.
+
+[^1]: Here is the footnote.
+</code></pre>
+
+<ul>
+<li>Markdown tables</li>
+</ul>
+
+<pre><code>| Id  | Name       | Signed-In |
+| --- | ---------- | --------  |
+| 1   | John Smith | Yes       |
+| 2   | John Doe   | No        |
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th>Id</th>
+<th>Name</th>
+<th>Signed-In</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>1</td>
+<td>John Smith</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>John Doe</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Include files</li>
+</ul>
+
+<ul>
+<li>Strikethrough</li>
+</ul>
+
+<p><del>Noone should read this</del></p>
+
+<p><code>~~Noone should read this~~</code></p>
+
+<ul>
+<li>Definition lists</li>
+</ul>
+
+<dl>
+<dt>Term 1</dt>
+<dd><p>Definition 1</p></dd>
+<dt>Term 2 with <em>inline markup</em></dt>
+<dd><p>Definition 2</p>
+
+<pre><code>{ some code, part of Definition 2 }
+</code></pre>
+<p>Third paragraph of definition 2.</p></dd>
+</dl>
+
+<pre><code>Term 1
+
+: Definition 1
+
+Term 2 with _inline markup_
+
+: Definition 2
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+</code></pre>
+
+<p><img class="center" src="./img/hero-git.png" alt="Content ends here"></p>
+
+<div class="footnotes">
+
+<hr>
+
+<ol>
+<li id="fn:1">Bumblebees can fly, and so can you 🐝</li>
+</ol>
+
+</div>
 
 </article>
 

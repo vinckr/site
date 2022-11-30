@@ -6,7 +6,7 @@ pagetitle: "Misc cheatsheet"
 
 _Last updated on 17.11.2022_
 
-A mixed collection of commands I had to look up at some point and collect here for future reference. 
+A mixed collection of commands I had to look up at some point and collect here for future reference.
 Probably not useful for anyone else but me ;-).
 
 ## Mixed/UNIX
@@ -15,7 +15,7 @@ Probably not useful for anyone else but me ;-).
 - `curl ipinfo.io`: external ip address using ipinfo.io
 - `lsof -iTCP -sTCP:LISTEN -n -P`: show all active ports.
 - `kill -9 <PID>`: kill process for a port.
-- `dig WWW.VINCKR.COM +nostats +nocomments +nocmd`: DNS lookup. 
+- `dig WWW.VINCKR.COM +nostats +nocomments +nocmd`: DNS lookup.
 - `ps uax`: networks.
 - `chmod +x name_of_file.sh`: make bash file executable.
 
@@ -27,7 +27,7 @@ Probably not useful for anyone else but me ;-).
 
 - `docker kill $(docker ps -q)`: stop all Docker containers.
 - `docker rm $(docker ps -a -q)`: remove all Docker containers.
-- `docker rmi $(docker images -q)`: remove all Docker images. 
+- `docker rmi $(docker images -q)`: remove all Docker images.
 
 ## git town
 
@@ -46,4 +46,72 @@ git config --global alias.prune-branches "town prune-branches"
 git config --global alias.rename-branch "town rename-branch"
 ```
 
-<img class="center" src="./img/hero-git.png" alt="Content ends here" />
+## markdown
+
+Documenting some lesser know markdown features of my blog, curtesy of [CommonExtensions](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions), [Footnotes](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes)
+
+- Ignore emphasis markers inside w*ord*s
+
+- Add a footnote[^1]:
+
+```
+Here is a footnote reference[^1] and some more text.
+
+[^1]: Here is the footnote.
+```
+
+- Markdown tables
+
+```
+| Id  | Name       | Signed-In |
+| --- | ---------- | --------  |
+| 1   | John Smith | Yes       |
+| 2   | John Doe   | No        |
+```
+
+| Id  | Name       | Signed-In |
+| --- | ---------- | --------- |
+| 1   | John Smith | Yes       |
+| 2   | John Doe   | No        |
+
+[^1]: Bumblebees can fly, and so can you 🐝
+
+- Include files
+
+{{identity.json}}[0]
+
+- Strikethrough
+
+~~Noone should read this~~
+
+`~~Noone should read this~~`
+
+- Definition lists
+
+Term 1
+
+: Definition 1
+
+Term 2 with _inline markup_
+
+: Definition 2
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+
+```
+Term 1
+
+: Definition 1
+
+Term 2 with _inline markup_
+
+: Definition 2
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+```
+
+<img class="center" src="./img/hero-git.png" alt="Content ends here">

@@ -105,4 +105,4 @@ for my own reference, a list of books to read
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 - [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
 
-<img class="center" src="./img/hero-reviews.png" alt="A decorative image" >
+<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

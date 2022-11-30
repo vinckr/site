@@ -25,9 +25,3 @@ I believe in the power and merit of an open and free internet and try to advance
 Find me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
 
 ![](./img/notepad.gif)
-
-Here is a footnote reference[^1] and some more text.
-
-[^1]: Here is the footnote.
-
-Here's the next paragraph.

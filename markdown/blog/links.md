@@ -91,15 +91,10 @@ Resources for web development and related topics.
 - [A series of exquisite and compact effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
-  <<<<<<< Updated upstream
 - [90's Cursor Effects](https://tholman.com/cursor-effects/)
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
-
-=======
-
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
-  > > > > > > > Stashed changes
 
 #### Fonts
 

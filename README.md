@@ -33,12 +33,29 @@ make u
 - [ ] dynamically build navigation
 - [ ] mobile/desktop view
 - [ ] proper struct for global and site config
-- [ ] more pages 
+- [ ] more pages
   - [ ] art (+pic-host)
   - [ ] music (+ mixcloud embed + 5 tracks blog)
 - [ ] new sitemap/navigation
 - [ ] page category?
 
+## Links
+
+unsorted list of URLS in url-unsorted.txt
+run commands
+
+```bash
+cat url-unsorted.txt | sort -u > url.txt
+go run cmd/links/title.go
+```
+
+## Structure:
+
+welcome page -> hand-written HTML
+
+blog -> generated from markdown using mdtohtml
+
+content-pages -> generated from markdown using mdtohtml
 
 galleries?
 

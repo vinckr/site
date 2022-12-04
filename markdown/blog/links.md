@@ -240,7 +240,7 @@ Anything related to producing sound/music.
 
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/lstein/stable-diffusion)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
 
 ### Tools
 
@@ -251,6 +251,10 @@ Anything related to producing sound/music.
 
 ### Prompt Engineering
 
+- [AI Prompt](https://www.aiprompt.io/#)
+- [Stable Diffusion Artist list - Style studies](https://stablediffusion.fr/artists)
+- [The definitive Stable Diffusion experience ™ guide](https://rentry.org/voldy)
+- [Public Prompts](https://publicprompts.art/)
 - [DALL·E 2 Largest image database](https://dalle2.gallery/)
 - [OTP prompt generator](https://atsuzaki-playground.neocities.org/)
 - [Prompt Generator](http://dalle2-prompt-generator.s3-website-us-west-2.amazonaws.com/)

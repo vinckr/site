@@ -4,7 +4,7 @@
 # Mac files
 .DS_Store
 
+# Drafts files
 _drafts
-url.txt
-url-unsorted.txt
-new-url.txt
+urls.txt
+urls-unsorted.txt

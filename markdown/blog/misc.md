@@ -48,7 +48,7 @@ git config --global alias.rename-branch "town rename-branch"
 
 ## markdown
 
-Documenting some lesser know markdown features of my blog, curtesy of [CommonExtensions](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions), [Footnotes](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes)
+Documenting some lesser know markdown features of my blog, curtesy of [CommonExtensions](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions) and [Footnotes](https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes)
 
 - Ignore emphasis markers inside w*ord*s
 
@@ -75,10 +75,6 @@ Here is a footnote reference[^1] and some more text.
 | 2   | John Doe   | No        |
 
 [^1]: Bumblebees can fly, and so can you 🐝
-
-- Include files
-
-{{identity.json}}[0]
 
 - Strikethrough
 

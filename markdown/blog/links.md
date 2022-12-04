@@ -266,6 +266,7 @@ Anything related to producing sound/music.
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Checklist for video calls](https://checklist.video/checklist/)
+- [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
 
 ## Fun
 

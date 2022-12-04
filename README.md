@@ -42,12 +42,16 @@ make u
 ## Links
 
 unsorted list of URLS in url-unsorted.txt
-run commands
 
 ```bash
-cat url-unsorted.txt | sort -u > url.txt
-go run cmd/links/title.go
+make links
 ```
+
+Currently breaks on:
+
+- empty lines
+- 404 links
+- direkt links to .png, .pdf ect.
 
 ## Structure:
 

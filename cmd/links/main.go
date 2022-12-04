@@ -52,7 +52,7 @@ func TestHtmlToRst(url string) {
 }
 
 func main() {
-	f, err := os.Open("url.txt")
+	f, err := os.Open("urls.txt")
 	if err != nil {
 		log.Fatal(err)
 	}

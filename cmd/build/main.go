@@ -78,7 +78,7 @@ func writeHTMLFile(fileName string, outpath string, page string) {
 	fmt.Printf("\n" + fileName + " written to " + outPath)
 }
 
-func buildPage(dir string, fileName string, outpath string, templates ...string) {
+func buildPage(fileName string, dir string, outpath string, templates ...string) {
 
 	// global config
 	author := "vinckr"
@@ -88,7 +88,7 @@ func buildPage(dir string, fileName string, outpath string, templates ...string)
 	md := readMarkdownFileFromDirectory(dir, fileName)
 	bodyOnly := splitBodyAndFrontmatter(md)
 	// convert markdown to html body
-	extensions := parser.CommonExtensions | parser.Footnotes | parser.Includes
+	extensions := parser.CommonExtensions | parser.Footnotes
 	parser := parser.NewWithExtensions(extensions)
 	body := markdown.ToHTML(bodyOnly, parser, nil)
 	// build page object with html body and frontmatter
@@ -105,17 +105,17 @@ func buildPages(dir string, outpath string, templates ...string) {
 	// build pages from files in directory
 	for _, file := range files {
 		fileName := file.Name()
-		buildPage(dir, fileName, outpath, templates...)
+		buildPage(fileName, dir, outpath, templates...)
 	}
 }
 
 func main() {
 
 	//build blogindex
-	buildPage("./markdown/", "blog.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPage("blog.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	//build home page
-	buildPage("./markdown/", "index.md", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	buildPage("index.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	// build all pages
 	buildPages("./markdown/blog/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")

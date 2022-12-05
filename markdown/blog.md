@@ -6,6 +6,7 @@ pagetitle: "Blog"
 
 ## monthly digest:
 
+- [10-22](10-22.md)
 - [09-22](09-22.html)
 - [08-22](08-22.html)
 - [07-22](07-22.html)

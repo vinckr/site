@@ -4,9 +4,6 @@ pagetitle: "Blog"
 
 # hello stranger &#128075;
 
-- [links](links.html)
-- [about](about.html)
-
 ## monthly digest
 
 a monthly collection of articles, tools, open source software, and more

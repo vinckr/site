@@ -23,7 +23,9 @@ test: .bin/shellcheck .bin/shfmt node_modules  # run all linters
 
 build: # build HTML without committing
 	echo "Building HTML files"
-	go run cmd/build/main.go
+	go run cmd/build/main.go page index
+	go run cmd/build/main.go page about
+	go run cmd/build/main.go dir markdown/blog/
 
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"

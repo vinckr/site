@@ -75,7 +75,7 @@ func writeHTMLFile(fileName string, outpath string, page string) {
 	if writeErr != nil {
 		log.Fatalf("Error writing file: %s", writeErr)
 	}
-	fmt.Printf("\n" + fileName + " written to " + outPath)
+	fmt.Printf("\n" + fileName + " written to " + outPath + "\n" + "------------------------")
 }
 
 func buildPage(fileName string, dir string, outpath string, templates ...string) {

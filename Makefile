@@ -11,7 +11,7 @@ help:  # show all available Make commands
 	cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
 
 format: .bin/shfmt node_modules  # format the source code
-	echo \nformatting ...
+	echo "\n formatting ..."
 	.bin/shfmt --write .
 	npm exec -- prettier --write .
 

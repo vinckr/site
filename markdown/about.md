@@ -20,6 +20,4 @@ I believe in the power and merit of an open and free internet and try to advance
 
 <a href="blog.html"><img class="center" src="./img/hero-index.png" alt="Content ends here"></a>
 
-Find me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
-
 ![](./img/notepad.gif)

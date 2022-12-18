@@ -4,10 +4,6 @@ pagetitle: "Blog"
 
 # hello stranger &#128075;
 
-Read about
-topics that interest me, check out [links](./links.html), or some of the
-other pages.
-
 ## monthly digest
 
 a monthly collection of articles, tools, open source software, and more

@@ -67,5 +67,5 @@ node_modules: package.json package-lock.json
 	npm ci
 	touch node_modules  # update timestamp so that Make doesn't reinstall it over and over
 
-.SILENT:
+.SILENT: u
 .DEFAULT_GOAL := help

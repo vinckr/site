@@ -1,0 +1,22 @@
+{
+  "name": "vinckr",
+  "version": "1.0.0",
+  "description": "support timecube",
+  "main": "index.js",
+  "scripts": {
+    "update": "make u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinckr/vinckr.com.git"
+  },
+  "author": "vinckr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinckr/vinckr.com/"
+  },
+  "homepage": "https://vinckr.com/",
+  "dependencies": {
+    "doctoc": "^2.2.1"
+  }
+}

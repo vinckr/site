@@ -111,11 +111,11 @@ func buildPages(dir string, outpath string, templates ...string) {
 
 func main() {
 
-	//build blogindex
-	buildPage("blog.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
-
 	//build home page
 	buildPage("index.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+
+	//build about
+	buildPage("about.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
 
 	// build all pages
 	buildPages("./markdown/blog/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")

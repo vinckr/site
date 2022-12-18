@@ -1,27 +1,33 @@
 ---
-pagetitle: "Index"
+pagetitle: "Blog"
 ---
 
 # hello stranger &#128075;
 
-Welcome to my personal website. There are many like it but this one is
-mine. It is my virtual garden, testlab, and archive. Read about
+Read about
 topics that interest me, check out [links](./links.html), or some of the
-other pages. I am interested in philosophy, open source software, music,
-literature, liminal spaces and communities.
+other pages.
 
-Would you like your own personal website or need help with building a community
-or open source project? Feel free to [write me](mailto:mail@vinckr.com).
-Everyone should have a personal space online, furthering creativity and diversity.
+## monthly digest:
 
-I believe in the power and merit of an open and free internet and try to advance this cause where I can.
+- [10-22](10-22.html)
+- [09-22](09-22.html)
+- [08-22](08-22.html)
+- [07-22](07-22.html)
+- [06-22](06-22.html)
+- [05-22](05-22.html)
+- [04-22](04-22.html)
 
-- vinckr
+## cheatsheet:
 
-![Thanks for visiting!](./img/hello.gif)
+- [git](git.html)
+- [macos](macos.html)
+- [misc](misc.html)
 
-<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="Content ends here"></a>
+## other:
 
-Find me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
+- [quotes](quotes.html)
+- [reviews](reviews.html)
+- [munich-tips](munich-tips.html)
 
-![](./img/notepad.gif)
+<img class="center" src="./img/hero-blog.png" alt="Content ends here">

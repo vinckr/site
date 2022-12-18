@@ -1,51 +1,33 @@
 # 🍑 - "A Static Site" Builder
 
-## Build
+## Howto
 
-Run this command to build the blog HTML from the files in `/markdown`
+Run to show all available commands
 
 ```bash
-make build
+make help
 ```
 
-Run this command to build the blog HTML from the files in `/markdown`
-and commit all changes.
+### links
 
 ```bash
-make u
+# sort links in url-unsorted.txt
+make links-sort
+# generate markdown link list with titles
+make links
 ```
 
 ## TODO Launch
 
-- [x] build all markdown files from folder
-- [x] inject data
-  - [ ] from config.yaml
-- [x] basic CSS
-- [x] Navigation
-- [x] basic welcome
-- [x] other pages
-- [x] Publish & deploy
-- [x] build welcome page from template
-  - [x] modify build func to take arguments (folder and template)
-- [x] fancy welcome
-- [x] frontmatter per blogpost
-  - [x] Title
 - [ ] dynamically build navigation
 - [ ] mobile/desktop view
 - [ ] proper struct for global and site config
-- [ ] more pages
   - [ ] art (+pic-host)
   - [ ] music (+ mixcloud embed + 5 tracks blog)
 - [ ] new sitemap/navigation
 - [ ] page category?
 
 ## Links
-
-unsorted list of URLS in url-unsorted.txt
-
-```bash
-make links
-```
 
 Currently breaks on:
 

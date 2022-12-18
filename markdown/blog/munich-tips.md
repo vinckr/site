@@ -47,9 +47,9 @@ European:
 
 - [Sangeet](http://www.sangeet-online.de/)
 - [Palast der Winde](https://www.palastderwinde.de/)
-- Snack: Chat Junction (Breiterhof Passage) 
+- Snack: Chat Junction (Breiterhof Passage)
 
-### Korean 
+### Korean
 
 - [Hansik](http://muenchen-hansik.de/)
 
@@ -77,7 +77,6 @@ European:
 
 ### Vegan
 
-Asian:  
+Asian:
 
 - [Soy](https://soy-muenchen.com/)
-

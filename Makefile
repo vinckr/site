@@ -51,7 +51,7 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	go build -o .bin/encrypt-dir github.com/ory/encrypt-dir 
 
 .bin/shellcheck: Makefile
-	echo "\ninstalling Shellcheck ..." 
+	echo "\n installing Shellcheck ..." 
 	curl -sSL https://github.com/koalaman/shellcheck/releases/download/stable/shellcheck-stable.linux.x86_64.tar.xz | tar xJ
 	mkdir -p .bin
 	mv shellcheck-stable/shellcheck .bin

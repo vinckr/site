@@ -6,5 +6,10 @@
 
 # Drafts files
 _drafts
+drafts/drafts.zip
 urls.txt
 urls-unsorted.txt
+
+
+.bin
+!*.secure

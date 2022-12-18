@@ -7,7 +7,7 @@ pagetitle: "Misc cheatsheet"
 _Last updated on 17.11.2022_
 
 A mixed collection of commands I had to look up at some point and collect here for future reference.
-Probably not useful for anyone else but me ;-).
+Most likely not useful for anyone else but me ;-).
 
 ## Mixed/UNIX
 
@@ -44,6 +44,14 @@ git config --global alias.new-pr "town new-pull-request"
 git config --global alias.prepend "town prepend"
 git config --global alias.prune-branches "town prune-branches"
 git config --global alias.rename-branch "town rename-branch"
+```
+
+## regex
+
+Replace newlines:
+
+```
+\r\n?|\n
 ```
 
 ## markdown

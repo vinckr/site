@@ -25,13 +25,13 @@ build: # build HTML without committing
 	echo "Building HTML files"
 	go run cmd/build/main.go
 
-links-sort: # sort links and delete duplicates
-	echo "Sorting markdown links"
-	cat urls-unsorted.txt | sort -u > urls.txt
-
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"
 	go run cmd/links/main.go
+
+links-sort: # sort links and delete duplicates
+	echo "Sorting markdown links"
+	cat urls-unsorted.txt | sort -u > urls.txt
 
 encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	echo "Encrypting drafts"
@@ -42,7 +42,7 @@ encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	echo "Decrypting drafts"
 	.bin/encrypt-dir decrypt --key=${ENCRYPTION_KEY} drafts
-	unzip drafts/drafts.zip -d _drafts
+	unzip -o drafts/drafts.zip
 
 .bin/encrypt-dir:
 	echo "Building encrypt-dir"

@@ -1,27 +1,35 @@
 ---
-pagetitle: "Index"
+pagetitle: "Blog"
 ---
 
 # hello stranger &#128075;
 
-Welcome to my personal website. There are many like it but this one is
-mine. It is my virtual garden, testlab, and archive. Read about
-topics that interest me, check out [links](./links.html), or some of the
-other pages. I am interested in philosophy, open source software, music,
-literature, liminal spaces and communities.
+## monthly digest
 
-Would you like your own personal website or need help with building a community
-or open source project? Feel free to [write me](mailto:mail@vinckr.com).
-Everyone should have a personal space online, furthering creativity and diversity.
+a monthly collection of articles, tools, open source software, and more
 
-I believe in the power and merit of an open and free internet and try to advance this cause where I can.
+- [10-2022](10-22.html)
+- [09-2022](09-22.html)
+- [08-2022](08-22.html)
+- [07-2022](07-22.html)
+- [06-2022](06-22.html)
+- [05-2022](05-22.html)
+- [04-2022](04-22.html)
 
-- vinckr
+## pages
 
-![Thanks for visiting!](./img/hello.gif)
+Assorted pages & topics
 
-<a href="blog.html"><img class="center" src="./img/hero-index.png" alt="Content ends here"></a>
+- [quotes](quotes.html)
+- [reviews](reviews.html)
+- [munich food tips](munich-tips.html)
 
-Find me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
+## cheatsheets
 
-![](./img/notepad.gif)
+commands I often have to look up
+
+- [git](git.html)
+- [macos](macos.html)
+- [misc](misc.html)
+
+<img class="center" src="./img/hero-blog.png" alt="Content ends here">

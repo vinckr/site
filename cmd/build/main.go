@@ -34,7 +34,7 @@ var matter pagematter
 func getFilesFromDirectory(path string) []fs.DirEntry {
 	files, readDirErr := os.ReadDir(path)
 	if readDirErr != nil {
-		log.Fatalf("Error getting filelist: %s", readDirErr)
+		log.Fatalf("Error getting files: %s", readDirErr)
 	}
 	return files
 }
@@ -75,7 +75,7 @@ func writeHTMLFile(fileName string, outpath string, page string) {
 	if writeErr != nil {
 		log.Fatalf("Error writing file: %s", writeErr)
 	}
-	fmt.Printf("\n" + fileName + " written to " + outPath)
+	fmt.Printf("\n" + fileName + " written to " + outPath + "\n" + "------------------------")
 }
 
 func buildPage(fileName string, dir string, outpath string, templates ...string) {
@@ -111,13 +111,20 @@ func buildPages(dir string, outpath string, templates ...string) {
 
 func main() {
 
-	//build blogindex
-	buildPage("blog.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	if len(os.Args) < 2 {
+		fmt.Println("Usage: go run main.go <input_type> <input_path> [output_path]")
+		fmt.Println("input_type: 'page' for single page or 'dir' for directory")
+		return
+	}
+	inputType := os.Args[1]
+	inputPath := os.Args[2]
+	outputPath := "./public/"
 
-	//build home page
-	buildPage("index.md", "./markdown/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
-
-	// build all pages
-	buildPages("./markdown/blog/", "./public/", "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
-
+	if inputType == "page" {
+		buildPage(inputPath+".md", "./markdown/", outputPath, "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	} else if inputType == "dir" {
+		buildPages(inputPath, outputPath, "./templates/page.tmpl", "./templates/header.tmpl", "./templates/footer.tmpl", "./templates/body.tmpl")
+	} else {
+		fmt.Println("Invalid input type. Use 'page' or 'dir'.")
+	}
 }

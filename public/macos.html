@@ -1,142 +1,148 @@
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>My MacOS Setup · vinckr</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 
-    <meta name="description" content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source.">
+    <meta
+      name="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
 
-    <meta property="og:title" content="vinckr" >
-    <meta property="og:description" content="vinckr personal website." >
-    <meta property="og:image" content="img/logo.svg" >
-    <meta property="og:image:alt" content="vinckr personal website.">
-    <meta property="og:locale" content="en_GB">
-    <meta property="og:type" content="website" >
-    <meta property="og:url" content="https://vinckr.com" >
-    <link rel="canonical" href="https://vinckr.com" >
-    <meta name="twitter:card" content="vinckr personal website.">
+    <meta property="og:title" content="vinckr" />
+    <meta property="og:description" content="vinckr personal website." />
+    <meta property="og:image" content="img/logo.svg" />
+    <meta property="og:image:alt" content="vinckr personal website." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://vinckr.com" />
+    <link rel="canonical" href="https://vinckr.com" />
+    <meta name="twitter:card" content="vinckr personal website." />
 
-    <link rel="icon" href="./favicon.ico">
-    <link rel="shortcut icon" href="./img/icon.png">
-    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <meta name="theme-color" content="#000000">   
-  
-    <meta property="og:image:width" content="600">
-    <meta property="og:image:height" content="106">
-    <meta property="og:site_name" content="vinckr">
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="shortcut icon" href="./img/icon.png" />
+    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#000000" />
 
-</head>
-<body>
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="106" />
+    <meta property="og:site_name" content="vinckr" />
+  </head>
+  <body>
     <div class="header">
-        <a href="./index.html"><img src="./img/logo.svg" alt="vinckr"></a>
-        <div class="nav">
+      <a href="./index.html"><img src="./img/logo.svg" alt="vinckr" /></a>
+      <div class="nav">
         <ul>
-            <li><a href="./index.html">home</a></li>
-            <li><a href="blog.html">blog</a></li>
-            <li><a href="links.html">links</a></li>
+          <li><a href="./index.html">home</a></li>
+          <li><a href="links.html">links</a></li>
+          <li><a href="about.html">about</a></li>
         </ul>
-        </div>
+      </div>
     </div>
 
-<article>
-    <h3>My MacOS Setup</h3>
+    <article>
+      <h3>My MacOS Setup</h3>
 
-<p><em>Last updated on 24.03.2022</em></p>
+      <p><em>Last updated on 24.03.2022</em></p>
 
-<p>Start with a clean install.
-Open the <a href="https://en.wikipedia.org/wiki/Terminal_(macOS)">terminal</a> app and copy and paste the commands.<br>
-This is probably outdated as I only update it when setting up MacOs.</p>
+      <p>
+        Start with a clean install. Open the
+        <a href="https://en.wikipedia.org/wiki/Terminal_(macOS)">terminal</a>
+        app and copy and paste the commands.<br />
+        This is probably outdated as I only update it when setting up MacOs.
+      </p>
 
-<blockquote>
-<p>! Only run these commands if you know what you are doing. !</p>
-</blockquote>
+      <blockquote>
+        <p>! Only run these commands if you know what you are doing. !</p>
+      </blockquote>
 
-<h4>Widen the space between apps in Dock</h4>
+      <h4>Widen the space between apps in Dock</h4>
 
-<pre><code class="language-bash">defaults write com.apple.dock persistent-apps -array-add '{&quot;tile-type&quot;=&quot;spacer-tile&quot;;}' &amp;&amp; \
+      <pre><code class="language-bash">defaults write com.apple.dock persistent-apps -array-add '{&quot;tile-type&quot;=&quot;spacer-tile&quot;;}' &amp;&amp; \
 killall Dock
 </code></pre>
 
-<h4>Enable autohide dock</h4>
+      <h4>Enable autohide dock</h4>
 
-<pre><code class="language-bash">defaults write com.apple.dock autohide -boolean true &amp;&amp; \
+      <pre><code class="language-bash">defaults write com.apple.dock autohide -boolean true &amp;&amp; \
 killall Dock
 </code></pre>
 
-<h4>Show hidden files in finder</h4>
+      <h4>Show hidden files in finder</h4>
 
-<pre><code class="language-bash">defaults write com.apple.finder AppleShowAllFiles -boolean true &amp;&amp; \
+      <pre><code class="language-bash">defaults write com.apple.finder AppleShowAllFiles -boolean true &amp;&amp; \
 killall Finder
 </code></pre>
 
-<h4>Create projects folder</h4>
+      <h4>Create projects folder</h4>
 
-<p>(here I store my coding related files &amp; repositories)</p>
+      <p>(here I store my coding related files &amp; repositories)</p>
 
-<pre><code class="language-bash">mkdir  -p ~/projects
+      <pre><code class="language-bash">mkdir  -p ~/projects
 </code></pre>
 
-<h4>Install <a href="https://en.wikipedia.org/wiki/Xcode">Xcode</a></h4>
+      <h4>Install <a href="https://en.wikipedia.org/wiki/Xcode">Xcode</a></h4>
 
-<pre><code class="language-bash">xcode-select --install
+      <pre><code class="language-bash">xcode-select --install
 </code></pre>
 
-<h4>Install <a href="https://brew.sh/">brew</a></h4>
+      <h4>Install <a href="https://brew.sh/">brew</a></h4>
 
-<pre><code class="language-bash">/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+      <pre><code class="language-bash">/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
 </code></pre>
 
-<h4>Install shells</h4>
+      <h4>Install shells</h4>
 
-<pre><code class="language-bash">brew install zsh
+      <pre><code class="language-bash">brew install zsh
 brew install zsh-completions
 brew install --cask iterm2
 </code></pre>
 
-<h4>Customize shell</h4>
+      <h4>Customize shell</h4>
 
-<p><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh</a></p>
+      <p><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh</a></p>
 
-<pre><code class="language-bash">sh -c &quot;$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&quot;
+      <pre><code class="language-bash">sh -c &quot;$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&quot;
 </code></pre>
 
-<p><a href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a></p>
+      <p>
+        <a href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a>
+      </p>
 
-<pre><code class="language-bash">git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+      <pre><code class="language-bash">git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' &gt;&gt;~/.zshrc
 </code></pre>
 
-<h5>Autosuggestions</h5>
+      <h5>Autosuggestions</h5>
 
-<pre><code class="language-bash">git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+      <pre><code class="language-bash">git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 </code></pre>
 
-<p>Add inside ~/.zshrc:</p>
+      <p>Add inside ~/.zshrc:</p>
 
-<pre><code class="language-bash">plugins=(
+      <pre><code class="language-bash">plugins=(
     # other plugins...
     zsh-autosuggestions
 )
 </code></pre>
 
-<h4>Install &amp; customize git</h4>
+      <h4>Install &amp; customize git</h4>
 
-<p>brew install git</p>
+      <p>brew install git</p>
 
-<pre><code class="language-bash">cd ~
+      <pre><code class="language-bash">cd ~
 touch .gitconfig
 open .
 </code></pre>
 
-<p>Add to .gitconfig:</p>
+      <p>Add to .gitconfig:</p>
 
-<pre><code class="language-bash">[alias]
+      <pre><code class="language-bash">[alias]
   # Show verbose output about tags, branches or remotes
   tags = tag -l
   branches = branch -a
@@ -164,18 +170,18 @@ open .
   untracked = cyan
 </code></pre>
 
-<h4>Install browsers</h4>
+      <h4>Install browsers</h4>
 
-<pre><code class="language-bash">brew install --cask firefox
+      <pre><code class="language-bash">brew install --cask firefox
 brew install --cask chromium
 brew install --cask google-chrome
 brew install --cask brave-browser
 brew install --cask opera
 </code></pre>
 
-<h4>Install development tools</h4>
+      <h4>Install development tools</h4>
 
-<pre><code class="language-bash">brew install --cask sublime-text
+      <pre><code class="language-bash">brew install --cask sublime-text
 brew install --cask sublime-merge
 brew install --cask visual-studio-code
 brew install go
@@ -186,16 +192,16 @@ brew install --cask docker
 brew install gh
 </code></pre>
 
-<h4>Install social tools</h4>
+      <h4>Install social tools</h4>
 
-<pre><code class="language-bash">brew install --cask discord
+      <pre><code class="language-bash">brew install --cask discord
 brew install --cask slack
 brew install --cask signal
 </code></pre>
 
-<h4>Install design, content, and other tools</h4>
+      <h4>Install design, content, and other tools</h4>
 
-<pre><code class="language-bash">brew install --cask figma
+      <pre><code class="language-bash">brew install --cask figma
 brew install --cask obs
 brew install --cask adobe-creative-cloud
 brew install --cask vlc
@@ -204,34 +210,42 @@ brew install --cask figma
 brew install youtube-dl
 </code></pre>
 
-<h4>Install misc. tools</h4>
+      <h4>Install misc. tools</h4>
 
-<pre><code class="language-bash">brew install alt-tab
+      <pre><code class="language-bash">brew install alt-tab
 brew install --cask rectangle
 </code></pre>
 
-<h4>Reset Launchpad &amp; Dock</h4>
+      <h4>Reset Launchpad &amp; Dock</h4>
 
-<pre><code class="language-bash">defaults write com.apple.dock ResetLaunchPad -boolean true; killall Dock
+      <pre><code class="language-bash">defaults write com.apple.dock ResetLaunchPad -boolean true; killall Dock
 brew update &amp;&amp; brew upgrade &amp;&amp; brew doctor &amp;&amp; brew cleanup
 </code></pre>
 
-<p>Browser settings:</p>
+      <p>Browser settings:</p>
 
-<ul>
-<li>Turn off <em>save passwords</em> on all browsers</li>
-<li><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></li>
-<li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a></li>
-<li><a href="https://privacybadger.org/">Privacy Badger</a></li>
-</ul>
+      <ul>
+        <li>Turn off <em>save passwords</em> on all browsers</li>
+        <li><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></li>
+        <li>
+          <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a>
+        </li>
+        <li><a href="https://privacybadger.org/">Privacy Badger</a></li>
+      </ul>
 
-<p><img class="center" src="./img/hero-macos.png" alt="Content ends here"></p>
+      <p>
+        <img
+          class="center"
+          src="./img/hero-macos.png"
+          alt="Content ends here"
+        />
+      </p>
+    </article>
 
-</article>
-
-<div class="footer">
-        All Rites Reversed Ⓚ 2022 by <a href="https://github.com/vinckr">vinckr</a>. Powered by <a href="https://golang.org">Go</a>.
+    <div class="footer">
+      All Rites Reversed Ⓚ 2022 by
+      <a href="https://github.com/vinckr">vinckr</a>. Powered by
+      <a href="https://golang.org">Go</a>.
     </div>
-</body>
+  </body>
 </html>
-

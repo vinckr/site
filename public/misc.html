@@ -1,88 +1,118 @@
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Misc cheatsheet · vinckr</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 
-    <meta name="description" content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source.">
+    <meta
+      name="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
 
-    <meta property="og:title" content="vinckr" >
-    <meta property="og:description" content="vinckr personal website." >
-    <meta property="og:image" content="img/logo.svg" >
-    <meta property="og:image:alt" content="vinckr personal website.">
-    <meta property="og:locale" content="en_GB">
-    <meta property="og:type" content="website" >
-    <meta property="og:url" content="https://vinckr.com" >
-    <link rel="canonical" href="https://vinckr.com" >
-    <meta name="twitter:card" content="vinckr personal website.">
+    <meta property="og:title" content="vinckr" />
+    <meta property="og:description" content="vinckr personal website." />
+    <meta property="og:image" content="img/logo.svg" />
+    <meta property="og:image:alt" content="vinckr personal website." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://vinckr.com" />
+    <link rel="canonical" href="https://vinckr.com" />
+    <meta name="twitter:card" content="vinckr personal website." />
 
-    <link rel="icon" href="./favicon.ico">
-    <link rel="shortcut icon" href="./img/icon.png">
-    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <meta name="theme-color" content="#000000">   
-  
-    <meta property="og:image:width" content="600">
-    <meta property="og:image:height" content="106">
-    <meta property="og:site_name" content="vinckr">
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="shortcut icon" href="./img/icon.png" />
+    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#000000" />
 
-</head>
-<body>
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="106" />
+    <meta property="og:site_name" content="vinckr" />
+  </head>
+  <body>
     <div class="header">
-        <a href="./index.html"><img src="./img/logo.svg" alt="vinckr"></a>
-        <div class="nav">
+      <a href="./index.html"><img src="./img/logo.svg" alt="vinckr" /></a>
+      <div class="nav">
         <ul>
-            <li><a href="./index.html">home</a></li>
-            <li><a href="blog.html">blog</a></li>
-            <li><a href="links.html">links</a></li>
+          <li><a href="./index.html">home</a></li>
+          <li><a href="links.html">links</a></li>
+          <li><a href="about.html">about</a></li>
         </ul>
-        </div>
+      </div>
     </div>
 
-<article>
-    <h1>Misc cheatsheet</h1>
+    <article>
+      <h1>Misc cheatsheet</h1>
 
-<p><em>Last updated on 17.11.2022</em></p>
+      <p><em>Last updated on 17.11.2022</em></p>
 
-<p>A mixed collection of commands I had to look up at some point and collect here for future reference.
-Most likely not useful for anyone else but me ;-).</p>
+      <p>
+        A mixed collection of commands I had to look up at some point and
+        collect here for future reference. Most likely not useful for anyone
+        else but me ;-).
+      </p>
 
-<h2>Mixed/UNIX</h2>
+      <h2>Mixed/UNIX</h2>
 
-<ul>
-<li><code>history | awk '{print $2}' | sort | uniq -c | sort -rn | head</code>: see which commands you run often.</li>
-<li><code>curl ipinfo.io</code>: external ip address using ipinfo.io</li>
-<li><code>lsof -iTCP -sTCP:LISTEN -n -P</code>: show all active ports.</li>
-<li><code>kill -9 &lt;PID&gt;</code>: kill process for a port.</li>
-<li><code>dig WWW.VINCKR.COM +nostats +nocomments +nocmd</code>: DNS lookup.</li>
-<li><code>ps uax</code>: networks.</li>
-<li><code>chmod +x name_of_file.sh</code>: make bash file executable.</li>
-</ul>
+      <ul>
+        <li>
+          <code
+            >history | awk '{print $2}' | sort | uniq -c | sort -rn | head</code
+          >: see which commands you run often.
+        </li>
+        <li>
+          <code>curl ipinfo.io</code>: external ip address using ipinfo.io
+        </li>
+        <li>
+          <code>lsof -iTCP -sTCP:LISTEN -n -P</code>: show all active ports.
+        </li>
+        <li><code>kill -9 &lt;PID&gt;</code>: kill process for a port.</li>
+        <li>
+          <code>dig WWW.VINCKR.COM +nostats +nocomments +nocmd</code>: DNS
+          lookup.
+        </li>
+        <li><code>ps uax</code>: networks.</li>
+        <li>
+          <code>chmod +x name_of_file.sh</code>: make bash file executable.
+        </li>
+      </ul>
 
-<h2>CSS</h2>
+      <h2>CSS</h2>
 
-<ul>
-<li><code>div &gt; p</code>: child selector selects all elements that are the children of a specified element (<a href="https://www.w3schools.com/css/css_combinators.asp">See also</a>)</li>
-</ul>
+      <ul>
+        <li>
+          <code>div &gt; p</code>: child selector selects all elements that are
+          the children of a specified element (<a
+            href="https://www.w3schools.com/css/css_combinators.asp"
+            >See also</a
+          >)
+        </li>
+      </ul>
 
-<h2>Docker</h2>
+      <h2>Docker</h2>
 
-<ul>
-<li><code>docker kill $(docker ps -q)</code>: stop all Docker containers.</li>
-<li><code>docker rm $(docker ps -a -q)</code>: remove all Docker containers.</li>
-<li><code>docker rmi $(docker images -q)</code>: remove all Docker images.</li>
-</ul>
+      <ul>
+        <li>
+          <code>docker kill $(docker ps -q)</code>: stop all Docker containers.
+        </li>
+        <li>
+          <code>docker rm $(docker ps -a -q)</code>: remove all Docker
+          containers.
+        </li>
+        <li>
+          <code>docker rmi $(docker images -q)</code>: remove all Docker images.
+        </li>
+      </ul>
 
-<h2>git town</h2>
+      <h2>git town</h2>
 
-<p>Aliases for git-town, add to git config:</p>
+      <p>Aliases for git-town, add to git config:</p>
 
-<pre><code>git config --global alias.append &quot;town append&quot;
+      <pre><code>git config --global alias.append &quot;town append&quot;
 git config --global alias.hack &quot;town hack&quot;
 git config --global alias.kill &quot;town kill&quot;
 git config --global alias.repo &quot;town repo&quot;
@@ -94,86 +124,105 @@ git config --global alias.prune-branches &quot;town prune-branches&quot;
 git config --global alias.rename-branch &quot;town rename-branch&quot;
 </code></pre>
 
-<h2>regex</h2>
+      <h2>regex</h2>
 
-<p>Replace newlines:</p>
+      <p>Replace newlines:</p>
 
-<pre><code>\r\n?|\n
+      <pre><code>\r\n?|\n
 </code></pre>
 
-<h2>markdown</h2>
+      <h2>markdown</h2>
 
-<p>Documenting some lesser know markdown features of my blog, curtesy of <a href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions">CommonExtensions</a> and <a href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes">Footnotes</a></p>
+      <p>
+        Documenting some lesser know markdown features of my blog, curtesy of
+        <a
+          href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#CommonExtensions"
+          >CommonExtensions</a
+        >
+        and
+        <a
+          href="https://pkg.go.dev/github.com/gomarkdown/markdown/parser#Footnotes"
+          >Footnotes</a
+        >
+      </p>
 
-<ul>
-<li><p>Ignore emphasis markers inside w*ord*s</p></li>
+      <ul>
+        <li><p>Ignore emphasis markers inside w*ord*s</p></li>
 
-<li><p>Add a footnote<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p></li>
-</ul>
+        <li>
+          <p>
+            Add a footnote<sup class="footnote-ref" id="fnref:1"
+              ><a href="#fn:1">1</a></sup
+            >:
+          </p>
+        </li>
+      </ul>
 
-<pre><code>Here is a footnote reference[^1] and some more text.
+      <pre><code>Here is a footnote reference[^1] and some more text.
 
 [^1]: Here is the footnote.
 </code></pre>
 
-<ul>
-<li>Markdown tables</li>
-</ul>
+      <ul>
+        <li>Markdown tables</li>
+      </ul>
 
-<pre><code>| Id  | Name       | Signed-In |
+      <pre><code>| Id  | Name       | Signed-In |
 | --- | ---------- | --------  |
 | 1   | John Smith | Yes       |
 | 2   | John Doe   | No        |
 </code></pre>
 
-<table>
-<thead>
-<tr>
-<th>Id</th>
-<th>Name</th>
-<th>Signed-In</th>
-</tr>
-</thead>
+      <table>
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Signed-In</th>
+          </tr>
+        </thead>
 
-<tbody>
-<tr>
-<td>1</td>
-<td>John Smith</td>
-<td>Yes</td>
-</tr>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>John Smith</td>
+            <td>Yes</td>
+          </tr>
 
-<tr>
-<td>2</td>
-<td>John Doe</td>
-<td>No</td>
-</tr>
-</tbody>
-</table>
+          <tr>
+            <td>2</td>
+            <td>John Doe</td>
+            <td>No</td>
+          </tr>
+        </tbody>
+      </table>
 
-<ul>
-<li>Strikethrough</li>
-</ul>
+      <ul>
+        <li>Strikethrough</li>
+      </ul>
 
-<p><del>Noone should read this</del></p>
+      <p><del>Noone should read this</del></p>
 
-<p><code>~~Noone should read this~~</code></p>
+      <p><code>~~Noone should read this~~</code></p>
 
-<ul>
-<li>Definition lists</li>
-</ul>
+      <ul>
+        <li>Definition lists</li>
+      </ul>
 
-<dl>
-<dt>Term 1</dt>
-<dd><p>Definition 1</p></dd>
-<dt>Term 2 with <em>inline markup</em></dt>
-<dd><p>Definition 2</p>
+      <dl>
+        <dt>Term 1</dt>
+        <dd><p>Definition 1</p></dd>
+        <dt>Term 2 with <em>inline markup</em></dt>
+        <dd>
+          <p>Definition 2</p>
 
-<pre><code>{ some code, part of Definition 2 }
+          <pre><code>{ some code, part of Definition 2 }
 </code></pre>
-<p>Third paragraph of definition 2.</p></dd>
-</dl>
+          <p>Third paragraph of definition 2.</p>
+        </dd>
+      </dl>
 
-<pre><code>Term 1
+      <pre><code>Term 1
 
 : Definition 1
 
@@ -186,23 +235,23 @@ Term 2 with _inline markup_
     Third paragraph of definition 2.
 </code></pre>
 
-<p><img class="center" src="./img/hero-git.png" alt="Content ends here"></p>
+      <p>
+        <img class="center" src="./img/hero-git.png" alt="Content ends here" />
+      </p>
 
-<div class="footnotes">
+      <div class="footnotes">
+        <hr />
 
-<hr>
+        <ol>
+          <li id="fn:1">Bumblebees can fly, and so can you 🐝</li>
+        </ol>
+      </div>
+    </article>
 
-<ol>
-<li id="fn:1">Bumblebees can fly, and so can you 🐝</li>
-</ol>
-
-</div>
-
-</article>
-
-<div class="footer">
-        All Rites Reversed Ⓚ 2022 by <a href="https://github.com/vinckr">vinckr</a>. Powered by <a href="https://golang.org">Go</a>.
+    <div class="footer">
+      All Rites Reversed Ⓚ 2022 by
+      <a href="https://github.com/vinckr">vinckr</a>. Powered by
+      <a href="https://golang.org">Go</a>.
     </div>
-</body>
+  </body>
 </html>
-

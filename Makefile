@@ -29,11 +29,11 @@ build: # build HTML without committing
 
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"
-	go run cmd/links/main.go
+	go run cmd/links/main.go &> urls-sorted-markdown.txt
 
 links-sort: # sort links and delete duplicates
 	echo "Sorting markdown links"
-	cat urls-unsorted.txt | sort -u > urls.txt
+	cat urls-unsorted.txt | sort -u > urls-sorted.txt
 
 encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	echo "Encrypting drafts"

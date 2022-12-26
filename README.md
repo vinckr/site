@@ -23,7 +23,6 @@ decrypt-drafts   decrypt files in drafts folder
 
 ## TODO Launch
 
-- [ ] dynamically build navigation
 - [ ] mobile/desktop view
 - [ ] proper struct for global and site config
   - [ ] art (+pic-host)

@@ -9,7 +9,8 @@ _drafts
 drafts/drafts.zip
 urls.txt
 urls-unsorted.txt
-
+urls-sorted.txt
+urls-sorted-markdown.txt
 
 .bin
 !*.secure

@@ -2,7 +2,8 @@ html {
   font-size: 1em;
   font-family: system-ui;
   --code-color: #302b5f;
-  --link-color: #004068;
+  --link-color: #008fe8;
+  --button-color: #004874;
 }
 
 body {
@@ -82,6 +83,10 @@ button {
   display: inline-block;
 }
 
+.nav a {
+  color: var(--button-color);
+}
+
 .metal {
   text-align: center;
   color: hsla(0, 0%, 20%, 1);
@@ -99,7 +104,8 @@ button {
 }
 
 .metal.linear {
-  width: 100px;
+  box-sizing: content-box;
+  padding: 0 0.4em;
   font-size: 2em;
   height: 60px;
   border-radius: 0.5em;

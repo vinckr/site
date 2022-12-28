@@ -104,5 +104,6 @@ for my own reference, a list of books to read
 - [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee)
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 - [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
+- [The Discarded Image: An Introduction to Medieval and Renaissance Literature by C.S. Lewis](https://www.goodreads.com/book/show/80005.The_Discarded_Image)
 
 <img class="center" src="./img/hero-reviews.png" alt="Content ends here">

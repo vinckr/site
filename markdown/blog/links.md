@@ -46,7 +46,6 @@ Start reading and never stop.
 
 Everything relevant to text creation.
 
-- [Generative text editor](https://automotron.io/)
 - [Cliche Finder](http://cliche.theinfo.org/)
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
@@ -170,7 +169,6 @@ Official courses and other learning resources.
 - [Producing Open Source Software](https://producingoss.com/en/index.html)
 - [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 - [Python IDE for beginners](https://thonny.org/)
-- [Creative Coding Course](https://www.edx.org/course/creative-coding)
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Creative Coding Resources](https://timrodenbroeker.de/resources/)
@@ -268,7 +266,6 @@ Anything related to producing sound/music.
 
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
-- [Checklist for video calls](https://checklist.video/checklist/)
 - [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
 
 ## Fun

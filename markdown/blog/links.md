@@ -57,27 +57,21 @@ Everything relevant to text creation.
 
 ## Cheat Sheets
 
-Collections of condensed knowledge.
+Collections of knowledge often looked up and forgotten.
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [List of lists for all CS topics.](https://github.com/sindresorhus/awesome)
 - [git commands for everyday use](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 - [Fix your git mistakes](https://ohshitgit.com/)
-- [Useful CLI commands](https://github.com/you-dont-need/You-Dont-Need-GUI)
-- [Deep dive in CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
-- [Learn pandas - Python Data Analysis Library](https://kellyfoulk.herokuapp.com/post/3)
-- [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [How to do anything on the CLI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 - [Postgres indexes introduction](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
-- [Beej's Guide to using internet sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 - [Code table - alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
+- [Deep dive in CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
 
-## Development
-
-Resources for web development and related topics.
-
-### Design
+## Design
 
 - [Awwwards](https://www.awwwards.com/)
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
@@ -95,6 +89,10 @@ Resources for web development and related topics.
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
+
+## Development
+
+Resources for web development and related topics.
 
 #### Fonts
 
@@ -126,7 +124,7 @@ Resources for web development and related topics.
 - [Grid by Example](https://gridbyexample.com/)
 - [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 
-### Tools & Tricks
+### Tools
 
 - [Dan's Tools](https://www.danstools.com/)
 - [Browser support tables for support of front-end web](https://caniuse.com/)
@@ -141,6 +139,7 @@ Resources for web development and related topics.
 - [Syncthing - sync anything](https://syncthing.net/)
 - [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
+- [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 
 ### Documentation
 

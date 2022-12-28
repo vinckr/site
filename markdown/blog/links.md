@@ -8,6 +8,8 @@ _Last updated on 17.11.2022_
 
 A collection of links to various websites, resources and even more link collections.
 
+**Table of contents**
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 

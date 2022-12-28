@@ -105,5 +105,12 @@ for my own reference, a list of books to read
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 - [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
 - [The Discarded Image: An Introduction to Medieval and Renaissance Literature by C.S. Lewis](https://www.goodreads.com/book/show/80005.The_Discarded_Image)
+- [The Faithful Executioner: Life and Death, Honor and Shame in the Turbulent Sixteenth Century by Joel F. Harrington](https://www.goodreads.com/book/show/15793575-the-faithful-executioner)
+- [Sobre héroes y tumbas by Ernesto Sabato](https://www.goodreads.com/book/show/1677.Sobre_h_roes_y_tumbas)
+- [Sex, Drugs & Magick by Robert Anton Wilson](https://www.goodreads.com/book/show/259578.Sex_Drugs_Magick)
+- [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness by Peter Godfrey-Smith](https://www.goodreads.com/book/show/28116739-other-minds)
+- [Tyll by Daniel Kehlmann](https://www.goodreads.com/book/show/36130507-tyll)
+- [Cosmic Trigger Volume I: Final Secret of the Illuminati by Robert Anton Wilson](https://www.goodreads.com/book/show/4237.Cosmic_Trigger_Volume_I)
+- [Abaddón el Exterminador by Ernesto Sabato](https://www.goodreads.com/book/show/63001.Abadd_n_el_Exterminador)
 
 <img class="center" src="./img/hero-reviews.png" alt="Content ends here">

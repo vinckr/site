@@ -2,6 +2,7 @@ include .env
 
 u: # format, encrypt drafts, build HTML pages and commit to git
 	make build
+	npx doctoc markdown/blog/links.md
 	make format
 	make encrypt-drafts
 	git add .

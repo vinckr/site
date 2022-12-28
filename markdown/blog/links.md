@@ -8,6 +8,36 @@ _Last updated on 17.11.2022_
 
 A collection of links to various websites, resources and even more link collections.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Reading](#reading)
+  - [Wiki Articles](#wiki-articles)
+- [Writing](#writing)
+- [Cheat Sheets](#cheat-sheets)
+- [Design](#design)
+- [Development](#development)
+  - [Fonts](#fonts)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Tools](#tools)
+  - [Documentation](#documentation)
+  - [GameDev](#gamedev)
+  - [Learning](#learning)
+  - [Product](#product)
+  - [Security](#security)
+  - [Code Examples](#code-examples)
+- [Sound](#sound)
+- [Generative Art](#generative-art)
+  - [Generators](#generators)
+  - [Tools](#tools-1)
+  - [Prompt Engineering](#prompt-engineering)
+- [Internet](#internet)
+- [Fun](#fun)
+- [Uncategorized](#uncategorized)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Reading
 
 Start reading and never stop.
@@ -32,7 +62,7 @@ Start reading and never stop.
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
 - [HN Classics](https://posobin.com/hn_classics/)
 
-### Notable Wikipedia Articles
+### Wiki Articles
 
 - [Preparedness paradox](https://en.m.wikipedia.org/wiki/Preparedness_paradox)
 - [Nocturnal bottleneck](https://en.m.wikipedia.org/wiki/Nocturnal_bottleneck)
@@ -88,12 +118,13 @@ Collections of knowledge often looked up and forgotten.
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
+- [Jan V. White - Resources on page layout, typography, infographics, color and more.](https://www.janvwhite.org/)
 
 ## Development
 
 Resources for web development and related topics.
 
-#### Fonts
+### Fonts
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
@@ -262,8 +293,9 @@ Anything related to producing sound/music.
 - [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [Krea Prompts API](https://devapi.krea.ai/)
 
-## Remote
+## Internet
 
+- [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)

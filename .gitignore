@@ -14,3 +14,5 @@ urls-sorted-markdown.txt
 
 .bin
 !*.secure
+
+node_modules

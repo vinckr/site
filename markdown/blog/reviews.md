@@ -4,12 +4,18 @@ pagetitle: "Reviews"
 
 ## Reviews
 
-_Last updated on 22.09.2022_
+_Last updated on 29.12.2022_
 
 I review and rate some of the media I consume. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 ### 🎞 movies
 
+- [War of the Worlds TV-Series](https://www.imdb.com/title/tt9686194/) 2/5
+- [Primal](https://www.imdb.com/title/tt10332508/) 5/5
+- [Dolemite Is My Name](https://www.imdb.com/title/tt8526872/) 4/5
+- [All Quiet on the Western Front](https://www.imdb.com/title/tt1016150) 3/5
+- [Curb your enthusiasm](https://www.imdb.com/title/tt0264235) 5/5
+- [The Book of Boba Fett](https://www.imdb.com/title/tt13668894/) 4/5
 - [Reality](https://www.imdb.com/title/tt2392672) 3/5
 - [Dune](https://www.imdb.com/title/tt1160419) 3/5
 - [Get Out](https://www.imdb.com/title/tt5052448) 5/5
@@ -26,7 +32,14 @@ I review and rate some of the media I consume. Don't take it too seriously - it'
 
 ### 📖 books
 
+- [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
+- [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
+- [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+- [Tortilla Flat](https://www.goodreads.com/book/show/163977.Tortilla_Flat) 5/5
+- [Blood Meridian, or the Evening Redness in the West](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)
+- [Things Have Gotten Worse Since We Last Spoke](https://www.goodreads.com/book/show/57876868-things-have-gotten-worse-since-we-last-spoke) 3/5
 - [Hollow](https://www.goodreads.com/book/show/56212878-hollow) 5/5
+- [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
 - [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
 
@@ -72,6 +85,11 @@ for my own reference, a list of movies to watch
 - [Six-String Samurai](https://www.imdb.com/title/tt0118736)
 - [Mad Monkey Kung Fu](https://www.imdb.com/title/tt0079147)
 - [Streetwise](https://www.imdb.com/title/tt0088196)
+- [Alex Boncayao Brigade](https://www.imdb.com/title/tt0384800/)
+- [Voyna](https://www.imdb.com/title/tt0309047/)
+- [Soldier (1998)](https://m.imdb.com/title/tt0120157/)
+- [Interstellar](https://m.imdb.com/title/tt0816692/)
+- [Barbarian](https://m.imdb.com/title/tt15791034/)
 
 ### readlist
 

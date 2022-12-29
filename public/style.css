@@ -76,7 +76,7 @@ button {
   width: 100%;
   max-width: 200px;
   height: auto;
-  padding-right: 55px;
+  padding-right: 1rem;
 }
 
 .nav li {
@@ -91,7 +91,7 @@ button {
   text-align: center;
   color: hsla(0, 0%, 20%, 1);
   text-shadow: hsla(0, 0%, 40%, 0.4) 0 -1px 0, hsla(0, 0%, 100%, 0.6) 0 2px 1px;
-
+  margin-bottom: 0.75rem;
   background-color: hsl(0, 0%, 90%);
   box-shadow: inset hsla(0, 0%, 15%, 1) 0 0px 0px 4px,
     /* border */ inset hsla(0, 0%, 30%, 0.8) 0 -1px 5px 4px,

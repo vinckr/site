@@ -4,7 +4,7 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 17.11.2022_
+_Last updated on 29.12.2022_
 
 A collection of links to various websites, resources and even more link collections.
 
@@ -63,16 +63,26 @@ Start reading and never stop.
 - [The Anarchist Library](https://theanarchistlibrary.org/)
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
 - [HN Classics](https://posobin.com/hn_classics/)
+- [Clarkesworld Magazine – Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
 
 ### Wiki Articles
 
+- [Wikipedia:Unusual articles](https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles)
+- [Cradle of civilization](https://en.m.wikipedia.org/wiki/Cradle_of_civilization)
+- [Enantiomer](https://en.m.wikipedia.org/wiki/Enantiomer)
+- [Fruit machine](<https://en.m.wikipedia.org/wiki/Fruit_machine_(homosexuality_test)>)
+- [Lifelog](https://en.m.wikipedia.org/wiki/Lifelog)
+- [Sousveillance](https://en.m.wikipedia.org/wiki/Sousveillance)
+- [The General Crisis](https://en.m.wikipedia.org/wiki/The_General_Crisis)
 - [Preparedness paradox](https://en.m.wikipedia.org/wiki/Preparedness_paradox)
 - [Nocturnal bottleneck](https://en.m.wikipedia.org/wiki/Nocturnal_bottleneck)
 - [Eight Immortals](https://en.wikipedia.org/wiki/Eight_Immortals)
 - [Kramatorsk radiological accident](https://en.m.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 - [List of orphan source incidents](https://en.m.wikipedia.org/wiki/List_of_orphan_source_incidents)
 - [Feraliminal Lycanthropizer](https://en.m.wikipedia.org/wiki/Feraliminal_Lycanthropizer)
-- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/International_Air_Transport_Association_code#IATA_meal_codes)
+- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/
+  International_Air_Transport_Association_code#IATA_meal_codes)
+- [Bamberg witch trials](https://en.m.wikipedia.org/wiki/Bamberg_witch_trials)
 
 ## Writing
 
@@ -101,11 +111,14 @@ Collections of knowledge often looked up and forgotten.
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 - [Code table - alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
 - [Deep dive in CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
+- [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 
 ## Design
 
 - [Awwwards](https://www.awwwards.com/)
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
+- [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
+- [MAAS Collection](https://collection.maas.museum/search?q=radio&p=4)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/)
@@ -122,7 +135,7 @@ Collections of knowledge often looked up and forgotten.
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
 - [Jan V. White - Resources on page layout, typography, infographics, color and more.](https://www.janvwhite.org/)
 
-## Development
+## Software
 
 Resources for web development and related topics.
 
@@ -172,6 +185,7 @@ Resources for web development and related topics.
 - [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
 - [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
 
 ### Documentation
 
@@ -263,6 +277,9 @@ Anything related to producing sound/music.
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 - [Find collabs and remix material](https://www.brew.fm/)
 - [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
+- [Music Theory Tools to learn music online for free](https://muted.io/)
+- [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
+- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 
 ## Generative Art
 
@@ -271,6 +288,7 @@ Anything related to producing sound/music.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [Context Free Art](https://www.contextfreeart.org/index.html)
 
 ### Tools
 
@@ -278,8 +296,10 @@ Anything related to producing sound/music.
 - [Remove Background from Image](https://www.remove.bg/)
 - [EbSynth - Transform Video by Painting Over a Single Frame](https://ebsynth.com/)
 - [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
+- [BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)](https://www.birme.net/)
+- [Remove Image Backgrounds](https://pixian.ai/)
 
-### Prompt Engineering
+### Resources
 
 - [AI Prompt](https://www.aiprompt.io/#)
 - [Stable Diffusion Artist list - Style studies](https://stablediffusion.fr/artists)
@@ -294,13 +314,16 @@ Anything related to producing sound/music.
 - [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
 - [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [Krea Prompts API](https://devapi.krea.ai/)
+- [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
-## Internet
+## Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
+- [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
+- [CommunityRule](https://communityrule.info/)
 
 ## Fun
 
@@ -318,6 +341,7 @@ Anything related to producing sound/music.
 - [Holotypic occlupanid researc group](https://horg.com/)
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
 - [Bastard Operator from Hell](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
+- [YTMND - Blue Ball Machine (fixed)](https://blueballfixed.ytmnd.com/)
 
 ## Uncategorized
 

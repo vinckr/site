@@ -8,6 +8,7 @@ pagetitle: "Blog"
 
 a monthly collection of articles, tools, open source software, and more
 
+- [11-2022](11-22.html)
 - [10-2022](10-22.html)
 - [09-2022](09-22.html)
 - [08-2022](08-22.html)

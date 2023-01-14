@@ -1,7 +1,4 @@
-include .env
-
 u: # format, encrypt drafts, build HTML pages and commit to git
-	make build
 	npx doctoc markdown/blog/links.md
 	make format
 	make encrypt-drafts
@@ -24,9 +21,9 @@ test: .bin/shellcheck .bin/shfmt node_modules  # run all linters
 
 build: # build HTML without committing
 	echo "Building HTML files"
-	go run cmd/build/main.go page index
-	go run cmd/build/main.go page about
-	go run cmd/build/main.go dir markdown/blog/
+	go run vinckr/gokesh/cmd/build/ page index
+	go run vinckr/gokesh/cmd/build/ page about
+	go run vinckr/gokesh/cmd/build/ dir markdown/blog/
 
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"

@@ -6,8 +6,6 @@ pagetitle: "Blog"
 
 ## monthly digest
 
-a monthly collection of articles, tools, open source software, and more
-
 - [11-2022](11-22.html)
 - [10-2022](10-22.html)
 - [09-2022](09-22.html)
@@ -19,15 +17,11 @@ a monthly collection of articles, tools, open source software, and more
 
 ## pages
 
-Assorted pages & topics
-
 - [quotes](quotes.html)
 - [reviews](reviews.html)
 - [munich food tips](munich-tips.html)
 
 ## cheatsheets
-
-commands I often have to look up
 
 - [git](git.html)
 - [macos](macos.html)

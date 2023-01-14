@@ -6,7 +6,7 @@ pagetitle: "Blog"
 
 ## monthly digest
 
-a monthly collection of articles, tools, open source software, and more
+handpicked articles, tools, open source software, and more
 
 - [11-2022](11-22.html)
 - [10-2022](10-22.html)

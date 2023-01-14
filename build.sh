@@ -16,5 +16,6 @@ echo "Building HTML files"
 .bin/build page index
 .bin/build page about
 .bin/build dir markdown/blog/
+
 echo "Copying public files"
 cp -R public/* ../../public

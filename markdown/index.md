@@ -17,15 +17,11 @@ pagetitle: "Blog"
 
 ## pages
 
-Assorted pages & topics
-
 - [quotes](quotes.html)
 - [reviews](reviews.html)
 - [munich food tips](munich-tips.html)
 
 ## cheatsheets
-
-commands I often have to look up
 
 - [git](git.html)
 - [macos](macos.html)

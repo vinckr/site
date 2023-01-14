@@ -1,9 +1,14 @@
 #!/bin/sh
 set -e
 
+
 echo "Install build tools"
-go get github.com/vinckr/gokesh/cmd/build
-go install github.com/vinckr/gokesh/cmd/build
+mkdir -p functions
+GOOS=linux
+GOARCH=amd64
+GO111MODULE=on
+GOBIN=${PWD}/functions go get ./...
+GOBIN=${PWD}/functions go install ./...
 echo "Building HTML files"
 go run vinckr/gokesh/cmd/build/ page index
 go run vinckr/gokesh/cmd/build/ page about

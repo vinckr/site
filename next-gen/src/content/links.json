@@ -1,9 +1,0 @@
-{
-  "Page": {
-    "SiteTitle": "vinckr.com",
-    "Navigation": ["index", "links"],
-    "Welcome": "hello 👋",
-    "Title": "Links",
-    "About": ["hello this is link page", "Thanks for visiting!"]
-  }
-}

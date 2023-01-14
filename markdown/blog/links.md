@@ -37,6 +37,7 @@ A collection of links to various websites, resources and even more link collecti
 - [Work](#work)
 - [Fun](#fun)
 - [Uncategorized](#uncategorized)
+  - [Shops](#shops)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -64,10 +65,16 @@ Start reading and never stop.
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
 - [HN Classics](https://posobin.com/hn_classics/)
 - [Clarkesworld Magazine – Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
+- [AEscifi – Free science fiction from the frozen north](https://aescifi.ca/)
+- [Cryptome](https://cryptome.org/)
+- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
+- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 
 ### Wiki Articles
 
 - [Wikipedia:Unusual articles](https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles)
+- [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+- [List of stews](https://en.m.wikipedia.org/wiki/List_of_stews)
 - [Cradle of civilization](https://en.m.wikipedia.org/wiki/Cradle_of_civilization)
 - [Enantiomer](https://en.m.wikipedia.org/wiki/Enantiomer)
 - [Fruit machine](<https://en.m.wikipedia.org/wiki/Fruit_machine_(homosexuality_test)>)
@@ -80,9 +87,11 @@ Start reading and never stop.
 - [Kramatorsk radiological accident](https://en.m.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 - [List of orphan source incidents](https://en.m.wikipedia.org/wiki/List_of_orphan_source_incidents)
 - [Feraliminal Lycanthropizer](https://en.m.wikipedia.org/wiki/Feraliminal_Lycanthropizer)
-- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/
-  International_Air_Transport_Association_code#IATA_meal_codes)
+- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/International_Air_Transport_Association_code#IATA_meal_codes)
 - [Bamberg witch trials](https://en.m.wikipedia.org/wiki/Bamberg_witch_trials)
+- [The Campaign for North Africa](https://en.m.wikipedia.org/wiki/The_Campaign_for_North_Africa)
+- [The Thing (listening device)](<https://en.m.wikipedia.org/wiki/The_Thing_(listening_device)>)
+- [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army)
 
 ## Writing
 
@@ -246,6 +255,7 @@ Official courses and other learning resources.
 - [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
+- [OSS Insight](https://ossinsight.io/)
 
 ### Security
 
@@ -254,6 +264,9 @@ Official courses and other learning resources.
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
 - [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
 - [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog).
+- [Canarytokens](https://canarytokens.org/)
+- [Is your browser fingerprint unique?](https://amiunique.org/fp)
+- [Most Common User Agent Strings](https://www.useragents.me/)
 
 ### Code Examples
 
@@ -289,6 +302,8 @@ Anything related to producing sound/music.
 - [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [Context Free Art](https://www.contextfreeart.org/index.html)
+- [Civitai | Every model in one place](https://civitai.com/)
+- [Riffusion](https://www.riffusion.com/about)
 
 ### Tools
 
@@ -302,6 +317,9 @@ Anything related to producing sound/music.
 ### Resources
 
 - [AI Prompt](https://www.aiprompt.io/#)
+- [Stable Diffusion search engine](https://lexica.art/)
+- [Prompthero - prompts/generated images database](https://prompthero.com/)
+- [Krea Prompts API](https://devapi.krea.ai/)
 - [Stable Diffusion Artist list - Style studies](https://stablediffusion.fr/artists)
 - [The definitive Stable Diffusion experience ™ guide](https://rentry.org/voldy)
 - [Public Prompts](https://publicprompts.art/)
@@ -313,7 +331,6 @@ Anything related to producing sound/music.
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 - [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
 - [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
-- [Krea Prompts API](https://devapi.krea.ai/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
 ## Work
@@ -324,6 +341,7 @@ Anything related to producing sound/music.
 - [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
 - [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
 - [CommunityRule](https://communityrule.info/)
+- [4 Day Work Week Jobs](https://4dayweek.io/)
 
 ## Fun
 
@@ -342,11 +360,12 @@ Anything related to producing sound/music.
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
 - [Bastard Operator from Hell](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
 - [YTMND - Blue Ball Machine (fixed)](https://blueballfixed.ytmnd.com/)
+- [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
+- [puter.com](https://puter.com/)
 
 ## Uncategorized
 
 - [Ebook reader inside the browser](https://www.loudreader.com/)
-- [Is your browser fingerprint unique?](https://amiunique.org/fp)
 - [HTML Over The Wire](https://hotwire.dev/)
 - [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
 - [555 Timer Circuits](https://www.555-timer-circuits.com/)
@@ -354,5 +373,10 @@ Anything related to producing sound/music.
 - [Wildcard - Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
+- [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
+
+### Shops
+
+- [Medimops – Buy used products](https://www.medimops.de/)
 
 <img class="center" src="./img/hero-links.png" alt="Content ends here">

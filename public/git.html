@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>git Cheatsheet · vinckr</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <meta
+      name="description"
+      content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source."
+    />
+
+    <meta property="og:title" content="vinckr" />
+    <meta property="og:description" content="vinckr personal website." />
+    <meta property="og:image" content="img/logo.svg" />
+    <meta property="og:image:alt" content="vinckr personal website." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://vinckr.com" />
+    <link rel="canonical" href="https://vinckr.com" />
+    <meta name="twitter:card" content="vinckr personal website." />
+
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="shortcut icon" href="./img/icon.png" />
+    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#000000" />
+
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="106" />
+    <meta property="og:site_name" content="vinckr" />
+  </head>
+  <body>
+    <div class="header">
+      <a class="logo" href="./index.html"
+        ><img src="./img/logo.svg" alt="vinckr"
+      /></a>
+      <div class="nav">
+        <li>
+          <button class="metal linear"><a href="./index.html">blog</a></button>
+        </li>
+        <li>
+          <button class="metal linear"><a href="links.html">links</a></button>
+        </li>
+        <li>
+          <button class="metal linear"><a href="music.html">music</a></button>
+        </li>
+        <li>
+          <button class="metal linear"><a href="about.html">about</a></button>
+        </li>
+      </div>
+    </div>
+
+    <article>
+      <h1>git cheatsheet</h1>
+
+      <p><em>Last updated on 17.11.2022</em></p>
+
+      <blockquote>
+        <p>
+          git gets easier once you get the basic idea that branches are
+          homeomorphic endofunctors mapping submanifolds of a Hilbert space.
+        </p>
+      </blockquote>
+
+      <h2>Basics</h2>
+
+      <ul>
+        <li><code>git init</code>: start a new repository.</li>
+        <li><code>git status</code>: check current status.</li>
+        <li>
+          <code>git commit -am &quot;&lt;commit-message&gt;</code>: commit all
+          changes in the working directory with a message added on.
+        </li>
+        <li>
+          <code>git switch -c &lt;branch-name&gt;</code>: create a branch and
+          switch to it (<code>git checkout -b</code> will do the same, omit
+          <code>-c</code> to just switch branches, use <code>-t</code> to set
+          origin as upstream).
+        </li>
+        <li>
+          <code>git merge [branch]</code>: merge named branch into current
+          branch.
+        </li>
+        <li>
+          <code>git branch &lt;branch-name&gt; -d</code> : delete branch if not
+          tracked (<code>-D</code> to force, caution!).
+        </li>
+        <li>
+          <code>git log --pretty=oneline</code>: show a graph of commit history.
+        </li>
+        <li><code>git remote -v</code> : check origins.</li>
+        <li>
+          <code
+            >git branch | grep -v &quot;master&quot; | xargs git branch -D</code
+          >
+          : delete all local branches except master.
+        </li>
+        <li>
+          <code>git add .</code> : add all files of the current directory to
+          track (including untracked).
+        </li>
+        <li>
+          <code
+            >git rev-list --count --since=&quot;Jan 1 2020&quot;
+            --before=&quot;Jan 1 2021&quot; --all</code
+          >
+          number of commits over timeframe.
+        </li>
+        <li>
+          <code>git log --format='%aN' | sort -u</code> : list all contributors
+          by name.
+        </li>
+        <li>
+          <code>git log --all --full-history -- &quot;**/some-file.*&quot;</code
+          >: search git history for a specific file. Useful when something got
+          deleted.
+        </li>
+        <li>
+          <code>git fetch origin &lt;your-branch&gt;:&lt;your-branch&gt;</code>:
+          fetch a branch.
+        </li>
+      </ul>
+
+      <h3>config</h3>
+
+      <ul>
+        <li><code>git config --global color.ui auto</code>: helpful colors.</li>
+        <li>
+          <code>git config --global user.name &quot;vinckr&quot;</code>: set
+          user name globally for commits.
+        </li>
+        <li>
+          <code
+            >git config --global user.email &quot;vinckr@example.com&quot;</code
+          >: set email globally for commits.
+        </li>
+      </ul>
+
+      <h2>Troubleshooting</h2>
+
+      <p><strong>Use the following with caution!</strong></p>
+
+      <ul>
+        <li>
+          <code>git revert &lt;commit-id&gt;</code> : revert a commit that is
+          already pushed.
+        </li>
+        <li>
+          <code
+            >git commit --amend -m &quot;&lt;new-commit-message&gt;&quot;</code
+          >
+          : fix commit message (only use if you haven&rsquo;t pushed already!).
+        </li>
+        <li>
+          <code>git rm --cached -r .</code> : remove everything from git cache.
+        </li>
+        <li>
+          <code>git reset --soft HEAD~N</code> : undo last N commits, but keep
+          changes locally.
+        </li>
+        <li>
+          <code>git reset --hard HEAD~N</code> : undo and delete last N commits.
+        </li>
+        <li>
+          <code>git reset --hard origin/&lt;branch-name&gt;</code> : undo all
+          local commits to a branch.
+        </li>
+        <li>
+          add files to last commit (only use if you haven&rsquo;t pushed
+          already!).
+        </li>
+      </ul>
+
+      <pre><code class="language-bash">git add &lt;file_name&gt;
+git commit --amend HEAD~1
+</code></pre>
+
+      <ul>
+        <li>delete local copy of branch and fetch upstream:</li>
+      </ul>
+
+      <pre><code class="language-bash">git switch master
+git branch -d &lt;branch-name&gt;
+git fetch origin &lt;branch-name&gt;
+git checkout -b &lt;branch-name&gt; origin/&lt;branch-name&gt;
+</code></pre>
+
+      <h2>Further reference</h2>
+
+      <ul>
+        <li><a href="https://ohshitgit.com/">Oh Shit, Git!?!</a></li>
+        <li>
+          <a href="http://marklodato.github.io/visual-git-guide/index-en.html"
+            >A Visual Git Reference</a
+          >
+        </li>
+        <li>
+          <a href="https://wiki.spheredev.org/index.php/Git_for_the_lazy"
+            >Git for the lazy</a
+          >
+        </li>
+        <li>
+          <a href="https://gitimmersion.com/">Git Immersion: A guided tour</a>
+        </li>
+        <li><a href="https://gitfu.wordpress.com/">git-fu</a></li>
+      </ul>
+
+      <p>
+        <img class="center" src="./img/hero-git.png" alt="Content ends here" />
+      </p>
+    </article>
+
+    <div class="footer">
+      All Rites Reversed Ⓚ 2022 by
+      <a href="https://github.com/vinckr">vinckr</a>. Powered by
+      <a href="https://golang.org">Go</a>.
+    </div>
+  </body>
+</html>

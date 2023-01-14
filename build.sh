@@ -2,9 +2,8 @@
 set -e
 
 echo "Install build tools"
-go get github.com/vinckr/gokesh/cmd/build
-go install github.com/vinckr/gokesh/cmd/build
+go build -o .bin/build github.com/vinckr/gokesh/
 echo "Building HTML files"
-go run vinckr/gokesh/cmd/build/ page index
-go run vinckr/gokesh/cmd/build/ page about
-go run vinckr/gokesh/cmd/build/ dir markdown/blog/
+.bin/build go run vinckr/gokesh/cmd/build/ page index
+bin/build go run vinckr/gokesh/cmd/build/ page about
+bin/build go run vinckr/gokesh/cmd/build/ dir markdown/blog/

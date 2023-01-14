@@ -3,6 +3,8 @@ set -e
 
 mkdir -p .bin/build
 cd .bin/build 
+echo "Installing tools"
+go get github.com/vinckr/gokesh
 echo "Building tools"
 go build -o .bin/build github.com/vinckr/gokesh/
 echo "Building HTML files"

@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 
+mkdir -p .bin/build
 cd .bin/build 
 echo "Building tools"
 go build -o .bin/build github.com/vinckr/gokesh/

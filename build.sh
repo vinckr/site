@@ -7,10 +7,8 @@ mkdir -p .bin/build/public
 echo "Copying files"
 cp -R markdown .bin/build
 cp -R templates .bin/build
-echo "Installing tools"
-cd .bin/build
-go get github.com/vinckr/gokesh/cmd/build
 echo "Building tools"
+cd .bin/build
 go build -o .bin/build github.com/vinckr/gokesh/cmd/build
 echo "Building HTML files"
 .bin/build page index

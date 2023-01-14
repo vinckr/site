@@ -1,7 +1,8 @@
 #!/bin/sh
 set -e
 
-echo "Install build tools"
+cd .bin/build 
+echo "Building tools"
 go build -o .bin/build github.com/vinckr/gokesh/
 echo "Building HTML files"
 .bin/build go run vinckr/gokesh/cmd/build/ page index

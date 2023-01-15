@@ -19,11 +19,16 @@ test: .bin/shellcheck .bin/shfmt node_modules  # run all linters
 	echo Verifying formatting ...
 	.bin/shfmt --list .
 
-build: # build HTML without committing
+build: .bin/gokesh # build HTML without committing
+	echo "Create build and output directory"
+	mkdir -p .bin/build/public
+	echo "Copying content and template files"
+	cp -R markdown .bin/build
+	cp -R templates .bin/build
 	echo "Building HTML files"
-	go run vinckr/gokesh/cmd/build/ page index
-	go run vinckr/gokesh/cmd/build/ page about
-	go run vinckr/gokesh/cmd/build/ dir markdown/blog/
+	.bin/gokesh page index
+	.bin/gokesh page about
+	.bin/gokesh dir markdown/blog/
 
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"
@@ -43,6 +48,11 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	echo "Decrypting drafts"
 	.bin/encrypt-dir decrypt --key=${ENCRYPTION_KEY} drafts
 	unzip -o drafts/drafts.zip
+
+.bin/gokesh:
+	echo "Building gokesh"
+	go get github.com/vinckr/gokesh/cmd/build
+	go build -o .bin/gokesh github.com/vinckr/gokesh/cmd/build
 
 .bin/encrypt-dir:
 	echo "Building encrypt-dir"

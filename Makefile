@@ -1,4 +1,6 @@
-u: # format, encrypt drafts, build HTML pages and commit to git
+include .env
+
+u: # format, encrypt drafts, and commit to git
 	npx doctoc markdown/blog/links.md
 	make format
 	make encrypt-drafts

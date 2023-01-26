@@ -1,4 +1,6 @@
-include .env
+ifneq ("$(wildcard .env)","")
+    include .env
+endif
 
 u: # format, encrypt drafts, and commit to git
 	npx doctoc markdown/blog/links.md

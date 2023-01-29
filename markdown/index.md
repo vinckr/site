@@ -6,6 +6,7 @@ pagetitle: "Blog"
 
 ## monthly digest
 
+- [12-2022](12-22.html)
 - [11-2022](11-22.html)
 - [10-2022](10-22.html)
 - [09-2022](09-22.html)
@@ -17,8 +18,9 @@ pagetitle: "Blog"
 
 ## pages
 
+- [movies](movies.html)
+- [books](books.html)
 - [quotes](quotes.html)
-- [reviews](reviews.html)
 - [munich food tips](munich-tips.html)
 
 ## cheatsheets

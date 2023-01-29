@@ -1,11 +1,15 @@
 ---
-pagetitle: "Readlist"
+pagetitle: "Books"
 ---
 
-# Readlist
+# Books
+
+_Last updated on 29.02.2023_
+
+## Readlist
 
 This list helps me keep track of worthwhile texts to read.
-See [reviews](/reviews.hmtl) for ratings of some of the books I read.
+See below for ratings of some of the books I read.
 
 - [I Am Legend and Other Stories](https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories)
 - [Moscow to the End of the Line](https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line)
@@ -42,3 +46,28 @@ See [reviews](/reviews.hmtl) for ratings of some of the books I read.
 - [Tyll by Daniel Kehlmann](https://www.goodreads.com/book/show/36130507-tyll)
 - [Cosmic Trigger Volume I: Final Secret of the Illuminati by Robert Anton Wilson](https://www.goodreads.com/book/show/4237.Cosmic_Trigger_Volume_I)
 - [Abaddón el Exterminador by Ernesto Sabato](https://www.goodreads.com/book/show/63001.Abadd_n_el_Exterminador)
+
+## Reviews
+
+I review and rate some of the books I read. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+
+- [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
+- [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
+- [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+- [Tortilla Flat](https://www.goodreads.com/book/show/163977.Tortilla_Flat) 5/5
+- [Blood Meridian, or the Evening Redness in the West](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)
+- [Things Have Gotten Worse Since We Last Spoke](https://www.goodreads.com/book/show/57876868-things-have-gotten-worse-since-we-last-spoke) 3/5
+- [Hollow](https://www.goodreads.com/book/show/56212878-hollow) 5/5
+- [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
+- [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
+- [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
+
+### Rating
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
+
+<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

@@ -1,12 +1,26 @@
-u: # format, encrypt drafts, build HTML pages and commit to git
-	npx doctoc markdown/blog/links.md
+ifneq ("$(wildcard .env)","")
+    include .env
+endif
+
+u: # format, encrypt drafts, and commit to git
 	make format
+	make test
 	make encrypt-drafts
 	git add .
-	git commit -m "chore: update"
+	git commit -m "chore: format + drafts"
 
 help:  # show all available Make commands
-	cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
+	@cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
+
+build: .bin/gokesh # build HTML without committing
+	.bin/gokesh page index
+	.bin/gokesh page about
+	.bin/gokesh dir blog
+	
+dev: # run a local server to preview the site
+	make build
+	@echo "Preview running at http://localhost:8000"
+	go run cmd/dev/main.go
 
 format: .bin/shfmt node_modules  # format the source code
 	echo "\n formatting ..."
@@ -18,17 +32,6 @@ test: .bin/shellcheck .bin/shfmt node_modules  # run all linters
 	find . -name '*.sh' | xargs .bin/shellcheck
 	echo Verifying formatting ...
 	.bin/shfmt --list .
-
-build: .bin/gokesh # build HTML without committing
-	echo "Create build and output directory"
-	mkdir -p .bin/build/public
-	echo "Copying content and template files"
-	cp -R markdown .bin/build
-	cp -R templates .bin/build
-	echo "Building HTML files"
-	.bin/gokesh page index
-	.bin/gokesh page about
-	.bin/gokesh dir markdown/blog/
 
 links: # generate markdown syntax links from urls.txt
 	echo "Generating markdown links"
@@ -51,7 +54,7 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 
 .bin/gokesh:
 	echo "Building gokesh"
-	go get github.com/vinckr/gokesh/cmd/build
+	go mod download
 	go build -o .bin/gokesh github.com/vinckr/gokesh/cmd/build
 
 .bin/encrypt-dir:

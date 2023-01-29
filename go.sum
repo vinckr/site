@@ -5,8 +5,8 @@ github.com/adrg/frontmatter v0.2.0 h1:/DgnNe82o03riBd1S+ZDjd43wAmC6W35q67NHeLkPd
 github.com/adrg/frontmatter v0.2.0/go.mod h1:93rQCj3z3ZlwyxxpQioRKC1wDLto4aXHrbqIsnH9wmE=
 github.com/gomarkdown/markdown v0.0.0-20221013030248-663e2500819c h1:iyaGYbCmcYK0Ja9a3OUa2Fo+EaN0cbLu0eKpBwPFzc8=
 github.com/gomarkdown/markdown v0.0.0-20221013030248-663e2500819c/go.mod h1:JDGcbDT52eL4fju3sZ4TeHGsQwhG9nbDV21aMyhwPoA=
-github.com/vinckr/gokesh v0.0.0-20230114102437-1c9a26272f6d h1:DtuB7X64cQxEcB/+Xk+UUbiw8C7M/cWn/Cvx+UXieRk=
-github.com/vinckr/gokesh v0.0.0-20230114102437-1c9a26272f6d/go.mod h1:fBNBw6x4Q8Rxqkl5aj5II0lyva5L5pvL/zOj5VVv9HY=
+github.com/vinckr/gokesh v0.0.1 h1:MqEvVsBUmHwJcVWwHXyPhca9lS+kvPBC/L/uLnev6P8=
+github.com/vinckr/gokesh v0.0.1/go.mod h1:fBNBw6x4Q8Rxqkl5aj5II0lyva5L5pvL/zOj5VVv9HY=
 golang.org/x/net v0.5.0 h1:GyT4nK/YDHSqa1c4753ouYCDajOYKTja9Xb/OHtgvSw=
 golang.org/x/net v0.5.0/go.mod h1:DivGGAXEgPSlEBzxGzZI+ZLohi+xUj054jfeKui00ws=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=

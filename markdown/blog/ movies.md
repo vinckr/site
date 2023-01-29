@@ -1,11 +1,15 @@
 ---
-pagetitle: "Watchlist"
+pagetitle: "Movies"
 ---
 
-# Watchlist
+# Movies
+
+_Last updated on 29.02.2023_
+
+## Watchlist
 
 This list helps me keep track of worthwhile movies or shows to watch.
-See [reviews](/reviews.hmtl) for ratings of some of the things I watch.
+See below for ratings of some of the movies I watch.
 
 - [Color out of space](https://www.imdb.com/title/tt5073642/)
 - [Under Siege](https://www.imdb.com/title/tt0105690/)
@@ -41,3 +45,41 @@ See [reviews](/reviews.hmtl) for ratings of some of the things I watch.
 - [Soldier (1998)](https://m.imdb.com/title/tt0120157/)
 - [Interstellar](https://m.imdb.com/title/tt0816692/)
 - [Barbarian](https://m.imdb.com/title/tt15791034/)
+
+## Reviews
+
+I review and rate some of the movies I watch. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+
+- [Barbarian](https://www.imdb.com/title/tt15791034/) 5/5
+- [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) 3/5
+- [White Noise](https://www.imdb.com/title/tt6160448/) 4/5
+- [The Last Duel](https://m.imdb.com/title/tt4244994/) 3/5
+- [War of the Worlds TV-Series](https://www.imdb.com/title/tt9686194/) 2/5
+- [Primal](https://www.imdb.com/title/tt10332508/) 5/5
+- [Dolemite Is My Name](https://www.imdb.com/title/tt8526872/) 4/5
+- [All Quiet on the Western Front](https://www.imdb.com/title/tt1016150) 3/5
+- [Curb Your Enthusiasm](https://www.imdb.com/title/tt0264235) 5/5
+- [The Book of Boba Fett](https://www.imdb.com/title/tt13668894/) 4/5
+- [Reality](https://www.imdb.com/title/tt2392672) 3/5
+- [Dune](https://www.imdb.com/title/tt1160419) 3/5
+- [Get Out](https://www.imdb.com/title/tt5052448) 5/5
+- [Nope](https://www.imdb.com/title/tt10954984) 4/5
+- [Collateral](https://www.imdb.com/title/tt0369339) 4/5
+- [What We Do in the Shadows](https://www.imdb.com/title/tt3416742) 5/5
+- [The Wire](https://www.imdb.com/title/tt0306414) 5/5
+- [The Death of Stalin](https://www.imdb.com/title/tt4686844) 5/5
+- [The Northman](https://www.imdb.com/title/tt11138512) 4/5
+- [The Lighthouse](https://www.imdb.com/title/tt7984734): 5/5
+- [Moonfall](https://www.imdb.com/title/tt5834426) 3/5
+- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600) 3/5
+- [The Hacker (2016)](https://www.imdb.com/title/tt3173594) 1/5
+
+### Rating
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
+
+<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

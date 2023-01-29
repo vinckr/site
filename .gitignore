@@ -16,3 +16,5 @@ urls-sorted-markdown.txt
 !*.secure
 
 node_modules
+
+public/*.html

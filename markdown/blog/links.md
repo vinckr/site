@@ -8,39 +8,6 @@ _Last updated on 29.12.2022_
 
 A collection of links to various websites, resources and even more link collections.
 
-**Table of contents**
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [Reading](#reading)
-  - [Wiki Articles](#wiki-articles)
-- [Writing](#writing)
-- [Cheat Sheets](#cheat-sheets)
-- [Design](#design)
-- [Software](#software)
-  - [Fonts](#fonts)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [Tools](#tools)
-  - [Documentation](#documentation)
-  - [GameDev](#gamedev)
-  - [Learning](#learning)
-  - [Product](#product)
-  - [Security](#security)
-  - [Code Examples](#code-examples)
-- [Sound](#sound)
-- [Generative Art](#generative-art)
-  - [Generators](#generators)
-  - [Tools](#tools-1)
-  - [Resources](#resources)
-- [Work](#work)
-- [Fun](#fun)
-- [Uncategorized](#uncategorized)
-  - [Shops](#shops)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Reading
 
 Start reading and never stop.

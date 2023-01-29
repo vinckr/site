@@ -6,6 +6,7 @@ pagetitle: "Blog"
 
 ## monthly digest
 
+- [12-2022](12-22.html)
 - [11-2022](11-22.html)
 - [10-2022](10-22.html)
 - [09-2022](09-22.html)

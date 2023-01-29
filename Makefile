@@ -21,7 +21,7 @@ build: .bin/gokesh # build HTML without committing
 	echo "Building HTML files"
 	.bin/gokesh page index
 	.bin/gokesh page about
-	.bin/gokesh dir markdown/blog/
+	.bin/gokesh dir blog
 	
 dev: # run a local server to preview the site
 	make build

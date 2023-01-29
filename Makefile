@@ -13,12 +13,6 @@ help:  # show all available Make commands
 	@cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
 
 build: .bin/gokesh # build HTML without committing
-	echo "Create build and output directory"
-	mkdir -p .bin/build/public
-	echo "Copying content and template files"
-	cp -R markdown .bin/build
-	cp -R templates .bin/build
-	echo "Building HTML files"
 	.bin/gokesh page index
 	.bin/gokesh page about
 	.bin/gokesh dir blog

@@ -17,8 +17,9 @@ pagetitle: "Blog"
 
 ## pages
 
+- [movies](movies.html)
+- [books](books.html)
 - [quotes](quotes.html)
-- [reviews](reviews.html)
 - [munich food tips](munich-tips.html)
 
 ## cheatsheets

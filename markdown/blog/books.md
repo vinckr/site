@@ -51,12 +51,6 @@ See below for ratings of some of the books I read.
 
 I review and rate some of the books I read. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
-- 5/5 masterpiece. must consume
-
 - [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
 - [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
@@ -67,5 +61,13 @@ I review and rate some of the books I read. Don't take it too seriously - it's h
 - [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
 - [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
+
+### Rating
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
 
 <img class="center" src="./img/hero-reviews.png" alt="Content ends here">

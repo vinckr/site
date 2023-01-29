@@ -50,13 +50,7 @@ See below for ratings of some of the movies I watch.
 
 I review and rate some of the movies I watch. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
-- 5/5 masterpiece. must consume
-
-- [Barbarian](https://www.imdb.com/title/tt15791034/): 4/5
+- [Barbarian](https://www.imdb.com/title/tt15791034/) 5/5
 - [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) 3/5
 - [White Noise](https://www.imdb.com/title/tt6160448/) 4/5
 - [The Last Duel](https://m.imdb.com/title/tt4244994/) 3/5
@@ -76,8 +70,16 @@ I review and rate some of the movies I watch. Don't take it too seriously - it's
 - [The Death of Stalin](https://www.imdb.com/title/tt4686844) 5/5
 - [The Northman](https://www.imdb.com/title/tt11138512) 4/5
 - [The Lighthouse](https://www.imdb.com/title/tt7984734): 5/5
-- [Moonfall](https://www.imdb.com/title/tt5834426): 3/5
-- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600): 3/5
-- [The Hacker (2016)](https://www.imdb.com/title/tt3173594): 1/5
+- [Moonfall](https://www.imdb.com/title/tt5834426) 3/5
+- [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600) 3/5
+- [The Hacker (2016)](https://www.imdb.com/title/tt3173594) 1/5
+
+### Rating
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
 
 <img class="center" src="./img/hero-reviews.png" alt="Content ends here">

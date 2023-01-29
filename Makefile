@@ -3,7 +3,7 @@ ifneq ("$(wildcard .env)","")
 endif
 
 u: # format, encrypt drafts, and commit to git
-	make format#
+	make format
 	make test
 	make encrypt-drafts
 	git add .
@@ -21,7 +21,7 @@ build: .bin/gokesh # build HTML without committing
 	echo "Building HTML files"
 	.bin/gokesh page index
 	.bin/gokesh page about
-	.bin/gokesh dir blog
+	.bin/gokesh dir markdown/blog/
 	
 dev: # run a local server to preview the site
 	make build

@@ -60,8 +60,7 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 
 .bin/gokesh:
 	echo "Building gokesh"
-	go mod init
-	go get github.com/vinckr/gokesh@v0.0.1
+	go mod download
 	go build -o .bin/gokesh github.com/vinckr/gokesh/cmd/build
 
 .bin/encrypt-dir:

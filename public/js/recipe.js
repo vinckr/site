@@ -1320,18 +1320,11 @@ var allFoodShapes = [
 ];
 var foodshapes = [];
 
-var allStyles = [];
-
 var menu = [];
 var barname = "";
 
 var bgnum = 1;
 var stylenum = 1;
-
-allStyles.push(["Poppins", "none", "13px", "18px"]);
-allStyles.push(["Suranna", "uppercase", "15px", "19px"]);
-allStyles.push(["Quicksand", "uppercase", "13px", "18px"]);
-allStyles.push(["Oranienbaum", "none", "15px", "20px"]);
 
 $(document).ready(function () {
   makeMenu();
@@ -1373,26 +1366,6 @@ function makeMenu() {
 }
 
 function makeMenuVisuals() {
-  $("#menu").css({
-    "background-position": String((bgnum - 1) * 33.33333) + "% 0%",
-    "font-family": allStyles[stylenum - 1][0],
-    "text-transform": allStyles[stylenum - 1][1],
-  });
-  $("#menuitems").css({
-    "font-size": allStyles[stylenum - 1][2],
-    "line-height": allStyles[stylenum - 1][3],
-  });
-  bgnum++;
-  if (bgnum > 4) {
-    bgnum = 1;
-  }
-
-  stylenum++;
-  if (stylenum > 4) {
-    stylenum = 1;
-  }
-
-  $("#barname").html(barname);
   $("#menuitems").html("");
   for (var a = 0; a < menu.length; a++) {
     $("#menuitems").append(

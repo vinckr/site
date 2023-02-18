@@ -24,6 +24,7 @@ _Last updated on 17.11.2022_
 - `git log --format='%aN' | sort -u` : list all contributors by name.
 - `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 - `git fetch origin <your-branch>:<your-branch>`: fetch a branch.
+- `git grep <regexp> $(git rev-list --all)`: search git history for a specific string/regexp.
 
 ### config
 

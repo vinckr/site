@@ -1372,7 +1372,6 @@ function makeMenuVisuals() {
       '<div class="oneitem">' +
         menu[a][0] +
         "&nbsp;&nbsp;&nbsp;&nbsp;" +
-        menu[a][1] +
         "</div>"
     );
     if (a == 2 || a == 5) {
@@ -1411,7 +1410,7 @@ function makeMenuItem() {
     // one-ingredient menu item
     menuitem = makeOneFoodItem();
   }
-  menu.push([menuitem, makePrice()]);
+  menu.push([menuitem]);
 }
 
 function makeOneFoodItem() {
@@ -1442,11 +1441,6 @@ function percentchance(percent) {
   } else {
     return false;
   }
-}
-
-function makePrice() {
-  var randomnumber = 8 + Math.floor(Math.random() * 11);
-  return randomnumber;
 }
 
 function resetArrays() {

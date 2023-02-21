@@ -11,8 +11,6 @@ _Last updated on 29.02.2023_
 This list helps me keep track of worthwhile movies or shows to watch.
 See below for ratings of some of the movies I watch.
 
-- [Color out of space](https://www.imdb.com/title/tt5073642/)
-- [Under Siege](https://www.imdb.com/title/tt0105690/)
 - [Croupier](https://m.imdb.com/title/tt0159382/)
 - [Super Mario Bros.](https://www.imdb.com/title/tt0108255/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
@@ -30,7 +28,6 @@ See below for ratings of some of the movies I watch.
 - [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
 - [The inner circle](https://www.imdb.com/title/tt0103838/)
 - [Into Eternity](https://www.imdb.com/title/tt1194612/)
-- [A Writer's Odyssey](https://www.imdb.com/title/tt9685342/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
 - [Conan the Barbarian](https://www.imdb.com/title/tt0082198/)
 - [Margin Call](https://m.imdb.com/title/tt1615147/)
@@ -50,6 +47,17 @@ See below for ratings of some of the movies I watch.
 
 I review and rate some of the movies I watch. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
+Rating:
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
+
+- [Color out of space](https://www.imdb.com/title/tt5073642/) 4/5
+- [Under Siege](https://www.imdb.com/title/tt0105690/) 2/5
+- [A Writer's Odyssey](https://www.imdb.com/title/tt9685342/) 3/5
 - [Barbarian](https://www.imdb.com/title/tt15791034/) 5/5
 - [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) 3/5
 - [White Noise](https://www.imdb.com/title/tt6160448/) 4/5
@@ -73,13 +81,5 @@ I review and rate some of the movies I watch. Don't take it too seriously - it's
 - [Moonfall](https://www.imdb.com/title/tt5834426) 3/5
 - [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600) 3/5
 - [The Hacker (2016)](https://www.imdb.com/title/tt3173594) 1/5
-
-### Rating
-
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
-- 5/5 masterpiece. must consume
 
 <img class="center" src="./img/hero-reviews.png" alt="Content ends here">

@@ -20,5 +20,4 @@ node_modules
 public/*.html
 
 # custom html pages in public
-!menu-generator.html
 !recipe-generator.html

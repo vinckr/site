@@ -4,7 +4,7 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 29.12.2022_
+_Last updated on 02.03.2022_
 
 A collection of links to various websites, resources and even more link collections.
 
@@ -12,30 +12,40 @@ A collection of links to various websites, resources and even more link collecti
 
 Start reading and never stop.
 
-- [Free and liberated ebooks](https://standardebooks.org/)
+### Publications
+
 - [The Baffler](https://thebaffler.com/)
-- [Teleport Magazine (Science Fiction)](https://www.teleportmagazine.com/)
-- [Global Grey](https://www.globalgreyebooks.com/)
-- [UbuWeb](https://www.ubu.com)
-- [Do Not Research](https://donotresearch.net/)
-- [Cryptome](https://cryptome.org/)
-- [Agora Road's Macintosh Cafe - A Nostalgic Y2K Forum Community](https://forum.agoraroad.com/index.php)
 - [The Codeless Code](http://thecodelesscode.com/)
-- [TechinAsia - Largest English-language tech media on focusing on Asia](https://www.techinasia.com/)
-- [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+- [TechinAsia](https://www.techinasia.com/)
+- [HN Classics](https://posobin.com/hn_classics/)
+- [Cryptome](https://cryptome.org/)
+
+### Public Domain
+
+- [Project Gutenberg](https://gutenberg.org/)
+- [Free and liberated ebooks](https://standardebooks.org/)
+- [Global Grey](https://www.globalgreyebooks.com/)
+- [The Anarchist Library](https://theanarchistlibrary.org/)
+- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
+
+### Very Internet
+
+- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
 - [textfiles.com](http://www.textfiles.com/directory.html)
-- [Gruppe Magazine](http://gruppemagazine.com/)
-- [The Anarchist Library](https://theanarchistlibrary.org/)
-- [Domus Kaotica Marauder Underground](https://dkmu.org/)
-- [HN Classics](https://posobin.com/hn_classics/)
+- [Do Not Research](https://donotresearch.net/)
+- [UbuWeb](https://www.ubu.com)
+- [Agora Road's Macintosh Cafe - A Nostalgic Y2K Forum Community](https://forum.agoraroad.com/index.php)
+- [gwern](https://gwern.net/)
+- [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+
+### Science Fiction
+
 - [Clarkesworld Magazine – Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
 - [AEscifi – Free science fiction from the frozen north](https://aescifi.ca/)
-- [Cryptome](https://cryptome.org/)
-- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
-- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [Teleport Magazine](https://www.teleportmagazine.com/)
 
 ### Wiki Articles
 
@@ -68,8 +78,6 @@ Everything relevant to text creation.
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 - [Word to Markdown Converter](https://word2md.com/)
-- [Open source page layout program](https://www.scribus.net/introduction/)
-- [OSS flat-file cms for text-driven websites](https://typemill.net/)
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
 
 ## Cheat Sheets
@@ -81,7 +89,6 @@ Collections of knowledge often looked up and forgotten.
 - [git commands for everyday use](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 - [Fix your git mistakes](https://ohshitgit.com/)
 - [How to do anything on the CLI](https://github.com/you-dont-need/You-Dont-Need-GUI)
-- [Postgres indexes introduction](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 - [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
 - [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
@@ -89,24 +96,27 @@ Collections of knowledge often looked up and forgotten.
 - [Deep dive in CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
 - [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 
-## Design
+## Visual Art
+
+- [Unsplash - copyright free images](https://unsplash.com)
+- [Gruppe Magazine](http://gruppemagazine.com/)
+- [MAAS Collection](https://collection.maas.museum/)
+- [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
+
+### Design
 
 - [Awwwards](https://www.awwwards.com/)
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
-- [MAAS Collection](https://collection.maas.museum/search?q=radio&p=4)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/)
-- [Unsplash - copyright free images.](https://unsplash.com)
-- [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
 - [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/)
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
 - [A series of exquisite and compact effects](https://github.com/lindelof/awesome-web-effect)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
 - [90's Cursor Effects](https://tholman.com/cursor-effects/)
-- [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
 - [Jan V. White - Resources on page layout, typography, infographics, color and more.](https://www.janvwhite.org/)
@@ -119,6 +129,7 @@ Resources for web development and related topics.
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
 
 ### HTML
 
@@ -128,8 +139,9 @@ Resources for web development and related topics.
 - [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 - [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
-- [Details on `<details>`](https://github.com/muan/details-on-details)
 - [Useful HTML tricks](https://markodenic.com/html-tips/)
+- [Details on `<details>`](https://github.com/muan/details-on-details)
+- [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 
 ### CSS
 
@@ -139,9 +151,7 @@ Resources for web development and related topics.
 - [Animations for eccentric developers](https://www.joerezendes.com/projects/Woah.css/)
 - [Flexbox vs. CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
 - [Flexbox Froggy - A game to learn Flexbox](https://flexboxfroggy.com/)
-- [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 - [Neat CSS tricks](https://markodenic.com/css-tips/)
-- [SimpleCSS - Classless CSS](https://simplecss.org/)
 - [Grid by Example](https://gridbyexample.com/)
 - [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 
@@ -169,13 +179,7 @@ Resources for web development and related topics.
 - [Google Docs Style Highlights](https://developers.google.com/style/highlights)
 - [Writing Great Technical Documentation](https://jacobian.org/2009/nov/11/technical-style/)
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
-- [React&Markdown for building documentation fast](https://docusaurus.io/)
-
-### GameDev
-
-- [M.U.G.E.N- 2D fighting game engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
-- [DragonRuby Game Toolkit - Professional grade 2D game engine](http://dragonruby.org/toolkit/game)
-- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
+- [Docousaurus: React&Markdown for documentation](https://docusaurus.io/)
 
 ### Learning
 
@@ -183,15 +187,9 @@ Official courses and other learning resources.
 
 - [Web Applications 101](https://www.robinwieruch.de/web-applications/)
 - [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
-- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
-- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 - [Study plan for software engineers](https://github.com/jwasham/coding-interview-university)
-- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
 - [Producing Open Source Software](https://producingoss.com/en/index.html)
-- [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
-- [Python IDE for beginners](https://thonny.org/)
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Creative Coding Resources](https://timrodenbroeker.de/resources/)
@@ -201,8 +199,17 @@ Official courses and other learning resources.
 - [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
 - [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
 - [A Tour of Go](https://go.dev/tour/welcome/1)
+- [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
 
-### Product
+#### Python
+
+- [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
+- [Python IDE for beginners](https://thonny.org/)
+- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
+- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+### Building
 
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
@@ -237,14 +244,14 @@ Official courses and other learning resources.
 
 ### Code Examples
 
-- [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
 - [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 - [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
-- [Temporary email service](https://mailcare.io/)
 - [Modern Application Reference Architectures](https://github.com/nginxinc/kic-reference-architectures/)
 - [Website in CLI format](https://github.com/rootvc/cli-website)
 - [Castlevania-Roguelike](https://github.com/Andres6936/Castlevania-Roguelike)
 - [Todolist project made with React JS and Typescript.](https://github.com/ronaldprofile/todolist-with-reactjs)
+- [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
+- [Temporary email service](https://mailcare.io/)
 
 ## Sound
 
@@ -300,7 +307,7 @@ Anything related to producing sound/music.
 - [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
-## Work
+## (Remote) Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [Remote Friendly Jobs](https://remotefriendly.com/)
@@ -309,6 +316,7 @@ Anything related to producing sound/music.
 - [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
 - [CommunityRule](https://communityrule.info/)
 - [4 Day Work Week Jobs](https://4dayweek.io/)
+- [no hello](https://nohello.net/en/)
 
 ## Fun
 
@@ -317,7 +325,7 @@ Anything related to producing sound/music.
 - [Simple animation tool](https://animatize.com/)
 - [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 - [Meme generator from Ace Attorney](https://objection.lol/)
-- [jes/nightdrive: Night-time driving simulation](https://github.com/jes/nightdrive)
+- [Night-time driving simulation](https://github.com/jes/nightdrive)
 - [Animal mug designs](https://www.mugexpert.net/)
 - [you-are-here](https://s-n-d.si/)
 - [Time Cube](https://timecube.2enp.com/)
@@ -329,6 +337,7 @@ Anything related to producing sound/music.
 - [YTMND - Blue Ball Machine (fixed)](https://blueballfixed.ytmnd.com/)
 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
 - [puter.com](https://puter.com/)
+- [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 
 ## Uncategorized
 
@@ -345,5 +354,11 @@ Anything related to producing sound/music.
 ### Shops
 
 - [Medimops – Buy used products](https://www.medimops.de/)
+
+### Removed Links
+
+I just never really looked at those again...
+
+[Removed Links](removed-links.html)
 
 <img class="center" src="./img/hero-links.png" alt="Content ends here">

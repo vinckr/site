@@ -996,7 +996,6 @@ var allFoods = [
   "artichoke",
   "corn",
   "fig",
-  "sungold",
   "acorn",
   "sunflower",
   "clam",
@@ -1008,19 +1007,22 @@ var allFoods = [
   "watermelon",
   "eggplant",
   "pepper",
-  "shell bean",
+  "beans",
   "peach",
-  "ramp",
   "kraut",
   "salt",
   "water",
-  "booze",
   "watercress",
   "kale",
   "snap peas",
   "rice",
   "arugula",
   "pork belly",
+  "artichokes",
+  "kimchi",
+  "jackfruit",
+  "quinoa",
+  "seaweed",
   "orecchiette",
   "monkfish",
   "bison",
@@ -1350,16 +1352,7 @@ function makeNewMenu() {
 function makeMenu() {
   resetArrays();
 
-  if (percentchance(50)) {
-    barname = "The " + pullWordFromArray(streets);
-  } else {
-    barname =
-      pullWordFromArray(streets) +
-      "&nbsp;&amp;&nbsp;" +
-      pullWordFromArray(streets);
-  }
-
-  for (var a = 0; a < 10; a++) {
+  for (var a = 0; a < 1; a++) {
     makeMenuItem();
   }
   makeMenuVisuals();
@@ -1368,54 +1361,25 @@ function makeMenu() {
 function makeMenuVisuals() {
   $("#menuitems").html("");
   for (var a = 0; a < menu.length; a++) {
-    $("#menuitems").append(
-      '<div class="oneitem">' +
-        menu[a][0] +
-        "&nbsp;&nbsp;&nbsp;&nbsp;" +
-        "</div>"
-    );
-    if (a == 2 || a == 5) {
-      $("#menuitems").append('<div class="menugap"></div>');
-    }
+    $("#menuitems").append(menu[a][0]);
   }
 }
 
 function makeMenuItem() {
   var menuitem = "";
-  if (percentchance(20)) {
-    // three-ingredient menu item
-    if (percentchance(50)) {
-      menuitem =
-        makeOneFoodItem() +
-        ", " +
-        makeOneFoodItem() +
-        " & " +
-        makeOneFoodItem();
-    } else {
-      menuitem =
-        makeOneFoodItem() +
-        " with " +
-        makeOneFoodItem() +
-        " & " +
-        makeOneFoodItem();
-    }
-  } else if (percentchance(40)) {
-    // two-ingredient menu item
-    if (percentchance(50)) {
-      menuitem = makeOneFoodItem() + " & " + makeOneFoodItem();
-    } else {
-      menuitem = makeOneFoodItem() + " with " + makeOneFoodItem();
-    }
+  // three-ingredient menu item
+  if (percentchance(50)) {
+    menuitem =
+      makeOneFoodItem() + ", " + makeOneFoodItem() + " & " + makeOneFoodItem();
   } else {
-    // one-ingredient menu item
-    menuitem = makeOneFoodItem();
+    menuitem = makeOneFoodItem() + " with " + makeOneFoodItem();
   }
   menu.push([menuitem]);
 }
 
 function makeOneFoodItem() {
   var foodstring = "";
-  if (percentchance(55)) {
+  if (percentchance(30)) {
     // add adjective to ingredient (ex: "salted")
     foodstring += pullWordFromArray(adjectives) + " ";
   }

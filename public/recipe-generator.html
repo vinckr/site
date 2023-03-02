@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>Brooklyn Bar Menu Generator</title>
+    <title>Recipe Generator - The hidden food court</title>
     <meta
       name="description"
-      content="Use this tool to randomly generate a menu for your new Brooklyn bar!"
+      content="Use this generate a random whacky recipe!"
     />
     <script type="text/javascript" src="./js/jquery111min.js"></script>
     <script type="text/javascript" src="./js/recipe.js"></script>
@@ -25,7 +25,6 @@
         text-align: center;
         background: #000;
         -webkit-font-smoothing: "antialiased";
-        font-smoothing: "antialiased";
       }
 
       #menuholder {
@@ -82,31 +81,17 @@
         border-bottom: 2px dotted rgba(0, 0, 0, 0.15);
       }
 
-      #overshadow {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        box-shadow: inset 0px 0px 400px rgba(0, 0, 0, 1);
-      }
-
       .guibutton {
-        position: relative;
-        top: 0;
-        left: 0;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 30px;
+        margin-top: 30px;
         background: rgba(0, 0, 0, 0.25);
-        color: #fff;
         border-radius: 4px;
         width: 220px;
         padding-top: 14px;
         padding-bottom: 14px;
         font-size: 11px;
-        border: 1px solid rgba(255, 255, 255, 0.5);
-        text-transform: uppercase;
+        border: 1px solid rgba(0, 0, 0, 0.5);
         cursor: pointer;
         letter-spacing: 1px;
         box-shadow: 0px 0px 0px #fff;
@@ -114,10 +99,7 @@
         -moz-transition-duration: 100ms;
         transition-duration: 100ms;
       }
-      .guibutton:hover {
-        background: #444;
-        box-shadow: 0px 0px 10px #fff;
-      }
+
       #bottomcontent {
         position: relative;
         top: 0;
@@ -169,18 +151,22 @@
   </head>
   <body>
     <div id="menuholder">
-      <div id="resetbutton" class="guibutton">generate another menu</div>
       <div id="menu">
         <div style="padding-left: 12%; padding-right: 12%">
-          <div id="barname">JACKSON &amp; ACHILLES</div>
           <div id="menuitems"></div>
         </div>
       </div>
+      <div id="resetbutton" class="guibutton">generate another recipe</div>
     </div>
     <div id="bottomcontent">
       <div id="textcolumn">
         <div style="padding-left: 10px; padding-right: 10px">
           <h1>The hidden food court</h1>
+          <p>
+            Shamelessly ripped off from
+            <a href="https://www.brooklynbarmenus.com/">brooklynbarmenus.com</a
+            >, please dont sue me.
+          </p>
         </div>
       </div>
     </div>

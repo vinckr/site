@@ -4,8 +4,6 @@ pagetitle: "Links"
 
 # Links
 
-_Last updated on 02.03.2023_
-
 A collection of links to various websites, resources and even more link collections.
 
 ## Reading
@@ -35,6 +33,7 @@ Start reading and never stop.
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
 - [textfiles.com](http://www.textfiles.com/directory.html)
 - [Do Not Research](https://donotresearch.net/)
+- [Usenet Archive](https://yarchive.net/)
 - [UbuWeb](https://www.ubu.com)
 - [Agora Road's Macintosh Cafe - A Nostalgic Y2K Forum Community](https://forum.agoraroad.com/index.php)
 - [gwern](https://gwern.net/)
@@ -49,26 +48,7 @@ Start reading and never stop.
 
 ### Wiki Articles
 
-- [Wikipedia:Unusual articles](https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles)
-- [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
-- [List of stews](https://en.m.wikipedia.org/wiki/List_of_stews)
-- [Cradle of civilization](https://en.m.wikipedia.org/wiki/Cradle_of_civilization)
-- [Enantiomer](https://en.m.wikipedia.org/wiki/Enantiomer)
-- [Fruit machine](<https://en.m.wikipedia.org/wiki/Fruit_machine_(homosexuality_test)>)
-- [Lifelog](https://en.m.wikipedia.org/wiki/Lifelog)
-- [Sousveillance](https://en.m.wikipedia.org/wiki/Sousveillance)
-- [The General Crisis](https://en.m.wikipedia.org/wiki/The_General_Crisis)
-- [Preparedness paradox](https://en.m.wikipedia.org/wiki/Preparedness_paradox)
-- [Nocturnal bottleneck](https://en.m.wikipedia.org/wiki/Nocturnal_bottleneck)
-- [Eight Immortals](https://en.wikipedia.org/wiki/Eight_Immortals)
-- [Kramatorsk radiological accident](https://en.m.wikipedia.org/wiki/Kramatorsk_radiological_accident)
-- [List of orphan source incidents](https://en.m.wikipedia.org/wiki/List_of_orphan_source_incidents)
-- [Feraliminal Lycanthropizer](https://en.m.wikipedia.org/wiki/Feraliminal_Lycanthropizer)
-- [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/International_Air_Transport_Association_code#IATA_meal_codes)
-- [Bamberg witch trials](https://en.m.wikipedia.org/wiki/Bamberg_witch_trials)
-- [The Campaign for North Africa](https://en.m.wikipedia.org/wiki/The_Campaign_for_North_Africa)
-- [The Thing (listening device)](<https://en.m.wikipedia.org/wiki/The_Thing_(listening_device)>)
-- [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army)
+- [List of notable Wikipedia Articles](wikipedia.html)
 
 ## Writing
 
@@ -102,6 +82,9 @@ Collections of knowledge often looked up and forgotten.
 - [Gruppe Magazine](http://gruppemagazine.com/)
 - [MAAS Collection](https://collection.maas.museum/)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
+- [Gif search](https://gif.so/)
+- [Illusions & Visual Phenomena](https://michaelbach.de/ot/)
+- [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 
 ### Design
 
@@ -125,11 +108,25 @@ Collections of knowledge often looked up and forgotten.
 
 Resources for web development and related topics.
 
-### Fonts
+### Tools
 
-- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
+- [Dan's Tools](https://www.danstools.com/)
+- [Datasette](https://lite.datasette.io/)
+- [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
+- [Debug Shell Scripts](https://explainshell.com/)
+- [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [Just your IP, nothing else](https://justyourip.com/)
+- [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
+- [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
+- [Syncthing - sync anything](https://syncthing.net/)
+- [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
+- [Browser support tables for support of front-end web](https://caniuse.com/)
+- [Open source, experimental, and tiny tools list](https://tinytools.directory/)
+- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
+- [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
+- [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
+- [Windows 10 Ameliorated](https://ameliorated.info/)
 
 ### HTML
 
@@ -145,6 +142,7 @@ Resources for web development and related topics.
 
 ### CSS
 
+- [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
 - [58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 - [Some CSS generators](https://markodenic.com/css-generators/)
 - [Generate Soft-UI CSS code](https://neumorphism.io)
@@ -154,24 +152,7 @@ Resources for web development and related topics.
 - [Neat CSS tricks](https://markodenic.com/css-tips/)
 - [Grid by Example](https://gridbyexample.com/)
 - [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
-
-### Tools
-
-- [Dan's Tools](https://www.danstools.com/)
-- [Browser support tables for support of front-end web](https://caniuse.com/)
-- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
-- [Open source, experimental, and tiny tools list](https://tinytools.directory/)
-- [Debug Shell Scripts](https://explainshell.com/)
-- [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-- [Just your IP, nothing else](https://justyourip.com/)
-- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
-- [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
-- [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
-- [Syncthing - sync anything](https://syncthing.net/)
-- [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
-- [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
-- [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-- [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
+- [NES.css](https://nostalgic-css.github.io/NES.css/)
 
 ### Documentation
 
@@ -181,9 +162,15 @@ Resources for web development and related topics.
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [Docousaurus: React&Markdown for documentation](https://docusaurus.io/)
 
+### Fonts
+
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
+
 ### Learning
 
-Official courses and other learning resources.
+Official courses and other general learning resources.
 
 - [Web Applications 101](https://www.robinwieruch.de/web-applications/)
 - [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
@@ -198,8 +185,12 @@ Official courses and other learning resources.
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
 - [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
-- [A Tour of Go](https://go.dev/tour/welcome/1)
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
+
+#### Go
+
+- [A Tour of Go](https://go.dev/tour/welcome/1)
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 #### Python
 
@@ -208,8 +199,12 @@ Official courses and other learning resources.
 - [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
 - [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [futurecoder: learn python from scratch](https://futurecoder.io/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Building
+
+This might be helpful when building an application or business.
 
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
@@ -230,17 +225,32 @@ Official courses and other learning resources.
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
 - [OSS Insight](https://ossinsight.io/)
+- [Payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
 
 ### Security
 
 - [OWASP - For almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
-- [Explaining CSRF, CORS, and HTTP Security headers](https://blog.vnaik.com/posts/web-attacks.html)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
 - [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
-- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog).
+- [Awesome Infosec](https://hackmd.io/s/V1GLSF0R#related-awesome-lists)
+- [Explaining CSRF, CORS, and HTTP Security headers](https://blog.vnaik.com/posts/web-attacks.html)
 - [Canarytokens](https://canarytokens.org/)
+- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog)
 - [Is your browser fingerprint unique?](https://amiunique.org/fp)
 - [Most Common User Agent Strings](https://www.useragents.me/)
+- [SecurityTube.net](http://www.securitytube.net/)
+- [offsec.tools - A vast collection of security tools](https://offsec.tools/)
+- [Simple Sabotage Field Manual](https://www.hsdl.org/c/abstract/?docid=750070)
+- [Enigma: a simple cross-platform encrypted filesystem](https://github.com/aegistudio/enigma)
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+- [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec#awesome-infosec)
+
+#### OSINT
+
+- [awesome osint](https://github.com/jivoi/awesome-osint)
+- [de🔸digger find public files in Google Drive](https://www.dedigger.com)
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 
 ### Code Examples
 
@@ -267,6 +277,8 @@ Anything related to producing sound/music.
 - [Music Theory Tools to learn music online for free](https://muted.io/)
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
+- [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
 
 ## Generative Art
 
@@ -307,19 +319,9 @@ Anything related to producing sound/music.
 - [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
-## (Remote) Work
-
-- [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
-- [Remote Friendly Jobs](https://remotefriendly.com/)
-- [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
-- [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
-- [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
-- [CommunityRule](https://communityrule.info/)
-- [4 Day Work Week Jobs](https://4dayweek.io/)
-- [no hello](https://nohello.net/en/)
-
 ## Fun
 
+- [Nobody.live | Lonely streams and streamers with zero viewers](https://nobody.live/)
 - [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
@@ -339,6 +341,21 @@ Anything related to producing sound/music.
 - [puter.com](https://puter.com/)
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
 
+## (Remote) Work
+
+- [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
+- [Remote Friendly Jobs](https://remotefriendly.com/)
+- [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
+- [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
+- [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
+- [Find engineering teams that share your values](https://www.keyvalues.com/)
+- [CommunityRule](https://communityrule.info/)
+- [4 Day Work Week Jobs](https://4dayweek.io/)
+- [no hello](https://nohello.net/en/)
+- [People-First Jobs — Remote, flexible jobs at companies with a people-first culture](https://peoplefirstjobs.com/)
+- [Free & Open Source Jobs](https://www.fossjobs.net/)
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
 ## Uncategorized
 
 - [Ebook reader inside the browser](https://www.loudreader.com/)
@@ -350,6 +367,7 @@ Anything related to producing sound/music.
 - [Simplescraper - Extract data from any website](https://simplescraper.io/)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
+- [GitHub Archive](https://www.gharchive.org/)
 
 ### Shops
 
@@ -360,5 +378,3 @@ Anything related to producing sound/music.
 I just never really looked at those again...
 
 [Removed Links](removed-links.html)
-
-<img class="center" src="./img/hero-links.png" alt="Content ends here">

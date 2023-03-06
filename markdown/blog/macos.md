@@ -4,8 +4,6 @@ pagetitle: "My MacOS Setup"
 
 ### My MacOS Setup
 
-_Last updated on 24.03.2022_
-
 Start with a clean install.
 Open the [terminal](<https://en.wikipedia.org/wiki/Terminal_(macOS)>) app and copy and paste the commands.  
 This is probably outdated as I only update it when setting up MacOs.
@@ -196,5 +194,3 @@ Browser settings:
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
-
-<img class="center" src="./img/hero-macos.png" alt="Content ends here">

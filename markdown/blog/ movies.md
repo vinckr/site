@@ -4,8 +4,6 @@ pagetitle: "Movies"
 
 # Movies
 
-_Last updated on 29.02.2023_
-
 ## Watchlist
 
 This list helps me keep track of worthwhile movies or shows to watch.

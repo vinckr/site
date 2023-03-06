@@ -4,8 +4,6 @@ pagetitle: "Books"
 
 # Books
 
-_Last updated on 29.02.2023_
-
 ## Readlist
 
 This list helps me keep track of worthwhile texts to read.
@@ -69,5 +67,3 @@ Rating:
 - [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
 - [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
-
-<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

@@ -28,5 +28,3 @@ pagetitle: "Blog"
 - [git](git.html)
 - [macos](macos.html)
 - [misc](misc.html)
-
-<img class="center" src="./img/hero-blog.png" alt="Content ends here">

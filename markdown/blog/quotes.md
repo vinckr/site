@@ -4,8 +4,6 @@ pagetitle: "Quotes"
 
 ## Quotes
 
-_Last updated on 17.11.2022_
-
 I don't fully endorse, believe in, or live by the content of these quotes, I find them worthy to collect and share. Some are statements made by famous people, others were found in random places on the internet. (Attribution added where I am somewhat certain.)
 
 > "The possible has been tried and failed. Now it’s time to try the impossible." - [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)
@@ -67,5 +65,3 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 > "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
 
 > "Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness"
-
-<img class="center" src="./img/hero-quotes.png" alt="Content ends here">

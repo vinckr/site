@@ -6,6 +6,7 @@ pagetitle: "Blog"
 
 ## monthly digest
 
+- [01-2023](01-23.html)
 - [12-2022](12-22.html)
 - [11-2022](11-22.html)
 - [10-2022](10-22.html)
@@ -20,6 +21,7 @@ pagetitle: "Blog"
 
 - [movies](movies.html)
 - [books](books.html)
+- [music](music.html)
 - [quotes](quotes.html)
 - [munich food tips](munich-tips.html)
 
@@ -28,5 +30,3 @@ pagetitle: "Blog"
 - [git](git.html)
 - [macos](macos.html)
 - [misc](misc.html)
-
-<img class="center" src="./img/hero-blog.png" alt="Content ends here">

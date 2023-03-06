@@ -18,3 +18,6 @@ urls-sorted-markdown.txt
 node_modules
 
 public/*.html
+
+# custom html pages in public
+!recipe-generator.html

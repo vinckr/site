@@ -4,8 +4,6 @@ pagetitle: "Misc cheatsheet"
 
 # Misc cheatsheet
 
-_Last updated on 17.11.2022_
-
 A mixed collection of commands I had to look up at some point and collect here for future reference.
 Most likely not useful for anyone else but me ;-).
 
@@ -117,5 +115,3 @@ Term 2 with _inline markup_
 
     Third paragraph of definition 2.
 ```
-
-<img class="center" src="./img/hero-git.png" alt="Content ends here">

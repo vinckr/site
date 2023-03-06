@@ -4,8 +4,6 @@ pagetitle: "git Cheatsheet"
 
 # git cheatsheet
 
-_Last updated on 17.11.2022_
-
 > git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.
 
 ## Basics
@@ -24,6 +22,7 @@ _Last updated on 17.11.2022_
 - `git log --format='%aN' | sort -u` : list all contributors by name.
 - `git log --all --full-history -- "**/some-file.*"`: search git history for a specific file. Useful when something got deleted.
 - `git fetch origin <your-branch>:<your-branch>`: fetch a branch.
+- `git grep <regexp> $(git rev-list --all)`: search git history for a specific string/regexp.
 
 ### config
 
@@ -64,5 +63,3 @@ git checkout -b <branch-name> origin/<branch-name>
 - [Git for the lazy](https://wiki.spheredev.org/index.php/Git_for_the_lazy)
 - [Git Immersion: A guided tour](https://gitimmersion.com/)
 - [git-fu](https://gitfu.wordpress.com/)
-
-<img class="center" src="./img/hero-git.png" alt="Content ends here">

@@ -21,6 +21,7 @@ pagetitle: "Blog"
 
 - [movies](movies.html)
 - [books](books.html)
+- [music](music.html)
 - [quotes](quotes.html)
 - [munich food tips](munich-tips.html)
 

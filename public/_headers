@@ -1,7 +1,7 @@
-/*
-  X-Frame-Options: SAMEORIGIN
-  X-XSS-Protection: 1
-  Content-Security-Policy: default-src 'self' blob: 'unsafe-eval' *.vinckr.com https://www.mixcloud.com; img-src * data:
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), battery=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), usb=()
+/_
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1
+Content-Security-Policy: default-src 'self' blob: 'unsafe-eval' _.vinckr.com https://www.mixcloud.com; img-src \* data:; style-src fonts.googleapis.com;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), battery=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), usb=()

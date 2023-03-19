@@ -10,7 +10,17 @@ u: # format, encrypt drafts, and commit to git
 	git commit -m "chore: format + drafts"
 
 help:  # show all available Make commands
-	cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
+	@cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
+
+build: .bin/gokesh # build HTML without committing
+	.bin/gokesh page index
+	.bin/gokesh page about
+	.bin/gokesh dir blog
+	
+dev: # run a local server to preview the site
+	make build
+	@echo "Preview running at http://localhost:8000"
+	go run cmd/dev/main.go
 
 build: .bin/gokesh # build HTML without committing
 	.bin/gokesh page index

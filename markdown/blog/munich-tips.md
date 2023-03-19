@@ -22,17 +22,19 @@ Take with a grain of salt 😉
 
 ### Chinese
 
-Authentic Chinese:
-
-- [Mai Garten](https://www.mai-garten.com/)
-
-European:
-
-- [Kam Yi](https://kamyi.com/)
+- [Mai Garten](https://www.mai-garten.com/) (Authentic Chinese style)
+- [Kam Yi](https://kamyi.com/) (European style)
+- [Yanyou](http://www.yanyou.de/)
 
 ### Ethiopian
 
 - Blue Nile (Viktor-Scheffel-Straße 22, 80803)
+
+### French
+
+- [Le Berlu](https://www.leberlu.de/)
+- [Marais Soir](https://marais-soir.de/)
+- [Rue Des Halles](https://ruedeshalles.de/)
 
 ### Greek
 
@@ -59,6 +61,7 @@ European:
 - [Solo pizza](https://www.solopizza.de/)
 - [Forza Napoli](https://forzanapoli.de/)
 - Pinsa: [Morelli](https://morelli-la-pinsapizzeria.business.site/)
+- [Nine O Five](https://www.nineofive.de/muenchen-herzogenstrasse/)
 
 ### Pasta
 
@@ -80,3 +83,7 @@ European:
 Asian:
 
 - [Soy](https://soy-muenchen.com/)
+
+### Vietnamese
+
+- [Ninh Restaurant](https://www.ninh-restaurant.de/)

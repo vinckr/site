@@ -22,16 +22,6 @@ dev: # run a local server to preview the site
 	@echo "Preview running at http://localhost:8000"
 	go run cmd/dev/main.go
 
-build: .bin/gokesh # build HTML without committing
-	.bin/gokesh page index
-	.bin/gokesh page about
-	.bin/gokesh dir blog
-	
-dev: # run a local server to preview the site
-	make build
-	@echo "Preview running at http://localhost:8000"
-	go run cmd/dev/main.go
-
 format: .bin/shfmt node_modules  # format the source code
 	echo "\n formatting ..."
 	.bin/shfmt --write .

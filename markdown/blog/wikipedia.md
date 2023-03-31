@@ -27,6 +27,8 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [The General Crisis](https://en.m.wikipedia.org/wiki/The_General_Crisis)
 - [The Thing (listening device)](<https://en.m.wikipedia.org/wiki/The_Thing_(listening_device)>)
 - [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+- [Joe job](https://en.m.wikipedia.org/wiki/Joe_job)
+- [Uranium tile](https://en.m.wikipedia.org/wiki/Uranium_tile)
 
 ## Lists
 

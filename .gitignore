@@ -14,6 +14,7 @@ urls-sorted-markdown.txt
 
 .bin
 !*.secure
+.DS_Store.secure
 
 node_modules
 

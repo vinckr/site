@@ -17,6 +17,7 @@ Start reading and never stop.
 - [TechinAsia](https://www.techinasia.com/)
 - [HN Classics](https://posobin.com/hn_classics/)
 - [Cryptome](https://cryptome.org/)
+- [London Review of Books](https://www.lrb.co.uk/)
 
 ### Public Domain
 
@@ -26,7 +27,7 @@ Start reading and never stop.
 - [The Anarchist Library](https://theanarchistlibrary.org/)
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
 
-### Very Internet
+### Internet
 
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
@@ -39,6 +40,10 @@ Start reading and never stop.
 - [gwern](https://gwern.net/)
 - [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [99 Bits of unsolicited advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+- [Awesome Tech Blogs](https://tech-blogs.dev/)
+- [MARC: Mailing list ARChives](https://marc.info/)
+- [Everything2](https://everything2.com/)
+- [DiscMaster](http://discmaster.textfiles.com/)
 
 ### Science Fiction
 
@@ -50,15 +55,15 @@ Start reading and never stop.
 
 - [List of notable Wikipedia Articles](wikipedia.html)
 
-## Writing
-
-Everything relevant to text creation.
+## Writing tools
 
 - [Cliche Finder](http://cliche.theinfo.org/)
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 - [Word to Markdown Converter](https://word2md.com/)
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
+- [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/solitude)
+- [Text transcripts of Obama speeches](http://obamaspeeches.com/)
 
 ## Cheat Sheets
 
@@ -85,10 +90,16 @@ Collections of knowledge often looked up and forgotten.
 - [Gif search](https://gif.so/)
 - [Illusions & Visual Phenomena](https://michaelbach.de/ot/)
 - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
+- [Ted Nelson's Junk Mail Cartons](https://archive.org/details/tednelsonjunkmail)
+- [Wolf design review by award winning architect in Melbourne](https://review.wolfarchitects.design/)
+- [Fractal Garden](https://www.fractal.garden/)
 
 ### Design
 
+This section is a mess, a loose collection of design tips, tools, and examples for inspiration.
+
 - [Awwwards](https://www.awwwards.com/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
@@ -103,6 +114,12 @@ Collections of knowledge often looked up and forgotten.
 - [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
 - [Jan V. White - Resources on page layout, typography, infographics, color and more.](https://www.janvwhite.org/)
+- [Design Tokens Generator](https://tokens.layoutit.com/)
+- [Brutalist Web Design](https://brutalist-web.design/)
+- [Open source components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
+- [Esoteric Color Palette Generation Library](https://meodai.github.io/poline/)
+- [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
+- [Feather – Simply beautiful open source icons](https://feathericons.com/)
 
 ## Software
 
@@ -127,6 +144,9 @@ Resources for web development and related topics.
 - [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
 - [Windows 10 Ameliorated](https://ameliorated.info/)
+- [Codeberg.org](https://codeberg.org/)
+- [Wachete - Monitor web changes](https://www.wachete.com/)
+- [IP Geolocation API](https://ipdata.co/)
 
 ### HTML
 
@@ -139,6 +159,8 @@ Resources for web development and related topics.
 - [Useful HTML tricks](https://markodenic.com/html-tips/)
 - [Details on `<details>`](https://github.com/muan/details-on-details)
 - [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
+- [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 
 ### CSS
 
@@ -153,6 +175,7 @@ Resources for web development and related topics.
 - [Grid by Example](https://gridbyexample.com/)
 - [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 - [NES.css](https://nostalgic-css.github.io/NES.css/)
+- [Axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 
 ### Documentation
 
@@ -186,6 +209,13 @@ Official courses and other general learning resources.
 - [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
 - [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
+- [Free online courses from Massachusetts Institute of Technology](https://www.edx.org/school/mitx)
+- [Frontend Mentor | Front-end coding challenges](https://www.frontendmentor.io/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Computer Networking Introduction: Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 
 #### Go
 
@@ -194,6 +224,7 @@ Official courses and other general learning resources.
 
 #### Python
 
+- [CMU CS Academy](https://academy.cs.cmu.edu/)
 - [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 - [Python IDE for beginners](https://thonny.org/)
 - [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
@@ -218,7 +249,7 @@ This might be helpful when building an application or business.
 - [Compare prices of all top-level domains](https://tld-list.com/)
 - [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
-- [deck.rocks: Generate pitch decks using GPT-3](https://www.deck.rocks/)
+- [Search inside 15,000+ pitch deck slides](https://www.searchthedeck.com/)
 - [Git Trends](https://www.gittrends.xyz/)
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
 - [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
@@ -265,7 +296,7 @@ This might be helpful when building an application or business.
 
 ## Sound
 
-Anything related to producing sound/music.
+Anything related to sound or music.
 
 - [Commercial-free, underground/alternative radios](https://somafm.com/)
 - [Surge Synth Projects](https://surge-synth-team.org/)
@@ -279,6 +310,9 @@ Anything related to producing sound/music.
 - [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
+- [Shirley & Spinoza Radio ](https://compound-eye.org/)
+- [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
+- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
 
 ## Generative Art
 
@@ -340,6 +374,10 @@ Anything related to producing sound/music.
 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
 - [puter.com](https://puter.com/)
 - [Matrix web-based green code rain](https://github.com/Rezmason/matrix)
+- [We Become What We Behold game](https://ncase.itch.io/wbwwb)
+- [OpenRCT2 project](https://openrct2.org/)
+- [s l o w r o a d s](https://slowroads.io/)
+- [Easy handdrawn gifs](https://www.eatmy.art/)
 
 ## (Remote) Work
 
@@ -355,6 +393,7 @@ Anything related to producing sound/music.
 - [People-First Jobs — Remote, flexible jobs at companies with a people-first culture](https://peoplefirstjobs.com/)
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
 
 ## Uncategorized
 
@@ -368,6 +407,10 @@ Anything related to producing sound/music.
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
 - [GitHub Archive](https://www.gharchive.org/)
+- [Cairo - alternative Windows desktop environment](https://cairodesktop.com/)
+- [FIS-Broker Berlin open data](https://fbinter.stadt-berlin.de/fb/index.jsp)
+- [SubSite](http://subgenius.com/)
+- [Artless Devices](https://artlessdevices.com/)
 
 ### Shops
 

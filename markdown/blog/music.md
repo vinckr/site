@@ -6,7 +6,7 @@ pagetitle: "Music"
 
 Music has always been a big passion of mine. I enjoy a wide range of genres, from blues, jazz, and metal to electronic and hip hop beats, as well as the eclectic, genre-defying music produced by artists around the world.
 
-Under the name _Turdbaby_ I have been DJing and tinkering with beats and waveforms using software like [Ableton](https://www.ableton.com/) and [Reaper](https://www.reaper.fm/), as well as various analog and digital devices, since 2009. You can find some of my old material on [soundcloud.com/turdbaby](https://soundcloud.com/turdbaby) and a list of my mixes on [mixcloud.com/turdbaby](https://www.mixcloud.com/turdbaby/) (or listen to them in the widget below).
+Under the name _Turdbaby_ I have been DJing and tinkering with beats and waveforms since 2009, using software like [Ableton](https://www.ableton.com/) and [Reaper](https://www.reaper.fm/), as well as various analog and digital devices. You can find some of my old material on [soundcloud.com/turdbaby](https://soundcloud.com/turdbaby) and a list of my mixes on [mixcloud.com/turdbaby](https://www.mixcloud.com/turdbaby/) (or listen to them in the widget below).
 
 ---
 

@@ -44,18 +44,19 @@ See below for ratings of some of the books I read.
 - [Tyll by Daniel Kehlmann](https://www.goodreads.com/book/show/36130507-tyll)
 - [Cosmic Trigger Volume I: Final Secret of the Illuminati by Robert Anton Wilson](https://www.goodreads.com/book/show/4237.Cosmic_Trigger_Volume_I)
 - [Abaddón el Exterminador by Ernesto Sabato](https://www.goodreads.com/book/show/63001.Abadd_n_el_Exterminador)
+- [My Education: A Book of Dreams](https://www.goodreads.com/book/show/23948.My_Education)
+- [The Human Condition by Hannah Arendt](https://www.goodreads.com/book/show/127227.The_Human_Condition)
+- [Against Method by Paul Karl Feyerabend](https://www.goodreads.com/book/show/137979.Against_Method)
+- [Interaction Ritual: Essays on Face-To-Face Behavior by Erving Goffman](https://www.goodreads.com/book/show/20741.Interaction_Ritual)
+- [The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction by Hugo Gernsback](https://www.goodreads.com/book/show/30227595-the-perversity-of-things)
+- [Impro: Improvisation and the Theatre by Keith Johnstone](https://www.goodreads.com/book/show/306940.Impro)
+- [Operating Manual for Spaceship Earth by R. Buckminster Fuller](https://www.goodreads.com/book/show/316362.Operating_Manual_for_Spaceship_Earth)
+- [The Origins of Political Order: From Prehuman Times to the French Revolution by Francis Fukuyama](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
+- [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
 
 ## Reviews
 
 I review and rate some of the books I read. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
-
-Rating:
-
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
-- 5/5 masterpiece. must consume
 
 - [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
@@ -67,3 +68,13 @@ Rating:
 - [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
 - [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
+
+### Rating
+
+- 1/5 terrible. waste of time
+- 2/5 ok. would not recommend
+- 3/5 pretty good. worth to check out
+- 4/5 amazing. highly recommended
+- 5/5 masterpiece. must consume
+
+<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

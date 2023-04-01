@@ -4,8 +4,9 @@ pagetitle: "Misc cheatsheet"
 
 # Misc cheatsheet
 
-A mixed collection of commands I had to look up at some point and collect here for future reference.
-Most likely not useful for anyone else but me ;-).
+A mixed collection of things I had to look up at some point and collect here for future reference.
+
+- [Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
 ## Mixed/UNIX
 

@@ -1,5 +1,7 @@
 ---
-pagetitle: "Forgotten Links"
+layout: blog.njk
+tags: blog
+title: "Forgotten Links"
 ---
 
 # Forgotten Links

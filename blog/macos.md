@@ -1,5 +1,7 @@
 ---
-pagetitle: "My MacOS Setup"
+layout: blog.njk
+tags: blog
+title: "My MacOS Setup"
 ---
 
 ### My MacOS Setup

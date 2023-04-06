@@ -1,5 +1,7 @@
 ---
-pagetitle: "Quotes"
+layout: blog.njk
+tags: blog
+title: "Quotes"
 ---
 
 ## Quotes

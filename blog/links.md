@@ -1,5 +1,7 @@
 ---
-pagetitle: "Links"
+layout: blog.njk
+tags: blog
+title: "Links"
 ---
 
 # Links

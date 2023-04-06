@@ -1,5 +1,7 @@
 ---
-pagetitle: "Notable Wiki Articles"
+layout: blog.njk
+tags: blog
+title: "Notable Wiki Articles"
 ---
 
 # Notable Wiki Articles

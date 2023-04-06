@@ -1,5 +1,7 @@
 ---
-pagetitle: "About"
+layout: blog.njk
+tags: blog
+title: "About"
 ---
 
 # hello stranger &#128075;

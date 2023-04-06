@@ -1,5 +1,7 @@
 ---
-pagetitle: "Movies"
+layout: blog.njk
+tags: blog
+title: Movies
 ---
 
 # Movies

@@ -1,5 +1,7 @@
 ---
-pagetitle: "Books"
+layout: blog.njk
+tags: blog
+title: "Books"
 ---
 
 # Books

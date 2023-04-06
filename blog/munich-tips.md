@@ -1,5 +1,7 @@
 ---
-pagetitle: Where to eat in Munich
+layout: blog.njk
+tags: blog
+title: Where to eat in Munich
 ---
 
 # Where to eat in Munich

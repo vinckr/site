@@ -1,5 +1,7 @@
 ---
-pagetitle: "Music"
+layout: blog.njk
+tags: blog
+title: "Music"
 ---
 
 # hello friend 🔊

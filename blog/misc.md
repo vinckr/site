@@ -1,5 +1,7 @@
 ---
-pagetitle: "Misc cheatsheet"
+layout: blog.njk
+tags: blog
+title: "Misc cheatsheet"
 ---
 
 # Misc cheatsheet

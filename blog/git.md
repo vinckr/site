@@ -1,5 +1,7 @@
 ---
-pagetitle: "git Cheatsheet"
+layout: blog.njk
+tags: blog
+title: "git Cheatsheet"
 ---
 
 # git cheatsheet

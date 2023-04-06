@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
-title: Blog
 tags: blog
+title: Blog
 ---
 
 # hello stranger &#128075;

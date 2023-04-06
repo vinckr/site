@@ -4,7 +4,9 @@
   "description": "This is my personal website, there are many like it but this one is mine.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "test": "npx broken-link-checker http://localhost:8080"
   },
   "repository": {
     "type": "git",

@@ -13,7 +13,7 @@ author: vinckr
 
     <title>{{ title }} · {{ author }}</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/styles/global.css">
 
     <meta name="description" content="vinckr personal blog and website. links and resources for developers and everyone else interested in tech and open source.">
 
@@ -27,9 +27,9 @@ author: vinckr
     <link rel="canonical" href="https://vinckr.com" >
     <meta name="twitter:card" content="vinckr personal website.">
 
-    <link rel="icon" href="./favicon.ico">
-    <link rel="shortcut icon" href="./img/icon.png">
-    <link rel="apple-touch-icon" href="./img/apple-touch-icon-180x180.png">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/img/icon.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon-180x180.png">
     <link rel="manifest" href="/site.webmanifest">
     <meta name="theme-color" content="#000000">   
   
@@ -38,10 +38,10 @@ author: vinckr
     <meta property="og:site_name" content="vinckr">
 </head>
     <div class="header">
-            <a class="logo" href="./index.html"><img src="./img/logo.svg" alt="vinckr"></a>
+            <a class="logo" href="{{ '/index' | url }}"><img src="/img/logo.svg" alt="vinckr"></a>
             <div class="nav">
-            <li><button class="metal linear"><a href="./index.html">index</a></button></li>
-            <li><button class="metal linear"><a href="links.html">links</a></button></li>
+            <li><button class="metal linear"><a href="{{ '/index' | url }}">index</a></button></li>
+            <li><button class="metal linear"><a href="{{ '/links' | url }}">links</a></button></li>
         </div>
     </div>
 {% endblock %}
@@ -52,6 +52,6 @@ author: vinckr
 {% endblock %}
 {% block footer %}
 <div class="footer">
-All Rites Reversed Ⓚ {{ year }} by <a href="https://github.com/{{author}}/gokesh">{{ author }}</a>.
+All Rites Reversed Ⓚ {{ year }} by <a href="https://github.com/{{author}}">{{ author }}</a>.
 </div>
 {% endblock %}

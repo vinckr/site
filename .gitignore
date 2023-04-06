@@ -22,3 +22,5 @@ public/*.html
 
 # custom html pages in public
 !recipe-generator.html
+
+_site

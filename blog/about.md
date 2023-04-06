@@ -18,8 +18,8 @@ I believe in the power and merit of an open and free internet and try to advance
 
 - vinckr
 
-![Thanks for visiting!](./img/hello.gif)
+![Thanks for visiting!](/img/hello.gif)
 
-<a href="blog.html"><img class="center" src="./img/index.png" alt="Content ends here"></a>
+![](/img/notepad.gif)
 
-![](./img/notepad.gif)
+![Welcome](/img/index.png)

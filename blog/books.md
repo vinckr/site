@@ -78,5 +78,3 @@ I review and rate some of the books I read. Don't take it too seriously - it's h
 - 3/5 pretty good. worth to check out
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
-
-<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

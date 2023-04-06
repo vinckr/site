@@ -81,5 +81,3 @@ Rating:
 - [Moonfall](https://www.imdb.com/title/tt5834426) 3/5
 - [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600) 3/5
 - [The Hacker (2016)](https://www.imdb.com/title/tt3173594) 1/5
-
-<img class="center" src="./img/hero-reviews.png" alt="Content ends here">

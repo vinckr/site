@@ -6,6 +6,8 @@ title: Blog
 
 # hello stranger &#128075;
 
+welcome to my digital garden
+
 ## monthly log
 
 - [02-2023](02-23)
@@ -27,6 +29,7 @@ title: Blog
 - [books 📚 readlist & reviews](books)
 - [music 🔊](music)
 - [quotes](quotes)
+- [about](about)
 - [munich food tips](munich-tips)
 
 ## cheatsheets
@@ -34,3 +37,7 @@ title: Blog
 - [git](git)
 - [macos](macos)
 - [misc](misc)
+
+![Nekojiru](/img/nekojiru.gif)
+
+![Welcome](/img/index.png)

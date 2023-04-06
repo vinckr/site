@@ -1,26 +1,25 @@
 {
-  "name": "vinckr",
+  "name": "vinckr.com",
   "version": "1.0.0",
-  "description": "support timecube",
+  "description": "This is my personal website, there are many like it but this one is mine.",
   "main": "index.js",
   "scripts": {
-    "update": "make u",
-    "check:markdown": "find markdown/blog/*.md -exec npx markdown-link-check {} \\;"
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "test": "npx broken-link-checker http://localhost:8080"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vinckr/vinckr.com.git"
   },
-  "author": "vinckr",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinckr/vinckr.com/"
+    "url": "https://github.com/vinckr/vinckr.com/issues"
   },
-  "homepage": "https://vinckr.com/",
-  "dependencies": {
-    "doctoc": "^2.2.1"
-  },
+  "homepage": "https://github.com/vinckr/vinckr.com#readme",
   "devDependencies": {
-    "markdown-link-check": "^3.10.3"
+    "@11ty/eleventy": "^2.0.1"
   }
 }

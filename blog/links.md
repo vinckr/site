@@ -162,12 +162,18 @@ Resources for web development and related topics.
 - [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
 - [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-- [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
 - [Windows 10 Ameliorated](https://ameliorated.info/)
 - [Codeberg.org](https://codeberg.org/)
 - [Wachete - Monitor web changes](https://www.wachete.com/)
 - [IP Geolocation API](https://ipdata.co/)
 - [Benchmark and rank of public APIs](https://apirank.dev/)
+
+#### File sharing
+
+- [put.re](https://put.re/)
+- [cubeupload - zero compression image sharing](https://cubeupload.com/)
+- [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
+- [STORAGE.SX | Privacy friendly file sharing](https://storage.sx/)
 
 ### HTML
 
@@ -206,11 +212,14 @@ Resources for web development and related topics.
 - [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [React](https://react.dev/)
+- [The Joy of React](https://www.joyofreact.com/)
 
 ### Go
 
 - [A Tour of Go](https://go.dev/tour/welcome/1)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Go styleguide](https://google.github.io/styleguide/go/)
+- [Buffalo - web development in Go](https://gobuffalo.io/)
 
 ### Python
 
@@ -412,6 +421,8 @@ Anything related to sound or music.
 - [OpenRCT2 project](https://openrct2.org/)
 - [s l o w r o a d s](https://slowroads.io/)
 - [Easy handdrawn gifs](https://www.eatmy.art/)
+- [Floor796](https://floor796.com/)
+- [SCiZE's classic warez collection](https://scenelist.org/)
 
 ## (Remote) Work
 

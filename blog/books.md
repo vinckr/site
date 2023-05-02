@@ -55,6 +55,8 @@ See below for ratings of some of the books I read.
 - [Operating Manual for Spaceship Earth by R. Buckminster Fuller](https://www.goodreads.com/book/show/316362.Operating_Manual_for_Spaceship_Earth)
 - [The Origins of Political Order: From Prehuman Times to the French Revolution by Francis Fukuyama](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
 - [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
+- [The Doctors' Dinner 'Party](https://www.goodreads.com/book/show/75542980-the-doctors-dinner-party)
+- [The Wreck of the Titan: Or Futility & Morgan Robertson the Man](https://www.goodreads.com/en/book/show/785361)
 
 ## Reviews
 

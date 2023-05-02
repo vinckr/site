@@ -12,15 +12,6 @@ A collection of links to various websites, resources and even more link collecti
 
 Start reading and never stop.
 
-### Publications
-
-- [The Baffler](https://thebaffler.com/)
-- [The Codeless Code](http://thecodelesscode.com/)
-- [TechinAsia](https://www.techinasia.com/)
-- [HN Classics](https://posobin.com/hn_classics/)
-- [Cryptome](https://cryptome.org/)
-- [London Review of Books](https://www.lrb.co.uk/)
-
 ### Public Domain
 
 - [Project Gutenberg](https://gutenberg.org/)
@@ -28,6 +19,8 @@ Start reading and never stop.
 - [Global Grey](https://www.globalgreyebooks.com/)
 - [The Anarchist Library](https://theanarchistlibrary.org/)
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
+- [The Vintage Technology Digital Archive](http://vtda.org/)
+- [Digital Public Library of America](https://dp.la/)
 
 ### Internet
 
@@ -46,11 +39,33 @@ Start reading and never stop.
 - [MARC: Mailing list ARChives](https://marc.info/)
 - [Everything2](https://everything2.com/)
 - [DiscMaster](http://discmaster.textfiles.com/)
+- [BYTE MAGAZINE: Early computer publication](https://worldradiohistory.com/Byte_Magazine.htm)
+
+### Mixed Publications
+
+- [The Baffler](https://thebaffler.com/)
+- [The Codeless Code](http://thecodelesscode.com/)
+- [TechinAsia](https://www.techinasia.com/)
+- [HN Classics](https://posobin.com/hn_classics/)
+- [Cryptome](https://cryptome.org/)
+- [London Review of Books](https://www.lrb.co.uk/)
+- [naked capitalism](https://www.nakedcapitalism.com/)
+- [n+1](https://www.nplusonemag.com/)
+- [Noema Magazine](https://www.noemamag.com/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [The Marginalian](https://www.themarginalian.org/)
+- [Lapham's Quarterly](https://www.laphamsquarterly.org/)
+- [The Conversation](https://theconversation.com/europe)
+- [The Point](https://thepointmag.com/)
+- [Aeon](https://aeon.co/)
+- [Big Think](https://bigthink.com/)
+- [The Hedgehog Review](https://hedgehogreview.com/)
+- [Nautilus](https://nautil.us/)
 
 ### Science Fiction
 
-- [Clarkesworld Magazine – Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
-- [AEscifi – Free science fiction from the frozen north](https://aescifi.ca/)
+- [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
+- [AEscifi - Free science fiction from the frozen north](https://aescifi.ca/)
 - [Teleport Magazine](https://www.teleportmagazine.com/)
 
 ### Wiki Articles
@@ -121,7 +136,10 @@ This section is a mess, a loose collection of design tips, tools, and examples f
 - [Open source components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Esoteric Color Palette Generation Library](https://meodai.github.io/poline/)
 - [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
-- [Feather – Simply beautiful open source icons](https://feathericons.com/)
+- [Feather - Simply beautiful open source icons](https://feathericons.com/)
+- [Iconhunt - Search for open source icons, 150.000+ icons.](https://www.iconhunt.site/)
+- [Free seamless pattern backgrounds](https://www.patterncooler.com/)
+- [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
 
 ## Software
 
@@ -149,6 +167,7 @@ Resources for web development and related topics.
 - [Codeberg.org](https://codeberg.org/)
 - [Wachete - Monitor web changes](https://www.wachete.com/)
 - [IP Geolocation API](https://ipdata.co/)
+- [Benchmark and rank of public APIs](https://apirank.dev/)
 
 ### HTML
 
@@ -178,6 +197,31 @@ Resources for web development and related topics.
 - [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 - [NES.css](https://nostalgic-css.github.io/NES.css/)
 - [Axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
+- [CSS Bed](https://www.cssbed.com/)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+
+### JS
+
+- [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
+- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [React](https://react.dev/)
+
+### Go
+
+- [A Tour of Go](https://go.dev/tour/welcome/1)
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+
+### Python
+
+- [CMU CS Academy](https://academy.cs.cmu.edu/)
+- [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
+- [Python IDE for beginners](https://thonny.org/)
+- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
+- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [futurecoder: learn python from scratch](https://futurecoder.io/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Documentation
 
@@ -193,7 +237,7 @@ Resources for web development and related topics.
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 - I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
 
-### Learning
+### CS Learning
 
 Official courses and other general learning resources.
 
@@ -210,34 +254,19 @@ Official courses and other general learning resources.
 - [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
 - [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
-- [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
-- [Free online courses from Massachusetts Institute of Technology](https://www.edx.org/school/mitx)
-- [Frontend Mentor | Front-end coding challenges](https://www.frontendmentor.io/)
+- [Product Design: Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
+- [Free online courses from MIT](https://www.edx.org/school/mitx)
+- [Front-end coding challenges](https://www.frontendmentor.io/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Computer Networking Introduction: Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
-
-#### Go
-
-- [A Tour of Go](https://go.dev/tour/welcome/1)
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
-
-#### Python
-
-- [CMU CS Academy](https://academy.cs.cmu.edu/)
-- [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
-- [Python IDE for beginners](https://thonny.org/)
-- [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-#list/)
-- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
-- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [futurecoder: learn python from scratch](https://futurecoder.io/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 
 ### Building
 
-This might be helpful when building an application or business.
+This might be helpful when building an application, website, or business.
 
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
@@ -259,6 +288,10 @@ This might be helpful when building an application or business.
 - [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
 - [OSS Insight](https://ossinsight.io/)
 - [Payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
+- [Raw logs: identifying enterprise buying intent](https://ghuntley.com/rawlogs/)
+- [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
+- [Headless Commerce Resources](https://headlesscommerce.org/)
+- [Minimal Gallery - Website inspiration](https://minimal.gallery/)
 
 ### Security
 
@@ -282,7 +315,7 @@ This might be helpful when building an application or business.
 #### OSINT
 
 - [awesome osint](https://github.com/jivoi/awesome-osint)
-- [de🔸digger find public files in Google Drive](https://www.dedigger.com)
+- [dedigger find public files in Google Drive](https://www.dedigger.com)
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 
 ### Code Examples
@@ -309,7 +342,6 @@ Anything related to sound or music.
 - [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 - [Music Theory Tools to learn music online for free](https://muted.io/)
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
-- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
 - [Shirley & Spinoza Radio ](https://compound-eye.org/)
@@ -352,7 +384,7 @@ Anything related to sound or music.
 - [List of science fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 - [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
-- [Webb’s Jupiter Images Showcase Auroras, Hazes – James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
+- [Webb’s Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
 ## Fun
@@ -413,10 +445,12 @@ Anything related to sound or music.
 - [FIS-Broker Berlin open data](https://fbinter.stadt-berlin.de/fb/index.jsp)
 - [SubSite](http://subgenius.com/)
 - [Artless Devices](https://artlessdevices.com/)
+- [Center for Book Arts Archive](https://collections.centerforbookarts.org/)
+- [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
 
 ### Shops
 
-- [Medimops – Buy used products](https://www.medimops.de/)
+- [Medimops - Buy used products](https://www.medimops.de/)
 
 ### Removed Links
 

@@ -31,6 +31,8 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 - [Joe job](https://en.m.wikipedia.org/wiki/Joe_job)
 - [Uranium tile](https://en.m.wikipedia.org/wiki/Uranium_tile)
+- [Gävle goat](https://en.wikipedia.org/wiki/G%C3%A4vle_goat)
+- [Need for cognition](https://en.wikipedia.org/wiki/Need_for_cognition)
 
 ## Lists
 

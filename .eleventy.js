@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: "blog", // only process markdown files in blog folder
+      input: "content", // only process markdown files in content folder
       output: "_site",
       includes: "_includes",
     },

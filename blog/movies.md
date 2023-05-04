@@ -41,6 +41,9 @@ See below for ratings of some of the movies I watch.
 - [Voyna](https://www.imdb.com/title/tt0309047/)
 - [Soldier (1998)](https://m.imdb.com/title/tt0120157/)
 - [Interstellar](https://m.imdb.com/title/tt0816692/)
+- [Sid and Nancy](https://m.imdb.com/title/tt0091954/)
+- [La vida loca](https://m.imdb.com/title/tt1305890/)
+- [Blind Fury](https://www.imdb.com/title/tt0096945/)
 
 ## Reviews
 
@@ -54,6 +57,12 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Jodorowsky's Dune](https://www.imdb.com/title/tt1935156/) 5/5
+- [Jurassic Punk](https://www.imdb.com/title/tt15095920/) 3/5
+- [Mom and Dad](https://www.imdb.com/title/tt5462326/) 4/5
+- [The 6th Day](https://www.imdb.com/title/tt0216216/) 2/5
+- [Contact](https://www.imdb.com/title/tt0118884/) 4/5
+- [Demolition Man](https://www.imdb.com/title/tt0106697/) 3/5
 - [Color out of space](https://www.imdb.com/title/tt5073642/) 4/5
 - [Green Night](https://www.imdb.com/title/tt26425693/) 3/5
 - [Under Siege](https://www.imdb.com/title/tt0105690/) 2/5

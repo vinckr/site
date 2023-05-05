@@ -4,8 +4,8 @@ tags: blog
 title: 👋 hello
 ---
 
-Hi, I'm Vincent, welcome to my digital garden.  
-I am **Developer Advocate** and **Head of Community at Ory** where my team helps developers build secure and open source identity infrastructure for the web.
+Hi, I'm Vincent.  
+I'm a **Developer Advocate at Ory** where my team helps developers build secure and open source identity infrastructure for the web.
 
 </br>
 
@@ -13,8 +13,7 @@ I am **Developer Advocate** and **Head of Community at Ory** where my team helps
 
 </br>
 
-I'm an Ory contributor and help lead our open-source communities, focusing on documentation, support, and developer content.
-My passions include, but are not limited to frontend development, generative art, electronic music, liminal spaces and communities.
+I'm an Ory contributor and help lead our open-source communities, focusing on documentation, education, and good developer content.
 
 </br>
 

@@ -1,5 +1,5 @@
 ---
-layout: blog-post.njk
+layout: page.njk
 tags: blog
 title: Where to eat in Munich
 ---

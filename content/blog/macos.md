@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "My MacOS Setup"
 ---
-
-### My MacOS Setup
 
 Start with a clean install.
 Open the [terminal](<https://en.wikipedia.org/wiki/Terminal_(macOS)>) app and copy and paste the commands.  

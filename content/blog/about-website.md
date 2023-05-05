@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: page.njk
 tags: blog
 title: "About this website"
 ---
-
-# About this website
 
 The first time I built a website was around 2002/3 when I was still a teenager. It was a crude thing, a concoction of frames and Comic Sans. It was made with Dreamweaver - a no-code website builder tool, I wonder what became of it - and the content mostly was about Magic the Gathering decks and strategies. Yes, I was that kind of nerd in the 2000s: Magic, Warhammer and World of Warcraft.
 

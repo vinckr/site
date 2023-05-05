@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "Quotes"
 ---
-
-## Quotes
 
 I don't fully endorse, believe in, or live by the content of these quotes, I find them worthy to collect and share. Some are statements made by famous people, others were found in random places on the internet. (Attribution added where I am somewhat certain.)
 

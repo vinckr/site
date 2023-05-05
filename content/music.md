@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: page.njk
 tags: blog
-title: "Music"
+title: music
 ---
-
-# hello friend 🔊
 
 Music has always been a big passion of mine. I enjoy a wide range of genres, from blues, jazz, and metal to electronic and hip hop beats, as well as the eclectic, genre-defying music produced by artists around the world.
 
@@ -20,7 +18,7 @@ Even though I have not turned music production into a job, I still have a passio
 
 I love sharing music!
 
-- [Here are 5 tracks I would like to share with you, organized into small compilations by genre and theme.](5tracks.html)
+- [Here are 5 tracks I would like to share with you, organized into small compilations by genre and theme.](../5tracks)
 
 Check out my boilerplate press release:
 

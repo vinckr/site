@@ -1,44 +1,25 @@
 ---
-layout: blog.njk
+layout: page.njk
 tags: blog
-title: Blog
+title: 👋 hello
 ---
 
-# hello stranger &#128075;
+Hi, I'm Vincent, welcome to my digital garden.  
+I am **Developer Advocate** and **Head of Community at Ory** where my team helps developers build secure and open source identity infrastructure for the web.
 
-welcome to my digital garden
+</br>
 
-## monthly log
+![Vincent](/img/v.png)
 
-- [03-2023](03-23)
-- [02-2023](02-23)
-- [01-2023](01-23)
-- [12-2022](12-22)
-- [11-2022](11-22)
-- [10-2022](10-22)
-- [09-2022](09-22)
-- [08-2022](08-22)
-- [07-2022](07-22)
-- [06-2022](06-22)
-- [05-2022](05-22)
-- [04-2022](04-22)
+</br>
 
-## pages
+I'm an Ory contributor and help lead our open-source communities, focusing on documentation, support, and developer content.
+My passions include, but are not limited to frontend development, generative art, electronic music, liminal spaces and communities.
 
-- [links 💾 curated collection of links](links)
-- [movies 🎞 watchlist & reviews](movies)
-- [books 📚 readlist & reviews](books)
-- [music 🔊](music)
-- [quotes](quotes)
-- [about](about)
-- [munich food tips](munich-tips)
+</br>
 
-## cheatsheets
+Need help with a website or building a community around an open source project? Feel free to [contact me](mailto:mail@vinckr.com).
 
-- [git](git)
-- [macos](macos)
-- [misc](misc)
+</br>
 
-![Nekojiru](/img/nekojiru.gif)
-
-![Welcome](/img/index.png)
+![Thanks for visiting!](/img/hello.gif)

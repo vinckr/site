@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "Forgotten Links"
 ---
-
-# Forgotten Links
 
 Links that I removed from the [main link collection](links.html).
 

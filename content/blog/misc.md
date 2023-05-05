@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "Misc cheatsheet"
 ---
-
-# Misc cheatsheet
 
 A mixed collection of things I had to look up at some point and collect here for future reference.
 

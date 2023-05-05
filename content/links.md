@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: page.njk
 tags: blog
-title: "Links"
+title: links
 ---
-
-# Links
 
 A collection of links to various websites, resources and even more link collections.
 

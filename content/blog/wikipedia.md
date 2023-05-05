@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "Notable Wiki Articles"
 ---
-
-# Notable Wiki Articles
 
 A collection of Wiki articles worth reading.
 

@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: "Books"
 ---
-
-# Books
 
 ## Readlist
 

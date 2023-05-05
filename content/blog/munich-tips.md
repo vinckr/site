@@ -1,10 +1,8 @@
 ---
-layout: blog.njk
+layout: blog-post.njk
 tags: blog
 title: Where to eat in Munich
 ---
-
-# Where to eat in Munich
 
 A list of good restaurants and places to eat in Munich. Provided the address where a website is missing.
 

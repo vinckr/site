@@ -6,8 +6,8 @@ title: Movies
 
 ## Watchlist
 
-This list helps me keep track of worthwhile movies or shows to watch.
-See below for ratings of some of the movies I watch.
+This list helps keep track of worthwhile movies or shows to watch.
+See below for ratings of movies I watch.
 
 - [Croupier](https://m.imdb.com/title/tt0159382/)
 - [Super Mario Bros.](https://www.imdb.com/title/tt0108255/)
@@ -45,7 +45,7 @@ See below for ratings of some of the movies I watch.
 
 ## Reviews
 
-I review and rate some of the movies I watch. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+I review and rate movies I watch. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 Rating:
 
@@ -55,6 +55,8 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Evil Dead Rise](https://www.imdb.com/title/tt13345606/) 3/5
+- [Evil Dead](https://www.imdb.com/title/tt1288558/) 4/5
 - [Jodorowsky's Dune](https://www.imdb.com/title/tt1935156/) 5/5
 - [Jurassic Punk](https://www.imdb.com/title/tt15095920/) 3/5
 - [Mom and Dad](https://www.imdb.com/title/tt5462326/) 4/5

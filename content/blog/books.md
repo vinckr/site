@@ -58,7 +58,7 @@ See below for ratings of some of the books I read.
 
 ## Reviews
 
-I review and rate some of the books I read. Don't take it too seriously - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+I review and rate some books I read. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
 - [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5

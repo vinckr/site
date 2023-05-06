@@ -34,7 +34,7 @@ title: git Cheatsheet
 
 **Use the following with caution!**
 
-- `git revert <commit-id>` : revert a commit that is already pushed.
+- `git revert <commit-id>` : revert a commit that's already pushed.
 - `git commit --amend -m "<new-commit-message>"` : fix commit message (only use if you haven't pushed already!).
 - `git rm --cached -r .` : remove everything from git cache.
 - `git reset --soft HEAD~N` : undo last N commits, but keep changes locally.

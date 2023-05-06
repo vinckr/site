@@ -134,7 +134,7 @@ This section is a mess, a loose collection of design tips, tools, and examples f
 - [Open source components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Esoteric Color Palette Generation Library](https://meodai.github.io/poline/)
 - [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
-- [Feather - Simply beautiful open source icons](https://feathericons.com/)
+- [Feather - beautiful open source icons](https://feathericons.com/)
 - [Iconhunt - Search for open source icons, 150.000+ icons.](https://www.iconhunt.site/)
 - [Free seamless pattern backgrounds](https://www.patterncooler.com/)
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
@@ -459,6 +459,6 @@ Anything related to sound or music.
 
 ### Removed Links
 
-I just never really looked at those..
+I just never looked at those..
 
 [Removed Links](../blog/removed-links)

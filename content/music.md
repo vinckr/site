@@ -13,7 +13,7 @@ I love sharing music!
 
 - [Here are 5 tracks I would like to share with you, organized into small compilations by genre and theme.](../blog/5tracks)
 
-> Turdbaby takes you on a colorful journey through all varieties of bass music, be it soulful garage, gritty dubstep, uptempo kuduro, brostep, or almighty jungle; simply an eclectic mix of everything that can lead to the fringes of breakcore and dark dub - anything goes, as long as the rave is in ruins afterwards!
+> Turdbaby takes you on a colorful journey through all varieties of bass music, be it soulful garage, gritty dubstep, uptempo kuduro, brostep, or almighty jungle; an eclectic mix of everything that can lead to the fringes of breakcore and dark dub - anything goes, as long as the rave is in ruins afterwards!
 
 - [**Eisbach Callin** website](https://eisbachcallin.com/)
 - [mixcloud.com/turdbaby](https://www.mixcloud.com/turdbaby/)

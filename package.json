@@ -8,7 +8,8 @@
     "build": "npx @11ty/eleventy & tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --minify",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --watch --postcss",
-    "test": "npx blc http://localhost:8080/ -ro"
+    "test:links": "npx blc http://localhost:8080/ -ro",
+    "test:style": "vale content/**/*.md"
   },
   "repository": {
     "type": "git",

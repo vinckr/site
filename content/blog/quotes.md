@@ -66,7 +66,7 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Teach a man to fish, and you reduce the chances of maintaining a sustainable ecosystem."
 
-> "Truth is dead. There is only output."
+> "Truth is dead. There is just output."
 
 > "Don't hate the media. Be the media."
 

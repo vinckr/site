@@ -5,7 +5,7 @@ title: 5 track compilations
 ---
 
 I love sharing music!
-It has been one of the things that motivated me to keep starting to blog again and again. ALl of these past blogs are defunct now, so in this section I will continue to share tracks, songs and beats that I feel you should hear.
+It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
 ## 5 classic hiphop tracks to chill to on a lazy day
 

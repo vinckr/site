@@ -6,7 +6,7 @@ title: My MacOS Setup
 
 Start with a clean install.
 Open the [terminal](<https://en.wikipedia.org/wiki/Terminal_(macOS)>) app and copy and paste the commands.  
-This is probably outdated as I only update it when setting up MacOs.
+This is probably outdated as I update this when setting up MacOs on a new machine.
 
 > ! Only run these commands if you know what you are doing. !
 

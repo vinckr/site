@@ -35,12 +35,12 @@ title: git Cheatsheet
 **Use the following with caution!**
 
 - `git revert <commit-id>` : revert a commit that's already pushed.
-- `git commit --amend -m "<new-commit-message>"` : fix commit message (only use if you haven't pushed already!).
+- `git commit --amend -m "<new-commit-message>"` : fix commit message (do not use if you already pushed your changes).
 - `git rm --cached -r .` : remove everything from git cache.
 - `git reset --soft HEAD~N` : undo last N commits, but keep changes locally.
 - `git reset --hard HEAD~N` : undo and delete last N commits.
 - `git reset --hard origin/<branch-name>` : undo all local commits to a branch.
-- add files to last commit (only use if you haven't pushed already!).
+- add files to last commit (do not use if you already pushed your changes).
 
 ```bash
 git add <file_name>

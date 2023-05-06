@@ -7,7 +7,7 @@ title: Books
 ## Readlist
 
 This list helps me keep track of worthwhile texts to read.
-See below for ratings of some of the books I read.
+See below for ratings of some books I have read.
 
 - [I Am Legend and Other Stories](https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories)
 - [Moscow to the End of the Line](https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line)

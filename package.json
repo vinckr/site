@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all -p dev:*",
-    "build": "npx @11ty/eleventy",
-    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy && tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --watch",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --watch --postcss",
     "test": "npx broken-link-checker http://localhost:8080"

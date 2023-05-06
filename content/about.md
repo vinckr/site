@@ -7,11 +7,7 @@ title: about
 Hi, I'm Vincent.  
 I'm currently **Developer Advocate at Ory**, where I lead our Developer Relations and Documentation teams. In my daily work I focus on educating and growing the Ory developer community.
 
-</br>
-
 ![rainbow bar](/img/colorbar.gif)
-
-</br>
 
 This to my personal website. There are many like it but this one is mine. It is my virtual garden, testlab, and archive.
 
@@ -21,7 +17,5 @@ Outside of Ory I assist early-stage startups with Developer Relations consultanc
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
 See you out there 👋
-
-</br>
 
 ![Nekojiru](/img/nekojiru.gif)

@@ -22,11 +22,6 @@ p {
   margin-bottom: 1rem;
 }
 
-h1 {
-  font-size: 2.25rem;
-  font-family: var(--font-headings);
-}
-
 h2 {
   font-size: 1.5rem;
   font-family: var(--font-headings);
@@ -43,9 +38,8 @@ h4 {
 }
 
 li {
-  margin-bottom: 0.5rem;
   list-style-type: square;
-  margin-left: 2rem;
+  margin-left: 1.5rem;
 }
 
 a {
@@ -56,12 +50,15 @@ a {
 
 pre {
   background: var(--code-color);
+  font-family: var(--font-primary);
+  margin: 0.5rem;
 }
 
 code {
   background: var(--code-color);
-  padding: 0.1rem 0 0.2rem;
+  padding: 0 0.1rem 0 0.1rem;
   border-radius: 0.2rem;
+  font-family: var(--font-primary);
 }
 
 /* misc */

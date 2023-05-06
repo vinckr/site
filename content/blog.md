@@ -27,11 +27,11 @@ title: blog
 - [books 📚 readlist & reviews](books)
 - [quotes](quotes)
 - [munich food tips](munich-tips)
+- [how to live](how-to-live)
+- [recipe generator WIP](../recipe-generator)
 
 ## cheatsheets
 
 - [git](git)
 - [macos](macos)
 - [misc](misc)
-
-![Welcome](/img/index.png)

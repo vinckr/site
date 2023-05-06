@@ -27,6 +27,11 @@ title: blog
 - [books 📚 readlist & reviews](books)
 - [quotes](quotes)
 - [munich food tips](munich-tips)
+
+## articles
+
+- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
+- [how to encrypt files in a git repository easy mode](encrypt-dir)
 - [how to live](how-to-live)
 - [recipe generator WIP](../recipe-generator)
 

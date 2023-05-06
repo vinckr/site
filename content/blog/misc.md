@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "Misc cheatsheet"
+title: Misc cheatsheet
 ---
 
 A mixed collection of things I had to look up at some point and collect here for future reference.

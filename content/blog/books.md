@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "Books"
+title: Books
 ---
 
 ## Readlist

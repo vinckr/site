@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "git Cheatsheet"
+title: git Cheatsheet
 ---
 
 > git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.

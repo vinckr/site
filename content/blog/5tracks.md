@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "5 track compilations"
+title: 5 track compilations
 ---
 
 I love sharing music!

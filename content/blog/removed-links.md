@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "Forgotten Links"
+title: Forgotten Links
 ---
 
 Links that I removed from the [main link collection](../links).

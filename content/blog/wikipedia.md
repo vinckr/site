@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "Notable Wiki Articles"
+title: Notable Wiki Articles
 ---
 
 A collection of Wiki articles worth reading.

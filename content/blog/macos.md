@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: "My MacOS Setup"
+title: My MacOS Setup
 ---
 
 Start with a clean install.

@@ -5,7 +5,7 @@ title: about
 ---
 
 Hi, I'm Vincent.  
-I'm working as **Developer Advocate at Ory** at the moment. In my work I focus on educating and growing the Ory developer community.
+I'm working as **Developer Advocate at Ory**. In my work I focus on educating and growing the Ory developer community.
 
 ![rainbow bar](/img/colorbar.gif)
 

@@ -1,10 +1,10 @@
 {% block sidebar %}
-    <div class="flex md:flex-col flex-row pr-20">
-        <a class="logo" href="{{ '/index' | url }}"><img class="w-32 h-18 pb-12" src="/img/logo.svg" alt="vinckr"></a>
-        <div class="p-2"><a class="text-white hover:text-gray-400" href="{{ '/index' | url }}"><button class="py-2 min-w-full border border-gray-700 rounded-md  hover:bg-gray-900">home</button></a></div> 
-        <div class="p-2"><a class="text-white hover:text-gray-400" href="{{ '/about' | url }}"><button class="py-2 min-w-full border border-gray-700 rounded-md  hover:bg-gray-900">about</button></a></div> 
-        <div class="p-2"><a class="text-white hover:text-gray-400" href="{{ '/blog' | url }}"><button class="py-2 min-w-full border border-gray-700 rounded-md  hover:bg-gray-900">blog</button></a></div> 
-        <div class="p-2"><a class="text-white hover:text-gray-400" href="{{ '/links' | url }}"><button class="py-2 min-w-full border border-gray-700 rounded-md  hover:bg-gray-900">links</button></a></div> 
-        <div class="p-2"><a class="text-white hover:text-gray-400" href="{{ '/music' | url }}"><button class="py-2 min-w-full border border-gray-700 rounded-md  hover:bg-gray-900">music</button></a></div> 
-    </div>
+    <nav class="flex flex-row md:flex-col justify-evenly md:pr-20">
+        <a class="hidden md:block" href="{{ '/index' | url }}"><img class="w-32 h-18 pb-12" src="/img/logo.svg" alt="vinckr"></a>
+        <div ><a href="{{ '/index' | url }}"><button>home</button></a></div> 
+        <div ><a href="{{ '/about' | url }}"><button>about</button></a></div> 
+        <div ><a href="{{ '/blog' | url }}"><button>blog</button></a></div> 
+        <div ><a href="{{ '/links' | url }}"><button>links</button></a></div> 
+        <div ><a href="{{ '/music' | url }}"><button>music</button></a></div> 
+    </nav>
 {% endblock %}

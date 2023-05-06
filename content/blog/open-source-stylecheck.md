@@ -20,9 +20,7 @@ Check [the documentation](https://docs.errata.ai) for more detailed information 
 
 [Installation on MacOs](https://docs.errata.ai/vale/install) is straightforward: `brew install vale`
 
-Check if Vale installed correctly: `vale -h`
-
-Add a `.vale.ini` to your root, you can alternatively also add it to a folder or project:
+Check if Vale installed: `vale -h`. Add a `.vale.ini` to your root, you can also add it to a folder or project:
 
 ```ini
 # This tells Vale where to look for styles, duh
@@ -41,7 +39,7 @@ Vale.Spelling = NO
 Create a folder for your styles `mkdir -p vale/styles`.  
 Put the styles in this folder. I started with the [boilerplate styles](https://github.com/errata-ai/vale-boilerplate/tree/master/styles) and modified them, but you can use whatever style suits you.
 
-You can now add custom vocabulary if needed. Inside `styles` you can find the Vocab folder containing `acccept.txt` and `reject.txt`; if not create them. I don't use Vale to check spelling at the moment, the problem is that it is checking the spelling in all the links, which I often dont control.
+You can now add custom vocabulary if needed. Inside `styles` you can find the Vocab folder containing `acccept.txt` and `reject.txt`; if not create them. I don't use Vale to check spelling at the moment, the problem is that it's checking the spelling in all the links, which I often dont control.
 
 Now you can run Vale like so:
 
@@ -55,7 +53,7 @@ You can also embed Vale in your IDE, text editor or other tools, see [the Vale d
 
 Let me know if you have any questions about this guide or if there is something unclear!
 
-If you know a way to exclude all the markdown links from being checked by Vale let me know. Right now it the best solution is to remove them and then do the Vale check. Let me know if there is a better way!
+If you know a way to exclude all the markdown links from the Vale check let me know. Right now it the best solution is to remove them and then do the Vale check. Let me know if there is a better way!
 
 - [Vale documentation](https://vale.sh/docs/)
 - [Vale in Gitlab Documentation testing](https://docs.gitlab.com/ee/development/documentation/testing.html#vale)

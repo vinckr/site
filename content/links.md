@@ -459,6 +459,6 @@ Anything related to sound or music.
 
 ### Removed Links
 
-I just never really looked at those...
+I just never really looked at those..
 
 [Removed Links](../blog/removed-links)

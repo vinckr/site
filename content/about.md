@@ -9,7 +9,7 @@ I'm currently **Developer Advocate at Ory**, where I lead our Developer Relation
 
 ![rainbow bar](/img/colorbar.gif)
 
-This to my personal website. There are many like it but this one is mine. It is my virtual garden, testlab, and archive.
+Welcome to my personal website. There are many like it but this one is mine. It is my virtual garden, testlab, and archive.
 
 I am passionate about a broad number of topics including music, literature, liminal spaces, FOSS, and just the general craziness that is the web. It was this diversity of interests that ultimately led me to my current mission of building communities for developers.
 

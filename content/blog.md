@@ -21,12 +21,11 @@ title: blog
 
 ## pages
 
-- [links 💾 curated collection of links](links)
+- [links 💾 curated collection of links](../links)
+- [music 🔊](../music)
 - [movies 🎞 watchlist & reviews](movies)
 - [books 📚 readlist & reviews](books)
-- [music 🔊](music)
 - [quotes](quotes)
-- [about](about)
 - [munich food tips](munich-tips)
 
 ## cheatsheets

@@ -8,7 +8,7 @@
     "build": "npx @11ty/eleventy & tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --minify",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --watch --postcss",
-    "test": "npx broken-link-checker http://localhost:8080"
+    "test": "npx blc http://localhost:8080/ -ro"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "autoprefixer": "^10.4.14",
+    "broken-link-checker": "^0.7.8",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"

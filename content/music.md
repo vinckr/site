@@ -18,7 +18,7 @@ Even though I have not turned music production into a job, I still have a passio
 
 I love sharing music!
 
-- [Here are 5 tracks I would like to share with you, organized into small compilations by genre and theme.](../5tracks)
+- [Here are 5 tracks I would like to share with you, organized into small compilations by genre and theme.](../blog/5tracks)
 
 Check out my boilerplate press release:
 

@@ -68,7 +68,7 @@ Start reading and never stop.
 
 ### Wiki Articles
 
-- [List of notable Wikipedia Articles](wikipedia.html)
+- [List of notable Wikipedia Articles](../blog/wikipedia)
 
 ## Writing tools
 
@@ -281,13 +281,12 @@ This might be helpful when building an application, website, or business.
 - [OSS you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [List of resources for CTOs](https://github.com/kuchin/awesome-cto)
 - [List on online earning](https://github.com/onmyway133/awesome-online-earning)
-- [Find pre-validated ideas](http://ideasfilter.com/)
 - [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
 - [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
 - [Compare prices of all top-level domains](https://tld-list.com/)
 - [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
-- [Search inside 15,000+ pitch deck slides](https://www.searchthedeck.com/)
+- [Search inside 15,000+ pitch deck slides](http://www.searchthedeck.com/)
 - [Git Trends](https://www.gittrends.xyz/)
 - [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
 - [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
@@ -400,7 +399,6 @@ Anything related to sound or music.
 - [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
-- [Make your website look like it was made by a pro](https://hiccupfx.telnet.asia/)
 - [Meme generator from Ace Attorney](https://objection.lol/)
 - [Night-time driving simulation](https://github.com/jes/nightdrive)
 - [Animal mug designs](https://www.mugexpert.net/)
@@ -428,7 +426,6 @@ Anything related to sound or music.
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
-- [Hourly - Contracting Rates Transparency Project](https://hourly.fyi)
 - [Find engineering teams that share your values](https://www.keyvalues.com/)
 - [CommunityRule](https://communityrule.info/)
 - [4 Day Work Week Jobs](https://4dayweek.io/)
@@ -450,7 +447,6 @@ Anything related to sound or music.
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
 - [GitHub Archive](https://www.gharchive.org/)
-- [Cairo - alternative Windows desktop environment](https://cairodesktop.com/)
 - [FIS-Broker Berlin open data](https://fbinter.stadt-berlin.de/fb/index.jsp)
 - [SubSite](http://subgenius.com/)
 - [Artless Devices](https://artlessdevices.com/)
@@ -463,6 +459,6 @@ Anything related to sound or music.
 
 ### Removed Links
 
-I just never really looked at those again...
+I just never really looked at those...
 
-[Removed Links](removed-links.html)
+[Removed Links](../blog/removed-links)

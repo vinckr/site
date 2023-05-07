@@ -5,5 +5,5 @@ level: error
 nonword: true
 
 tokens:
-  - '[a-z][.?!] {2,}[A-Z]'
-  - '[a-z][.?!][A-Z]'
+  - "[a-z][.?!] {2,}[A-Z]"
+  - "[a-z][.?!][A-Z]"

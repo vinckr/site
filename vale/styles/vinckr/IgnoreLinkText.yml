@@ -1,0 +1,6 @@
+extends: existence
+message: "This token is ignored."
+ignorecase: true
+level: suggestion
+tokens:
+  - '\\[.*?\\]'

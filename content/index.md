@@ -4,12 +4,12 @@ tags: blog
 title: hello
 ---
 
-My name is Vincent - I serve as **Head of Community** and **Developer Advocate at Ory**. My team and I support developers build safe and open identity systems for the web.
+My name is Vincent - I work as **Developer Advocate** at **Ory**. My team and I help developers build secure and open identity systems for the web.
 
 ![Vincent](/img/v.png)
 
-I'm a contributor and maintainer of the Ory [open-source community](https://github.com/ory), focusing on documentation, developer advocacy, and educational content.
+I'm a contributor and maintainer of the Ory [open-source community](https://github.com/ory). My responsibilities include community growth, documentation, developer advocacy, and content among others.
 
-If you need help with a website or developing a community around an open-source project, please feel free to [contact me](mailto:mail@vinckr.com).
+Launching a new community, building a developer ecosystem, or growing an open-source project can be challenging. Let me help you create a developer relations program that will set you up for long-term growth. [Contact me](mailto:mail@vinckr.com) for a free consultation.
 
 ![Thanks for visiting!](/img/hello.gif)

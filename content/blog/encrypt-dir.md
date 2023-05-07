@@ -79,7 +79,11 @@ I have been using this method for a some months now, and to me it's convenient. 
 
 In case you missed it you can find `encrypt-dir` on [GitHub](https://github.com/ory/encrypt-dir) or [pkg.go.dev](https://pkg.go.dev/github.com/ory/encrypt-dir/cmd).
 
-~Do you know a better method or how to do this in a bash-oneliner? Let me know!~
+---
+
+Let me know if you have any questions about this guide or if something is unclear or wrong!
+
+---
 
 Right after completing this guide, GPT tells me I can do the same thing with this bash one-liner... Well maybe some other time 🫠
 

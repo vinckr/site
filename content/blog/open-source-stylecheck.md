@@ -45,7 +45,11 @@ Now you can run Vale with `vale yourdocument.md` for a single document or for ex
 
 You can also embed Vale in your CI like GitHub actions, IDE, text editor, or other tools. See [the Vale documentation](https://vale.sh/docs/) for more information.
 
+---
+
 Let me know if you have any questions about this guide or if something is unclear or wrong!
+
+---
 
 If you know a way to exclude all the markdown links from the Vale check let me know. The problem is that it's checking all the links texts, which I often dont control. Right now my best solution is to remove them and then do the Vale check. Let me know if there is a better way!
 

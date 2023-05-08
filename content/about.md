@@ -16,6 +16,4 @@ I am passionate about a broad number of topics including music, literature, limi
 Outside of Ory I assist startups with developer relations programs to help them establish their program from the ground up, or provide guidance on community expansion, content production, and developer outreach.
 I believe in the power and merit of an open and free internet and try to advance this cause where I can.
 
-See you out there 👋
-
-![Nekojiru](/img/nekojiru.gif)
+![Thanks for visiting!](/img/hello.gif)

@@ -11,11 +11,6 @@ u: # format, encrypt drafts, and commit to git
 
 help:  # show all available Make commands
 	@cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
-
-build: .bin/gokesh # build HTML without committing
-	.bin/gokesh page index
-	.bin/gokesh page about
-	.bin/gokesh dir blog
 	
 dev: # run a local server to preview the site
 	make build
@@ -51,11 +46,6 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	echo "Decrypting drafts"
 	.bin/encrypt-dir decrypt --key=${ENCRYPTION_KEY} drafts
 	unzip -o drafts/drafts.zip
-
-.bin/gokesh:
-	echo "Building gokesh"
-	go mod download
-	go build -o .bin/gokesh github.com/vinckr/gokesh/cmd/build
 
 .bin/encrypt-dir:
 	echo "Building encrypt-dir"

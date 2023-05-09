@@ -4,7 +4,7 @@ tags: blog
 title: hello
 ---
 
-My name is Vincent - I am leading **Developer Relations** at **Ory**. My team and I help developers build secure and open identity systems for the web.
+My name is Vincent - I am in charge of **Developer Relations** at **Ory**. My team and I help developers build secure and open identity systems for the web.
 
 ![Vincent](/img/v.png)
 

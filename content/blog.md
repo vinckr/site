@@ -21,8 +21,6 @@ title: blog
 
 ## pages
 
-- [links 💾 curated collection of links](../links)
-- [music 🔊](../music)
 - [movies 🎞 watchlist & reviews](movies)
 - [books 📚 readlist & reviews](books)
 - [quotes](quotes)

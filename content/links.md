@@ -103,22 +103,23 @@ Collections of knowledge often looked up and forgotten.
 - [MAAS Collection](https://collection.maas.museum/)
 - [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
 - [Gif search](https://gif.so/)
-- [Illusions & Visual Phenomena](https://michaelbach.de/ot/)
+- [Illusions & Visual Phenomena](https://michaelbach.de/ot/)
 - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 - [Ted Nelson's Junk Mail Cartons](https://archive.org/details/tednelsonjunkmail)
 - [Wolf design review by award winning architect in Melbourne](https://review.wolfarchitects.design/)
 - [Fractal Garden](https://www.fractal.garden/)
+- [Beautiful Public Data](https://www.beautifulpublicdata.com/)
 
 ### Design
 
 This section is a mess, a loose collection of design tips, tools, and examples for inspiration.
 
+- [Resource — Curated websites and resources](https://resource.wtf/)
 - [Awwwards](https://www.awwwards.com/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors)
+- [Werner's Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
-- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [Open source wire frame kit for quick design](https://bloouikit.com/)
 - [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/)
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
@@ -134,10 +135,22 @@ This section is a mess, a loose collection of design tips, tools, and examples f
 - [Open source components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 - [Esoteric Color Palette Generation Library](https://meodai.github.io/poline/)
 - [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
-- [Feather - beautiful open source icons](https://feathericons.com/)
-- [Iconhunt - Search for open source icons, 150.000+ icons.](https://www.iconhunt.site/)
 - [Free seamless pattern backgrounds](https://www.patterncooler.com/)
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
+- [Modern UI Components | Float UI](https://floatui.com/components#components)
+
+#### Game Design
+
+- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
+- [QuadSpinner Gaea - terrain design application](https://quadspinner.com/)
+
+#### Icons
+
+- [Radix Icons](https://icons.radix-ui.com/)
+- [Feather Icons](https://feathericons.com/)
+- [Tabler Icons](https://github.com/tabler/tabler-icons)
+- [Iconhunt](https://www.iconhunt.site/)
+- [Heroicons](https://heroicons.com/)
 
 ## Software
 
@@ -178,7 +191,6 @@ Resources for web development and related topics.
 - [HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 - [HTML Code Generators](https://www.htmlbasix.com/)
-- [A Go-based static site generator](https://github.com/brandur/sorg)
 - [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 - [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
 - [Useful HTML tricks](https://markodenic.com/html-tips/)
@@ -203,6 +215,8 @@ Resources for web development and related topics.
 - [Axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [CSS Bed](https://www.cssbed.com/)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [Neat CSS](https://neat.joeldare.com/)
+- [blocks.css](https://thesephist.github.io/blocks.css/)
 
 ### JS
 
@@ -215,9 +229,17 @@ Resources for web development and related topics.
 ### Go
 
 - [A Tour of Go](https://go.dev/tour/welcome/1)
+- [The Go Blog](https://go.dev/blog/)
+- [Go by Example](https://gobyexample.com/)
+- [Go for all](https://golangforall.com/)
+- [Go Web Examples](https://gowebexamples.com/)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Go styleguide](https://google.github.io/styleguide/go/)
 - [Buffalo - web development in Go](https://gobuffalo.io/)
+- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
+- [Golang Development Courses](https://tutorialedge.net/golang/)
+- [golangprograms.com](https://www.golangprograms.com/)
 
 ### Python
 
@@ -237,6 +259,8 @@ Resources for web development and related topics.
 - [Writing Great Technical Documentation](https://jacobian.org/2009/nov/11/technical-style/)
 - [8 Tips for Dev Documentation](https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [Docousaurus: React&Markdown for documentation](https://docusaurus.io/)
+- [Diátaxis](https://diataxis.fr/)
+- [Stop saying how simple things are in our docs](https://justsimply.dev/)
 
 ### Fonts
 
@@ -298,6 +322,9 @@ This might be helpful when building an application, website, or business.
 - [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
 - [Headless Commerce Resources](https://headlesscommerce.org/)
 - [Minimal Gallery - Website inspiration](https://minimal.gallery/)
+- [Startup Playbook](https://playbook.samaltman.com/)
+- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
+- [Jellylade - Social Media Post Image Generator](https://app.jellylade.com/)
 
 ### Security
 
@@ -335,11 +362,12 @@ This might be helpful when building an application, website, or business.
 - [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
 - [Temporary email service](https://mailcare.io/)
 
-## Sound
+## Audio
 
 Anything related to sound or music.
 
 - [Commercial-free, underground/alternative radios](https://somafm.com/)
+- [Ardour Open Source DAW](https://ardour.org/)
 - [Surge Synth Projects](https://surge-synth-team.org/)
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
@@ -353,13 +381,14 @@ Anything related to sound or music.
 - [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
 - [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
 
 ## Generative Art
 
 ### Generators
 
-- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [Context Free Art](https://www.contextfreeart.org/index.html)
 - [Civitai | Every model in one place](https://civitai.com/)
@@ -390,7 +419,7 @@ Anything related to sound or music.
 - [List of science fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 - [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
-- [Webb’s Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
+- [Webb's Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 
 ## Fun
@@ -419,8 +448,11 @@ Anything related to sound or music.
 - [Easy handdrawn gifs](https://www.eatmy.art/)
 - [Floor796](https://floor796.com/)
 - [SCiZE's classic warez collection](https://scenelist.org/)
+- [HTML5 Deck of Cards](https://deck.of.cards/old/)
+- [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
+- [Niche Museums: Find tiny museums near you](https://www.niche-museums.com/)
 
-## (Remote) Work
+## Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [Remote Friendly Jobs](https://remotefriendly.com/)

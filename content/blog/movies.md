@@ -6,9 +6,22 @@ title: Movies
 
 ## Watchlist
 
-This list helps keep track of worthwhile movies or shows to watch.
+This evergrowing list helps keep track of movies or shows I want to watch.
 See below for ratings of movies I watch.
 
+- [Bloodsport](https://m.imdb.com/title/tt0092675/)
+- [Babylon 5](https://m.imdb.com/title/tt0105946/)
+- [Glorious](https://m.imdb.com/title/tt12724306/)
+- [eXistenZ](https://www.imdb.com/title/tt0120907/)
+- [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/)
+- [Deathwatch](https://www.imdb.com/title/tt0286306/)
+- [Maniac (Series)](https://www.imdb.com/title/tt5580146/)
+- [Boyz n the Hood](https://www.imdb.com/title/tt0101507/)
+- [Paths of Glory](https://www.imdb.com/title/tt0050825/)
+- [Nausicaä of the Valley of the Wind](https://www.imdb.com/title/tt0087544/)
+- [Shiri](https://www.imdb.com/title/tt0192657/)
+- [Man with a movie camera](https://www.imdb.com/title/tt0019760/)
+- [This is Spinal Tap](https://www.imdb.com/title/tt0088258/)
 - [Super Mario Bros.](https://www.imdb.com/title/tt0108255/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
 - [Face/Off](https://www.imdb.com/title/tt0119094/)

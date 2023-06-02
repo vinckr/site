@@ -6,7 +6,13 @@ It is built using [11ty](https://www.11ty.dev/) and [Tailwind CSS](https://tailw
 
 ## Development
 
-Run to show all available commands:
+Run the development server locally:
+
+```bash
+npm run start
+```
+
+Run to show all available helper commands:
 
 ```bash
 make help

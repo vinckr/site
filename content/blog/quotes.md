@@ -4,7 +4,12 @@ tags: blog
 title: Quotes
 ---
 
-I don't fully endorse, believe in, or live by the content of these quotes, I find them worthy to collect and share. Some are statements made by famous people, others were found in random places on the internet. (Attribution added where I am somewhat certain.)
+I don't fully endorse, believe in, or live by these quotes. I think they are worthy to collect and share with you. Some are statements made by famous people, others were found in random places on the internet. Attribution added where I am somewhat certain, let me know if something is wrong.
+
+> Free from desire, you realize the mystery.
+> Caught in desire, you see only the manifestations.
+> Yet mystery and manifestations arise from the same source. This source is called darkness.
+> Darkness within darkness. The gateway to all understanding. - [Laozi](https://en.wikipedia.org/wiki/Laozi)
 
 > "The possible has been tried and failed. Now it's time to try the impossible." - [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)
 
@@ -26,11 +31,11 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful." - [Henry Miller](https://en.wikipedia.org/wiki/Henry_Miller)
 
-> What a liberation to realize that the "voice in my head" is not who I am. Who am I then? The one who sees that." - [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle)
+> "What a liberation to realize that the "voice in my head" is not who I am. Who am I then? The one who sees that" - [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle)
 
 > "No plan survives first contact with the enemy" - [Moltke](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)
 
-> We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both." — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
+> "We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both." — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
 
 > "It is not possible to come into contact twice with a mortal being in the same state." - [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 
@@ -40,7 +45,17 @@ I don't fully endorse, believe in, or live by the content of these quotes, I fin
 
 > "Life moves pretty fast. If you dont stop and look around every once in a while, you might miss it." - [Ferris Bueller](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
 
+> "The purpose of a system is what it does" — [Stafford Beer](https://en.wikipedia.org/wiki/Stafford_Beer)
+
+> "That day, beginning with the fissure opening on the frontier, the shape of the world began to crumble." - [Kentaro Miura](https://en.wikipedia.org/wiki/Kentaro_Miura)
+
+> "Can you think of anything funnier than a man having the right to kill me because he lives on the other side of the river and his king quarrels with mine, although I don't with him?" - [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
+
+> "Autobiography is only to be trusted when it reveals something disgraceful. A man who gives a good account of himself is probably lying, since any life when viewed from the inside is simply a series of defeats." - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)
+
 ## No attribution
+
+> "Everything just gets worse as you age. Sure, my dad said it too back then, but he just didn't get how the world moved on and improved. This time around though it's real, everything gets more stupid and dumb and I hate it."
 
 > "You'd shoot a man in the back?" "Well, it's the safest way, isn't it?"
 

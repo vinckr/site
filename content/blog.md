@@ -6,6 +6,7 @@ title: blog
 
 ## monthly web digest
 
+- [04-2023](04-23)
 - [03-2023](03-23)
 - [02-2023](02-23)
 - [01-2023](01-23)
@@ -21,8 +22,6 @@ title: blog
 
 ## pages
 
-- [links 💾 curated collection of links](../links)
-- [music 🔊](../music)
 - [movies 🎞 watchlist & reviews](movies)
 - [books 📚 readlist & reviews](books)
 - [quotes](quotes)

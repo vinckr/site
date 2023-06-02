@@ -6,9 +6,15 @@ title: Books
 
 ## Readlist
 
-This list helps me keep track of worthwhile texts to read.
+This evergrowing list helps me keep track of worthwhile texts to read.
 See below for ratings of some books I have read.
 
+- [Stay Awhile and Listen: Book II - Heaven, Hell, and Secret Cow Levels](https://www.goodreads.com/en/book/show/52651926)
+- [Who Fears Death (Who Fears Death, #1)](https://www.goodreads.com/en/book/show/7767021)
+- [Annihilation (Southern Reach #1)](https://www.goodreads.com/book/show/17934530-annihilation)
+- [Escape from Freedom](https://www.goodreads.com/book/show/25491.Escape_from_Freedom)
+- [Demons](https://www.goodreads.com/book/show/5695.Demons)
+- [The Story of Commodore: A Company on the Edge](https://www.goodreads.com/en/book/show/412006)
 - [I Am Legend and Other Stories](https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories)
 - [Moscow to the End of the Line](https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line)
 - [American Psycho](https://www.goodreads.com/book/show/28676.American_Psycho)
@@ -60,6 +66,7 @@ See below for ratings of some books I have read.
 
 I review and rate some books I read. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
+- [Dune](https://www.goodreads.com/book/show/44767458-dune) 5/5
 - [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
 - [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)

@@ -374,22 +374,22 @@ Anything related to sound or music.
 
 - [Commercial-free, underground/alternative radios](https://somafm.com/)
 - [Ardour Open Source DAW](https://ardour.org/)
+- [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
+- [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [Surge Synth Projects](https://surge-synth-team.org/)
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
+- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
+- [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
+- [LibriVox - free public domain audiobooks ](https://librivox.org/)
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 - [Find collabs and remix material](https://www.brew.fm/)
 - [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 - [Music Theory Tools to learn music online for free](https://muted.io/)
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
-- [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
-- [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
-- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
-- ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
-- [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
-- [LibriVox - free public domain audiobooks ](https://librivox.org/)
 
 ## Generative Art
 

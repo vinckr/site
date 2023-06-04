@@ -31,7 +31,7 @@ func traverse(n *html.Node) (string, bool) {
 func GetHtmlTitle(r io.Reader) (string, bool) {
 	doc, err := html.Parse(r)
 	if err != nil {
-		panic("Fail to parse html")
+		panic("Failed to parse HTML")
 	}
 
 	return traverse(doc)
@@ -47,7 +47,7 @@ func TestHtmlToRst(url string) {
 	if title, ok := GetHtmlTitle(resp.Body); ok {
 		println("- [" + title + "](" + url + ")")
 	} else {
-		println("Fail to get HTML title [](" + url + ")")
+		println("- 😭 [Failed to get HTML title](" + url + ")")
 	}
 }
 

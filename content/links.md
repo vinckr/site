@@ -19,6 +19,7 @@ Start reading and never stop.
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
 - [The Vintage Technology Digital Archive](http://vtda.org/)
 - [Digital Public Library of America](https://dp.la/)
+- [Digital Collection of the German State Library](https://digital.staatsbibliothek-berlin.de/)
 
 ### Internet
 
@@ -38,6 +39,7 @@ Start reading and never stop.
 - [Everything2](https://everything2.com/)
 - [DiscMaster](http://discmaster.textfiles.com/)
 - [BYTE MAGAZINE: Early computer publication](https://worldradiohistory.com/Byte_Magazine.htm)
+- [highlights | Hacker News](https://news.ycombinator.com/highlights)
 
 ### Mixed Publications
 
@@ -112,7 +114,7 @@ Collections of knowledge often looked up and forgotten.
 
 ### Design
 
-This section is a mess, a loose collection of design tips, tools, and examples for inspiration.
+This section is a bit of a mess, a collection of design tips, tools, and examples for inspiration.
 
 - [Resource — Curated websites and resources](https://resource.wtf/)
 - [Awwwards](https://www.awwwards.com/)
@@ -138,6 +140,7 @@ This section is a mess, a loose collection of design tips, tools, and examples f
 - [Free seamless pattern backgrounds](https://www.patterncooler.com/)
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
 - [Modern UI Components | Float UI](https://floatui.com/components#components)
+- [Eyecandy - Visual Technique Library](https://eycndy.com/)
 
 #### Game Design
 
@@ -151,6 +154,12 @@ This section is a mess, a loose collection of design tips, tools, and examples f
 - [Tabler Icons](https://github.com/tabler/tabler-icons)
 - [Iconhunt](https://www.iconhunt.site/)
 - [Heroicons](https://heroicons.com/)
+
+#### Fonts
+
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
 
 ## Software
 
@@ -178,6 +187,7 @@ Resources for web development and related topics.
 - [Wachete - Monitor web changes](https://www.wachete.com/)
 - [IP Geolocation API](https://ipdata.co/)
 - [Benchmark and rank of public APIs](https://apirank.dev/)
+- [Awesome Tunneling List](https://github.com/anderspitman/awesome-tunneling/)
 
 #### File sharing
 
@@ -262,12 +272,6 @@ Resources for web development and related topics.
 - [Diátaxis](https://diataxis.fr/)
 - [Stop saying how simple things are in our docs](https://justsimply.dev/)
 
-### Fonts
-
-- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
-
 ### CS Learning
 
 Official courses and other general learning resources.
@@ -297,34 +301,36 @@ Official courses and other general learning resources.
 
 ### Building
 
-This might be helpful when building an application, website, or business.
+This might be helpful when building an application, website, business, or something else.
 
-- [Legal Concepts for Founders](https://handbook.clerky.com/)
-- [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
+- [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+- [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
+- [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
+- [Compare Analytics Tools](https://newmetrics.io/)
+- [Compare prices of all top-level domains](https://tld-list.com/)
+- [Every Web Performance Test Tool](https://www.swyx.io/webperf-tests)
 - [Extensive guide for naming things](https://guide.onym.co/)
-- [OSS you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Git Trends](https://www.gittrends.xyz/)
+- [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
+- [Headless Commerce Resources](https://headlesscommerce.org/)
+- [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
+- [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
+- [Jellylade - Social Media Post Image Generator](https://app.jellylade.com/)
+- [Legal Concepts for Founders](https://handbook.clerky.com/)
+- [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
 - [List of resources for CTOs](https://github.com/kuchin/awesome-cto)
 - [List on online earning](https://github.com/onmyway133/awesome-online-earning)
-- [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
-- [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
-- [Compare prices of all top-level domains](https://tld-list.com/)
-- [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
-- [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
-- [Search inside 15,000+ pitch deck slides](http://www.searchthedeck.com/)
-- [Git Trends](https://www.gittrends.xyz/)
-- [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
-- [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
-- [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
-- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
+- [Minimal Gallery - Website inspiration](https://minimal.gallery/)
+- [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
 - [OSS Insight](https://ossinsight.io/)
+- [OSS you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
+- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 - [Payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
 - [Raw logs: identifying enterprise buying intent](https://ghuntley.com/rawlogs/)
-- [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
-- [Headless Commerce Resources](https://headlesscommerce.org/)
-- [Minimal Gallery - Website inspiration](https://minimal.gallery/)
+- [Search inside 15,000+ pitch deck slides](http://www.searchthedeck.com/)
 - [Startup Playbook](https://playbook.samaltman.com/)
-- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
-- [Jellylade - Social Media Post Image Generator](https://app.jellylade.com/)
+- [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
 
 ### Security
 
@@ -368,20 +374,22 @@ Anything related to sound or music.
 
 - [Commercial-free, underground/alternative radios](https://somafm.com/)
 - [Ardour Open Source DAW](https://ardour.org/)
+- [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
+- [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [Surge Synth Projects](https://surge-synth-team.org/)
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
 - [Freeware VSTs](http://www.airwindows.com/vsts/)
+- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
+- [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
+- [LibriVox - free public domain audiobooks ](https://librivox.org/)
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
 - [Find collabs and remix material](https://www.brew.fm/)
 - [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 - [Music Theory Tools to learn music online for free](https://muted.io/)
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
-- [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
-- [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
-- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
-- ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
 
 ## Generative Art
 
@@ -484,6 +492,7 @@ Anything related to sound or music.
 - [Artless Devices](https://artlessdevices.com/)
 - [Center for Book Arts Archive](https://collections.centerforbookarts.org/)
 - [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
+- [Material Properties Database](https://www.makeitfrom.com/)
 
 ### Shops
 

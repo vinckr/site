@@ -2,13 +2,6 @@ ifneq ("$(wildcard .env)","")
     include .env
 endif
 
-u: # format, encrypt drafts, and commit to git
-	make format
-	make test
-	make encrypt-drafts
-	git add .
-	git commit -m "chore: format + drafts"
-
 help:  # show all available Make commands
 	@cat Makefile | grep '^[^ ]*:' | grep -v '^\.bin/' | grep -v '^node_modules' | grep -v '.SILENT:' | grep -v help | sed 's/:.*#/#/' | column -s "#" -t
 	
@@ -41,6 +34,8 @@ encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	zip -r drafts/drafts.zip _drafts/*
 	echo "${ENCRYPTION_KEY}"
 	.bin/encrypt-dir encrypt --key=${ENCRYPTION_KEY} drafts
+	git add .
+	git commit -m "chore: drafts"
 
 decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	echo "Decrypting drafts"

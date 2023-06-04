@@ -53,6 +53,8 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 > "Autobiography is only to be trusted when it reveals something disgraceful. A man who gives a good account of himself is probably lying, since any life when viewed from the inside is simply a series of defeats." - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)
 
+> We ignore what created us; we adore what we create." — [Aleister Crowley](https://en.wikipedia.org/wiki/Aleister_Crowley)
+
 ## No attribution
 
 > "Everything just gets worse as you age. Sure, my dad said it too back then, but he just didn't get how the world moved on and improved. This time around though it's real, everything gets more stupid and dumb and I hate it."

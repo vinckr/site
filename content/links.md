@@ -19,6 +19,7 @@ Start reading and never stop.
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
 - [The Vintage Technology Digital Archive](http://vtda.org/)
 - [Digital Public Library of America](https://dp.la/)
+- [Digital Collection of the German State Library](https://digital.staatsbibliothek-berlin.de/)
 
 ### Internet
 
@@ -38,6 +39,7 @@ Start reading and never stop.
 - [Everything2](https://everything2.com/)
 - [DiscMaster](http://discmaster.textfiles.com/)
 - [BYTE MAGAZINE: Early computer publication](https://worldradiohistory.com/Byte_Magazine.htm)
+- [highlights | Hacker News](https://news.ycombinator.com/highlights)
 
 ### Mixed Publications
 
@@ -112,7 +114,7 @@ Collections of knowledge often looked up and forgotten.
 
 ### Design
 
-This section is a mess, a loose collection of design tips, tools, and examples for inspiration.
+This section is a bit of a mess, a collection of design tips, tools, and examples for inspiration.
 
 - [Resource — Curated websites and resources](https://resource.wtf/)
 - [Awwwards](https://www.awwwards.com/)
@@ -178,6 +180,7 @@ Resources for web development and related topics.
 - [Wachete - Monitor web changes](https://www.wachete.com/)
 - [IP Geolocation API](https://ipdata.co/)
 - [Benchmark and rank of public APIs](https://apirank.dev/)
+- [Awesome Tunneling List](https://github.com/anderspitman/awesome-tunneling/)
 
 #### File sharing
 
@@ -382,6 +385,7 @@ Anything related to sound or music.
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
 - [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
 - ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
+- [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
 
 ## Generative Art
 

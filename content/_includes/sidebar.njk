@@ -1,10 +1,30 @@
 {% block sidebar %}
     <nav class="flex flex-row md:flex-col justify-evenly md:justify-start md:pr-20">
         <a class="hidden md:block" href="{{ '/index' | url }}"><img class="w-32 h-18 pb-12" src="/img/logo.svg" alt="vinckr"></a>
-        <div ><a href="{{ '/index' | url }}"><button>home</button></a></div> 
-        <div ><a href="{{ '/about' | url }}"><button>about</button></a></div> 
-        <div ><a href="{{ '/blog' | url }}"><button>blog</button></a></div> 
-        <div ><a href="{{ '/links' | url }}"><button>links</button></a></div> 
-        <div ><a href="{{ '/music' | url }}"><button>music</button></a></div> 
+        <div>
+            <form style="display: inline" action="{{ '/index' | url }}" method="get">
+                <button>home</button>
+            </form>
+        </div>
+        <div>
+            <form style="display: inline" action="{{ '/about' | url }}" method="get">
+                <button>about</button>
+            </form>
+        </div>
+        <div>
+            <form style="display: inline" action="{{ '/blog' | url }}" method="get">
+                <button>blog</button>
+            </form>
+        </div>
+        <div>
+            <form style="display: inline" action="{{ '/links' | url }}" method="get">
+                <button>links</button>
+            </form>
+        </div>
+        <div>
+            <form style="display: inline" action="{{ '/music' | url }}" method="get">
+                <button>music</button>
+            </form>
+        </div>
     </nav>
 {% endblock %}

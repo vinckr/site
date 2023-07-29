@@ -139,7 +139,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
 - [Free seamless pattern backgrounds](https://www.patterncooler.com/)
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
-- [Modern UI Components | Float UI](https://floatui.com/components#components)
+- [Modern UI Components | Float UI](https://floatui.com/components)
 - [Eyecandy - Visual Technique Library](https://eycndy.com/)
 
 #### Game Design

@@ -29,14 +29,18 @@ See below for ratings of movies I watch.
 - [Glorious](https://m.imdb.com/title/tt12724306/)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
+- [Inauguration of the Pleasure Dome](https://www.imdb.com/title/tt0047114/)
 - [Infinity Pool](https://www.imdb.com/title/tt10365998/)
 - [Interstellar](https://m.imdb.com/title/tt0816692/)
 - [Into Eternity](https://www.imdb.com/title/tt1194612/)
+- [Invocation of My Demon Brother](https://www.imdb.com/title/tt0064493/)
 - [It follows](https://www.imdb.com/title/tt3235888/)
+- [Jon Benjamin Has a Van](https://www.imdb.com/title/tt1717343/)
 - [La vida loca](https://m.imdb.com/title/tt1305890/)
 - [Legend](https://www.imdb.com/title/tt0089469/)
 - [Liquid Sky](https://www.imdb.com/title/tt0085852/)
 - [Logan's Run](https://www.imdb.com/title/tt0074812/)
+- [Lucifer Rising](https://www.imdb.com/title/tt0066019/)
 - [Mad Detective](https://www.imdb.com/title/tt0969269/)
 - [Mad Heidi](https://www.imdb.com/title/tt2943178/)
 - [Mad Monkey Kung Fu](https://www.imdb.com/title/tt0079147)
@@ -78,6 +82,8 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Ready or Not](https://www.imdb.com/title/tt7798634/) 2/5
+- [Rosemary's Baby](https://www.imdb.com/title/tt0063522/) 4/5
 - [Croupier](https://m.imdb.com/title/tt0159382/) 3/5
 - [Intersect](https://www.imdb.com/title/tt4205718/) 1/5
 - [The Bear](https://www.imdb.com/title/tt14452776/) 4/5

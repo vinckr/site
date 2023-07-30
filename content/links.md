@@ -72,8 +72,10 @@ Start reading and never stop.
 
 - [List of notable Wikipedia Articles](../blog/wikipedia)
 
-## Writing tools
+## Writing tools and tips
 
+- [Hemmingway Editor](https://hemingwayapp.com/)
+- [Lose the Very](https://www.losethevery.com/)
 - [Cliche Finder](http://cliche.theinfo.org/)
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
@@ -81,6 +83,7 @@ Start reading and never stop.
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
 - [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/solitude)
 - [Text transcripts of Obama speeches](http://obamaspeeches.com/)
+- [8-sequence structure of screenplays](http://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
 
 ## Cheat Sheets
 
@@ -111,6 +114,7 @@ Collections of knowledge often looked up and forgotten.
 - [Wolf design review by award winning architect in Melbourne](https://review.wolfarchitects.design/)
 - [Fractal Garden](https://www.fractal.garden/)
 - [Beautiful Public Data](https://www.beautifulpublicdata.com/)
+- [analog audio tape cassette nostalgia](http://www.tapedeck.org/)
 
 ### Design
 
@@ -119,6 +123,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Resource — Curated websites and resources](https://resource.wtf/)
 - [Awwwards](https://www.awwwards.com/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [graphic design related items from internet archive](https://archives.design/)
 - [Werner's Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
@@ -141,6 +146,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
 - [Modern UI Components | Float UI](https://floatui.com/components)
 - [Eyecandy - Visual Technique Library](https://eycndy.com/)
+- [Retro software screenshots](http://www.typewritten.org/Media/)
 
 #### Game Design
 
@@ -208,6 +214,7 @@ Resources for web development and related topics.
 - [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 - [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 - [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices)
 
 ### CSS
 
@@ -243,7 +250,7 @@ Resources for web development and related topics.
 - [Go by Example](https://gobyexample.com/)
 - [Go for all](https://golangforall.com/)
 - [Go Web Examples](https://gowebexamples.com/)
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Go styleguide](https://google.github.io/styleguide/go/)
 - [Buffalo - web development in Go](https://gobuffalo.io/)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -331,6 +338,7 @@ This might be helpful when building an application, website, business, or someth
 - [Search inside 15,000+ pitch deck slides](http://www.searchthedeck.com/)
 - [Startup Playbook](https://playbook.samaltman.com/)
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
+- [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
 
 ### Security
 
@@ -390,6 +398,7 @@ Anything related to sound or music.
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
+- [Keygen Library Player](https://cable.ayra.ch/webxmp/#2970)
 
 ## Generative Art
 
@@ -432,7 +441,7 @@ Anything related to sound or music.
 
 ## Fun
 
-- [Nobody.live | Lonely streams and streamers with zero viewers](https://nobody.live/)
+- [Lonely streams and streamers with zero viewers](https://nobody.live/)
 - [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
@@ -458,7 +467,8 @@ Anything related to sound or music.
 - [SCiZE's classic warez collection](https://scenelist.org/)
 - [HTML5 Deck of Cards](https://deck.of.cards/old/)
 - [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
-- [Niche Museums: Find tiny museums near you](https://www.niche-museums.com/)
+- [Niche Museums - tiny museums near you](https://www.niche-museums.com/)
+- [Meme Search Engine](https://findthatmeme.com/)
 
 ## Work
 
@@ -474,6 +484,7 @@ Anything related to sound or music.
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
+- [Hand-picked developer jobs](https://devemploy.com/)
 
 ## Uncategorized
 
@@ -494,12 +505,13 @@ Anything related to sound or music.
 - [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
 - [Material Properties Database](https://www.makeitfrom.com/)
 
-### Shops
+### Physical items
 
 - [Medimops - Buy used products](https://www.medimops.de/)
+- [DIY-Audio-Heaven - Amazing headphone reviews](https://diyaudioheaven.wordpress.com/)
 
 ### Removed Links
 
-I just never looked at those..
+Links that got removed from this list for some reason.
 
 [Removed Links](../blog/removed-links)

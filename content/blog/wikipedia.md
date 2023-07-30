@@ -8,6 +8,10 @@ A collection of Wiki articles worth reading.
 
 Use caution when reading, there is a danger of spending hours in ever-deepening rabbit holes!
 
+- [Click here for a random article](https://aen.wikipedia.org/wiki/Special:Random)
+
+---
+
 - [Bamberg witch trials](https://en.m.wikipedia.org/wiki/Bamberg_witch_trials)
 - [Brandolini's law](https://en.m.wikipedia.org/wiki/Brandolini%27s_law)
 - [Computational humor](https://en.m.wikipedia.org/wiki/Computational_humor)
@@ -15,6 +19,7 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [Cybernetic Culture Research Unit](https://en.m.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 - [Destreza](https://en.m.wikipedia.org/wiki/Destreza)
 - [Eight Immortals](https://en.wikipedia.org/wiki/Eight_Immortals)
+- [El Paquete Semanal](https://en.m.wikipedia.org/wiki/El_Paquete_Semanal)
 - [Enantiomer](https://en.m.wikipedia.org/wiki/Enantiomer)
 - [Feraliminal Lycanthropizer](https://en.m.wikipedia.org/wiki/Feraliminal_Lycanthropizer)
 - [Fruit machine](<https://en.m.wikipedia.org/wiki/Fruit_machine_(homosexuality_test)>)
@@ -24,6 +29,7 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [International Air Transport Association meal codes](https://en.m.wikipedia.org/wiki/International_Air_Transport_Association_code#IATA_meal_codes)
 - [Joe job](https://en.m.wikipedia.org/wiki/Joe_job)
 - [Kramatorsk radiological accident](https://en.m.wikipedia.org/wiki/Kramatorsk_radiological_accident)
+- [Le Monde's 100 Books of the Century](https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century)
 - [Libel tourism](https://en.m.wikipedia.org/wiki/Libel_tourism)
 - [Lifelog](https://en.m.wikipedia.org/wiki/Lifelog)
 - [Long-term nuclear waste warning messages](https://en.m.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)

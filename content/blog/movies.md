@@ -82,6 +82,9 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Koyaanisqatsi](https://www.imdb.com/title/tt0085809/) 5/5
+- [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/) 4/5
+- [Indiana Jones and the Dial of Destiny](https://www.imdb.com/title/tt1462764/) 3/5
 - [Ready or Not](https://www.imdb.com/title/tt7798634/) 2/5
 - [Rosemary's Baby](https://www.imdb.com/title/tt0063522/) 4/5
 - [Croupier](https://m.imdb.com/title/tt0159382/) 3/5

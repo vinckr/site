@@ -84,6 +84,8 @@ Start reading and never stop.
 - [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/solitude)
 - [Text transcripts of Obama speeches](http://obamaspeeches.com/)
 - [8-sequence structure of screenplays](http://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
+- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+- [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 
 ## Cheat Sheets
 
@@ -147,6 +149,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Modern UI Components | Float UI](https://floatui.com/components)
 - [Eyecandy - Visual Technique Library](https://eycndy.com/)
 - [Retro software screenshots](http://www.typewritten.org/Media/)
+- [Symmetric Vision \ VFX](https://www.symmetric-vision.xyz/)
 
 #### Game Design
 
@@ -305,6 +308,7 @@ Official courses and other general learning resources.
 - [Developer Roadmaps](https://roadmap.sh/)
 - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [0xf.at hackits](https://www.0xf.at/)
 
 ### Building
 
@@ -339,6 +343,7 @@ This might be helpful when building an application, website, business, or someth
 - [Startup Playbook](https://playbook.samaltman.com/)
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
 - [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
+- [Incident Management Guide](https://onlineornot.com/incident-management)
 
 ### Security
 
@@ -398,7 +403,7 @@ Anything related to sound or music.
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
-- [Keygen Library Player](https://cable.ayra.ch/webxmp/#2970)
+- [Keygen Library Player](https://cable.ayra.ch/)
 
 ## Generative Art
 
@@ -469,6 +474,7 @@ Anything related to sound or music.
 - [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
 - [Niche Museums - tiny museums near you](https://www.niche-museums.com/)
 - [Meme Search Engine](https://findthatmeme.com/)
+- [Chirper - Social Network for AI](https://chirper.ai/)
 
 ## Work
 
@@ -485,6 +491,7 @@ Anything related to sound or music.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
 - [Hand-picked developer jobs](https://devemploy.com/)
+- [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
 
 ## Uncategorized
 

@@ -15,11 +15,11 @@ TODO why SD 1.6
 
 TODO what is stable diffusion? I dont want to bore you with the technical details, here is a list of resources if you want to learn more about diffusion models:
 
-TODO LINKS
-
 TODO Brief overview of Stable Diffusion and its advantages for machine learning tasks
 
 TODO Explanation of why Stable Diffusion is a useful tool for both beginners and advanced users in the field
+
+TODO move to dedicated doc
 
 ## Getting Started
 
@@ -45,6 +45,8 @@ cd stable-diffusion-webui && ./run_webui_mac.sh
 
 ## Terminology
 
+TODO move to dedicated doc
+
 - token
 - steps
 - model
@@ -54,7 +56,11 @@ cd stable-diffusion-webui && ./run_webui_mac.sh
 
 TODO Simple examples demonstrating how to use Stable Diffusion WebUI to generate images
 
+TODO move to dedicated doc txt2img
+
 ## Basic Prompting
+
+TODO move to dedicated doc prompt engineering stable diffusion
 
 Prompting is basically describing the image you want to generate, using single words or short combinations of words seperated by a comma.
 prompting involves a lot of iterations, tweaking and trying out different combinations until you find something that works. It can also be influenced by many other factors. what works for me is either trying out things, tweaking, and writing down what works - you can find a list of my favourite prompts/tokens later in this guide.
@@ -102,9 +108,7 @@ a hyper detailed realistic oil painting of a pirate wearing an eyepatch, singing
 
 TODO a pirate wearing an eyepatch on a pirate ship singing a sea shanty while dancing on this wooden leg
 
-TODO links
-
-- https://www.krea.ai/
+TODO refer to links and tokens
 
 ### Tokens
 
@@ -206,7 +210,7 @@ combining the two techniques of txt2img and img2img really opens up what you can
 
 For now there is no guide here, I will add one once I get around to it, promise!
 
-## How to use Inpainting
+## How to use
 
 For now there is no guide here, I will add one once I get around to it, promise!
 
@@ -335,9 +339,10 @@ TODO rewrite & test
 - I edited the face in training images because it was causing ugly artifacts or completely breaking the model in a lot of cases
 - Class name should be "a **\_**" We can't do this while auto generating in google colab. So I'd suggest you generate the class images yourself because we can add an "a" to your chosen class word increasing the probability of rendering what you want and not a group, book cover, comic page and all the other random stuff that using the class word alone can produce. I used 60 training images, 2000 "person" class images and trained for 6000 steps. With a well trained model, it takes SD less effort to get a good likeness, freeing resources that can be spent on a much higher CFG than normal for more interesting results without the prompt and model breaking.
 
-## TL'DR & links
+### TL'DR
 
 TODO summary
+TODO put in the beginning?
 Explanation of why Stable Diffusion is a valuable tool for both beginners and advanced users in the field.
 
 without ui:
@@ -427,3 +432,59 @@ TODO put where appropriate
 - portrait epic fantasy art, evil black (knight), (face portrait), detailed (helmet closeup), (two red smoldering eye sockets:1.5) looking at camera, symmetrical centered head and shoulders portrait, (two|Viking horns on helmet), (two red eyes) inside horned barbute helmet, (( two eyes on face)), good anatomy, [color grading], correct anatomy, dark atmosphere, saturated complementary colors, awesome, smooth black metal armor, spiked shoulders,(shadowed|hidden face) inside barbute visor, sunset background, from front view, haunted knight
 
 ---
+
+## todo AI links
+
+https://poloclub.github.io/diffusion-explainer/
+
+## Stable Diffusion
+
+Stable Diffusion WebUI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Installation
+https://github.com/AUTOMATIC1111/stable-diffusion-webui#installation-and-running
+
+Features WebUI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
+
+Extensions WebUI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/
+
+Models download (some are nswf!)
+https://civitai.com/
+
+Stable Diffusion AI: Absolute beginner’s guide (+online demo)
+https://stable-diffusion-art.com/beginners-guide/
+
+Video to video with Stable Diffusion (step-by-step)
+https://stable-diffusion-art.com/video-to-video/
+
+ControlNet v1.1: A complete guide
+https://stable-diffusion-art.com/controlnet/
+
+Prompt Example Search
+https://search.krea.ai/
+
+## ChatGPT
+
+How to Use AI to Do Stuff: An Opinionated Guide
+https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
+
+In Praise of Boring AI
+https://www.oneusefulthing.org/p/in-praise-of-boring-ai
+
+A guide to prompting AI (for what it is worth)
+https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what
+
+OpenAI API playground
+https://platform.openai.com/playground
+
+OpenAI User Content Opt Out Request
+https://docs.google.com/forms/d/1t2y-arKhcjlKc1I5ohl9Gb16t6Sq-iaybVFEbLFFjaI/viewform?ts=63cec7c0
+
+API data usage policies
+https://openai.com/policies/api-data-usage-policies
+
+Data usage for consumer services FAQ
+https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq

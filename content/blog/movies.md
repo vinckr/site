@@ -17,6 +17,7 @@ See below for ratings of movies I watch.
 - [Blind Fury](https://www.imdb.com/title/tt0096945/)
 - [Bloodsport](https://m.imdb.com/title/tt0092675/)
 - [Boyz n the Hood](https://www.imdb.com/title/tt0101507/)
+- [Burglar](https://www.imdb.com/title/tt0092710/)
 - [Cocaine Bear](https://www.imdb.com/title/tt14209916/)
 - [Conan the Barbarian](https://www.imdb.com/title/tt0082198/)
 - [Crimes of the Future](https://www.imdb.com/title/tt14549466/)
@@ -82,6 +83,8 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Holy Spider](https://www.imdb.com/title/tt18550140/) 4/5
+- [Black Hawk Down](https://www.imdb.com/title/tt0265086/) 4/5
 - [Koyaanisqatsi](https://www.imdb.com/title/tt0085809/) 5/5
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/) 4/5
 - [Indiana Jones and the Dial of Destiny](https://www.imdb.com/title/tt1462764/) 3/5

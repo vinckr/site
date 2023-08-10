@@ -117,6 +117,8 @@ Collections of knowledge often looked up and forgotten.
 - [Fractal Garden](https://www.fractal.garden/)
 - [Beautiful Public Data](https://www.beautifulpublicdata.com/)
 - [analog audio tape cassette nostalgia](http://www.tapedeck.org/)
+- [Flash Museum](https://flashmuseum.org/)
+- [Mathematical imagery](https://www.josleys.com/)
 
 ### Design
 
@@ -163,6 +165,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Tabler Icons](https://github.com/tabler/tabler-icons)
 - [Iconhunt](https://www.iconhunt.site/)
 - [Heroicons](https://heroicons.com/)
+- [Iconbuddy](https://iconbuddy.app/)
 
 #### Fonts
 
@@ -181,7 +184,6 @@ Resources for web development and related topics.
 - [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
 - [Debug Shell Scripts](https://explainshell.com/)
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-- [Just your IP, nothing else](https://justyourip.com/)
 - [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
 - [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
 - [Syncthing - sync anything](https://syncthing.net/)
@@ -197,6 +199,18 @@ Resources for web development and related topics.
 - [IP Geolocation API](https://ipdata.co/)
 - [Benchmark and rank of public APIs](https://apirank.dev/)
 - [Awesome Tunneling List](https://github.com/anderspitman/awesome-tunneling/)
+- [Names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+
+#### IP
+
+- [Just your IP, nothing else](https://justyourip.com/)
+- [icanhazip](https://icanhazip.com/)
+
+#### Screenshots
+
+- [Screenstab](https://screenstab.com/)
+- [Screely](https://screely.com/)
 
 #### File sharing
 
@@ -242,9 +256,14 @@ Resources for web development and related topics.
 
 - [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
 - [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [React](https://react.dev/)
 - [The Joy of React](https://www.joyofreact.com/)
+
+#### Typescript
+
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### Go
 
@@ -377,7 +396,6 @@ This might be helpful when building an application, website, business, or someth
 - [Modern Application Reference Architectures](https://github.com/nginxinc/kic-reference-architectures/)
 - [Website in CLI format](https://github.com/rootvc/cli-website)
 - [Castlevania-Roguelike](https://github.com/Andres6936/Castlevania-Roguelike)
-- [Todolist project made with React JS and Typescript.](https://github.com/ronaldprofile/todolist-with-reactjs)
 - [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
 - [Temporary email service](https://mailcare.io/)
 
@@ -404,6 +422,11 @@ Anything related to sound or music.
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
 - [Keygen Library Player](https://cable.ayra.ch/)
+- [Movie Quotes with Sound Bites and SFX](https://movie-sounds.org/)
+
+## Video
+
+- [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
 
 ## Generative Art
 
@@ -479,19 +502,23 @@ Anything related to sound or music.
 ## Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
-- [Remote Friendly Jobs](https://remotefriendly.com/)
-- [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
-- [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
-- [Find engineering teams that share your values](https://www.keyvalues.com/)
-- [CommunityRule](https://communityrule.info/)
-- [4 Day Work Week Jobs](https://4dayweek.io/)
 - [no hello](https://nohello.net/en/)
-- [People-First Jobs — Remote, flexible jobs at companies with a people-first culture](https://peoplefirstjobs.com/)
-- [Free & Open Source Jobs](https://www.fossjobs.net/)
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
+
+### Jobs
+
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
 - [Hand-picked developer jobs](https://devemploy.com/)
-- [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
+- [Hacker News candidates and jobs](https://hnjobs.u-turn.dev/candidates)
+- [Remote Friendly Jobs](https://remotefriendly.com/)
+- [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
+- [Developer Relations Job Board](https://www.devrelcareers.com/)
+- [Find engineering teams that share your values](https://www.keyvalues.com/)
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Free & Open Source Jobs](https://www.fossjobs.net/)
+- [4 Day Work Week Jobs](https://4dayweek.io/)
+- [People-First Jobs](https://peoplefirstjobs.com/)
+- [AI-Powered Job Search](https://www.kadoa.com/joblens)
 
 ## Uncategorized
 

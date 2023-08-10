@@ -42,6 +42,7 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [Sator Square](https://en.m.wikipedia.org/wiki/Sator_Square)
 - [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 - [Sousveillance](https://en.m.wikipedia.org/wiki/Sousveillance)
+- [Telling the bees](https://en.m.wikipedia.org/wiki/Telling_the_bees)
 - [The Campaign for North Africa](https://en.m.wikipedia.org/wiki/The_Campaign_for_North_Africa)
 - [The General Crisis](https://en.m.wikipedia.org/wiki/The_General_Crisis)
 - [The Thing (listening device)](<https://en.m.wikipedia.org/wiki/The_Thing_(listening_device)>)

@@ -72,8 +72,10 @@ Start reading and never stop.
 
 - [List of notable Wikipedia Articles](../blog/wikipedia)
 
-## Writing tools
+## Writing tools and tips
 
+- [Hemmingway Editor](https://hemingwayapp.com/)
+- [Lose the Very](https://www.losethevery.com/)
 - [Cliche Finder](http://cliche.theinfo.org/)
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
@@ -81,6 +83,9 @@ Start reading and never stop.
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
 - [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/solitude)
 - [Text transcripts of Obama speeches](http://obamaspeeches.com/)
+- [8-sequence structure of screenplays](http://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
+- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+- [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 
 ## Cheat Sheets
 
@@ -111,6 +116,9 @@ Collections of knowledge often looked up and forgotten.
 - [Wolf design review by award winning architect in Melbourne](https://review.wolfarchitects.design/)
 - [Fractal Garden](https://www.fractal.garden/)
 - [Beautiful Public Data](https://www.beautifulpublicdata.com/)
+- [analog audio tape cassette nostalgia](http://www.tapedeck.org/)
+- [Flash Museum](https://flashmuseum.org/)
+- [Mathematical imagery](https://www.josleys.com/)
 
 ### Design
 
@@ -119,6 +127,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Resource — Curated websites and resources](https://resource.wtf/)
 - [Awwwards](https://www.awwwards.com/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [graphic design related items from internet archive](https://archives.design/)
 - [Werner's Nomenclature of Colours](https://www.c82.net/werner/#colors)
 - [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
 - [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
@@ -139,8 +148,10 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
 - [Free seamless pattern backgrounds](https://www.patterncooler.com/)
 - [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
-- [Modern UI Components | Float UI](https://floatui.com/components#components)
+- [Modern UI Components | Float UI](https://floatui.com/components)
 - [Eyecandy - Visual Technique Library](https://eycndy.com/)
+- [Retro software screenshots](http://www.typewritten.org/Media/)
+- [Symmetric Vision \ VFX](https://www.symmetric-vision.xyz/)
 
 #### Game Design
 
@@ -154,6 +165,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 - [Tabler Icons](https://github.com/tabler/tabler-icons)
 - [Iconhunt](https://www.iconhunt.site/)
 - [Heroicons](https://heroicons.com/)
+- [Iconbuddy](https://iconbuddy.app/)
 
 #### Fonts
 
@@ -172,7 +184,6 @@ Resources for web development and related topics.
 - [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
 - [Debug Shell Scripts](https://explainshell.com/)
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-- [Just your IP, nothing else](https://justyourip.com/)
 - [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
 - [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
 - [Syncthing - sync anything](https://syncthing.net/)
@@ -188,6 +199,18 @@ Resources for web development and related topics.
 - [IP Geolocation API](https://ipdata.co/)
 - [Benchmark and rank of public APIs](https://apirank.dev/)
 - [Awesome Tunneling List](https://github.com/anderspitman/awesome-tunneling/)
+- [Names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+
+#### IP
+
+- [Just your IP, nothing else](https://justyourip.com/)
+- [icanhazip](https://icanhazip.com/)
+
+#### Screenshots
+
+- [Screenstab](https://screenstab.com/)
+- [Screely](https://screely.com/)
 
 #### File sharing
 
@@ -208,6 +231,7 @@ Resources for web development and related topics.
 - [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
 - [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 - [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices)
 
 ### CSS
 
@@ -232,9 +256,14 @@ Resources for web development and related topics.
 
 - [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
 - [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [React](https://react.dev/)
 - [The Joy of React](https://www.joyofreact.com/)
+
+#### Typescript
+
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### Go
 
@@ -243,7 +272,7 @@ Resources for web development and related topics.
 - [Go by Example](https://gobyexample.com/)
 - [Go for all](https://golangforall.com/)
 - [Go Web Examples](https://gowebexamples.com/)
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Go styleguide](https://google.github.io/styleguide/go/)
 - [Buffalo - web development in Go](https://gobuffalo.io/)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -298,6 +327,7 @@ Official courses and other general learning resources.
 - [Developer Roadmaps](https://roadmap.sh/)
 - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [0xf.at hackits](https://www.0xf.at/)
 
 ### Building
 
@@ -331,6 +361,8 @@ This might be helpful when building an application, website, business, or someth
 - [Search inside 15,000+ pitch deck slides](http://www.searchthedeck.com/)
 - [Startup Playbook](https://playbook.samaltman.com/)
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
+- [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
+- [Incident Management Guide](https://onlineornot.com/incident-management)
 
 ### Security
 
@@ -364,7 +396,6 @@ This might be helpful when building an application, website, business, or someth
 - [Modern Application Reference Architectures](https://github.com/nginxinc/kic-reference-architectures/)
 - [Website in CLI format](https://github.com/rootvc/cli-website)
 - [Castlevania-Roguelike](https://github.com/Andres6936/Castlevania-Roguelike)
-- [Todolist project made with React JS and Typescript.](https://github.com/ronaldprofile/todolist-with-reactjs)
 - [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
 - [Temporary email service](https://mailcare.io/)
 
@@ -390,6 +421,12 @@ Anything related to sound or music.
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
+- [Keygen Library Player](https://cable.ayra.ch/)
+- [Movie Quotes with Sound Bites and SFX](https://movie-sounds.org/)
+
+## Video
+
+- [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
 
 ## Generative Art
 
@@ -432,7 +469,7 @@ Anything related to sound or music.
 
 ## Fun
 
-- [Nobody.live | Lonely streams and streamers with zero viewers](https://nobody.live/)
+- [Lonely streams and streamers with zero viewers](https://nobody.live/)
 - [Squiggle animation tool](http://www.mrsquiggles.com/)
 - [Visual representation of git repo](https://gource.io/)
 - [Simple animation tool](https://animatize.com/)
@@ -458,22 +495,30 @@ Anything related to sound or music.
 - [SCiZE's classic warez collection](https://scenelist.org/)
 - [HTML5 Deck of Cards](https://deck.of.cards/old/)
 - [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
-- [Niche Museums: Find tiny museums near you](https://www.niche-museums.com/)
+- [Niche Museums - tiny museums near you](https://www.niche-museums.com/)
+- [Meme Search Engine](https://findthatmeme.com/)
+- [Chirper - Social Network for AI](https://chirper.ai/)
 
 ## Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
+- [no hello](https://nohello.net/en/)
+- [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
+
+### Jobs
+
+- [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
+- [Hand-picked developer jobs](https://devemploy.com/)
+- [Hacker News candidates and jobs](https://hnjobs.u-turn.dev/candidates)
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
-- [Developer Relations Job Board - DevRel Careers](https://www.devrelcareers.com/)
+- [Developer Relations Job Board](https://www.devrelcareers.com/)
 - [Find engineering teams that share your values](https://www.keyvalues.com/)
-- [CommunityRule](https://communityrule.info/)
-- [4 Day Work Week Jobs](https://4dayweek.io/)
-- [no hello](https://nohello.net/en/)
-- [People-First Jobs — Remote, flexible jobs at companies with a people-first culture](https://peoplefirstjobs.com/)
-- [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
+- [Free & Open Source Jobs](https://www.fossjobs.net/)
+- [4 Day Work Week Jobs](https://4dayweek.io/)
+- [People-First Jobs](https://peoplefirstjobs.com/)
+- [AI-Powered Job Search](https://www.kadoa.com/joblens)
 
 ## Uncategorized
 
@@ -494,12 +539,13 @@ Anything related to sound or music.
 - [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
 - [Material Properties Database](https://www.makeitfrom.com/)
 
-### Shops
+### Physical items
 
 - [Medimops - Buy used products](https://www.medimops.de/)
+- [DIY-Audio-Heaven - Amazing headphone reviews](https://diyaudioheaven.wordpress.com/)
 
 ### Removed Links
 
-I just never looked at those..
+Links that got removed from this list for some reason.
 
 [Removed Links](../blog/removed-links)

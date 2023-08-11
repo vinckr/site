@@ -6,87 +6,399 @@ title: Quotes
 
 I don't fully endorse, believe in, or live by these quotes. I think they are worthy to collect and share with you. Some are statements made by famous people, others were found in random places on the internet. Attribution added where I am somewhat certain, let me know if something is wrong.
 
-> Free from desire, you realize the mystery.
-> Caught in desire, you see only the manifestations.
-> Yet mystery and manifestations arise from the same source. This source is called darkness.
-> Darkness within darkness. The gateway to all understanding. - [Laozi](https://en.wikipedia.org/wiki/Laozi)
+---
 
-> "The possible has been tried and failed. Now it's time to try the impossible." - [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)
+<figure>
+  <blockquote>
+    <p>Free from desire, you realize the mystery.
+    Caught in desire, you see only the manifestations.
+    Yet mystery and manifestations arise from the same source. This source is called darkness.
+    Darkness within darkness. The gateway to all understanding.</p>
+  </blockquote>
 
-> "It's a responsibility to be as open as you possibly can to the world as an aesthetic object" - [Zadie Smith](https://en.wikipedia.org/wiki/Zadie_Smith)
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Laozi">Laozi</a></figcaption>
+</figure>
 
-> "Power concedes nothing without a demand. It never has and it never will." - [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass)
+---
 
-> "Scientific knowledge is a body of statements of varying degrees of certainty - some most unsure, some nearly sure, none absolutely certain." - [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
+<figure>
+  <blockquote>
+    <p>The possible has been tried and failed. Now it's time to try the impossible.</p>
+  </blockquote>
 
-> "It's not about the number of hours you practice, it's about the number of hours your mind is present during the practice." - [Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant)
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Sun_Ra">Sun Ra</a></figcaption>
+</figure>
 
-> "The truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do." - [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)
+---
 
-> "When a man strays from the right path, a kind man needs the courage to raise his fist and correct him." - [Jamil Neate](https://gundam.fandom.com/wiki/Jamil_Neate)
+<figure>
+  <blockquote>
+    <p>It's a responsibility to be as open as you possibly can to the world as an aesthetic object.</p>
+  </blockquote>
 
-> "Life has many doors Ed-boy" - [Rolf](https://ed.fandom.com/wiki/Rolf)
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Zadie_Smith">Zadie Smith</a></figcaption>
+</figure>
 
-> "Could I interest you in everything all of the time?" - [Bo Burnham](https://www.youtube.com/watch?v=8NJDMV9hJxc)
+---
 
-> "The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful." - [Henry Miller](https://en.wikipedia.org/wiki/Henry_Miller)
+<figure>
+  <blockquote>
+    <p>Power concedes nothing without a demand. It never has and it never will.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Frederick_Douglass">Frederick Douglass</a></figcaption>
+</figure>
 
-> "What a liberation to realize that the "voice in my head" is not who I am. Who am I then? The one who sees that" - [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle)
+---
 
-> "No plan survives first contact with the enemy" - [Moltke](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)
+<figure>
+  <blockquote>
+    <p>Scientific knowledge is a body of statements of varying degrees of certainty - some most unsure, some nearly sure, none absolutely certain.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a></figcaption>
+</figure>
 
-> "We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both." — [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis)
+---
 
-> "It is not possible to come into contact twice with a mortal being in the same state." - [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
+<figure>
+  <blockquote>
+    <p>It's not about the number of hours you practice, it's about the number of hours your mind is present during the practice.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Kobe_Bryant">Kobe Bryant</a></figcaption>
+</figure>
 
-> "Everyone carries a shadow, and the less it is embodied in the individuals conscious life, the blacker and denser it is." — [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
+---
 
-> "You know what I love most about Mars? They still dream. We gave up. They're an entire culture dedicated to a common goal, working together as one to turn a lifeless rock into a garden. We had a garden and we paved it." — [Franklin Degraaf](https://expanse.fandom.com/wiki/Franklin_DeGraaf)
+<figure>
+  <blockquote>
+    <p>The truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Ursula_K._Le_Guin">Ursula K. Le Guin</a></figcaption>
+</figure>
 
-> "Life moves pretty fast. If you dont stop and look around every once in a while, you might miss it." - [Ferris Bueller](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
+---
 
-> "The purpose of a system is what it does" — [Stafford Beer](https://en.wikipedia.org/wiki/Stafford_Beer)
+<figure>
+  <blockquote>
+    <p>When a man strays from the right path, a kind man needs the courage to raise his fist and correct him.</p>
+  </blockquote>
+  <figcaption>- <a href="https://gundam.fandom.com/wiki/Jamil_Neate">Jamil Neate</a></figcaption>
+</figure>
 
-> "That day, beginning with the fissure opening on the frontier, the shape of the world began to crumble." - [Kentaro Miura](https://en.wikipedia.org/wiki/Kentaro_Miura)
+---
 
-> "Can you think of anything funnier than a man having the right to kill me because he lives on the other side of the river and his king quarrels with mine, although I don't with him?" - [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
+<figure>
+  <blockquote>
+    <p>Life has many doors Ed-boy</p>
+  </blockquote>
+  <figcaption>- <a href="https://ed.fandom.com/wiki/Rolf">Rolf</a></figcaption>
+</figure>
 
-> "Autobiography is only to be trusted when it reveals something disgraceful. A man who gives a good account of himself is probably lying, since any life when viewed from the inside is simply a series of defeats." - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)
+---
 
-> We ignore what created us; we adore what we create." — [Aleister Crowley](https://en.wikipedia.org/wiki/Aleister_Crowley)
+<figure>
+  <blockquote>
+    <p>Could I interest you in everything all of the time?</p>
+  </blockquote>
+  <figcaption>- <a href="https://www.youtube.com/watch?v=8NJDMV9hJxc">Bo Burnham</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>The realization that we collectively have no idea what we're doing here, that a whole lot of what we believe to be real and permanent is imaginary and temporary, and that there are no rules to life, no winners, that we should take care of nature and each other, and that you should follow your muse to do what you find interesting and beautiful.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Henry_Miller">Henry Miller</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>What a liberation to realize that the "voice in my head" is not who I am. Who am I then? The one who sees that</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Eckhart_Tolle">Eckhart Tolle</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>No plan survives first contact with the enemy</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder">Moltke</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Louis_Brandeis">Louis Brandeis</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>It is not possible to come into contact twice with a mortal being in the same state.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Plutarch">Plutarch</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Everyone carries a shadow, and the less it is embodied in the individual's conscious life, the blacker and denser it is.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Carl_Jung">Carl Jung</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>You know what I love most about Mars? They still dream. We gave up. They're an entire culture dedicated to a common goal, working together as one to turn a lifeless rock into a garden. We had a garden and we paved it.</p>
+  </blockquote>
+  <figcaption>- <a href="https://expanse.fandom.com/wiki/Franklin_DeGraaf">Franklin Degraaf</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Life moves pretty fast. If you don't stop and look around every once in a while, you might miss it.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off">Ferris Bueller</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>The purpose of a system is what it does</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Stafford_Beer">Stafford Beer</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>That day, beginning with the fissure opening on the frontier, the shape of the world began to crumble.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Kentaro_Miura">Kentaro Miura</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Can you think of anything funnier than a man having the right to kill me because he lives on the other side of the river and his king quarrels with mine, although I don't with him?</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Blaise_Pascal">Blaise Pascal</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Autobiography is only to be trusted when it reveals something disgraceful. A man who gives a good account of himself is probably lying, since any life when viewed from the inside is simply a series of defeats.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/George_Orwell">George Orwell</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>We ignore what created us; we adore what we create.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Aleister_Crowley">Aleister Crowley</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>For god's sake, ignore rules for writing. Except the ones that end up making you money.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Mark_Twain">Mark Twain</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/H._P._Lovecraft">H.P. Lovecraft</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>There are three rules for writing. Unfortunately nobody knows what they are.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/W._Somerset_Maugham">W. Somerset Maugham</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>I had not realized ... that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people</p>
+  </blockquote>
+  <figcaption>- <a href="https://de.wikipedia.org/wiki/Joseph_Weizenbaum">Joseph Weizenbaum</a></figcaption>
+</figure>
+
+---
 
 ## No attribution
 
-> "Everything just gets worse as you age. Sure, my dad said it too back then, but he just didn't get how the world moved on and improved. This time around though it's real, everything gets more stupid and dumb and I hate it."
+---
 
-> "You'd shoot a man in the back?" "Well, it's the safest way, isn't it?"
+<figure>
+  <blockquote>
+    <p>Everything just gets worse as you age. Sure, my dad said it too back then, but he just didn't get how the world moved on and improved. This time around though it's real, everything gets more stupid and dumb and I hate it.</p>
+  </blockquote>
+</figure>
 
-> "Slow is smooth, smooth is fast."
+---
 
-> "Change gives the illusion of progress."
+<figure>
+  <blockquote>
+    <p>You'd shoot a man in the back?" "Well, it's the safest way, isn't it?"</p>
+  </blockquote>
+</figure>
 
-> "The difference between a journeyman and a master is the journeyman is saying "it's never done that" whilst the master is already running."
+---
 
-> "Don't do anything in extremes, including not doing anything in extremes."
+<figure>
+  <blockquote>
+    <p>Slow is smooth, smooth is fast.</p>
+  </blockquote>
+</figure>
 
-> "There are bold X, and old X, but no old, bold X. Replace X with any practitioners subject to sufficient risk as a result of their practice."
+---
 
-> "It's easier to ask for forgiveness than permission"
+<figure>
+  <blockquote>
+    <p>Change gives the illusion of progress.</p>
+  </blockquote>
+</figure>
 
-> "You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest."
+---
 
-> "Although the bag on the oxygen mask may not inflate, oxygen is flowing."
+<figure>
+  <blockquote>
+    <p>The difference between a journeyman and a master is the journeyman is saying "it's never done that" whilst the master is already running.</p>
+  </blockquote>
+</figure>
 
-> "Some people thrive on adversity and struggle; I'm not one of them, and I believe [...] adversity and struggle come anyway, there's no need to seek them out."
+---
 
-> "The software isn't finished until the last user is dead."
+<figure>
+  <blockquote>
+    <p>Don't do anything in extremes, including not doing anything in extremes.</p>
+  </blockquote>
+</figure>
 
-> "Teach a man to fish, and you reduce the chances of maintaining a sustainable ecosystem."
+---
 
-> "Truth is dead. There is just output."
+<figure>
+  <blockquote>
+    <p>There are bold X, and old X, but no old, bold X. Replace X with any practitioners subject to sufficient risk as a result of their practice.</p>
+  </blockquote>
+</figure>
 
-> "Don't hate the media. Be the media."
+---
 
-> "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
+<figure>
+  <blockquote>
+    <p>It's easier to ask for forgiveness than permission.</p>
+  </blockquote>
+</figure>
 
-> "Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness"
+---
+
+<figure>
+  <blockquote>
+    <p>You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Although the bag on the oxygen mask may not inflate, oxygen is flowing.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Some people thrive on adversity and struggle; I'm not one of them, and I believe adversity and struggle come anyway, there's no need to seek them out.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>The software isn't finished until the last user is dead.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Teach a man to fish, and you reduce the chances of maintaining a sustainable ecosystem.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Truth is dead. There is just output.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Don't hate the media. Be the media.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Don't ignore your dreams, but also critically examine your dreams to ensure they're healthy and would actually bring you happiness.</p>
+  </blockquote>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>When a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.</p>
+  </blockquote>
+</figure>

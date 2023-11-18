@@ -20,6 +20,9 @@ node_modules
 
 public/*.html
 
+test.json
+test.md
+vale/styles/ory
 # custom html pages in public
 !recipe-generator.html
 

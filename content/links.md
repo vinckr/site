@@ -81,7 +81,7 @@ Start reading and never stop.
 - [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 - [Word to Markdown Converter](https://word2md.com/)
 - [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
-- [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/solitude)
+- [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/)
 - [Text transcripts of Obama speeches](http://obamaspeeches.com/)
 - [8-sequence structure of screenplays](http://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
 - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)

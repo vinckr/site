@@ -61,6 +61,7 @@ See below for ratings of some books I have read.
 - [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
 - [The Doctors' Dinner 'Party](https://www.goodreads.com/book/show/75542980-the-doctors-dinner-party)
 - [The Wreck of the Titan: Or Futility & Morgan Robertson the Man](https://www.goodreads.com/en/book/show/785361)
+- [Roadside Picnic by Arkady Strugatsky](https://www.goodreads.com/book/show/331256.Roadside_Picnic)
 
 ## Reviews
 

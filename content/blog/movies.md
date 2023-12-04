@@ -18,7 +18,6 @@ See below for ratings of movies I watch.
 - [Bloodsport](https://m.imdb.com/title/tt0092675/)
 - [Boyz n the Hood](https://www.imdb.com/title/tt0101507/)
 - [Burglar](https://www.imdb.com/title/tt0092710/)
-- [Cocaine Bear](https://www.imdb.com/title/tt14209916/)
 - [Conan the Barbarian](https://www.imdb.com/title/tt0082198/)
 - [Crimes of the Future](https://www.imdb.com/title/tt14549466/)
 - [Dead or Alive](https://www.imdb.com/title/tt0221111)
@@ -26,7 +25,6 @@ See below for ratings of movies I watch.
 - [Eastern Promises](https://www.imdb.com/title/tt0765443/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
 - [Face/Off](https://www.imdb.com/title/tt0119094/)
-- [Fail-safe](https://www.imdb.com/title/tt0058083/)
 - [Glorious](https://m.imdb.com/title/tt12724306/)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
@@ -41,6 +39,7 @@ See below for ratings of movies I watch.
 - [Legend](https://www.imdb.com/title/tt0089469/)
 - [Liquid Sky](https://www.imdb.com/title/tt0085852/)
 - [Logan's Run](https://www.imdb.com/title/tt0074812/)
+- [Love Exposure](https://m.imdb.com/title/tt1128075/)
 - [Lucifer Rising](https://www.imdb.com/title/tt0066019/)
 - [Mad Detective](https://www.imdb.com/title/tt0969269/)
 - [Mad Heidi](https://www.imdb.com/title/tt2943178/)
@@ -68,7 +67,6 @@ See below for ratings of movies I watch.
 - [The inner circle](https://www.imdb.com/title/tt0103838/)
 - [This is Spinal Tap](https://www.imdb.com/title/tt0088258/)
 - [Time of the Gypsies](https://www.imdb.com/title/tt0097223/)
-- [Voyna](https://www.imdb.com/title/tt0309047/)
 - [eXistenZ](https://www.imdb.com/title/tt0120907/)
 
 ## Reviews
@@ -83,6 +81,9 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [The Five Devils](https://m.imdb.com/title/tt13391708) 4/5
+- [Renfield](https://www.imdb.com/title/tt11358390/) 3/5
+- [Past Lives](https://www.imdb.com/title/tt13238346/) 4/5
 - [Holy Spider](https://www.imdb.com/title/tt18550140/) 4/5
 - [Black Hawk Down](https://www.imdb.com/title/tt0265086/) 4/5
 - [Koyaanisqatsi](https://www.imdb.com/title/tt0085809/) 5/5

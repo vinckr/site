@@ -252,13 +252,29 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
   <blockquote>
     <p>I had not realized ... that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people</p>
   </blockquote>
-  <figcaption>- <a href="https://de.wikipedia.org/wiki/Joseph_Weizenbaum">Joseph Weizenbaum</a></figcaption>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Joseph_Weizenbaum">Joseph Weizenbaum</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Between stimulus and response, there is a space. In that space lies our freedom and our power to choose our response. In our response lies our growth and our happiness.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Viktor_Frankl">Viktor Frankl</a></figcaption>
 </figure>
 
 ---
 
 ## No attribution
 
+---
+
+<figure>
+  <blockquote>
+    <p>If you want to succeed but cannot see the solution, think about how you might fail, then just don't do that.</p>
+  </blockquote>
+</figure
 ---
 
 <figure>

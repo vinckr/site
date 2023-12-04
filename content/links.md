@@ -40,6 +40,7 @@ Start reading and never stop.
 - [DiscMaster](http://discmaster.textfiles.com/)
 - [BYTE MAGAZINE: Early computer publication](https://worldradiohistory.com/Byte_Magazine.htm)
 - [highlights | Hacker News](https://news.ycombinator.com/highlights)
+- [Cory Doctorow Blog](https://pluralistic.net/)
 
 ### Mixed Publications
 
@@ -157,6 +158,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [QuadSpinner Gaea - terrain design application](https://quadspinner.com/)
+- [Explore Video Game Levels](https://noclip.website/)
 
 #### Icons
 
@@ -171,7 +173,7 @@ This section is a bit of a mess, a collection of design tips, tools, and example
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- I like these Google Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
+- I like these fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
 ## Software
 
@@ -251,13 +253,14 @@ Resources for web development and related topics.
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [Neat CSS](https://neat.joeldare.com/)
 - [blocks.css](https://thesephist.github.io/blocks.css/)
+- [Open Source Tailwind CSS Components](https://www.hyperui.dev/)
 
 ### JS
 
-- [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
-- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [React](https://react.dev/)
 - [The Joy of React](https://www.joyofreact.com/)
+- [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
+- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 
 #### Typescript
 
@@ -354,7 +357,6 @@ This might be helpful when building an application, website, business, or someth
 - [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
 - [OSS Insight](https://ossinsight.io/)
 - [OSS you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
 - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 - [Payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
 - [Raw logs: identifying enterprise buying intent](https://ghuntley.com/rawlogs/)
@@ -363,6 +365,13 @@ This might be helpful when building an application, website, business, or someth
 - [This Idea Does Not Exist](https://thisideadoesnotexist.com/)
 - [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
 - [Incident Management Guide](https://onlineornot.com/incident-management)
+- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
+- [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+
+### UX / UI
+
+- [i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
+- [Playbook for universal design](https://universaldesignguide.com/)
 
 ### Security
 
@@ -382,6 +391,7 @@ This might be helpful when building an application, website, business, or someth
 - [Enigma: a simple cross-platform encrypted filesystem](https://github.com/aegistudio/enigma)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec#awesome-infosec)
+- [Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
 
 #### OSINT
 
@@ -498,12 +508,14 @@ Anything related to sound or music.
 - [Niche Museums - tiny museums near you](https://www.niche-museums.com/)
 - [Meme Search Engine](https://findthatmeme.com/)
 - [Chirper - Social Network for AI](https://chirper.ai/)
+- [Beer Coaster Collection](https://www.beer-coasters.eu/)
 
 ## Work
 
 - [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [no hello](https://nohello.net/en/)
 - [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
+- [The XY Problem](https://xyproblem.info/)
 
 ### Jobs
 
@@ -519,6 +531,7 @@ Anything related to sound or music.
 - [4 Day Work Week Jobs](https://4dayweek.io/)
 - [People-First Jobs](https://peoplefirstjobs.com/)
 - [AI-Powered Job Search](https://www.kadoa.com/joblens)
+- [Remote software companies hiring in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 
 ## Uncategorized
 

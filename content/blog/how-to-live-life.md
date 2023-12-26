@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 tags: blog
-title: How to live
+title: How to live life
 ---
 
 1. Attitude is everything.

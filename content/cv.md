@@ -79,9 +79,3 @@ Being employee No.5 I wear many hats at Ory, not limited to Developer Relations.
 - Elementary School, [Klenzeschule 48 München](https://www.klenzeschule.de/), 1996 - 2000
 
 ---
-
-## References
-
-Available upon request.
-
----

@@ -4,8 +4,9 @@ tags: blog
 title: blog
 ---
 
-## monthly web digest
+## weblog
 
+- [08-2023](08-23)
 - [07-2023](07-23)
 - [06-2023](06-23)
 - [05-2023](05-23)
@@ -25,20 +26,20 @@ title: blog
 
 ## pages
 
-- [movies 🎞 watchlist & reviews](movies)
-- [books 📚 readlist & reviews](books)
-- [quotes](quotes)
-- [munich food tips](munich-tips)
+- [🎞 movies](movies)
+- [📚 books](books)
+- [💬 quotes](quotes)
+- [🍲 recipes](recipes)
+- [🥨 munich food tips](munich-tips)
 
 ## articles
 
 - [how to use vale as free and customizable open source style checker](open-source-stylecheck)
 - [how to encrypt files in a git repository easy mode](encrypt-dir)
-- [how to live](how-to-live)
-- [recipe generator WIP](../recipe-generator)
+- [how to live life](how-to-live-life)
+- [5 tracks](5tracks)
 
-## cheatsheets
+#### work in progress
 
-- [git](git)
-- [macos](macos)
-- [misc](misc)
+- [recipe generator](../recipe-generator)
+- [guide on image generation with stable diffusion](../stable-diffusion/index)

@@ -55,7 +55,7 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 .bin/shfmt: Makefile
 	echo installing Shellfmt ...
 	mkdir -p .bin
-	curl -sSL https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_darwin_arm64 -o .bin/shfmt
+	curl -sSL https://github.com/mvdan/sh/releases/download/v3.6.0/shfmt_v3.6.0_linux_amd64 -o .bin/shfmt
 	chmod +x .bin/shfmt
 
 node_modules: package.json package-lock.json

@@ -4,7 +4,7 @@ tags: blog
 title: Movies
 ---
 
-## Watchlist
+## Watch list
 
 This evergrowing list helps keep track of movies or shows I want to watch.
 See below for ratings of movies I watch.
@@ -24,7 +24,6 @@ See below for ratings of movies I watch.
 - [Deathwatch](https://www.imdb.com/title/tt0286306/)
 - [Eastern Promises](https://www.imdb.com/title/tt0765443/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
-- [Face/Off](https://www.imdb.com/title/tt0119094/)
 - [Glorious](https://m.imdb.com/title/tt12724306/)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
@@ -83,6 +82,7 @@ Rating:
 
 - [The Five Devils](https://m.imdb.com/title/tt13391708) 4/5
 - [Renfield](https://www.imdb.com/title/tt11358390/) 3/5
+- [Face/Off](https://www.imdb.com/title/tt0119094/) 2/5
 - [Past Lives](https://www.imdb.com/title/tt13238346/) 4/5
 - [Holy Spider](https://www.imdb.com/title/tt18550140/) 4/5
 - [Black Hawk Down](https://www.imdb.com/title/tt0265086/) 4/5
@@ -95,6 +95,7 @@ Rating:
 - [Intersect](https://www.imdb.com/title/tt4205718/) 1/5
 - [The Bear](https://www.imdb.com/title/tt14452776/) 4/5
 - [The House](https://www.imdb.com/title/tt11703050/) 3/5
+- [Shameless (TV Series)](https://www.imdb.com/title/tt1586680/) 4/5
 - [Fall](https://www.imdb.com/title/tt15325794/) 2/5
 - [The Deep House](https://www.imdb.com/title/tt11686490/) 2/5
 - [Evil Dead Rise](https://www.imdb.com/title/tt13345606/) 3/5

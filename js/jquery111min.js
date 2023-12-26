@@ -57,7 +57,7 @@
         return this.pushStack(
           n.map(this, function (b, c) {
             return a.call(b, c, b);
-          })
+          }),
         );
       },
       slice: function () {
@@ -161,8 +161,8 @@
         return null == a
           ? a + ""
           : "object" == typeof a || "function" == typeof a
-          ? h[i.call(a)] || "object"
-          : typeof a;
+            ? h[i.call(a)] || "object"
+            : typeof a;
       },
       globalEval: function (b) {
         b &&
@@ -270,11 +270,11 @@
     }),
     n.each(
       "Boolean Number String Function Array Date RegExp Object Error".split(
-        " "
+        " ",
       ),
       function (a, b) {
         h["[object " + b + "]"] = b.toLowerCase();
-      }
+      },
     );
   function s(a) {
     var b = a.length,
@@ -282,10 +282,10 @@
     return "function" === c || n.isWindow(a)
       ? !1
       : 1 === a.nodeType && b
-      ? !0
-      : "array" === c ||
-        0 === b ||
-        ("number" == typeof b && b > 0 && b - 1 in a);
+        ? !0
+        : "array" === c ||
+          0 === b ||
+          ("number" == typeof b && b > 0 && b - 1 in a);
   }
   var t = (function (a) {
     var b,
@@ -377,7 +377,7 @@
             "*(\\d+)|))" +
             K +
             "*\\)|)",
-          "i"
+          "i",
         ),
         bool: new RegExp("^(?:" + J + ")$", "i"),
         needsContext: new RegExp(
@@ -388,7 +388,7 @@
             "*((?:-\\d)?\\d*)" +
             K +
             "*\\)|)(?=[^-]|$)",
-          "i"
+          "i",
         ),
       },
       W = /^(?:input|select|textarea|button)$/i,
@@ -403,8 +403,8 @@
         return d !== d || c
           ? b
           : 0 > d
-          ? String.fromCharCode(d + 65536)
-          : String.fromCharCode((d >> 10) | 55296, (1023 & d) | 56320);
+            ? String.fromCharCode(d + 65536)
+            : String.fromCharCode((d >> 10) | 55296, (1023 & d) | 56320);
       };
     try {
       G.apply((D = H.call(t.childNodes)), t.childNodes),
@@ -572,7 +572,7 @@
                       function () {
                         k();
                       },
-                      !1
+                      !1,
                     )
                   : g.attachEvent &&
                     g.attachEvent("onunload", function () {
@@ -678,7 +678,7 @@
                   m.webkitMatchesSelector ||
                   m.mozMatchesSelector ||
                   m.oMatchesSelector ||
-                  m.msMatchesSelector)
+                  m.msMatchesSelector),
               )) &&
                 gb(function (a) {
                   (c.disconnectedMatch = q.call(a, "div")),
@@ -725,13 +725,13 @@
                           ? a === e || (a.ownerDocument === t && r(t, a))
                             ? -1
                             : b === e || (b.ownerDocument === t && r(t, b))
-                            ? 1
-                            : i
-                            ? I.call(i, a) - I.call(i, b)
-                            : 0
+                              ? 1
+                              : i
+                                ? I.call(i, a) - I.call(i, b)
+                                : 0
                           : 4 & d
-                          ? -1
-                          : 1);
+                            ? -1
+                            : 1);
                   }
                 : function (a, b) {
                     if (a === b) return (j = !0), 0;
@@ -745,14 +745,14 @@
                       return a === e
                         ? -1
                         : b === e
-                        ? 1
-                        : f
-                        ? -1
-                        : g
-                        ? 1
-                        : i
-                        ? I.call(i, a) - I.call(i, b)
-                        : 0;
+                          ? 1
+                          : f
+                            ? -1
+                            : g
+                              ? 1
+                              : i
+                                ? I.call(i, a) - I.call(i, b)
+                                : 0;
                     if (f === g) return ib(a, b);
                     c = a;
                     while ((c = c.parentNode)) h.unshift(c);
@@ -762,10 +762,10 @@
                     return d
                       ? ib(h[d], k[d])
                       : h[d] === t
-                      ? -1
-                      : k[d] === t
-                      ? 1
-                      : 0;
+                        ? -1
+                        : k[d] === t
+                          ? 1
+                          : 0;
                   }),
               e)
             : l;
@@ -800,10 +800,10 @@
         return void 0 !== f
           ? f
           : c.attributes || !n
-          ? a.getAttribute(b)
-          : (f = a.getAttributeNode(b)) && f.specified
-          ? f.value
-          : null;
+            ? a.getAttribute(b)
+            : (f = a.getAttributeNode(b)) && f.specified
+              ? f.value
+              : null;
       }),
       (db.error = function (a) {
         throw new Error("Syntax error, unrecognized expression: " + a);
@@ -909,7 +909,7 @@
                       ("string" == typeof a.className && a.className) ||
                         (typeof a.getAttribute !== A &&
                           a.getAttribute("class")) ||
-                        ""
+                        "",
                     );
                   }))
               );
@@ -920,23 +920,24 @@
                 return null == e
                   ? "!=" === b
                   : b
-                  ? ((e += ""),
-                    "=" === b
-                      ? e === c
-                      : "!=" === b
-                      ? e !== c
-                      : "^=" === b
-                      ? c && 0 === e.indexOf(c)
-                      : "*=" === b
-                      ? c && e.indexOf(c) > -1
-                      : "$=" === b
-                      ? c && e.slice(-c.length) === c
-                      : "~=" === b
-                      ? (" " + e + " ").indexOf(c) > -1
-                      : "|=" === b
-                      ? e === c || e.slice(0, c.length + 1) === c + "-"
-                      : !1)
-                  : !0;
+                    ? ((e += ""),
+                      "=" === b
+                        ? e === c
+                        : "!=" === b
+                          ? e !== c
+                          : "^=" === b
+                            ? c && 0 === e.indexOf(c)
+                            : "*=" === b
+                              ? c && e.indexOf(c) > -1
+                              : "$=" === b
+                                ? c && e.slice(-c.length) === c
+                                : "~=" === b
+                                  ? (" " + e + " ").indexOf(c) > -1
+                                  : "|=" === b
+                                    ? e === c ||
+                                      e.slice(0, c.length + 1) === c + "-"
+                                    : !1)
+                    : !0;
               };
             },
             CHILD: function (a, b, c, d, e) {
@@ -1017,19 +1018,19 @@
               return e[s]
                 ? e(b)
                 : e.length > 1
-                ? ((c = [a, a, "", b]),
-                  d.setFilters.hasOwnProperty(a.toLowerCase())
-                    ? fb(function (a, c) {
-                        var d,
-                          f = e(a, b),
-                          g = f.length;
-                        while (g--)
-                          (d = I.call(a, f[g])), (a[d] = !(c[d] = f[g]));
-                      })
-                    : function (a) {
-                        return e(a, 0, c);
-                      })
-                : e;
+                  ? ((c = [a, a, "", b]),
+                    d.setFilters.hasOwnProperty(a.toLowerCase())
+                      ? fb(function (a, c) {
+                          var d,
+                            f = e(a, b),
+                            g = f.length;
+                          while (g--)
+                            (d = I.call(a, f[g])), (a[d] = !(c[d] = f[g]));
+                        })
+                      : function (a) {
+                          return e(a, 0, c);
+                        })
+                  : e;
             },
           },
           pseudos: {
@@ -1276,7 +1277,9 @@
                   (j = e ? I.call(f, l) : m[k]) > -1 &&
                   (f[j] = !(g[j] = l));
             }
-          } else (r = sb(r === g ? r.splice(o, r.length) : r)), e ? e(null, g, r, i) : G.apply(g, r);
+          } else
+            (r = sb(r === g ? r.splice(o, r.length) : r)),
+              e ? e(null, g, r, i) : G.apply(g, r);
         })
       );
     }
@@ -1294,14 +1297,14 @@
               return a === b;
             },
             i,
-            !0
+            !0,
           ),
           l = qb(
             function (a) {
               return I.call(b, a) > -1;
             },
             i,
-            !0
+            !0,
           ),
           m = [
             function (a, c, d) {
@@ -1324,12 +1327,12 @@
                 pb(
                   a
                     .slice(0, j - 1)
-                    .concat({ value: " " === a[j - 2].type ? "*" : "" })
+                    .concat({ value: " " === a[j - 2].type ? "*" : "" }),
                 ).replace(P, "$1"),
               c,
               e > j && ub(a.slice(j, e)),
               f > e && ub((a = a.slice(e))),
-              f > e && pb(a)
+              f > e && pb(a),
             );
           }
           m.push(c);
@@ -1421,7 +1424,7 @@
             (l = d.find[k]) &&
             (f = l(
               j.matches[0].replace(ab, bb),
-              ($.test(i[0].type) && mb(b.parentNode)) || b
+              ($.test(i[0].type) && mb(b.parentNode)) || b,
             ))
           ) {
             if ((i.splice(h, 1), (a = f.length && pb(i)), !a))
@@ -1471,10 +1474,10 @@
           return c
             ? void 0
             : a[b] === !0
-            ? b.toLowerCase()
-            : (d = a.getAttributeNode(b)) && d.specified
-            ? d.value
-            : null;
+              ? b.toLowerCase()
+              : (d = a.getAttributeNode(b)) && d.specified
+                ? d.value
+                : null;
         }),
       db
     );
@@ -1518,7 +1521,7 @@
             a,
             n.grep(b, function (a) {
               return 1 === a.nodeType;
-            })
+            }),
           )
     );
   }),
@@ -1532,7 +1535,7 @@
           return this.pushStack(
             n(a).filter(function () {
               for (b = 0; e > b; b++) if (n.contains(d[b], this)) return !0;
-            })
+            }),
           );
         for (b = 0; e > b; b++) n.find(a, d[b], c);
         return (
@@ -1576,7 +1579,7 @@
             ((b = b instanceof n ? b[0] : b),
             n.merge(
               this,
-              n.parseHTML(c[1], b && b.nodeType ? b.ownerDocument || b : z, !0)
+              n.parseHTML(c[1], b && b.nodeType ? b.ownerDocument || b : z, !0),
             ),
             v.test(c[1]) && n.isPlainObject(b))
           )
@@ -1593,12 +1596,12 @@
       return a.nodeType
         ? ((this.context = this[0] = a), (this.length = 1), this)
         : n.isFunction(a)
-        ? "undefined" != typeof y.ready
-          ? y.ready(a)
-          : a(n)
-        : (void 0 !== a.selector &&
-            ((this.selector = a.selector), (this.context = a.context)),
-          n.makeArray(a, this));
+          ? "undefined" != typeof y.ready
+            ? y.ready(a)
+            : a(n)
+          : (void 0 !== a.selector &&
+              ((this.selector = a.selector), (this.context = a.context)),
+            n.makeArray(a, this));
     });
   (B.prototype = n.fn), (y = n(z));
   var C = /^(?:parents|prev(?:Until|All))/,
@@ -1658,15 +1661,15 @@
             ? n.inArray(this[0], n(a))
             : n.inArray(a.jquery ? a[0] : a, this)
           : this[0] && this[0].parentNode
-          ? this.first().prevAll().length
-          : -1;
+            ? this.first().prevAll().length
+            : -1;
       },
       add: function (a, b) {
         return this.pushStack(n.unique(n.merge(this.get(), n(a, b))));
       },
       addBack: function (a) {
         return this.add(
-          null == a ? this.prevObject : this.prevObject.filter(a)
+          null == a ? this.prevObject : this.prevObject.filter(a),
         );
       },
     });
@@ -1728,7 +1731,7 @@
           this.pushStack(e)
         );
       };
-    }
+    },
   );
   var F = /\S+/g,
     G = {};
@@ -1859,7 +1862,7 @@
                             .progress(c.notify)
                         : c[f[0] + "With"](
                             this === d ? c.promise() : this,
-                            g ? [a] : arguments
+                            g ? [a] : arguments,
                           );
                     });
                   }),
@@ -1884,7 +1887,7 @@
                     c = h;
                   },
                   b[1 ^ a][2].disable,
-                  b[2][2].lock
+                  b[2][2].lock,
                 ),
               (e[f[0]] = function () {
                 return e[f[0] + "With"](this === e ? d : this, arguments), this;
@@ -2037,14 +2040,14 @@
             "true" === c
               ? !0
               : "false" === c
-              ? !1
-              : "null" === c
-              ? null
-              : +c + "" === c
-              ? +c
-              : N.test(c)
-              ? n.parseJSON(c)
-              : c;
+                ? !1
+                : "null" === c
+                  ? null
+                  : +c + "" === c
+                    ? +c
+                    : N.test(c)
+                      ? n.parseJSON(c)
+                      : c;
         } catch (e) {}
         n.data(a, b, c);
       } else c = void 0;
@@ -2099,8 +2102,8 @@
           n.isArray(b)
             ? (b = b.concat(n.map(b, n.camelCase)))
             : b in d
-            ? (b = [b])
-            : ((b = n.camelCase(b)), (b = b in d ? [b] : b.split(" "))),
+              ? (b = [b])
+              : ((b = n.camelCase(b)), (b = b in d ? [b] : b.split(" "))),
             (e = b.length);
           while (e--) delete d[b[e]];
           if (c ? !Q(d) : !n.isEmptyObject(d)) return;
@@ -2109,8 +2112,8 @@
           (f
             ? n.cleanData([a], !0)
             : l.deleteExpando || g != g.window
-            ? delete g[h]
-            : (g[h] = null));
+              ? delete g[h]
+              : (g[h] = null));
       }
     }
   }
@@ -2165,12 +2168,12 @@
               n.data(this, a);
             })
           : arguments.length > 1
-          ? this.each(function () {
-              n.data(this, a, b);
-            })
-          : f
-          ? P(f, a, n.data(f, a))
-          : void 0;
+            ? this.each(function () {
+                n.data(this, a, b);
+              })
+            : f
+              ? P(f, a, n.data(f, a))
+              : void 0;
       },
       removeData: function (a) {
         return this.each(function () {
@@ -2227,12 +2230,12 @@
           arguments.length < c
             ? n.queue(this[0], a)
             : void 0 === b
-            ? this
-            : this.each(function () {
-                var c = n.queue(this, a, b);
-                n._queueHooks(this, a),
-                  "fx" === a && "inprogress" !== c[0] && n.dequeue(this, a);
-              })
+              ? this
+              : this.each(function () {
+                  var c = n.queue(this, a, b);
+                  n._queueHooks(this, a),
+                    "fx" === a && "inprogress" !== c[0] && n.dequeue(this, a);
+                })
         );
       },
       dequeue: function (a) {
@@ -2404,7 +2407,7 @@
                   needsContext: e && n.expr.match.needsContext.test(e),
                   namespace: p.join("."),
                 },
-                i
+                i,
               )),
               (m = g[o]) ||
                 ((m = g[o] = []),
@@ -2618,7 +2621,7 @@
     },
     props:
       "altKey bubbles cancelable ctrlKey currentTarget eventPhase metaKey relatedTarget shiftKey target timeStamp view which".split(
-        " "
+        " ",
       ),
     fixHooks: {},
     keyHooks: {
@@ -2634,7 +2637,7 @@
     mouseHooks: {
       props:
         "button buttons clientX clientY fromElement offsetX offsetY pageX pageY screenX screenY toElement".split(
-          " "
+          " ",
         ),
       filter: function (a, b) {
         var c,
@@ -2777,7 +2780,7 @@
             );
           },
         };
-      }
+      },
     ),
     l.submitBubbles ||
       (n.event.special.submit = {
@@ -2799,7 +2802,7 @@
                       a._submit_bubble = !0;
                     }),
                     n._data(c, "submitBubbles", !0));
-                }
+                },
               );
         },
         postDispatch: function (a) {
@@ -2919,7 +2922,7 @@
             n(a.delegateTarget).off(
               d.namespace ? d.origType + "." + d.namespace : d.origType,
               d.selector,
-              d.handler
+              d.handler,
             ),
             this
           );
@@ -2990,8 +2993,8 @@
         typeof a.getElementsByTagName !== L
           ? a.getElementsByTagName(b || "*")
           : typeof a.querySelectorAll !== L
-          ? a.querySelectorAll(b || "*")
-          : void 0;
+            ? a.querySelectorAll(b || "*")
+            : void 0;
     if (!f)
       for (f = [], c = a.childNodes || a; null != (d = c[e]); e++)
         !b || n.nodeName(d, b) ? f.push(d) : n.merge(f, vb(d, b));
@@ -3045,18 +3048,18 @@
       "script" === c && b.text !== a.text
         ? ((yb(b).text = a.text), zb(b))
         : "object" === c
-        ? (b.parentNode && (b.outerHTML = a.outerHTML),
-          l.html5Clone &&
-            a.innerHTML &&
-            !n.trim(b.innerHTML) &&
-            (b.innerHTML = a.innerHTML))
-        : "input" === c && X.test(a.type)
-        ? ((b.defaultChecked = b.checked = a.checked),
-          b.value !== a.value && (b.value = a.value))
-        : "option" === c
-        ? (b.defaultSelected = b.selected = a.defaultSelected)
-        : ("input" === c || "textarea" === c) &&
-          (b.defaultValue = a.defaultValue);
+          ? (b.parentNode && (b.outerHTML = a.outerHTML),
+            l.html5Clone &&
+              a.innerHTML &&
+              !n.trim(b.innerHTML) &&
+              (b.innerHTML = a.innerHTML))
+          : "input" === c && X.test(a.type)
+            ? ((b.defaultChecked = b.checked = a.checked),
+              b.value !== a.value && (b.value = a.value))
+            : "option" === c
+              ? (b.defaultSelected = b.selected = a.defaultSelected)
+              : ("input" === c || "textarea" === c) &&
+                (b.defaultValue = a.defaultValue);
     }
   }
   n.extend({
@@ -3167,8 +3170,8 @@
             k
               ? delete d[i]
               : typeof d.removeAttribute !== L
-              ? d.removeAttribute(i)
-              : (d[i] = null),
+                ? d.removeAttribute(i)
+                : (d[i] = null),
             c.push(f));
         }
     },
@@ -3181,12 +3184,12 @@
             return void 0 === a
               ? n.text(this)
               : this.empty().append(
-                  ((this[0] && this[0].ownerDocument) || z).createTextNode(a)
+                  ((this[0] && this[0].ownerDocument) || z).createTextNode(a),
                 );
           },
           null,
           a,
-          arguments.length
+          arguments.length,
         );
       },
       append: function () {
@@ -3283,7 +3286,7 @@
           },
           null,
           a,
-          arguments.length
+          arguments.length,
         );
       },
       replaceWith: function () {
@@ -3346,8 +3349,8 @@
                     : n.globalEval(
                         (d.text || d.textContent || d.innerHTML || "").replace(
                           rb,
-                          ""
-                        )
+                          "",
+                        ),
                       ));
           i = c = null;
         }
@@ -3370,7 +3373,7 @@
               f.apply(e, c.get());
           return this.pushStack(e);
         };
-      }
+      },
     );
   var Db,
     Eb = {};
@@ -3579,7 +3582,7 @@
               (e.style.marginRight = e.style.width = "0"),
               (d.style.width = "1px"),
               (g = !parseFloat(
-                (a.getComputedStyle(e, null) || {}).marginRight
+                (a.getComputedStyle(e, null) || {}).marginRight,
               )),
               b.removeChild(c);
           }
@@ -3791,9 +3794,9 @@
                   d,
                   l.boxSizing() &&
                     "border-box" === n.css(a, "boxSizing", !1, e),
-                  e
+                  e,
                 )
-              : 0
+              : 0,
           );
         },
       };
@@ -3802,12 +3805,13 @@
       (n.cssHooks.opacity = {
         get: function (a, b) {
           return Ob.test(
-            (b && a.currentStyle ? a.currentStyle.filter : a.style.filter) || ""
+            (b && a.currentStyle ? a.currentStyle.filter : a.style.filter) ||
+              "",
           )
             ? 0.01 * parseFloat(RegExp.$1) + ""
             : b
-            ? "1"
-            : "";
+              ? "1"
+              : "";
         },
         set: function (a, b) {
           var c = a.style,
@@ -3859,7 +3863,7 @@
           },
           a,
           b,
-          arguments.length > 1
+          arguments.length > 1,
         );
       },
       show: function () {
@@ -3908,7 +3912,7 @@
                   this.options.duration * a,
                   0,
                   1,
-                  this.options.duration
+                  this.options.duration,
                 )
               : a),
           (this.now = (this.end - this.start) * b + this.start),
@@ -3933,9 +3937,9 @@
           n.fx.step[a.prop]
             ? n.fx.step[a.prop](a)
             : a.elem.style &&
-              (null != a.elem.style[n.cssProps[a.prop]] || n.cssHooks[a.prop])
-            ? n.style(a.elem, a.prop, a.now + a.unit)
-            : (a.elem[a.prop] = a.now);
+                (null != a.elem.style[n.cssProps[a.prop]] || n.cssHooks[a.prop])
+              ? n.style(a.elem, a.prop, a.now + a.unit)
+              : (a.elem[a.prop] = a.now);
         },
       },
     }),
@@ -4148,7 +4152,7 @@
             j.opts,
             b,
             c,
-            j.opts.specialEasing[b] || j.opts.easing
+            j.opts.specialEasing[b] || j.opts.easing,
           );
           return j.tweens.push(d), d;
         },
@@ -4197,10 +4201,10 @@
         (d.duration = n.fx.off
           ? 0
           : "number" == typeof d.duration
-          ? d.duration
-          : d.duration in n.fx.speeds
-          ? n.fx.speeds[d.duration]
-          : n.fx.speeds._default),
+            ? d.duration
+            : d.duration in n.fx.speeds
+              ? n.fx.speeds[d.duration]
+              : n.fx.speeds._default),
         (null == d.queue || d.queue === !0) && (d.queue = "fx"),
         (d.old = d.complete),
         (d.complete = function () {
@@ -4302,7 +4306,7 @@
         n.fn[a] = function (a, c, d) {
           return this.animate(b, a, c, d);
         };
-      }
+      },
     ),
     (n.timers = []),
     (n.fx.tick = function () {
@@ -4384,11 +4388,11 @@
                 null == e
                   ? (e = "")
                   : "number" == typeof e
-                  ? (e += "")
-                  : n.isArray(e) &&
-                    (e = n.map(e, function (a) {
-                      return null == a ? "" : a + "";
-                    })),
+                    ? (e += "")
+                    : n.isArray(e) &&
+                      (e = n.map(e, function (a) {
+                        return null == a ? "" : a + "";
+                      })),
                 (b =
                   n.valHooks[this.type] ||
                   n.valHooks[this.nodeName.toLowerCase()]),
@@ -4509,10 +4513,10 @@
                   ? e
                   : ((e = n.find.attr(a, b)), null == e ? void 0 : e)
                 : null !== c
-                ? d && "set" in d && void 0 !== (e = d.set(a, c, b))
-                  ? e
-                  : (a.setAttribute(b, c + ""), c)
-                : void n.removeAttr(a, b));
+                  ? d && "set" in d && void 0 !== (e = d.set(a, c, b))
+                    ? e
+                    : (a.setAttribute(b, c + ""), c)
+                  : void n.removeAttr(a, b));
       },
       removeAttr: function (a, b) {
         var c,
@@ -4546,8 +4550,8 @@
           b === !1
             ? n.removeAttr(a, c)
             : (sc && rc) || !qc.test(c)
-            ? a.setAttribute((!rc && n.propFix[c]) || c, c)
-            : (a[n.camelCase("default-" + c)] = a[c] = !0),
+              ? a.setAttribute((!rc && n.propFix[c]) || c, c)
+              : (a[n.camelCase("default-" + c)] = a[c] = !0),
           c
         );
       },
@@ -4571,8 +4575,8 @@
               return c
                 ? void 0
                 : a[n.camelCase("default-" + b)]
-                ? b.toLowerCase()
-                : null;
+                  ? b.toLowerCase()
+                  : null;
             };
     }),
     (sc && rc) ||
@@ -4602,8 +4606,8 @@
             return c
               ? void 0
               : (d = a.getAttributeNode(b)) && "" !== d.value
-              ? d.value
-              : null;
+                ? d.value
+                : null;
           }),
       (n.valHooks.button = {
         get: function (a, b) {
@@ -4666,8 +4670,8 @@
                 ? d
                 : (a[b] = c)
               : e && "get" in e && null !== (d = e.get(a, b))
-              ? d
-              : a[b]
+                ? d
+                : a[b]
           );
       },
       propHooks: {
@@ -4677,8 +4681,8 @@
             return b
               ? parseInt(b, 10)
               : tc.test(a.nodeName) || (uc.test(a.nodeName) && a.href)
-              ? 0
-              : -1;
+                ? 0
+                : -1;
           },
         },
       },
@@ -4716,7 +4720,7 @@
       ],
       function () {
         n.propFix[this.toLowerCase()] = this;
-      }
+      },
     ),
     l.enctype || (n.propFix.enctype = "encoding");
   var vc = /[\t\r\n\f]/g;
@@ -4806,7 +4810,7 @@
                         this.className || a === !1
                           ? ""
                           : n._data(this, "__className__") || ""));
-                }
+                },
           );
     },
     hasClass: function (a) {
@@ -4821,7 +4825,7 @@
   }),
     n.each(
       "blur focus focusin focusout load resize scroll unload click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup error contextmenu".split(
-        " "
+        " ",
       ),
       function (a, b) {
         n.fn[b] = function (a, c) {
@@ -4829,7 +4833,7 @@
             ? this.on(b, null, a, c)
             : this.trigger(b);
         };
-      }
+      },
     ),
     n.fn.extend({
       hover: function (a, b) {
@@ -4865,7 +4869,7 @@
           return (
             c && b && (d = 0), 0 === d ? a : ((c = e || b), (d += !f - !e), "")
           );
-        })
+        }),
       )
       ? Function("return " + e)()
       : n.error("Invalid JSON: " + b);
@@ -5166,7 +5170,7 @@
           k.dataTypes[0] && k.accepts[k.dataTypes[0]]
             ? k.accepts[k.dataTypes[0]] +
                 ("*" !== k.dataTypes[0] ? ", " + Kc + "; q=0.01" : "")
-            : k.accepts["*"]
+            : k.accepts["*"],
         );
       for (d in k.headers) v.setRequestHeader(d, k.headers[d]);
       if (k.beforeSend && (k.beforeSend.call(l, v, k) === !1 || 2 === t))
@@ -5213,8 +5217,8 @@
               204 === a || "HEAD" === k.type
                 ? (x = "nocontent")
                 : 304 === a
-                ? (x = "notmodified")
-                : ((x = u.state), (r = u.data), (s = u.error), (j = !s)))
+                  ? (x = "notmodified")
+                  : ((x = u.state), (r = u.data), (s = u.error), (j = !s)))
             : ((s = x), (a || !x) && ((x = "error"), 0 > a && (a = 0))),
           (v.status = a),
           (v.statusText = (b || x) + ""),
@@ -5257,7 +5261,7 @@
         n.fn[b] = function (a) {
           return this.on(b, a);
         };
-      }
+      },
     ),
     (n._evalUrl = function (a) {
       return n.ajax({
@@ -5299,7 +5303,7 @@
                 var b = n(this),
                   c = b.contents();
                 c.length ? c.wrapAll(a) : b.append(a);
-              }
+              },
         );
       },
       wrap: function (a) {
@@ -5383,10 +5387,10 @@
             return null == c
               ? null
               : n.isArray(c)
-              ? n.map(c, function (a) {
-                  return { name: b.name, value: a.replace(Tc, "\r\n") };
-                })
-              : { name: b.name, value: c.replace(Tc, "\r\n") };
+                ? n.map(c, function (a) {
+                    return { name: b.name, value: a.replace(Tc, "\r\n") };
+                  })
+                : { name: b.name, value: c.replace(Tc, "\r\n") };
           })
           .get();
       },
@@ -5544,7 +5548,7 @@
             ? "url"
             : "string" == typeof b.data &&
               !(b.contentType || "").indexOf(
-                "application/x-www-form-urlencoded"
+                "application/x-www-form-urlencoded",
               ) &&
               bd.test(b.data) &&
               "data");
@@ -5609,7 +5613,7 @@
             c &&
               function (a, b) {
                 g.each(c, e || [a.responseText, b, a]);
-              }
+              },
           ),
       this
     );
@@ -5624,8 +5628,8 @@
     return n.isWindow(a)
       ? a
       : 9 === a.nodeType
-      ? a.defaultView || a.parentWindow
-      : !1;
+        ? a.defaultView || a.parentWindow
+        : !1;
   }
   (n.offset = {
     setOffset: function (a, b, c) {
@@ -5738,17 +5742,17 @@
                 : void (f
                     ? f.scrollTo(
                         c ? n(f).scrollLeft() : e,
-                        c ? e : n(f).scrollTop()
+                        c ? e : n(f).scrollTop(),
                       )
                     : (a[d] = e));
             },
             a,
             d,
             arguments.length,
-            null
+            null,
           );
         };
-      }
+      },
     ),
     n.each(["top", "left"], function (a, b) {
       n.cssHooks[b] = Mb(l.pixelPosition, function (a, c) {
@@ -5771,25 +5775,25 @@
                 return n.isWindow(b)
                   ? b.document.documentElement["client" + a]
                   : 9 === b.nodeType
-                  ? ((e = b.documentElement),
-                    Math.max(
-                      b.body["scroll" + a],
-                      e["scroll" + a],
-                      b.body["offset" + a],
-                      e["offset" + a],
-                      e["client" + a]
-                    ))
-                  : void 0 === d
-                  ? n.css(b, c, g)
-                  : n.style(b, c, d, g);
+                    ? ((e = b.documentElement),
+                      Math.max(
+                        b.body["scroll" + a],
+                        e["scroll" + a],
+                        b.body["offset" + a],
+                        e["offset" + a],
+                        e["client" + a],
+                      ))
+                    : void 0 === d
+                      ? n.css(b, c, g)
+                      : n.style(b, c, d, g);
               },
               b,
               f ? d : void 0,
               f,
-              null
+              null,
             );
           };
-        }
+        },
       );
     }),
     (n.fn.size = function () {

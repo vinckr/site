@@ -17,6 +17,7 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [Computational humor](https://en.m.wikipedia.org/wiki/Computational_humor)
 - [Cradle of civilization](https://en.m.wikipedia.org/wiki/Cradle_of_civilization)
 - [Cybernetic Culture Research Unit](https://en.m.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
+- [Cyborg art](https://en.m.wikipedia.org/wiki/Cyborg_art)
 - [Destreza](https://en.m.wikipedia.org/wiki/Destreza)
 - [Eight Immortals](https://en.wikipedia.org/wiki/Eight_Immortals)
 - [El Paquete Semanal](https://en.m.wikipedia.org/wiki/El_Paquete_Semanal)

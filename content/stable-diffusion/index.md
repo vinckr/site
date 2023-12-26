@@ -6,37 +6,39 @@ title: Stable Diffusion Guide
 
 ## Introduction
 
-This guide is intended for people new to image generation using Stable Diffusion.  
-The main technology used in this guide is Stable Diffusion 1.6 running interference on a local computer. Interference means in our case generating images from a text prompt or another image.
+This guide is intended for people new to image generation using Stable Diffusion (SD).  
+The main technology used in this guide is SD 1.6 running interference on a local computer. Interference means in our case generating images from a text prompt or another image.
 
-In this guide you will learn the basics of how to run a Stable Diffusion model on your local computer. Many of the prompting techniques and other workflows from this guide are also applicable to other models or transformers, but Stable Diffusion 1.6 is the main base model used in this guide.
+In this guide you will learn the basics of how to run a SD model on your local computer. Most of the prompting techniques and workflows from this guide are also applicable to other models, but SD 1.6 is the main base model used in this guide.
 
 ### What is Stable Diffusion
 
-- [Stable Diffusion explained with visualization](https://poloclub.github.io/diffusion-explainer/)
+- [Stable Diffusion explained with visuaotherlization](https://poloclub.github.io/diffusion-explainer/)
 - [Stable Diffusion on Wikipedia](https://en.wikipedia.org/wiki/Stable_Diffusion)
 - [A walk through latent space with Stable Diffusion](https://keras.io/examples/generative/random_walks_with_stable_diffusion/)
 - [The Huggingface Stable Diffusion Guide ](https://huggingface.co/docs/diffusers/v0.14.0/en/stable_diffusion)
 
-### Why use Stable Diffusion 1.6 if there is a newer version
+### Why SD 1.6 if there is a newer version
 
-Stable Diffusion 1.6 has a huge number of trained models, so you have a huge variety of different styles to choose from. It also is flexible when training, but I don't know too much about that.
-Stable Diffusion 2.x is not great for a couple of reasons
-Stable Diffusion XL is great but has less variety.
+Stable Diffusion 1.6 has a huge number of trained models, so you have a huge variety of different styles to choose from.
+
+Stable Diffusion 2.x is not great for a couple of reasons, to be honest I have not used it much since it was a bit of a hassle to set up.
+
+Stable Diffusion XL is great but has in my experience less variety than 1.6. I would recommend to check out SDXL, you can get some great results in higher resolution with it.
 
 ## Getting Started
 
-<!-- TODO rewrite & investigate how much RAM/GPU you need at minimum -->
+<!-- TODO rewrite & investigate how much RAM you need and so on -->
 
-To run Stable Diffusion on your computer you need a good amount of RAM. It works well with 8-16 gb of RAM, but it also works on much weaker machines - it just takes much longer to generate.
+To run SD on your computer you need a good amount of GPU RAM. It works well with 8-16 gb of RAM, but it also works on much weaker machines - it just takes much longer to generate.
 
-- Guide how to run Stable Diffusion on a Mac without user interface: [Run Stable Diffusion on your M1 Mac's GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+- Guide how to run Stable Diffusion on a M1 Macbook without user interface: [Run Stable Diffusion on your M1 Mac's GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 - Guide how to run Stable Diffusion on a Mac with user interface: [Stable Diffusion web UI repo on GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-I suggest to use the AUTOMATIC1111 Stable Diffusion web UI. Its a convenient interface for Stable Diffusion and has many features and extenions
+For beginners I recommend to use the AUTOMATIC1111 Stable Diffusion web UI. Its a convenient interface for Stable Diffusion and has many features and extensions.  
 You can go from generating images from a simple prompt to more elaborate and complex setups without writing any code. [Overview of Stable Diffusion web UI features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features)
 
-I am still catching up and e week there is something new to play around with. There are many other good UIs for running Stable Diffusion, the most notable would be [ComfyUI](https://github.com/comfyanonymous/ComfyUI). Comfy is node-based and more complex than the web UI. I would recommend Comfy for more experienced users. Comfy gives you even more control over the whole process but also requires some more understanding of how it all works.
+I am still catching up and e week there is something new to play around with. There are many other good UIs for running Stable Diffusion, the most notable would be [ComfyUI](https://github.com/comfyanonymous/ComfyUI). Comfy is node-based and more complex than the web UI. I would recommend Comfy for experienced users. Comfy gives you much more control over the whole process but also requires some more understanding of how it all works.
 
 ### Installation
 

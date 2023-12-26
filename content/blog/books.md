@@ -4,7 +4,7 @@ tags: blog
 title: Books
 ---
 
-## Readlist
+## Read list
 
 This evergrowing list helps me keep track of worthwhile texts to read.
 See below for ratings of some books I have read.
@@ -39,34 +39,34 @@ See below for ratings of some books I have read.
 - [Nonzero: The Logic of Human Destiny](https://www.goodreads.com/book/show/9526993-nonzero)
 - [Die molussische Katakombe](https://www.goodreads.com/book/show/4529828-die-molussische-katakombe)
 - [My Confession: Recollections of a Rogue](https://www.goodreads.com/book/show/1094401.My_Confession)
-- [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee)
 - [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
-- [The Living Brain by W. Grey Walter](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
-- [The Discarded Image: An Introduction to Medieval and Renaissance Literature by C.S. Lewis](https://www.goodreads.com/book/show/80005.The_Discarded_Image)
-- [The Faithful Executioner: Life and Death, Honor and Shame in the Turbulent Sixteenth Century by Joel F. Harrington](https://www.goodreads.com/book/show/15793575-the-faithful-executioner)
-- [Sobre héroes y tumbas by Ernesto Sabato](https://www.goodreads.com/book/show/1677.Sobre_h_roes_y_tumbas)
-- [Sex, Drugs & Magick by Robert Anton Wilson](https://www.goodreads.com/book/show/259578.Sex_Drugs_Magick)
-- [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness by Peter Godfrey-Smith](https://www.goodreads.com/book/show/28116739-other-minds)
-- [Tyll by Daniel Kehlmann](https://www.goodreads.com/book/show/36130507-tyll)
-- [Cosmic Trigger Volume I: Final Secret of the Illuminati by Robert Anton Wilson](https://www.goodreads.com/book/show/4237.Cosmic_Trigger_Volume_I)
-- [Abaddón el Exterminador by Ernesto Sabato](https://www.goodreads.com/book/show/63001.Abadd_n_el_Exterminador)
+- [The Living Brain](https://www.goodreads.com/book/show/2071988.The_Living_Brain)
+- [The Discarded Image: An Introduction to Medieval and Renaissance Literature](https://www.goodreads.com/book/show/80005.The_Discarded_Image)
+- [The Faithful Executioner: Life and Death, Honor and Shame in the Turbulent Sixteenth Century](https://www.goodreads.com/book/show/15793575-the-faithful-executioner)
+- [Sobre héroes y tumbas](https://www.goodreads.com/book/show/1677.Sobre_h_roes_y_tumbas)
+- [Sex, Drugs & Magick](https://www.goodreads.com/book/show/259578.Sex_Drugs_Magick)
+- [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.goodreads.com/book/show/28116739-other-minds)
+- [Tyll](https://www.goodreads.com/book/show/36130507-tyll)
+- [Cosmic Trigger Volume I: Final Secret of the Illuminati](https://www.goodreads.com/book/show/4237.Cosmic_Trigger_Volume_I)
+- [Abaddón el Exterminador](https://www.goodreads.com/book/show/63001.Abadd_n_el_Exterminador)
 - [My Education: A Book of Dreams](https://www.goodreads.com/book/show/23948.My_Education)
-- [The Human Condition by Hannah Arendt](https://www.goodreads.com/book/show/127227.The_Human_Condition)
-- [Against Method by Paul Karl Feyerabend](https://www.goodreads.com/book/show/137979.Against_Method)
-- [Interaction Ritual: Essays on Face-To-Face Behavior by Erving Goffman](https://www.goodreads.com/book/show/20741.Interaction_Ritual)
-- [The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction by Hugo Gernsback](https://www.goodreads.com/book/show/30227595-the-perversity-of-things)
-- [Impro: Improvisation and the Theatre by Keith Johnstone](https://www.goodreads.com/book/show/306940.Impro)
-- [Operating Manual for Spaceship Earth by R. Buckminster Fuller](https://www.goodreads.com/book/show/316362.Operating_Manual_for_Spaceship_Earth)
-- [The Origins of Political Order: From Prehuman Times to the French Revolution by Francis Fukuyama](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
+- [The Human Condition](https://www.goodreads.com/book/show/127227.The_Human_Condition)
+- [Against Method](https://www.goodreads.com/book/show/137979.Against_Method)
+- [Interaction Ritual: Essays on Face-To-Face Behavior](https://www.goodreads.com/book/show/20741.Interaction_Ritual)
+- [The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction](https://www.goodreads.com/book/show/30227595-the-perversity-of-things)
+- [Impro: Improvisation and the Theatre](https://www.goodreads.com/book/show/306940.Impro)
+- [Operating Manual for Spaceship Earth](https://www.goodreads.com/book/show/316362.Operating_Manual_for_Spaceship_Earth)
+- [The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
 - [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
 - [The Doctors' Dinner 'Party](https://www.goodreads.com/book/show/75542980-the-doctors-dinner-party)
 - [The Wreck of the Titan: Or Futility & Morgan Robertson the Man](https://www.goodreads.com/en/book/show/785361)
-- [Roadside Picnic by Arkady Strugatsky](https://www.goodreads.com/book/show/331256.Roadside_Picnic)
+- [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic)
 
 ## Reviews
 
 I review and rate some books I read. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
 
+- [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee) 4/5
 - [Dune](https://www.goodreads.com/book/show/44767458-dune) 5/5
 - [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5

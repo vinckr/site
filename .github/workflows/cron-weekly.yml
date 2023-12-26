@@ -3,6 +3,7 @@ name: Markdown Links Check
 on:
   schedule:
     - cron: "0 9 * * 1"
+  workflow_dispatch:
 
 jobs:
   check-links:
@@ -12,14 +13,14 @@ jobs:
       - uses: gaurav-nelson/github-action-markdown-link-check@a996638015fbc9ef96beef1a41bbad7df8e06154
         # checks all markdown files from /docs including all subfolders
         with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: '.github/workflows/markdown.links.config.json'
-          folder-path: 'content/'
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
+          config-file: ".github/workflows/markdown.links.config.json"
+          folder-path: "content/"
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@a996638015fbc9ef96beef1a41bbad7df8e06154
         # checks all markdown files from root including subfolders
         with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: '.github/workflows/markdown.links.config.json'
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
+          config-file: ".github/workflows/markdown.links.config.json"

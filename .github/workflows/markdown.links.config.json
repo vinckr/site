@@ -1,22 +1,22 @@
 {
-    "ignorePatterns": [
-        {
-            "pattern": "../blog/wikipedia"
-        },        
-        {
-            "pattern": "exrx.net"
-        },
-        {
-            "pattern": "medimops.de"
-        },        
-        {
-            "pattern": "cable.ayra.ch"
-        },        
-        {
-            "pattern": "stylemanual.gov.au"
-        },
-        {
-            "pattern": "collection.cooperhewitt.org"
-        }
-    ]
-  }
+  "ignorePatterns": [
+    {
+      "pattern": "\\/github\\/workspace\\/"
+    },
+    {
+      "pattern": "exrx.net"
+    },
+    {
+      "pattern": "medimops.de"
+    },
+    {
+      "pattern": "cable.ayra.ch"
+    },
+    {
+      "pattern": "stylemanual.gov.au"
+    },
+    {
+      "pattern": "collection.cooperhewitt.org"
+    }
+  ]
+}

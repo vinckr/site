@@ -90,10 +90,7 @@ Arguably the best kind of food.
 1. Bread
 1. Any kind of cheese or ham, works best sliced
 1. Mustard - I prefer medium hot mustard
-1. If you are feeling fance, add a pickle.
-
-https://www.internationalcuisine.com/ndambe/
-https://search.brave.com/search?q=bauru+recipe&source=web
+1. If you are feeling fancy, add a pickle.
 
 ## Pantry list
 
@@ -115,13 +112,13 @@ Always have these stocked at home if possible. Still work in progress so this is
 
 ## Recipe links
 
-### Cooking channels on Youtube
-
-- [Cowboy Kent Rollins](https://www.youtube.com/@CowboyKentRollins/videos)
-- [Townsend](https://www.youtube.com/@townsends)
-
 - [EU Commission Regulation Pizza Napoletana](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0097)
 - [Updating Early Modern Recipes (1600-1800) in a Modern Kitchen](https://rarecooking.com)
 - [SuperCook - Zero Waste Recipe Generator](https://www.supercook.com/#/ingredients)
 - [Recipe Dataset](https://github.com/Glorf/recipenlg)
 - [The Sad Bastard Cookbook by tRaum Books](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+
+### Cooking videos
+
+- [Cowboy Kent Rollins](https://www.youtube.com/@CowboyKentRollins/videos)
+- [Townsend](https://www.youtube.com/@townsends)

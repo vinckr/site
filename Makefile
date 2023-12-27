@@ -40,6 +40,10 @@ decrypt-drafts: .bin/encrypt-dir # decrypt files in drafts folder
 	.bin/encrypt-dir decrypt --key=${ENCRYPTION_KEY} drafts
 	unzip -o drafts/drafts.zip
 
+check-links: # check links in markdown files
+	echo "Checking links"
+	cd content && find . -name \*.md -print0 | xargs -0 -n1 markdown-link-check
+
 .bin/encrypt-dir:
 	echo "Building encrypt-dir"
 	go build -o .bin/encrypt-dir github.com/ory/encrypt-dir 

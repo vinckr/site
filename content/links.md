@@ -561,6 +561,7 @@ Anything related to sound or music.
 
 - [Medimops - Buy used products](https://www.medimops.de/)
 - [DIY-Audio-Heaven - Amazing headphone reviews](https://diyaudioheaven.wordpress.com/)
+- [Digikey](https://www.digikey.de/en)
 
 ## Dead
 

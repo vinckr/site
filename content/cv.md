@@ -75,7 +75,7 @@ Being employee No.5 I wear many hats at Ory, not limited to Developer Relations.
 ## Education
 
 - Bachelor Electrical Engineering, [TU Berlin](https://www.tu.berlin/), 2012 - 2016
-- High School, [Wilhelmsgymnasium München](https://www.wilhelmsgymnasium.de/), 2000 - 2009
+- High School, [Wilhelmsgymnasium München](<https://en.wikipedia.org/wiki/Wilhelmsgymnasium_(Munich)>), 2000 - 2009
 - Elementary School, [Klenzeschule 48 München](https://www.klenzeschule.de/), 1996 - 2000
 
 ---

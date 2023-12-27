@@ -11,11 +11,11 @@ See below for ratings of movies I watch.
 
 - [Alex Boncayao Brigade](https://www.imdb.com/title/tt0384800/)
 - [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
-- [Babylon 5](https://m.imdb.com/title/tt0105946/)
+- [Babylon 5](https://www.imdb.com/title/tt0105946/)
 - [Bad Lieutenant: Port of Call New Orleans](https://www.imdb.com/title/tt1095217/)
 - [Baraka](https://www.imdb.com/title/tt0103767/)
 - [Blind Fury](https://www.imdb.com/title/tt0096945/)
-- [Bloodsport](https://m.imdb.com/title/tt0092675/)
+- [Bloodsport](https://www.imdb.com/title/tt0092675/)
 - [Boyz n the Hood](https://www.imdb.com/title/tt0101507/)
 - [Burglar](https://www.imdb.com/title/tt0092710/)
 - [Conan the Barbarian](https://www.imdb.com/title/tt0082198/)
@@ -24,28 +24,28 @@ See below for ratings of movies I watch.
 - [Deathwatch](https://www.imdb.com/title/tt0286306/)
 - [Eastern Promises](https://www.imdb.com/title/tt0765443/)
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
-- [Glorious](https://m.imdb.com/title/tt12724306/)
+- [Glorious](https://www.imdb.com/title/tt12724306/)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
 - [Inauguration of the Pleasure Dome](https://www.imdb.com/title/tt0047114/)
 - [Infinity Pool](https://www.imdb.com/title/tt10365998/)
-- [Interstellar](https://m.imdb.com/title/tt0816692/)
+- [Interstellar](https://www.imdb.com/title/tt0816692/)
 - [Into Eternity](https://www.imdb.com/title/tt1194612/)
 - [Invocation of My Demon Brother](https://www.imdb.com/title/tt0064493/)
 - [It follows](https://www.imdb.com/title/tt3235888/)
 - [Jon Benjamin Has a Van](https://www.imdb.com/title/tt1717343/)
-- [La vida loca](https://m.imdb.com/title/tt1305890/)
+- [La vida loca](https://www.imdb.com/title/tt1305890/)
 - [Legend](https://www.imdb.com/title/tt0089469/)
 - [Liquid Sky](https://www.imdb.com/title/tt0085852/)
 - [Logan's Run](https://www.imdb.com/title/tt0074812/)
-- [Love Exposure](https://m.imdb.com/title/tt1128075/)
+- [Love Exposure](https://www.imdb.com/title/tt1128075/)
 - [Lucifer Rising](https://www.imdb.com/title/tt0066019/)
 - [Mad Detective](https://www.imdb.com/title/tt0969269/)
 - [Mad Heidi](https://www.imdb.com/title/tt2943178/)
 - [Mad Monkey Kung Fu](https://www.imdb.com/title/tt0079147)
 - [Man with a movie camera](https://www.imdb.com/title/tt0019760/)
 - [Maniac (Series)](https://www.imdb.com/title/tt5580146/)
-- [Margin Call](https://m.imdb.com/title/tt1615147/)
+- [Margin Call](https://www.imdb.com/title/tt1615147/)
 - [My Dinner with Andre](https://imdb.com/title/tt0082783/)
 - [Nausicaä of the Valley of the Wind](https://www.imdb.com/title/tt0087544/)
 - [O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/)
@@ -53,13 +53,13 @@ See below for ratings of movies I watch.
 - [Renfield](https://www.imdb.com/title/tt11358390/)
 - [Road to perdition](https://www.imdb.com/title/tt0257044)
 - [Shiri](https://www.imdb.com/title/tt0192657/)
-- [Sid and Nancy](https://m.imdb.com/title/tt0091954/)
+- [Sid and Nancy](https://www.imdb.com/title/tt0091954/)
 - [Six-String Samurai](https://www.imdb.com/title/tt0118736)
-- [Soldier (1998)](https://m.imdb.com/title/tt0120157/)
+- [Soldier (1998)](https://www.imdb.com/title/tt0120157/)
 - [Streetwise](https://www.imdb.com/title/tt0088196)
 - [Super Mario Bros.](https://www.imdb.com/title/tt0108255/)
 - [Suspiria](https://www.imdb.com/title/tt0076786)
-- [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://m.imdb.com/title/tt0086856/)
+- [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://www.imdb.com/title/tt0086856/)
 - [The King Is Alive](https://www.imdb.com/title/tt0208911)
 - [The Man Who Skied Down Everest](https://www.imdb.com/title/tt0073340/)
 - [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/)
@@ -80,7 +80,7 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
-- [The Five Devils](https://m.imdb.com/title/tt13391708) 4/5
+- [The Five Devils](https://www.imdb.com/title/tt13391708) 4/5
 - [Renfield](https://www.imdb.com/title/tt11358390/) 3/5
 - [Face/Off](https://www.imdb.com/title/tt0119094/) 2/5
 - [Past Lives](https://www.imdb.com/title/tt13238346/) 4/5
@@ -91,7 +91,7 @@ Rating:
 - [Indiana Jones and the Dial of Destiny](https://www.imdb.com/title/tt1462764/) 3/5
 - [Ready or Not](https://www.imdb.com/title/tt7798634/) 2/5
 - [Rosemary's Baby](https://www.imdb.com/title/tt0063522/) 4/5
-- [Croupier](https://m.imdb.com/title/tt0159382/) 3/5
+- [Croupier](https://www.imdb.com/title/tt0159382/) 3/5
 - [Intersect](https://www.imdb.com/title/tt4205718/) 1/5
 - [The Bear](https://www.imdb.com/title/tt14452776/) 4/5
 - [The House](https://www.imdb.com/title/tt11703050/) 3/5
@@ -113,7 +113,7 @@ Rating:
 - [Barbarian](https://www.imdb.com/title/tt15791034/) 5/5
 - [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) 3/5
 - [White Noise](https://www.imdb.com/title/tt6160448/) 4/5
-- [The Last Duel](https://m.imdb.com/title/tt4244994/) 3/5
+- [The Last Duel](https://www.imdb.com/title/tt4244994/) 3/5
 - [War of the Worlds TV-Series](https://www.imdb.com/title/tt9686194/) 2/5
 - [Primal](https://www.imdb.com/title/tt10332508/) 5/5
 - [Dolemite Is My Name](https://www.imdb.com/title/tt8526872/) 4/5

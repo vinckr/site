@@ -60,8 +60,8 @@ Take with a grain of salt 😉
 - [Mimmo e co](https://www.mimmoeco.de/)
 - [Solo pizza](https://www.solopizza.de/)
 - [Forza Napoli](https://forzanapoli.de/)
-- Pinsa: [Morelli](https://morelli-la-pinsapizzeria.business.site/)
-- [Nine O Five](https://www.nineofive.de/muenchen-herzogenstrasse/)
+- Pinsa: [Morelli](https://www.instagram.com/morelli_lapinsapizzeria/)
+- [Nine O Five](http://nineofive-munich.de/)
 
 ### Pasta
 
@@ -76,7 +76,7 @@ Take with a grain of salt 😉
 
 - [Sushiya sansaro](https://www.sushiya.de/)
 - Yuki Hana (Stollbergstraße 6, 80539)
-- [Suziki](https://www.feinkost-ysuzuki.com/)
+- [Suziki](https://www.instagram.com/suzuki_nomnomkitchen/)
 
 ### Vegan
 

@@ -34,7 +34,6 @@ See below for ratings of some books I have read.
 - [The Tea Party in the Woods](https://www.goodreads.com/book/show/25583502-the-tea-party-in-the-woods)
 - [Legal Systems Very Different from Ours](https://www.goodreads.com/book/show/30066446-legal-systems-very-different-from-ours)
 - [Making History: The Storytellers Who Shaped the Past](https://www.goodreads.com/book/show/58462626-making-history)
-- [Confessions of an Economic Hit Man](https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man)
 - [The Memoirs of Casanova](https://www.goodreads.com/book/show/20504101-the-memoirs-of-casanova)
 - [Nonzero: The Logic of Human Destiny](https://www.goodreads.com/book/show/9526993-nonzero)
 - [Die molussische Katakombe](https://www.goodreads.com/book/show/4529828-die-molussische-katakombe)
@@ -68,15 +67,16 @@ I review and rate some books I read. Don't take it serious - it's highly subject
 
 - [Bury My Heart at Wounded Knee: An Indian History of the American West](https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee) 4/5
 - [Dune](https://www.goodreads.com/book/show/44767458-dune) 5/5
-- [Anything Terry Pratchet wrote](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
+- [Anything by Terry Pratchet](https://www.goodreads.com/author/show/1654.Terry_Pratchett) 5/5
 - [Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution](https://www.goodreads.com/book/show/18922214-cyberpunk) 4/5
 - [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
 - [Tortilla Flat](https://www.goodreads.com/book/show/163977.Tortilla_Flat) 5/5
-- [Blood Meridian, or the Evening Redness in the West](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)
+- [Blood Meridian, or the Evening Redness in the West](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
 - [Things Have Gotten Worse Since We Last Spoke](https://www.goodreads.com/book/show/57876868-things-have-gotten-worse-since-we-last-spoke) 3/5
 - [Hollow](https://www.goodreads.com/book/show/56212878-hollow) 5/5
+- [Confessions of an Economic Hit Man](https://www.goodreads.com/en/book/show/2159) 2/5
 - [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) 4/5
-- [Der Bau/The Burrow](<https://de.m.wikisource.org/wiki/Der_Bau_(Kafka)>) 4/5
+- [Der Bau/The Burrow](https://www.goodreads.com/book/show/12003883-der-bau) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) 5/5
 
 ### Rating

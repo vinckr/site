@@ -18,26 +18,28 @@ Vale contains two main components:
 
 Check [the documentation](https://docs.errata.ai) for more detailed information on all features. In the following I will give a short step-by-step guide that will be enough for basic usage.
 
-[Installation on MacOs](https://vale.sh/docs/vale/install) is straightforward: `brew install vale`
+[Installation on MacOs](https://vale.sh/docs/) (when using brew): `brew install vale`. Check if Vale has been installed: `vale -h`.
 
-Check if Vale installed: `vale -h`. Create a `.vale.ini` configuration file in your root folder. You can also add it to a folder or project:
+Create a `.vale.ini` configuration file in your root folder. You can also add it to a folder or project:
 
 ```ini
-# This tells Vale where to look for styles, duh
 StylesPath = vale/styles
-# This tells Vale which Vocab dictionary to use
-# I only have one, but you can have multiple
+# This tells Vale where to look for styles
+
 Vocab = Blog
-# This tells Vale to check all markdown files
-# based on the styles in StylesPath/vinckr
+# This tells Vale which Vocab dictionary to use, i only have one, but you can have multiple
+
 [*.md]
 BasedOnStyles = vinckr
-# I don't want Vale to check spelling
+# This tells Vale to check all markdown files
+# based on the styles in StylesPath/vinckr
+
 Vale.Spelling = NO
+# I don't want Vale to check spelling
 ```
 
 Create a folder for your styles `mkdir -p vale/styles`.  
-Put the styles in this folder. I started with the [boilerplate styles](https://github.com/errata-ai/vale-boilerplate/tree/master/styles) and modified them, but you can use whatever styles suit you.
+Put the styles in this folder. I started with the [boilerplate styles](https://github.com/errata-ai/vale-boilerplate/tree/master/styles) and removed a lot of them. Use whatever styles suit you, I recommend to start with a few and add more over time as you develop your unique style.
 
 You can now add custom vocabulary if needed. Inside `styles` you can find the Vocab folder containing `acccept.txt` and `reject.txt`; if not create them. I don't use Vale to check spelling at the moment.
 
@@ -47,11 +49,11 @@ You can also embed Vale in your CI like GitHub actions, IDE, text editor, or oth
 
 ---
 
-Let me know if you have any questions about this guide or if something is unclear or wrong!
+> Let me know if you have any questions about this guide or if something is unclear or wrong!
 
 ---
 
-If you know a way to exclude all the markdown links from the Vale check let me know. The problem is that it's checking all the links texts, which I often dont control. Right now my best solution is to remove them and then do the Vale check. Let me know if there is a better way!
+If you know a way to exclude markdown links from the Vale check let me know. My problem is that it's checking all the links texts, which I often dont control or want to edit. Right now my "solution" is to remove them and then do the style check. Let me know if you know a better way!
 
 - [Vale documentation](https://vale.sh/docs/)
 - [Vale in Gitlab Documentation testing](https://docs.gitlab.com/ee/development/documentation/testing.html#vale)

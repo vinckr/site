@@ -1,7 +1,7 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "\\/github\\/workspace\\/"
+      "pattern": "content/(.+)"
     },
     {
       "pattern": "exrx.net"

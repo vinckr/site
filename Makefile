@@ -24,7 +24,7 @@ links-sort: # sort links and delete duplicates
 encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	echo "Encrypting drafts"
 	zip -r drafts/drafts.zip _drafts/*
-	echo "${ENCRYPTION_KEY}"
+	echo "Encryption Key:${ENCRYPTION_KEY}"
 	.bin/encrypt-dir encrypt --key=${ENCRYPTION_KEY} drafts
 	git add .
 	git commit -m "chore: drafts"

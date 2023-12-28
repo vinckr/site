@@ -25,6 +25,13 @@ title: blog
 - [05-2022](05-22)
 - [04-2022](04-22)
 
+## articles
+
+- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
+- [how to encrypt files in a git repository easy mode](encrypt-dir)
+- [how to live life](how-to-live-life)
+- [5 tracks](5tracks)
+
 ## pages
 
 - [🎞 movies](movies)
@@ -32,13 +39,6 @@ title: blog
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
 - [🥨 munich food tips](munich-tips)
-
-## articles
-
-- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
-- [how to encrypt files in a git repository easy mode](encrypt-dir)
-- [how to live life](how-to-live-life)
-- [5 tracks](5tracks)
 
 #### work in progress
 

@@ -9,6 +9,12 @@ title: Books
 This evergrowing list helps me keep track of worthwhile texts to read.
 See below for ratings of some books I have read.
 
+- [Hedy's Folly: The Life and Breakthrough Inventions of Hedy Lamarr, the Most Beautiful Woman in the World](https://www.goodreads.com/book/show/11564538-hedy-s-folly)
+- [The Spy Who Came In from the Cold](https://www.goodreads.com/book/show/19494.The_Spy_Who_Came_In_from_the_Cold)
+- [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism)
+- [Technofeudalism: What Killed Capitalism](https://www.goodreads.com/book/show/75560036-technofeudalism)
+- [Tao Te Ching - Le Guin translation](https://www.goodreads.com/de/book/show/6739952-lao-tzu)
+- [Daemon](https://www.goodreads.com/en/book/show/6665847)
 - [Stay Awhile and Listen: Book II - Heaven, Hell, and Secret Cow Levels](https://www.goodreads.com/en/book/show/52651926)
 - [Who Fears Death (Who Fears Death, #1)](https://www.goodreads.com/en/book/show/7767021)
 - [Annihilation (Southern Reach #1)](https://www.goodreads.com/book/show/17934530-annihilation)

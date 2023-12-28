@@ -271,6 +271,8 @@ Official courses and other general learning resources.
 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 - [0xf.at hackits](https://www.0xf.at/)
 - [Developer Content Creators database](https://github.com/CrowdDotDev/devcontentcreators)
+- [codapi: Code Playgrounds](https://codapi.org/)
+- [mess with dns](https://messwithdns.net/)
 
 #### Code Examples
 
@@ -300,7 +302,8 @@ Official courses and other general learning resources.
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- I like these fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
+- [B612](https://b612-font.com/)
+- I also like these fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
 ### Security
 
@@ -328,6 +331,7 @@ Official courses and other general learning resources.
 - [dedigger find public files in Google Drive](https://www.dedigger.com)
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 - [MITRE ATT&CK - knowledge base of adversary tactics and techniques](https://attack.mitre.org/)
+- [Firefox Monitor- Data Breaches](https://monitor.firefox.com/breaches)
 
 ## Build
 
@@ -378,6 +382,8 @@ These can be helpful when building an application, website, business, or somethi
 - [analog audio tape cassette nostalgia](http://www.tapedeck.org/)
 - [Flash Museum](https://flashmuseum.org/)
 - [Mathematical imagery](https://www.josleys.com/)
+- [Aurel Manea Photo archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
+- [The Glitch Gallery](https://glitchgallery.org/)
 
 ### Design
 
@@ -411,12 +417,14 @@ This section is a mixed collection of design tips, tools, and examples for inspi
 - [Eyecandy - Visual Technique Library](https://eycndy.com/)
 - [Retro software screenshots](http://www.typewritten.org/Media/)
 - [Symmetric Vision \ VFX](https://www.symmetric-vision.xyz/)
+- [United States Web Design System](https://designsystem.digital.gov/)
 
 #### Game Design
 
 - [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
 - [QuadSpinner Gaea - terrain design application](https://quadspinner.com/)
 - [Explore Video Game Levels](https://noclip.website/)
+- [The Cutting Room Floor - dedicated to cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
 
 ## Audio
 
@@ -455,6 +463,7 @@ Anything related to sound or music.
 - [Context Free Art](https://www.contextfreeart.org/index.html)
 - [Civitai | Every model in one place](https://civitai.com/)
 - [Riffusion](https://www.riffusion.com/about)
+- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/)
 
 ### Tools
 
@@ -480,6 +489,7 @@ Anything related to sound or music.
 - [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
 - [Webb's Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
+- [Database of Aesthetics](https://cari.institute/aesthetics)
 
 ## Fun
 
@@ -556,6 +566,7 @@ Anything related to sound or music.
 - [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
 - [Material Properties Database](https://www.makeitfrom.com/)
 - [NASA Software Catalog](https://software.nasa.gov/)
+- [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 
 ### Physical items
 

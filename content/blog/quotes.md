@@ -266,15 +266,64 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 ---
 
-## No attribution
+<figure>
+  <blockquote>
+    <p>The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a></figcaption>
+</figure>
 
 ---
 
 <figure>
   <blockquote>
+    <p>I don't know what I may seem to the world, but as to myself, I seem to have been only like a boy playing on the sea shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered around me.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>I don't know what I may seem to the world, but as to myself, I seem to have been only like a boy playing on the sea shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered around me.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Reality is that which is revealed to the patient eye of love.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Iris_Murdoch">Iris Murdoch</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>If moderation is a fault, then indifference is a crime.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Jack_Kerouac">Jack Kerouac</a></figcaption>
+</figure>
+
+---
+
+## No attribution
+
+<figure>
+  <blockquote>
     <p>If you want to succeed but cannot see the solution, think about how you might fail, then just don't do that.</p>
   </blockquote>
-</figure
+</figure>
+
 ---
 
 <figure>

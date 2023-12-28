@@ -9,10 +9,12 @@ title: Movies
 This evergrowing list helps keep track of movies or shows I want to watch.
 See below for ratings of movies I watch.
 
+- [Blazing Saddles](https://imdb.com/title/tt0071230/)
+- [Magical Universe](https://www.imdb.com/title/tt2266781/)
+- [Gattaca](https://imdb.com/title/tt0119177/)
 - [Alex Boncayao Brigade](https://www.imdb.com/title/tt0384800/)
 - [Ambulance (2005)](https://www.imdb.com/title/tt0400156/)
 - [Babylon 5](https://www.imdb.com/title/tt0105946/)
-- [Bad Lieutenant: Port of Call New Orleans](https://www.imdb.com/title/tt1095217/)
 - [Baraka](https://www.imdb.com/title/tt0103767/)
 - [Blind Fury](https://www.imdb.com/title/tt0096945/)
 - [Bloodsport](https://www.imdb.com/title/tt0092675/)
@@ -26,7 +28,6 @@ See below for ratings of movies I watch.
 - [Evilspeak](https://www.imdb.com/title/tt0082346/)
 - [Glorious](https://www.imdb.com/title/tt12724306/)
 - [Hollywoodland](https://www.imdb.com/title/tt0427969/)
-- [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/)
 - [Inauguration of the Pleasure Dome](https://www.imdb.com/title/tt0047114/)
 - [Infinity Pool](https://www.imdb.com/title/tt10365998/)
 - [Interstellar](https://www.imdb.com/title/tt0816692/)
@@ -44,7 +45,6 @@ See below for ratings of movies I watch.
 - [Mad Heidi](https://www.imdb.com/title/tt2943178/)
 - [Mad Monkey Kung Fu](https://www.imdb.com/title/tt0079147)
 - [Man with a movie camera](https://www.imdb.com/title/tt0019760/)
-- [Maniac (Series)](https://www.imdb.com/title/tt5580146/)
 - [Margin Call](https://www.imdb.com/title/tt1615147/)
 - [My Dinner with Andre](https://imdb.com/title/tt0082783/)
 - [Nausicaä of the Valley of the Wind](https://www.imdb.com/title/tt0087544/)
@@ -80,9 +80,16 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) 5/5
+- [Platoon](https://www.imdb.com/title/tt0091763/) 2/5
+- [One Piece (Anime)](https://www.imdb.com/title/tt0388629/) 4/5
+- [One Piece (Live Action)](https://www.imdb.com/title/tt11737520/) 3/5
+- [Maniac (Series)](https://www.imdb.com/title/tt5580146/) 3/5
+- [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/) 3/5
+- [Bad Lieutenant: Port of Call New Orleans](https://www.imdb.com/title/tt1095217/) 3/5
 - [The Five Devils](https://www.imdb.com/title/tt13391708) 4/5
 - [Renfield](https://www.imdb.com/title/tt11358390/) 3/5
-- [Face/Off](https://www.imdb.com/title/tt0119094/) 2/5
+- [Face/Off](https://www.imdb.com/title/tt0119094/) 3/5
 - [Past Lives](https://www.imdb.com/title/tt13238346/) 4/5
 - [Holy Spider](https://www.imdb.com/title/tt18550140/) 4/5
 - [Black Hawk Down](https://www.imdb.com/title/tt0265086/) 4/5

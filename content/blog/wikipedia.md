@@ -36,6 +36,7 @@ Use caution when reading, there is a danger of spending hours in ever-deepening 
 - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
 - [Need for cognition](https://en.wikipedia.org/wiki/Need_for_cognition)
 - [Nocturnal bottleneck](https://en.wikipedia.org/wiki/Nocturnal_bottleneck)
+- [Outsider art](https://en.m.wikipedia.org/wiki/Outsider_art)
 - [Pape Satàn, pape Satàn aleppe](https://en.wikipedia.org/wiki/Pape_Sat%C3%A0n,_pape_Sat%C3%A0n_aleppe)
 - [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 - [Preparedness paradox](https://en.wikipedia.org/wiki/Preparedness_paradox)

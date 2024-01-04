@@ -47,7 +47,7 @@ func TestHtmlToRst(url string) {
 	if title, ok := GetHtmlTitle(resp.Body); ok {
 		println("- [" + title + "](" + url + ")")
 	} else {
-		println("- [😭 Failed to get HTML title](" + url + ")")
+		println("- [Failed to get HTML title](" + url + ")")
 	}
 }
 

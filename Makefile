@@ -15,7 +15,7 @@ format: .bin/shfmt node_modules  # format the source code
 
 links: # generate markdown links from urls.txt
 	echo "Generating markdown links"
-	go run cmd/links/main.go &> urls-sorted-markdown.txt
+	go run cmd/links/main.go > urls-sorted-markdown.txt 2>&1
 
 links-sort: # sort links and delete duplicates
 	echo "Sorting markdown links"

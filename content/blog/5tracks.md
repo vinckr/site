@@ -22,3 +22,11 @@ It has been one of the things that motivated me to keep starting to blog again a
 - [Three-6 Mafia - Now I'm Hi Pt. 3](https://www.youtube.com/watch?v=zs9n_OYVj9k)
 - [Gangsta Boo & Crunchy Black - I Thought You Knew](https://www.youtube.com/watch?v=rRC8hxytWIs)
 - [DJ Paul - Sweet Robbery](https://www.youtube.com/watch?v=ttf9Kd_MbhQ)
+
+## 5 awesome songs that Daft Punk sampled extensively on the Discovery album
+
+- [Edwin Birdsong - Cola Bottle Baby](https://www.youtube.com/watch?v=Z3AKrwna2C8)
+- [George Duke - I Love You More](https://www.youtube.com/watch?v=IEibygqqLZc)
+- [Cerrone - Supernature](https://www.youtube.com/watch?v=cJ5V3OZdIZM)
+- [Tata Vega - Get It Up For Love](https://www.youtube.com/watch?v=04cL_P36Sno)
+- [Chaka Khan - Fate](https://www.youtube.com/watch?v=wf8Wo-Ce4qY)

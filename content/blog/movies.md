@@ -9,6 +9,31 @@ title: Movies
 This evergrowing list helps keep track of movies or shows I want to watch.
 See below for ratings of movies I watch.
 
+- [Entergalactic](https://www.imdb.com/title/tt10687116/)
+- [Pokémon: Detective Pikachu](https://www.imdb.com/title/tt5884052/)
+- [Boat Story](https://www.imdb.com/title/tt23729238/)
+- [Guillermo del Toro's Pinocchio](https://www.imdb.com/title/tt1488589/)
+- [Seven Samurai](https://www.imdb.com/title/tt0047478/)
+- [Auch Zwerge haben klein angefangen](https://www.imdb.com/title/tt0065436/)
+- [Land des Schweigens und der Dunkelheit](https://www.imdb.com/title/tt0067324/)
+- [Stranger Than Paradise](https://www.imdb.com/title/tt0088184/)
+- [Encounters at the End of the World](https://www.imdb.com/title/tt1093824/)
+- [As bestas](https://www.imdb.com/title/tt15006566/)
+- [On Death Row](https://www.imdb.com/title/tt1843894/)
+- [200 Motels](https://www.imdb.com/title/tt0066732/)
+- [Duel](https://www.imdb.com/title/tt0067023/)
+- [Blue Sunshine](https://www.imdb.com/title/tt0074226/)
+- [The Emerald Forest](https://www.imdb.com/title/tt0089087/)
+- [The Serpent and the Rainbow](https://www.imdb.com/title/tt0096071/)
+- [Following](https://www.imdb.com/title/tt0154506/)
+- [Shrooms](https://www.imdb.com/title/tt0492486/)
+- [Talk to Me](https://www.imdb.com/title/tt10638522/)
+- [Blueberry](https://www.imdb.com/title/tt14293072/)
+- [Horns](https://www.imdb.com/title/tt1528071)
+- [Seven Psychopaths](https://www.imdb.com/title/tt1931533/)
+- [The Possession of Michael King](https://www.imdb.com/title/tt2282016/)
+- [El abrazo de la serpiente](https://www.imdb.com/title/tt4285496/)
+- [Good Time](https://www.imdb.com/title/tt4846232)
 - [Blazing Saddles](https://imdb.com/title/tt0071230/)
 - [Magical Universe](https://www.imdb.com/title/tt2266781/)
 - [Gattaca](https://imdb.com/title/tt0119177/)
@@ -80,6 +105,12 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Pumping Iron](https://www.imdb.com/title/tt0076578/) 3/5
+- [Enter the Void](https://www.imdb.com/title/tt1191111/) 5/5
+- [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/) 4/5
+- [Blue Eye Samurai](https://www.imdb.com/title/tt13309742/) 4/5
+- [Climax](https://www.imdb.com/title/tt8359848/) 3/5
+- [Mind Game](https://www.imdb.com/title/tt0452039/) 5/5
 - [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) 5/5
 - [Platoon](https://www.imdb.com/title/tt0091763/) 2/5
 - [One Piece (Anime)](https://www.imdb.com/title/tt0388629/) 4/5

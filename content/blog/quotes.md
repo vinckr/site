@@ -52,6 +52,15 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 <figure>
   <blockquote>
+    <p>The truth about the world is that anything is possible. Had you not seen it all from birth and thereby bled it of its strangeness it would appear to you for what it is, a hat trick in a medicine show, a fevered dream, a trance bepopulate with chimeras having neither analogue nor precedent, an itinerant carnival, a migratory tentshow whose ultimate destination after many a pitch in a many a mudded field is unspeakable and calamitous beyond reckoning.</p>
+  </blockquote>
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Cormac_McCarthy">Cormac McCarthy</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
     <p>Scientific knowledge is a body of statements of varying degrees of certainty - some most unsure, some nearly sure, none absolutely certain.</p>
   </blockquote>
   <figcaption>- <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a></figcaption>
@@ -70,7 +79,7 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 <figure>
   <blockquote>
-    <p>The truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.</p>
+    <p>As a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.</p>
   </blockquote>
   <figcaption>- <a href="https://en.wikipedia.org/wiki/Ursula_K._Le_Guin">Ursula K. Le Guin</a></figcaption>
 </figure>
@@ -91,6 +100,16 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
     <p>Life has many doors Ed-boy</p>
   </blockquote>
   <figcaption>- <a href="https://ed.fandom.com/wiki/Rolf">Rolf</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Since the time of his youth, Crazy Horse had known that the world men lived in was only a shadow of the real world. To get into the real world, he had to dream, and when he was in the real world everything seemed to float or dance. In this real word his horse danced as if it were wild or crazy, and this was why he called himself Crazy Horse. He had learned that I he dreamed himself into the real world before going into a fight, he could endure anything.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Black_Elk">Black Elk</a></figcaption>
 </figure>
 
 ---
@@ -308,6 +327,16 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 <figure>
   <blockquote>
+    <p>It's easier to ask for forgiveness than permission.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
     <p>If moderation is a fault, then indifference is a crime.</p>
   </blockquote>
 
@@ -315,6 +344,74 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 </figure>
 
 ---
+
+<figure>
+  <blockquote>
+    <p>In the medieval tradition, Beksinski seems to believe art to be a forewarning about the fragility of the flesh– whatever pleasures we know are doomed to perish– thus, his paintings manage to evoke at once the process of decay and the ongoing struggle for life. They hold within them a secret poetry, stained with blood and rust.</p>
+  </blockquote>
+
+  <figcaption>- <a href="hhttps://en.wikipedia.org/wiki/Guillermo_del_Toro">Guillermo del Toro</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>Benefit comes from what is there; Usefulness from what is not there.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Laozi">Laozi</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>A good lesson for anyone who wants to shift power structures: The ones who do the shifting often are not the ones who get the power.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://news.ycombinator.com/user?id=wolverine876">wolverine876</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>When a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Samuel_Johnson">Samuel Johnson</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>You'd shoot a man in the back?" "Well, it's the safest way, isn't it?"</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Elim_Garak">Elim Garak</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://en.wikipedia.org/wiki/Teller_(magician)">Teller</a></figcaption>
+</figure>
+
+---
+
+<figure>
+  <blockquote>
+    <p>The difference between a journeyman and a master is the journeyman is saying "it's never done that" whilst the master is already running.</p>
+  </blockquote>
+
+  <figcaption>- <a href="https://news.ycombinator.com/user?id=bombcar">bombcar</a></figcaption>
+</figure>
 
 ## No attribution
 
@@ -329,14 +426,6 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 <figure>
   <blockquote>
     <p>Everything just gets worse as you age. Sure, my dad said it too back then, but he just didn't get how the world moved on and improved. This time around though it's real, everything gets more stupid and dumb and I hate it.</p>
-  </blockquote>
-</figure>
-
----
-
-<figure>
-  <blockquote>
-    <p>You'd shoot a man in the back?" "Well, it's the safest way, isn't it?"</p>
   </blockquote>
 </figure>
 
@@ -360,14 +449,6 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 <figure>
   <blockquote>
-    <p>The difference between a journeyman and a master is the journeyman is saying "it's never done that" whilst the master is already running.</p>
-  </blockquote>
-</figure>
-
----
-
-<figure>
-  <blockquote>
     <p>Don't do anything in extremes, including not doing anything in extremes.</p>
   </blockquote>
 </figure>
@@ -377,22 +458,6 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 <figure>
   <blockquote>
     <p>There are bold X, and old X, but no old, bold X. Replace X with any practitioners subject to sufficient risk as a result of their practice.</p>
-  </blockquote>
-</figure>
-
----
-
-<figure>
-  <blockquote>
-    <p>It's easier to ask for forgiveness than permission.</p>
-  </blockquote>
-</figure>
-
----
-
-<figure>
-  <blockquote>
-    <p>You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.</p>
   </blockquote>
 </figure>
 
@@ -464,6 +529,6 @@ I don't fully endorse, believe in, or live by these quotes. I think they are wor
 
 <figure>
   <blockquote>
-    <p>When a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.</p>
+    <p>That's the thing about opinions. They're like tattoos - some of them you'll keep for life but most of them you don't want after awhile.</p>
   </blockquote>
 </figure>

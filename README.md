@@ -4,20 +4,22 @@ This is my personal website, there are many like it but this one is mine.
 
 It is built using [11ty](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/).
 
+Feel free to open an issue or write me if you see something that looks odd or anything else you think is uh not great!
+
 ## Development
 
-Run the development server locally:
+Show all available commands:
+
+```bash
+make help
+```
+
+Run the dev server:
 
 ```bash
 make dev
 # or
 npm run start
-```
-
-Run to show all available commands:
-
-```bash
-make help
 ```
 
 ## Commit messages
@@ -39,3 +41,39 @@ not part of conventional commits and specific to this site:
 `article`: new article
 
 `edit`: any edits to existing artices, weblogs, lists or other text
+
+## TODO
+
+In order of importance?! plans change a lot here so don't count on me doing this actually.
+
+### next
+
+- [ ] redesign landing page
+- [ ] change lists/pages format to json, build dedicated `list` template
+  - [ ] wikipedia
+  - [ ] movies
+  - [ ] books
+  - [ ] add random movie/book button!
+- [ ] weblog
+  - [ ] automate format imdb links and add to movie json (also for reviews)
+  - [ ] automate format goodreads links and add to books json (also for reviews)
+  - [ ] automate format wiki links and add to wiki json
+  - [ ] move future weblogs to a json
+  - [ ] move past weblogs to a json
+  - [ ] automate the rest ???
+- [ ] markdown text anchor links
+- [ ] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
+- [ ] add cool 90s cursor effects
+  - [ ] add tons of other effects ideally without impacting performance
+- [ ] order everything in /links in Audio and below
+  - [ ] move /links to a json as well
+  - [ ] restructure /links to be less insane
+
+## TODO nice to have
+
+- [ ] move to my own static site builder again? or dynamic?
+- [ ] markdown footnotes
+- [ ] Check text with vale rules
+- [ ] add better/more vale rules
+- [x] Check if links are alive: https://github.com/tcort/markdown-link-check -> next check in March?
+  - [ ]: automate as cron job: - [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)

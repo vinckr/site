@@ -1,14 +1,26 @@
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("styles"); // copy CSS styles to _site/styles folder
-  eleventyConfig.addPassthroughCopy("img"); // copy images to _site/img folder
-  eleventyConfig.addPassthroughCopy("js"); // copy javascript files to _site/js folder
-  eleventyConfig.addPassthroughCopy({
-    public: ".",
-  }); // copy all files in public folder to _site folder
+const mila = require("markdown-it-link-attributes");
 
+module.exports = function (eleventyConfig) {
+  // Passthrough copies for styles, images, and javascript
+  eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy({ public: "." });
+
+  // Markdown configuration with mila
+  const milaOptions = {
+    attrs: {
+      target: "_blank",
+      rel: "noopener",
+    },
+  };
+
+  eleventyConfig.setLibrary("md", (mdLib) => mdLib.use(mila, milaOptions));
+
+  // Eleventy directory settings
   return {
     dir: {
-      input: "content", // only process markdown files in content folder
+      input: "content", // process markdown files in content
       output: "_site",
       includes: "_includes",
     },

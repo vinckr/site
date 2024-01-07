@@ -8,25 +8,28 @@ A collection of links to various websites, resources and even more link collecti
 
 ## Read
 
-Start reading and never stop.
+Start to read and never stop.
 
 ### Public Domain
 
-Public domain books and online libraries
+Public domain books and online libraries.
 
+- [List of free ebooks](https://standardebooks.org/)
 - [Project Gutenberg](https://gutenberg.org/)
-- [Free and liberated ebooks](https://standardebooks.org/)
-- [Global Grey](https://www.globalgreyebooks.com/)
-- [The Anarchist Library](https://theanarchistlibrary.org/)
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
-- [The Vintage Technology Digital Archive](http://vtda.org/)
+- [The Vintage Technology Digital Archive](https://vtda.org/)
 - [Digital Public Library of America](https://dp.la/)
 - [Digital Collection of the German State Library](https://digital.staatsbibliothek-berlin.de/)
+- [Global Grey](https://www.globalgreyebooks.com/)
+- [The Anarchist Library](https://theanarchistlibrary.org/)
 
-### Internet
+### Mixed Publications
 
-Mostly blogs, forums, and other internet-centric publications
+- [My personal list of notable Wikipedia Articles](../blog/wikipedia)
 
+Mostly blogs, forums, and other internet-centric publications or articles.
+
+- [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
 - [Awesome Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
@@ -34,7 +37,7 @@ Mostly blogs, forums, and other internet-centric publications
 - [Do Not Research](https://donotresearch.net/)
 - [Usenet Archive](https://yarchive.net/)
 - [UbuWeb](https://www.ubu.com)
-- [Agora Road's Macintosh Cafe - A Nostalgic Y2K Forum Community](https://forum.agoraroad.com/index.php)
+- [Agora Road's Macintosh Cafe](https://forum.agoraroad.com/index.php)
 - [gwern](https://gwern.net/)
 - [List of things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [Awesome Tech Blogs](https://tech-blogs.dev/)
@@ -43,9 +46,6 @@ Mostly blogs, forums, and other internet-centric publications
 - [BYTE MAGAZINE: Early computer publication](https://worldradiohistory.com/Byte_Magazine.htm)
 - [highlights | Hacker News](https://news.ycombinator.com/highlights)
 - [Cory Doctorow Blog](https://pluralistic.net/)
-
-### Mixed Publications
-
 - [The Baffler](https://thebaffler.com/)
 - [The Codeless Code](http://thecodelesscode.com/)
 - [TechinAsia](https://www.techinasia.com/)
@@ -63,31 +63,27 @@ Mostly blogs, forums, and other internet-centric publications
 - [The Hedgehog Review](https://hedgehogreview.com/)
 - [naked capitalism](https://www.nakedcapitalism.com/)
 - [Nautilus](https://nautil.us/)
+- [Greek Legends and Myths](https://www.greeklegendsandmyths.com/)
 
-### Science Fiction
+#### Science Fiction
 
-- [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/)
-- [AEscifi - Free science fiction from the frozen north](https://aescifi.ca/)
-- [Teleport Magazine](https://www.teleportmagazine.com/)
-
-### Wiki Articles
-
-- [List of notable Wikipedia Articles](../blog/wikipedia)
+- [Clarkesworld](https://clarkesworldmagazine.com/)
+- [AEscifi](https://aescifi.ca/)
+- [Teleport](https://www.teleportmagazine.com/)
 
 ## Write
 
-- [Hemmingway Editor](https://hemingwayapp.com/)
-- [Lose the Very](https://www.losethevery.com/)
-- [Cliche Finder](http://cliche.theinfo.org/)
-- [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
-- [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
-- [Word to Markdown Converter](https://word2md.com/)
-- [Tips and Tricks for effective internet research of papers/books](https://www.gwern.net/Search)
-- [Careful Words - a little bit more than a thesaurus](https://carefulwords.com/)
-- [Text transcripts of Obama speeches](http://obamaspeeches.com/)
-- [8-sequence structure of screenplays](http://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
-- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-- [Australian Government Style Manual](https://www.stylemanual.gov.au/)
+- [Tool to edit text to be clear](https://hemingwayapp.com/)
+- [Tool to find alternatives for very](https://www.losethevery.com/)
+- [Tool to find cliches in your text](http://cliche.theinfo.org/)
+- [Tool to convert spreadsheets to markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+- [Tool to convert word documents to markdown](https://word2md.com/)
+- [Tool to find word alternatives](https://carefulwords.com/)
+- [List of tips for effective internet research](https://www.gwern.net/Search)
+- [List of common writing mistakes](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+- [List of transcripts of Obama speeches](https://obamaspeeches.com/)
+- [Guide to the 8-sequence structure of screenplays](https://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
+- [Guide to writing by the Australian government](https://www.stylemanual.gov.au/)
 
 ## Software
 
@@ -95,336 +91,356 @@ Resources for software, web development and other topics related to making the m
 
 ### Cheat Sheets
 
-My personal cheat sheets
+- [HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [Guide to CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
+- [Guide to the command line](https://github.com/jlevy/the-art-of-command-line)
+- [List of alt codes, ascii codes, unicode characters](https://www.codetable.net/)
+- [List of lists for all CS topics](https://github.com/sindresorhus/awesome)
+- [List of HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
+- [List of common CLI commands](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
-- [git Cheats](blog/git)
-- [macos Cheats](blog/macos)
-- [misc Cheats](blog/misc)
+Personal cheat sheets
 
-Other helpful cheat sheets
-
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-- [List of lists for all CS topics.](https://github.com/sindresorhus/awesome)
-- [How to do anything on the CLI](https://github.com/you-dont-need/You-Dont-Need-GUI)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-- [Collaborative cheat sheets for console commands](https://github.com/tldr-pages/tldr)
-- [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
-- [Code table - alt codes, ascii codes, unicode characters, etc.](https://www.codetable.net/)
-- [Deep dive in CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
-- [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+- [My list of common git commands](blog/git)
+- [My guide to set up MacOs](blog/macos)
+- [My list of random commands](blog/misc)
 
 ### Tools
 
-- [Dan's Tools](https://www.danstools.com/)
-- [Datasette](https://lite.datasette.io/)
-- [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
-- [Debug Shell Scripts](https://explainshell.com/)
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [Explore SQLite data in the browser](https://lite.datasette.io/)
+- [Test, process and transform emails and HTTP requests](https://webhook.site/)
+- [Debug Shell Scripts](https://explainshell.com/)
 - [Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy](https://www.regexbuddy.com/)
-- [Autoregex - English to RegEx with NLP](https://www.autoregex.xyz/)
-- [Syncthing - sync anything](https://syncthing.net/)
-- [Static Site Generators - Top Open Source SSGs](https://jamstack.org/generators/)
-- [Browser support tables for support of front-end web](https://caniuse.com/)
-- [Open source, experimental, and tiny tools list](https://tinytools.directory/)
-- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
-- [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
-- [SQLite introduction](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-- [Windows 10 Ameliorated](https://ameliorated.info/)
-- [Codeberg.org](https://codeberg.org/)
-- [Wachete - Monitor web changes](https://www.wachete.com/)
+- [English to RegEx with NLP](https://www.autoregex.xyz/)
+- [Sync anything](https://syncthing.net/)
+- [Test CORS](https://httptoolkit.tech/will-it-cors/)
+- [Modify Windows 10](https://ameliorated.info/)
+- [Git hosting platform](https://codeberg.org/)
+- [Monitor web changes](https://www.wachete.com/)
 - [IP Geolocation API](https://ipdata.co/)
-- [Benchmark and rank of public APIs](https://apirank.dev/)
-- [Awesome Tunneling List](https://github.com/anderspitman/awesome-tunneling/)
-- [Names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
-- [PageSpeed Insights](https://pagespeed.web.dev/)
+- [Website speed test](https://pagespeed.web.dev/)
+- [Convert curl commands to code](https://curlconverter.com/)
+- [Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
+- [Extract data from any website](https://simplescraper.io/)
+- [Convert plain text to obscure characters from Unicode](https://qaz.wtf/u/convert.cgi)
 
 #### IP
 
-- [Just your IP, nothing else](https://justyourip.com/)
-- [icanhazip](https://icanhazip.com/)
+- [Tool to get your IP](https://justyourip.com/)
+- [Another tool to get your IP](https://icanhazip.com/)
+- [Tool to get IP, Network, and ASN data](https://ip.guide/)
+
+#### Lists of tools
+
+- [List of web performance test tools](https://www.swyx.io/webperf-tests)
+- [List of Static Site Generators](https://jamstack.org/generators/)
+- [List of public APIs](https://apirank.dev/)
+- [List of open source and tiny tools](https://tinytools.directory/)
+- [List of online tools for users and developers](https://www.danstools.com/)
+- [List of tunneling tools](https://github.com/anderspitman/awesome-tunneling/)
 
 #### Screenshots
 
-- [Screenstab](https://screenstab.com/)
-- [Screely](https://screely.com/)
+- [Tool to make screenshots look nice](https://screenstab.com/)
+- [Another tool to make screenshots look nice](https://screely.com/)
 
 #### File sharing
 
-- [put.re](https://put.re/)
-- [cubeupload - zero compression image sharing](https://cubeupload.com/)
 - [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
-- [STORAGE.SX | Privacy friendly file sharing](https://storage.sx/)
+- [Privacy friendly file sharing](https://storage.sx/)
+- [Good file sharing service](https://put.re/)
+
+#### Disposable Email
+
+- [Disposable email service](https://mailcare.io/)
+- [Disposable Temporary E-Mail Address](https://www.guerrillamail.com/)
 
 ### Frontend
 
 #### HTML
 
-- [HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-- [HTML Code Generators](https://www.htmlbasix.com/)
-- [Emoji Unicode Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
-- [A list of everything in the head of your HTML document](https://github.com/joshbuchea/HEAD)
-- [Useful HTML tricks](https://markodenic.com/html-tips/)
-- [Details on `<details>`](https://github.com/muan/details-on-details)
-- [Using `<details>` for Menus and Dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
-- [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
-- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
-- [writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices)
+- [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate)
+- [HTML Boilerplate with explanation](https://www.matuzo.at/blog/html-boilerplate/)
+- [Guide to using `<details>` for menus and dialogs](https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/)
+- [Guide to learn HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [Guide to sending a HTTP Request as a user leaves a page](https://css-tricks.com/send-an-http-request-on-page-exit/)
+
+##### Lists of HTML resources
+
+- [List of HTML and CSS techniques to reduce JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [List of HTML tricks](https://markodenic.com/html-tips/)
+- [List of tips for writing HTML documents](https://github.com/hail2u/html-best-practices)
+- [List of everything in the HTML head](https://github.com/joshbuchea/HEAD)
+- [List of information on browser support](https://caniuse.com/)
+- [List of Emoji Unicode](https://www.w3schools.com/charsets/ref_emoji.asp)
 
 #### CSS
 
-- [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
-- [58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-- [Some CSS generators](https://markodenic.com/css-generators/)
-- [Generate Soft-UI CSS code](https://neumorphism.io)
-- [Animations for eccentric developers](https://www.joerezendes.com/projects/Woah.css/)
-- [Flexbox vs. CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
-- [Flexbox Froggy - A game to learn Flexbox](https://flexboxfroggy.com/)
-- [Neat CSS tricks](https://markodenic.com/css-tips/)
-- [Grid by Example](https://gridbyexample.com/)
-- [CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
-- [NES.css](https://nostalgic-css.github.io/NES.css/)
-- [Axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
-- [CSS Bed](https://www.cssbed.com/)
+- [Tool to generate soft-UI CSS code](https://neumorphism.io)
+- [Guide to flexbox vs. CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
+- [Guide to axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
+- [Game to learn Flexbox](https://flexboxfroggy.com/)
+
+##### CSS Themes
+
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [Neat CSS](https://neat.joeldare.com/)
-- [blocks.css](https://thesephist.github.io/blocks.css/)
-- [Open Source Tailwind CSS Components](https://www.hyperui.dev/)
+- [blocks CSS](https://thesephist.github.io/blocks.css/)
+- [NES CSS](https://nostalgic-css.github.io/NES.css/)
+- [58 bytes CSS](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- [CSS theme based on Guidelines from Apple](https://github.com/codedgar/Puppertino)
+- [Tailwind CSS Components](https://www.hyperui.dev/)
+
+##### Lists of CSS Resources
+
+- [List of CSS generators](https://markodenic.com/css-generators/)
+- [List of modern web app design patterns](https://www.patterns.dev/)
+- [List of fun CSS animations](https://www.joerezendes.com/projects/Woah.css/)
+- [List of CSS tricks](https://markodenic.com/css-tips/)
+- [List of CSS grid examples](https://gridbyexample.com/)
+- [List of classless CSS themes](https://www.cssbed.com/)
 
 #### JS
 
-- [React](https://react.dev/)
-- [The Joy of React](https://www.joyofreact.com/)
-- [A complete visual guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
-- [A curated list with resources about node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- [React documentation](https://react.dev/)
+- [Guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
+- [List with resources on node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 
 ##### Typescript
 
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
-- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
-- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Guide to TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Another guide to TypeScript](https://basarat.gitbook.io/typescript/)
+- [Guide to TypeScript development](https://github.com/gibbok/typescript-book)
 
 ### Backend
 
-- [Database of Databases](https://dbdb.io/)
+#### Database
+
+- [Guide to SQLite](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [List of Databases](https://dbdb.io/)
 
 #### Go
 
-- [A Tour of Go](https://go.dev/tour/welcome/1)
-- [The Go Blog](https://go.dev/blog/)
-- [Go by Example](https://gobyexample.com/)
-- [Go for all](https://golangforall.com/)
-- [Go Web Examples](https://gowebexamples.com/)
-- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Guide to learn Go](https://go.dev/tour/welcome/1)
+- [Guide to building web apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+- [List of Go lessons](https://www.practical-go-lessons.com/)
+- [List of Go guides](https://www.golangprograms.com/)
+- [List of Go exampes](https://gobyexample.com/)
+- [List of tips for writing Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [List of Go web examples](https://gowebexamples.com/)
+- [List of Go Development Courses](https://tutorialedge.net/golang/)
+- [List of Go articles](https://go.dev/blog/)
 - [Go styleguide](https://google.github.io/styleguide/go/)
-- [Buffalo - web development in Go](https://gobuffalo.io/)
-- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-- [Practical Go Lessons](https://www.practical-go-lessons.com/)
-- [Golang Development Courses](https://tutorialedge.net/golang/)
-- [golangprograms.com](https://www.golangprograms.com/)
 
 #### Python
 
-- [CMU CS Academy](https://academy.cs.cmu.edu/)
-- [PyFlo - beginners guide to Python](https://pyflo.net/)
-- [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
-- [Python IDE for beginners](https://thonny.org/)
-- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
-- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [futurecoder: learn python from scratch](https://futurecoder.io/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Free computer science curicullum in Python](https://academy.cs.cmu.edu/)
+- [Guide to Python for beginners](https://pyflo.net/)
+- [Guide to learn Python from scratch](https://futurecoder.io/)
+- [Guide to web scraping with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [Guide to Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Guide to automation with Python](https://automatetheboringstuff.com/)
+- [List of Python learning resources](https://learnbyexample.github.io/py_resources/)
 
 ### Technical Documentation
 
-- [Simplified Technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English)
-- [Google Docs Style Highlights](https://developers.google.com/style/highlights)
-- [Writing Great Technical Documentation](https://jacobian.org/2009/nov/11/technical-style/)
-- [Docousaurus: React&Markdown for documentation](https://docusaurus.io/)
-- [Diátaxis](https://diataxis.fr/)
-- [Stop saying how simple things are in our docs](https://justsimply.dev/)
+- [Guide to simplified technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English)
+- [Guide to writing technical documentation](https://jacobian.org/2009/nov/11/technical-style/)
+- [Guide to the most common documentation style](https://diataxis.fr/)
+- [Guide on how to avoid saying how simple things are](https://justsimply.dev/)
+- [Tool to write documentation with React and Markdown](https://docusaurus.io/)
+- [List of the Google documentation styles](https://developers.google.com/style/highlights)
 
 ### Learn
 
-Official courses and other general learning resources.
+Official courses and other learning resources, mostly focused on working with computers with some exceptions.
 
-- [Web Applications 101](https://www.robinwieruch.de/web-applications/)
-- [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
-- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
-- [Study plan for software engineers](https://github.com/jwasham/coding-interview-university)
-- [Producing Open Source Software](https://producingoss.com/en/index.html)
-- [Product Design by Google](https://www.udacity.com/course/product-design--ud509)
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
-- [Creative Coding Resources](https://timrodenbroeker.de/resources/)
-- [List of GitHub Repositories full of Resources](https://github.com/pawelborkar/awesome-repos)
-- [Roadmap to becoming a Web Developer in $CURRENTYEAR](https://github.com/kamranahmedse/developer-roadmap)
-- [Self-taught education in Computer Science](https://github.com/ossu/computer-science)
-- [Open culture free online courses](https://www.openculture.com/freeonlinecourses)
-- [r/WatchPeopleCode/](https://www.reddit.com/r/WatchPeopleCode/)
-- [Product Design: Delft Design Approach](https://www.edx.org/course/product-design-the-delft-design-approach)
-- [Free online courses from MIT](https://www.edx.org/school/mitx)
-- [Front-end coding challenges](https://www.frontendmentor.io/)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [Computer Networking Introduction: Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
-- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
-- [Developer Roadmaps](https://roadmap.sh/)
-- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
-- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
-- [0xf.at hackits](https://www.0xf.at/)
-- [Developer Content Creators database](https://github.com/CrowdDotDev/devcontentcreators)
-- [codapi: Code Playgrounds](https://codapi.org/)
-- [mess with dns](https://messwithdns.net/)
+- [Guide to building web applications for beginners](https://www.robinwieruch.de/web-applications/)
+- [Guide to computing principles](https://web.stanford.edu/class/cs101/)
+- [Guide to computer network systems](https://book.systemsapproach.org/)
+- [Guide to producing open source software](https://producingoss.com/en/index.html)
+- [Guide to product design](https://www.udacity.com/course/product-design--ud509)
+- [Another guide to product design](https://www.edx.org/course/product-design-the-delft-design-approach)
+- [Guide to learning the commandline, text editors, git, and more](https://missing.csail.mit.edu/)
+- [Guide to computer networking](https://iximiuz.com/en/posts/computer-networking-101/)
+- [Guide to HTTP](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
+- [Guide to MySQL](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [Tool to experiment with DNS](https://messwithdns.net/)
+- [Community of people coding live](https://www.reddit.com/r/WatchPeopleCode/)
+
+#### Lists of learning resources
+
+- [List of free online courses on any topic](https://www.openculture.com/freeonlinecourses)
+- [List of free online courses from MIT](https://www.edx.org/school/mitx)
+- [List of study resources for software engineers](https://github.com/jwasham/coding-interview-university)
+- [List of GitHub repositories full of resources](https://github.com/pawelborkar/awesome-repos)
+- [List of learning resources for popular programming languages](https://github.com/kamranahmedse/developer-roadmap)
+- [List of computer science learning resources](https://github.com/ossu/computer-science)
+- [List of free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [List of creative coding resources](https://timrodenbroeker.de/resources/)
+- [List of front-end coding challenges](https://www.frontendmentor.io/)
+- [List of code playgrounds](https://codapi.org/)
+- [List of hackits challenges](https://www.0xf.at/)
+- [Wikipedia of free learning resources](https://en.wikiversity.org/)
 
 #### Code Examples
 
-- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
-- [OSS clones of popular sites](https://github.com/gorvgoyl/clone-wars)
-- [Modern Application Reference Architectures](https://github.com/nginxinc/kic-reference-architectures/)
-- [Website in CLI format](https://github.com/rootvc/cli-website)
-- [Castlevania-Roguelike](https://github.com/Andres6936/Castlevania-Roguelike)
-- [Site infrastructure for gwern.net (CSS/JS/HS/images/icons)](https://github.com/gwern/gwern.net)
-- [Temporary email service](https://mailcare.io/)
+- [List of clones of popular sites](https://github.com/gorvgoyl/clone-wars)
+- [List of modern application architectures](https://github.com/nginxinc/kic-reference-architectures/)
+- [List of Docker compose exampes](https://github.com/docker/awesome-compose)
+- [Example of website in CLI format](https://github.com/rootvc/cli-website)
 
 ### User Interface
 
-- [i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
-- [Playbook for universal design](https://universaldesignguide.com/)
+- [List of i18n methods](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
+- [List of inclusive design practices](https://universaldesignguide.com/)
+- [List of old graphical user interfaces](https://guidebookgallery.org/screenshots/win95)
 
 #### Icons
 
-- [Radix Icons](https://icons.radix-ui.com/)
-- [Feather Icons](https://feathericons.com/)
-- [Tabler Icons](https://github.com/tabler/tabler-icons)
+- [Radix](https://icons.radix-ui.com/)
+- [Feather](https://feathericons.com/)
+- [Tabler](https://github.com/tabler/tabler-icons)
 - [Iconhunt](https://www.iconhunt.site/)
 - [Heroicons](https://heroicons.com/)
 - [Iconbuddy](https://iconbuddy.app/)
 
 #### Fonts
 
-- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- [List of oldschool PC font](https://int10h.org/oldschool-pc-fonts/)
+- [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 - [B612](https://b612-font.com/)
-- I also like these fonts: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
+- I also like these: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
 ### Security
 
-- [OWASP - For almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
-- [Awesome Security](https://github.com/sbilly/awesome-security)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist). A pretty thorough checklist for personal security on the internet and in general.
-- [Surveillance Self-Defense](https://ssd.eff.org/). Tips, tools and how-tos for safer online communications.
-- [Awesome Infosec](https://hackmd.io/s/V1GLSF0R#related-awesome-lists)
-- [Explaining CSRF, CORS, and HTTP Security headers](https://blog.vnaik.com/posts/web-attacks.html)
-- [Canarytokens](https://canarytokens.org/)
-- [TruffleHog - Find leaked credentials](https://github.com/trufflesecurity/trufflehog)
-- [Is your browser fingerprint unique?](https://amiunique.org/)
-- [Most Common User Agent Strings](https://www.useragents.me/)
-- [SecurityTube.net](http://www.securitytube.net/)
-- [offsec.tools - A vast collection of security tools](https://offsec.tools/)
-- [Simple Sabotage Field Manual](https://www.hsdl.org/c/abstract/?docid=750070)
-- [Enigma: a simple cross-platform encrypted filesystem](https://github.com/aegistudio/enigma)
-- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)
-- [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec#awesome-infosec)
-- [Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
+#### Security Lists
+
+- [List of almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
+- [List of security resources](https://github.com/sbilly/awesome-security)
+- [List of personal security measures](https://github.com/Lissy93/personal-security-checklist)
+- [List of resources for protecting against surveillance](https://ssd.eff.org/)
+- [List of infosec resources](https://hackmd.io/s/V1GLSF0R#related-awesome-lists)
+- [List of common user agent strings](https://www.useragents.me/)
+- [List of security focused videos](https://www.securitytube.net/)
+- [List of security tools](https://offsec.tools/)
+- [Another list of infosec resources](https://github.com/onlurking/awesome-infosec#awesome-infosec)
+- [Tool to create canarytokens](https://canarytokens.org/)
+- [Tool to find leaked credentials](https://github.com/trufflesecurity/trufflehog)
+- [Tool to check if your browser fingerprint is unique](https://amiunique.org/)
+- [Guide to CSRF, CORS, and HTTP headers](https://blog.vnaik.com/posts/web-attacks.html)
+- [Guide on how to inflict sabotage through ordinary means](https://www.hsdl.org/c/abstract/?docid=750070)
+- [Guide on secure email delivery](https://resend.com/blog/email-authentication-a-developers-guide)
+- [Guide how to respond when hit by ransomware](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)
 
 #### OSINT
 
-- [awesome osint](https://github.com/jivoi/awesome-osint)
-- [dedigger find public files in Google Drive](https://www.dedigger.com)
-- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
-- [MITRE ATT&CK - knowledge base of adversary tactics and techniques](https://attack.mitre.org/)
-- [Firefox Monitor- Data Breaches](https://monitor.firefox.com/breaches)
+- [List of open source intelligence tools and resources](https://github.com/jivoi/awesome-osint)
+- [Another list of open source intelligence tools and resources](https://github.com/ARPSyndicate/awesome-intelligence)
+- [List of infosec search engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+- [List of adversary tactics and techniques](https://attack.mitre.org/)
+- [List of data breaches](https://monitor.firefox.com/breaches)
+- [Tool to find public files in Google Drive](https://www.dedigger.com)
+- [Tool to find a username on all socials](https://www.handlefinder.com/)
+- [Tool to find a username on even more socials](https://github.com/sherlock-project/sherlock)
 
 ## Build
 
-These can be helpful when building an application, website, business, or something else.
+Helpful when building an application, website, business, or something else related to software. Would be good if I break this up in more detailed categories...
 
-- [A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
-- [Name Checker - Find out if your project name is taken](https://namechecker.vercel.app/)
-- [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
-- [Compare prices of all top-level domains](https://tld-list.com/)
-- [Every Web Performance Test Tool](https://www.swyx.io/webperf-tests)
-- [Extensive guide for naming things](https://guide.onym.co/)
+- [List of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+- [Tool to find out if a project name is taken](https://namechecker.vercel.app/)
+- [Guide to attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
+- [List of prices of top-level domains](https://tld-list.com/)
+- [Guide to naming things](https://guide.onym.co/)
+- [List of resources to naming things](https://classnames.paulrobertlloyd.com/)
 - [Guide to successful user onboarding](https://akkshaya.blog/2020/12/17/user-onboarding/)
-- [Headless Commerce Resources](https://headlesscommerce.org/)
-- [How to create an online course - The insanely complete guide](https://schoolmaker.com/course-creation-guide)
-- [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
-- [Jellylade - Social Media Post Image Generator](https://app.jellylade.com/)
-- [Legal Concepts for Founders](https://handbook.clerky.com/)
+- [List of headless commerce resources](https://headlesscommerce.org/)
+- [Guide to creating an online course](https://schoolmaker.com/course-creation-guide)
+- [Guide to designing a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
+- [List of legal concepts for company founders](https://handbook.clerky.com/)
 - [List of SaaS, PaaS and IaaS offerings with free dev tiers](https://github.com/ripienaar/free-for-dev)
 - [List of resources for CTOs](https://github.com/kuchin/awesome-cto)
-- [List on online earning](https://github.com/onmyway133/awesome-online-earning)
-- [Minimal Gallery - Website inspiration](https://minimal.gallery/)
-- [Minimum Viable Finance: The Guide for Seed/Series A Startups - The Causal Blog](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
-- [OSS Insight](https://ossinsight.io/)
-- [OSS you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
-- [Payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
-- [Raw logs: identifying enterprise buying intent](https://ghuntley.com/rawlogs/)
-- [Startup Playbook](https://playbook.samaltman.com/)
+- [Guide for Seed/Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
+- [Tool to show data from GitHub](https://ossinsight.io/)
+- [List of open source services you can self-host](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Guide to payments for developers](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
+- [Guide to payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
+- [Guide to identifying enterprise buying intent through raw logs](https://ghuntley.com/rawlogs/)
+- [List of advice for startups](https://playbook.samaltman.com/)
 - [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
-- [Incident Management Guide](https://onlineornot.com/incident-management)
-- [Paul Graham Essays Collection](https://github.com/ofou/graham-essays)
-- [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
-- [YC Idea Matcher - Submit an idea and get a list of similar ideas that YCombinator has invested in before](https://yc-idea-matcher.vercel.app/)
+- [Guide to incident management for software companies](https://onlineornot.com/incident-management)
+- [List of Paul Grahams essays](https://github.com/ofou/graham-essays)
+- [Guide to commoditization for companies](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+- [Tool to create calendar links for commonly used services](https://www.labnol.org/calendar/)
+- [List of names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
 
-## Visual Art
+### Marketing
 
-- [Unsplash - copyright free images](https://unsplash.com)
-- [Gruppe Magazine](http://gruppemagazine.com/)
-- [MAAS Collection](https://collection.maas.museum/)
-- [Mandelbulb - Free 3D fractal imaging](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
-- [Gif search](https://gif.so/)
-- [Illusions & Visual Phenomena](https://michaelbach.de/ot/)
-- [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
-- [Ted Nelson's Junk Mail Cartons](https://archive.org/details/tednelsonjunkmail)
-- [Wolf design review by award winning architect in Melbourne](https://review.wolfarchitects.design/)
-- [Fractal Garden](https://www.fractal.garden/)
-- [Beautiful Public Data](https://www.beautifulpublicdata.com/)
-- [analog audio tape cassette nostalgia](http://www.tapedeck.org/)
-- [Flash Museum](https://flashmuseum.org/)
-- [Mathematical imagery](https://www.josleys.com/)
-- [Aurel Manea Photo archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
-- [The Glitch Gallery](https://glitchgallery.org/)
+Related to marketing in all its forms.
+
+- [Tool to generate social media post images](https://app.jellylade.com/)
+- [List of resources to promote a startup](https://github.com/trekhleb/promote-your-next-startup)
+- [List of developer content creators](https://github.com/CrowdDotDev/devcontentcreators)
 
 ### Design
 
-This section is a mixed collection of design tips, tools, and examples for inspiration.
+This section is a mixed collection of design guides, tools, and list of great examples for inspiration. This is also sort of a mess, probably would be good to split up in several categories or merge with others.
 
-- [Resource — Curated websites and resources](https://resource.wtf/)
-- [Awwwards](https://www.awwwards.com/)
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [graphic design related items from internet archive](https://archives.design/)
-- [Werner's Nomenclature of Colours](https://www.c82.net/werner/#colors)
-- [Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/)
-- [Convert plain text to obscure characters from Unicode](http://qaz.wtf/u/convert.cgi)
-- [Open source wire frame kit for quick design](https://bloouikit.com/)
-- [Toolkit for building animations in the WebGL Shader language](https://smoothstep.io/)
-- [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057)
-- [A series of exquisite and compact effects](https://github.com/lindelof/awesome-web-effect)
-- [Brutalist Websites](https://brutalistwebsites.com/)
-- [Design toolkit for Visual Studio Code](https://www.figma.com/community/file/786632241522687494/Visual-Studio-Code-Toolkit)
-- [90's Cursor Effects](https://tholman.com/cursor-effects/)
-- [3D typography. Works with every font.](https://github.com/bennettfeely/ztext)
+- [List of landing page design inspiration](https://www.lapa.ninja/)
+- [List of website inspiration](https://minimal.gallery/)
+- [Another list of website inspiration](https://portfolioproject.io/)
+- [Yet another list of website inspiration](https://www.awwwards.com/)
+- [List of brutalist websites](https://brutalistwebsites.com/)
+- [Another list of brutalist websites](https://brutalist-web.design/)
+- [List of graphic design items from internet archive](https://archives.design/)
+- [List of website effects and tools](https://github.com/lindelof/awesome-web-effect)
+- [List of 90's Cursor Effects](https://tholman.com/cursor-effects/)
+- [List of open source components built with Radix UI and Tailwind CSS](https://ui.shadcn.com/)
+- [List of modern UI components](https://floatui.com/components)
+- [Tool to generate mystical colors](https://meodai.github.io/poline/)
+- [List of design tools and tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
+- [List of visual techniques](https://eycndy.com/)
+- [List of retro software screenshots](http://www.typewritten.org/Media/)
 - [Cards Against Humanity 99% Sale](https://www.99percentoffsale.com)
-- [Jan V. White - Resources on page layout, typography, infographics, color and more.](https://www.janvwhite.org/)
-- [Design Tokens Generator](https://tokens.layoutit.com/)
-- [Brutalist Web Design](https://brutalist-web.design/)
-- [Open source components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
-- [Esoteric Color Palette Generation Library](https://meodai.github.io/poline/)
-- [Design tools & tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
-- [Pattern generators](https://pattern.co/gen/)
-- [Jeffrey Stephenson Design](http://slipperyskip.com/page23.html)
-- [Modern UI Components | Float UI](https://floatui.com/components)
-- [Eyecandy - Visual Technique Library](https://eycndy.com/)
-- [Retro software screenshots](http://www.typewritten.org/Media/)
-- [Symmetric Vision \ VFX](https://www.symmetric-vision.xyz/)
-- [United States Web Design System](https://designsystem.digital.gov/)
+- [Guide to visual design rules](https://anthonyhobday.com/sideprojects/saferules/)
+- [Guide to Werner's nomenclature of colours](https://www.c82.net/werner/#colors)
+- [Guide to Design by Figma](https://www.figma.com/community/file/928108847914589057)
+- [Guide to page layout, typography, infographics, color](https://www.janvwhite.org/)
+- [Guide to web design by the US government](https://designsystem.digital.gov/)
+- [Tool to create 3D typography](https://github.com/bennettfeely/ztext)
+- [Tool to generate patterns](https://pattern.co/gen/)
+- [Tool to build animations in the WebGL shader language](https://smoothstep.io/)
+- [Tool to generate design tokens](https://tokens.layoutit.com/)
 
 #### Game Design
 
-- [OpenGameArt - Free resources for building games & animations](https://opengameart.org/)
-- [QuadSpinner Gaea - terrain design application](https://quadspinner.com/)
-- [Explore Video Game Levels](https://noclip.website/)
-- [The Cutting Room Floor - dedicated to cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
+- [List of resources for building games & animations](https://opengameart.org/)
+- [Tool to create digital terrain design](https://quadspinner.com/)
+- [List of video game levels](https://noclip.website/)
+- [List of content cut from video games](https://tcrf.net/The_Cutting_Room_Floor)
+
+## Visual Art
+
+- [List of copyright free images](https://unsplash.com)
+- [List of beautiful objects](https://collection.maas.museum/)
+- [List of graphic design of Smithsonian Museum](https://collection.cooperhewitt.org/)
+- [List of objects by Wolf architects](https://review.wolfarchitects.design/)
+- [List of illusions and visual phenomena](https://michaelbach.de/ot/)
+- [List of 88x31 Gifs](https://cyber.dabamos.de/88x31/)
+- [List of Ted Nelson's junk mail cartons](https://archive.org/details/tednelsonjunkmail)
+- [List of mathematical fractal art](https://www.fractal.garden/)
+- [List of public datasets](https://www.beautifulpublicdata.com/)
+- [List of analog audio tape cassettes](http://www.tapedeck.org/)
+- [List of flash animations and games](https://flashmuseum.org/)
+- [List of mathematical imagery](https://www.josleys.com/)
+- [List of Aurel Manea photos](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
+- [List of pretty software bugs](https://glitchgallery.org/)
+- [List of book arts covers](https://collections.centerforbookarts.org/)
+- [Tool to create 3D fractal images](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
+- [Tool to search for Gifs](https://gif.so/)
 
 ## Audio
 
@@ -436,7 +452,7 @@ Anything related to sound or music.
 - [Shirley & Spinoza Radio ](https://compound-eye.org/)
 - [Surge Synth Projects](https://surge-synth-team.org/)
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
-- [Freeware VSTs](http://www.airwindows.com/vsts/)
+- [Freeware VSTs](https://www.airwindows.com/vsts/)
 - [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
 - ["music theory" wiki with books, resources and courses](https://github.com/vpavlenko/study-music)
 - [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
@@ -452,20 +468,19 @@ Anything related to sound or music.
 ## Video
 
 - [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
+- [Spout - Ultra-fast, realtime video routing for Windows](https://spout.zeal.co/)
+- [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
 
 ## Image Generation
 
 ### Generators
 
 - [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [Context Free Art](https://www.contextfreeart.org/index.html)
-- [Civitai | Every model in one place](https://civitai.com/)
-- [Riffusion](https://www.riffusion.com/about)
-- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/)
 
-### Tools
+### Image Generation Tools
 
 - [Vertex Meadow](https://www.vertexmeadow.xyz/)
 - [Remove Background from Image](https://www.remove.bg/)
@@ -474,13 +489,14 @@ Anything related to sound or music.
 - [BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)](https://www.birme.net/)
 - [Remove Image Backgrounds](https://pixian.ai/)
 
-### Resources
+### Image Generation Resources
 
+- [Civitai | Checkpoints, Loras and more](https://civitai.com/)
 - [Stable Diffusion search engine](https://lexica.art/)
 - [Prompthero - prompts/generated images database](https://prompthero.com/)
 - [Krea Prompts API](https://devapi.krea.ai/)
-- [Stable Diffusion Artist list - Style studies](https://stablediffusion.fr/artists)
-- [The definitive Stable Diffusion experience ™ guide](https://rentry.org/voldy)
+- [Stable Diffusion XL artist style list](https://stablediffusion.fr/artist-style)
+- [The definitive Stable Diffusion experience guide](https://rentry.org/voldy)
 - [Public Prompts](https://publicprompts.art/)
 - [OTP prompt generator](https://atsuzaki-playground.neocities.org/)
 - [Prompt resources & tools](https://dallery.gallery/prompt-resources-tools-ai-art/)
@@ -490,6 +506,8 @@ Anything related to sound or music.
 - [Webb's Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 - [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
 - [Database of Aesthetics](https://cari.institute/aesthetics)
+- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/)
+- [Comfy Workflows](https://comfyworkflows.com/)
 
 ## Fun
 
@@ -505,7 +523,7 @@ Anything related to sound or music.
 - [Creed Thoughts](https://creedthoughtsgov.com/september-20-2007/)
 - [Holotypic occlupanid researc group](https://horg.com/)
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
-- [Bastard Operator from Hell](http://www.dit.upm.es/~jantonio/personal/sysadmin/)
+- [Bastard Operator from Hell](https://www.dit.upm.es/~jantonio/personal/sysadmin/)
 - [YTMND - Blue Ball Machine (fixed)](https://blueballfixed.ytmnd.com/)
 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
 - [puter.com](https://puter.com/)
@@ -523,14 +541,16 @@ Anything related to sound or music.
 - [Chirper - Social Network for AI](https://chirper.ai/)
 - [Beer Coaster Collection](https://www.beer-coasters.eu/)
 - [Lots of weird and useful tools](https://cable.ayra.ch/)
+- [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
+- [Trippy videos](https://www.symmetric-vision.xyz/)
 
 ## Work
 
-- [HandleFinder](https://www.handlefinder.com/). Finds your username on all social networks. Wrapper around the sherlock project.
 - [no hello](https://nohello.net/en/)
 - [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
 - [The XY Problem](https://xyproblem.info/)
 - [VDO.Ninja - Peer-to-peer video calls](https://vdo.ninja/)
+- [List of online earning methods](https://github.com/onmyway133/awesome-online-earning)
 
 ### Jobs
 
@@ -554,25 +574,23 @@ Anything related to sound or music.
 - [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
 - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 - [Web interface for advanced reddit searches](https://redditsearch.com/)
-- [Wildcard - Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
-- [Simplescraper - Extract data from any website](https://simplescraper.io/)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
 - [GitHub Archive](https://www.gharchive.org/)
 - [FIS-Broker Berlin open data](https://fbinter.stadt-berlin.de/fb/index.jsp)
-- [SubSite](http://subgenius.com/)
+- [SubSite](https://subgenius.com/)
 - [Artless Devices](https://artlessdevices.com/)
-- [Center for Book Arts Archive](https://collections.centerforbookarts.org/)
 - [ExRx.net - Exercise Prescription on Internet](https://exrx.net/)
 - [Material Properties Database](https://www.makeitfrom.com/)
 - [NASA Software Catalog](https://software.nasa.gov/)
 - [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
+- [Unicode characters you can not see](https://invisible-characters.com/)
 
 ### Physical items
 
-- [Medimops - Buy used products](https://www.medimops.de/)
-- [DIY-Audio-Heaven - Amazing headphone reviews](https://diyaudioheaven.wordpress.com/)
-- [Digikey](https://www.digikey.de/en)
+- [Headphone reviews](https://diyaudioheaven.wordpress.com/)
+- [Buy used media products (DE)](https://www.medimops.de/)
+- [Buy electronic components (DE)](https://www.digikey.de/en)
 
 ## Dead
 
@@ -582,3 +600,4 @@ Dead links but still reachable through wayback machine. Testament to how much gr
 - [HN Classics](https://web.archive.org/web/20230204070604/https://posobin.com/hn_classics/)
 - [Legally Free Python Books List](https://web.archive.org/web/20230926000945/https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [8 Tips for Dev Documentation](https://web.archive.org/web/20230404044018/https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
+- [Cool looking PC design](https://web.archive.org/web/20231001000000*/http://slipperyskip.com/page23.html)

@@ -75,5 +75,5 @@ In order of importance?! plans change a lot here so don't count on me doing this
 - [ ] markdown footnotes
 - [ ] Check text with vale rules
 - [ ] add better/more vale rules
-- [x] Check if links are alive: https://github.com/tcort/markdown-link-check -> next check in March?
-  - [ ]: automate as cron job: - [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)
+- [x] Check if links are alive: https://github.com/tcort/markdown-link-check, next check in March 2024.
+  - [ ] automate as cron job: [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)

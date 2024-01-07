@@ -8,7 +8,8 @@ module.exports = function (eleventyConfig) {
 
   const mila = require("markdown-it-link-attributes");
   const milaOptions = {
-    shouldOpenExternal: (href) => href.match(/^https?:\/\/(?!vinckr\.com)/),
+    shouldOpenExternal: (href) =>
+      /^https?:\/\//.test(href) && !href.includes("vinckr.com"),
     attrs: {
       target: "_blank",
       rel: "noopener",

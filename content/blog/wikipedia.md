@@ -1,6 +1,5 @@
 ---
 layout: layouts/list.njk
-tags: blog
 title: Notable Wiki Articles
 linksData: wikipedia.json
 ---

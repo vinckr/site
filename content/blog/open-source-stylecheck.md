@@ -1,6 +1,5 @@
 ---
 layout: layouts/page.njk
-tags: blog
 title: How to use Vale as free and customizable open source style checker
 ---
 

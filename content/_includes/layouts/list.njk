@@ -12,8 +12,8 @@
 </div>
 <div>
 <ul>
-  {% for link in wikipedia %}
-  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% for item in wikipedia %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
   {% endfor %}
 </div>
 </ul>

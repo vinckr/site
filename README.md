@@ -52,7 +52,7 @@ In order of importance?! plans change a lot here so don't count on me doing this
 
 - [ ] redesign landing page
 - [ ] change lists/pages format to json, build dedicated `list` template
-  - [ ] wikipedia
+  - [x] wikipedia
   - [ ] movies
   - [ ] books
   - [ ] add random movie/book button!
@@ -70,6 +70,8 @@ In order of importance?! plans change a lot here so don't count on me doing this
 - [ ] order everything in /links in Audio and below
   - [ ] move /links to a json as well
   - [ ] restructure /links to be less insane
+- [ ] add published date
+  - [ ] add edited date
 
 ## TODO nice to have
 

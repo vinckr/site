@@ -41,6 +41,7 @@ title: blog
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
 - [🥨 munich food tips](munich-tips)
+- [🕵️ notable wikipedia articles](wikipedia)
 
 #### work in progress
 

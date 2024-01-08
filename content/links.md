@@ -8,8 +8,6 @@ A collection of links to various websites, resources and even more link collecti
 
 ## Read
 
-Start to read and never stop.
-
 ### Public Domain
 
 Public domain books and online libraries.

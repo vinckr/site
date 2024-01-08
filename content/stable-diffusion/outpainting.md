@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: layouts/page.njk
 tags: blog
 title: Stable Diffusion Outpainting
 ---

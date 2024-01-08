@@ -34,6 +34,8 @@ Note: the git history prior to [6d2454f](https://github.com/vinckr/vinckr.com/co
 
 `chore`: fixing small errors in articles, typos, archiving drafts, and similar (uninteresting) chores
 
+`refactor`: a commit of the type refactor renames something or moves a file
+
 not part of conventional commits and specific to this site:
 
 `weblog`: new entry to the monthly weblog

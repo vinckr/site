@@ -6,17 +6,20 @@ module.exports = function (eleventyConfig) {
     public: ".",
   });
 
-  const mila = require("markdown-it-link-attributes");
-  const milaOptions = {
-    shouldOpenExternal: (href) =>
-      /^https?:\/\//.test(href) && !href.includes("vinckr.com"),
+  var mila = require("markdown-it-link-attributes");
+  var md = require("markdown-it")();
+
+  md.use(mila, {
+    matcher(href, config) {
+      return href.startsWith("https:");
+    },
     attrs: {
       target: "_blank",
       rel: "noopener",
     },
-  };
+  });
 
-  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(mila, milaOptions));
+  eleventyConfig.setLibrary("md", md);
 
   return {
     dir: {

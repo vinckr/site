@@ -21,6 +21,14 @@ links-sort: # sort links and delete duplicates
 	echo "Sorting markdown links"
 	cat urls-unsorted.txt | sort -u > urls-sorted.txt
 
+data-sort:
+	@echo "Sorting data"
+	@for file in content/_data/*.json; do \
+  		jq 'if type == "array" then unique | sort_by(.title) else . end' "$$file" > "$$file.tmp" && mv "$$file.tmp" "$$file"; \
+	done
+	git add content/_data/*.json
+		git commit -m "chore: sort data"
+
 encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	echo "Encrypting drafts"
 	zip -r drafts/drafts.zip _drafts/*

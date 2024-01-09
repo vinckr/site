@@ -12,10 +12,22 @@ nav button {
 }
 
 nav button:hover {
-  background-color: rgb(0, 252, 105);
+  background-color: #5c8d4f;
   color: black;
 }
 
+main button {
+  color: white;
+  background: #5c8d4f;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: 1px solid #9ac056;
+  border-radius: 0.375rem;
+}
+
+main button:hover {
+  background: #3a6547;
+}
 @media print {
   body > *:not(article) {
     display: none;

@@ -72,6 +72,8 @@ In order of importance?! plans change a lot here so don't count on me doing this
   - [ ] restructure /links to be less insane
 - [ ] add published date
   - [ ] add edited date
+- [ ] 404 page
+  - [ ] other errors?
 
 ## TODO nice to have
 

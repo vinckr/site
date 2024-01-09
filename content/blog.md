@@ -41,8 +41,3 @@ title: blog
 - [🍲 recipes](recipes)
 - [🥨 munich food tips](munich-tips)
 - [🕵️ notable wikipedia articles](wikipedia)
-
-#### work in progress
-
-- [recipe generator](../recipe-generator)
-- [guide on image generation with stable diffusion](../stable-diffusion/index)

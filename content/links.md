@@ -24,7 +24,7 @@ Public domain books and online libraries.
 
 - [My personal list of notable Wikipedia Articles](../blog/wikipedia)
 
-Mostly blogs, forums, and other internet-centric publications or articles.
+Mostly blogs, forums, and other internet-centric publications or good articles.
 
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
@@ -61,6 +61,7 @@ Mostly blogs, forums, and other internet-centric publications or articles.
 - [naked capitalism](https://www.nakedcapitalism.com/)
 - [Nautilus](https://nautil.us/)
 - [Greek Legends and Myths](https://www.greeklegendsandmyths.com/)
+- [HN Classics](https://posobin.com/hn_classics/)
 
 #### Science Fiction
 
@@ -595,7 +596,6 @@ Anything related to sound or music.
 Dead links but still reachable through wayback machine. Testament to how much great content gets lost every day.
 
 - [DiscMaster](https://web.archive.org/web/20230611125628/http://discmaster.textfiles.com/)
-- [HN Classics](https://web.archive.org/web/20230204070604/https://posobin.com/hn_classics/)
 - [Legally Free Python Books List](https://web.archive.org/web/20230926000945/https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [8 Tips for Dev Documentation](https://web.archive.org/web/20230404044018/https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
 - [Cool looking PC design](https://web.archive.org/web/20231001000000*/http://slipperyskip.com/page23.html)

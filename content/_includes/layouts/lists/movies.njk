@@ -43,12 +43,12 @@ author: vinckr
               }
               {% if not loop.last %},{% endif %}{% endfor %}];
           var randomIndex = Math.floor(Math.random() * data.length);
-          var randomArticle = data[randomIndex];
+          var randomItem = data[randomIndex];
           document.getElementById('randomMovieContainer').innerHTML = `
         <p style="background:#5c8d4f; display: inline-block; max-width: 100%;" class="p-2 rounded shadow-lg">Watch this movie selected just for you: <a href="${
-            randomArticle.url
+            randomItem.url
           }">${
-            randomArticle.title
+            randomItem.title
           }</a></p>
       `;
         }

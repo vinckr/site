@@ -33,39 +33,41 @@ author: vinckr
                     <a href="{{ item.url }}">{{ item.author }}</a>
                   </figcaption>
                 </figure>
-              {% endfor %}
-            </details>
-          </main>
-        </div>
-        <script>
-          function displayRandomQuote() {
-            var data = [{% for item in quotes %}{
-                  "url": "{{ item.url | escape }}",
-                  "author": "{{ item.author | escape }}",
-                  "quote": "{{ item.quote | escape }}"
-                }
-                {% if not loop.last %},{% endif %}{% endfor %}];
-            var randomIndex = Math.floor(Math.random() * data.length);
-            var randomItem = data[randomIndex];
-            document.getElementById('randomQuoteContainer').innerHTML = `
+                <hr>
+                {% endfor %}
+              </details>
+            </main>
+          </div>
+          <script>
+            function displayRandomQuote() {
+              var data = [{% for item in quotes %}{
+                    "url": "{{ item.url | escape }}",
+                    "author": "{{ item.author | escape }}",
+                    "quote": "{{ item.quote | escape }}"
+                  }
+                  {% if not loop.last %},{% endif %}{% endfor %}];
+              var randomIndex = Math.floor(Math.random() * data.length);
+              var randomItem = data[randomIndex];
+              document.getElementById('randomQuoteContainer').innerHTML = `
             <figure>
               <blockquote>
                 <p>${
-              randomItem.quote
-            }</p>
+                randomItem.quote
+              }</p>
               </blockquote>
               <figcaption>-
                 <a href="${
-              randomItem.url
-            }">${
-              randomItem.author
-            }</a>
+                randomItem.url
+              }">${
+                randomItem.author
+              }</a>
               </figcaption>
               `;
-          }
-        </script>
-      </body>
-      {% include "../footer.njk" %}
-    </html>
-  {% endblock %}
+            }
+          </script>
+        </body>
+        {% include "../footer.njk" %}
+      </html>
+    {% endblock %}
+  </body>
 </body>

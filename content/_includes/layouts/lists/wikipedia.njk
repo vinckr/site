@@ -19,7 +19,9 @@ author: vinckr
           </div>
           <button onclick="displayrandomItem()">Show Random Article</button>
           <div id="randomItemContainer"></div>
-          <div>
+          <details>
+            <summary>
+              list of all notable Wikipedia articles</summary>
             <ul>
               {% for item in wikipedia %}
                 <li>
@@ -28,7 +30,7 @@ author: vinckr
                   </a>
                 </li>
               {% endfor %}
-            </div>
+            </details>
           </div>
         </main>
       </div>
@@ -50,7 +52,7 @@ author: vinckr
       `;
         }
       </script>
-      {% include "../footer.njk" %}
     </body>
+    {% include "../footer.njk" %}
   </html>
 {% endblock %}

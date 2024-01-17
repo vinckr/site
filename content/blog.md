@@ -28,6 +28,7 @@ title: blog
 
 ## articles
 
+- [travel report cuba 2023](travel-cuba-2023)
 - [how to use vale as free and customizable open source style checker](open-source-stylecheck)
 - [how to encrypt files in a git repository easy mode](encrypt-dir)
 - [how to live life](how-to-live-life)

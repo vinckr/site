@@ -26,6 +26,7 @@ Public domain books and online libraries.
 
 Mostly blogs, forums, and other internet-centric publications or good articles.
 
+- [The first website](http://info.cern.ch/hypertext/WWW/TheProject.html)
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Awesome Engineering Blogs](https://github.com/crispgm/awesome-engineering-blogs)
@@ -178,6 +179,7 @@ Personal cheat sheets
 #### CSS
 
 - [Tool to generate soft-UI CSS code](https://neumorphism.io)
+- [Tool to generate smooth shadows](https://smoothshadows.com/)
 - [Guide to flexbox vs. CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
 - [Guide to axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [Game to learn Flexbox](https://flexboxfroggy.com/)
@@ -192,7 +194,7 @@ Personal cheat sheets
 - [CSS theme based on Guidelines from Apple](https://github.com/codedgar/Puppertino)
 - [Tailwind CSS Components](https://www.hyperui.dev/)
 
-##### Lists of CSS Resources
+##### CSS Lists
 
 - [List of CSS generators](https://markodenic.com/css-generators/)
 - [List of modern web app design patterns](https://www.patterns.dev/)
@@ -206,6 +208,7 @@ Personal cheat sheets
 - [React documentation](https://react.dev/)
 - [Guide to the node.js event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
 - [List with resources on node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- [List of React hooks](https://usehooks.com/)
 
 ##### Typescript
 
@@ -214,6 +217,8 @@ Personal cheat sheets
 - [Guide to TypeScript development](https://github.com/gibbok/typescript-book)
 
 ### Backend
+
+- [Guide to Ruby](https://ruby-hacking-guide.github.io/)
 
 #### Database
 
@@ -268,6 +273,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Guide to MySQL](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 - [Tool to experiment with DNS](https://messwithdns.net/)
 - [Community of people coding live](https://www.reddit.com/r/WatchPeopleCode/)
+- [Free IBM data science professional certificate course](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 #### Lists of learning resources
 
@@ -350,6 +356,7 @@ Official courses and other learning resources, mostly focused on working with co
 Helpful when building an application, website, business, or something else related to software. Would be good if I break this up in more detailed categories...
 
 - [List of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+- [Another list of services with free tiers](https://free-for.life/)
 - [Tool to find out if a project name is taken](https://namechecker.vercel.app/)
 - [Guide to attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
 - [List of prices of top-level domains](https://tld-list.com/)

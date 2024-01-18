@@ -19,7 +19,8 @@ author: vinckr
           <p>See below for ratings of movies I watch.</p>
           <button onclick="displayRandomMovie()">Random Movie Button</button>
           <div id="randomMovieContainer"></div>
-          <div>
+          <details>
+            <summary>Click to expand list of all movies I want to watch</summary>
             <ul>
               {% for item in movies %}
                 <li>
@@ -28,13 +29,14 @@ author: vinckr
                   </a>
                 </li>
               {% endfor %}
-            </div>
+            </details>
             <div>
               {{ content | safe }}
             </div>
           </div>
         </main>
-      </div>
+      </</div>
+      >
       <script>
         function displayRandomMovie() {
           var data = [{% for item in movies %}{
@@ -43,17 +45,17 @@ author: vinckr
               }
               {% if not loop.last %},{% endif %}{% endfor %}];
           var randomIndex = Math.floor(Math.random() * data.length);
-          var randomArticle = data[randomIndex];
+          var randomItem = data[randomIndex];
           document.getElementById('randomMovieContainer').innerHTML = `
-        <p style="background:#5c8d4f; display: inline-block; max-width: 100%;" class="p-2 rounded shadow-lg">Watch this movie selected just for you: <a href="${
-            randomArticle.url
+        <p style="background:#5c8d4f; display: inline-block; max-width: 100%;" class="p-2 rounded shadow-lg">Watch this movie! => <a href="${
+            randomItem.url
           }">${
-            randomArticle.title
+            randomItem.title
           }</a></p>
       `;
         }
       </script>
-      {% include "../footer.njk" %}
     </body>
+    {% include "../footer.njk" %}
   </html>
-</html>{% endblock %}</body></body>
+{% endblock %}

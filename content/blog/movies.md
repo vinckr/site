@@ -3,13 +3,6 @@ layout: layouts/lists/movies.njk
 title: Movies
 ---
 
-## Watch list
-
-This evergrowing list helps keep track of movies or shows I want to watch.
-See below for ratings of movies I watch.
-
-
-
 ## Reviews
 
 I review and rate movies I watch. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.

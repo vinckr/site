@@ -51,11 +51,12 @@ In order of importance?! plans change a lot here so don't count on me doing this
 ### next
 
 - [ ] redesign landing page
-- [ ] change lists/pages format to json, build dedicated `list` template
+- [x] change lists/pages format to json, build dedicated `list` template
   - [x] wikipedia
-  - [ ] movies
+  - [x] movies
   - [ ] books
-  - [ ] add random movie/book button!
+  - [x] quotes
+  - [x] add random movie/book button!
 - [ ] weblog
   - [ ] automate format imdb links and add to movie json (also for reviews)
   - [ ] automate format goodreads links and add to books json (also for reviews)

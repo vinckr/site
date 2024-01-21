@@ -27,7 +27,7 @@ data-sort:
   		jq 'if type == "array" then unique | sort_by(.title) else . end' "$$file" > "$$file.tmp" && mv "$$file.tmp" "$$file"; \
 	done
 	git add content/_data/*.json
-		git commit -m "chore: sort data"
+	git commit -m "chore: sort data"
 
 encrypt-drafts: .bin/encrypt-dir # encrypt files in _drafts folder
 	echo "Encrypting drafts"

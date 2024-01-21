@@ -17,7 +17,7 @@ author: vinckr
           <h2>Watch list</h2>
           <p>This ever-growing list helps keep track of movies or shows I want to watch.</p>
           <p>See below for ratings of movies I watch.</p>
-          <button onclick="displayRandomMovie()">Random Movie Button</button>
+          <button onclick="displayRandomItem()">Random Movie Button</button>
           <div id="randomMovieContainer"></div>
           <details>
             <summary>Click to expand list of all movies I want to watch</summary>
@@ -38,7 +38,7 @@ author: vinckr
       </</div>
       >
       <script>
-        function displayRandomMovie() {
+        function displayRandomItem() {
           var data = [{% for item in movies %}{
                 "url": "{{ item.url | escape }}",
                 "title": "{{ item.title | escape }}"

@@ -19,7 +19,7 @@ author: vinckr
             are statements made by famous people, others were found in random places on the internet. Attribution added where I am
             somewhat certain, let me know if something is wrong.
           </p>
-          <button onclick="displayRandomQuote()">Random Quote Button</button>
+          <button onclick="displayRandomItem()">Random Quote Button</button>
           <div id="randomQuoteContainer"></div>
           <details>
             <summary>Click to expand list of all quotes</summary>
@@ -39,7 +39,7 @@ author: vinckr
             </main>
           </div>
           <script>
-            function displayRandomQuote() {
+            function displayRandomItem() {
               var data = [{% for item in quotes %}{
                     "url": "{{ item.url | escape }}",
                     "author": "{{ item.author | escape }}",

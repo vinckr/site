@@ -54,7 +54,7 @@ In order of importance?! plans change a lot here so don't count on me doing this
 - [x] change lists/pages format to json, build dedicated `list` template
   - [x] wikipedia
   - [x] movies
-  - [ ] books
+  - [x] books
   - [x] quotes
   - [x] add random movie/book button!
 - [ ] weblog
@@ -63,7 +63,6 @@ In order of importance?! plans change a lot here so don't count on me doing this
   - [ ] automate format wiki links and add to wiki json
   - [ ] move future weblogs to a json
   - [ ] move past weblogs to a json
-  - [ ] automate the rest ???
 - [ ] markdown text anchor links
 - [ ] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
 - [ ] add cool 90s cursor effects

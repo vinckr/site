@@ -15,6 +15,7 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Koyaanisqatsi](https://www.imdb.com/title/tt0085809/) 5/5
 - [Pumping Iron](https://www.imdb.com/title/tt0076578/) 3/5
 - [Enter the Void](https://www.imdb.com/title/tt1191111/) 5/5
 - [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/) 4/5

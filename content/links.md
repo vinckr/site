@@ -382,6 +382,7 @@ Helpful when building an application, website, business, or something else relat
 - [Guide to commoditization for companies](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [Tool to create calendar links for commonly used services](https://www.labnol.org/calendar/)
 - [List of names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
+- [Guide to the cheap and smol web](https://potato.cheap/)
 
 ### Marketing
 
@@ -427,6 +428,13 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [Tool to create digital terrain design](https://quadspinner.com/)
 - [List of video game levels](https://noclip.website/)
 - [List of content cut from video games](https://tcrf.net/The_Cutting_Room_Floor)
+- [List of SVG Icons intended for games](https://game-icons.net/)
+
+## Data
+
+- [Tool to show stats on YouTube](https://tubestats.org/)
+- [Tool to show stats on any YouTube channel](https://www.viewstats.com/)
+- [Tool to compare which pages get the most views in Wikipedia](https://pageviews.wmcloud.org/)
 
 ## Visual Art
 
@@ -447,6 +455,7 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [List of book arts covers](https://collections.centerforbookarts.org/)
 - [Tool to create 3D fractal images](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/)
 - [Tool to search for Gifs](https://gif.so/)
+- [Tool to create graphics with a handdrawn look in Javascript](https://roughjs.com/)
 
 ## Audio
 
@@ -476,6 +485,10 @@ Anything related to sound or music.
 - [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
 - [Spout - Ultra-fast, realtime video routing for Windows](https://spout.zeal.co/)
 - [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
+
+## Text Generation
+
+- [Guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
 
 ## Image Generation
 
@@ -592,11 +605,12 @@ Anything related to sound or music.
 - [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 - [Unicode characters you can not see](https://invisible-characters.com/)
 
-### Physical items
+### Buy
 
 - [Headphone reviews](https://diyaudioheaven.wordpress.com/)
 - [Buy used media products (DE)](https://www.medimops.de/)
 - [Buy electronic components (DE)](https://www.digikey.de/en)
+- [Community for high quality high- and variable-refresh rate display reviews](https://blurbusters.com/)
 
 ## Dead
 

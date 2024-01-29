@@ -77,6 +77,7 @@ In order of importance?! plans change a lot here so don't count on me doing this
 
 ## TODO nice to have
 
+- [ ] change goodreads to something else, maybe worldcat
 - [ ] move to my own static site builder again? or dynamic?
 - [ ] markdown footnotes
 - [ ] Check text with vale rules

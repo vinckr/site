@@ -93,7 +93,7 @@ Arguably the best kind of food.
 
 ## Pantry list
 
-Always have these stocked at home if possible. Still work in progress so this is very incomplete.
+Always have these stocked at home if possible. Not exhaustive.
 
 ### Spices
 

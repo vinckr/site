@@ -21,7 +21,7 @@ links-sort: # sort links and delete duplicates
 	echo "Sorting markdown links"
 	cat urls-unsorted.txt | sort -u > urls-sorted.txt
 
-data-sort:
+data-sort: # sort _data and remove duplicates
 	@echo "Sorting data"
 	@for file in content/_data/*.json; do \
   		jq 'if type == "array" then unique | sort_by(.title) else . end' "$$file" > "$$file.tmp" && mv "$$file.tmp" "$$file"; \

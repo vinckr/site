@@ -5,6 +5,7 @@ title: blog
 
 ## weblog
 
+- [12-2023](12-23)
 - [11-2023](11-23)
 - [10-2023](10-23)
 - [09-2023](09-23)
@@ -42,3 +43,4 @@ title: blog
 - [🍲 recipes](recipes)
 - [🥨 munich food tips](munich-tips)
 - [🕵️ notable wikipedia articles](wikipedia)
+- [git](git)

@@ -44,3 +44,4 @@ title: blog
 - [🥨 munich food tips](munich-tips)
 - [🕵️ notable wikipedia articles](wikipedia)
 - [git](git)
+- [other personal websites](personal-websites)

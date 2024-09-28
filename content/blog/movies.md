@@ -15,6 +15,17 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Rogue One](https://www.imdb.com/title/tt3748528/) 3/5
+- [Natural Born Killers](https://www.imdb.com/title/tt0110632/) 4/5
+- [Battle Royale](https://www.imdb.com/title/tt0266308/) 4/5
+- [Crank](https://www.imdb.com/title/tt0479884/) 4/5
+- [Alien Romulus](https://www.imdb.com/title/tt18412256/) 5/5
+- [Star Wars: Episode VIII - The Last Jedi](https://www.imdb.com/title/tt2527336/) 2/5
+- [Pearl Harbor](https://www.imdb.com/title/tt0213149/) 2/5
+- [Catch-22 Miniseries](https://www.imdb.com/title/tt5056196/) 5/5
+- [Paranormal Activity 2](https://www.imdb.com/title/tt1536044/) 2/5
+- [Paranormal Activity](https://www.imdb.com/title/tt1179904/) 2/5
+- [The Iron Claw](https://imdb.com/title/tt21064584/) 4/5
 - [Koyaanisqatsi](https://www.imdb.com/title/tt0085809/) 5/5
 - [Pumping Iron](https://www.imdb.com/title/tt0076578/) 3/5
 - [Enter the Void](https://www.imdb.com/title/tt1191111/) 5/5

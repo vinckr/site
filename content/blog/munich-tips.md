@@ -22,7 +22,6 @@ Take with a grain of salt 😉
 ### Chinese
 
 - [Mai Garten](https://www.mai-garten.com/) (Authentic Chinese style)
-- [Kam Yi](https://kamyi.com/) (European style)
 - [Yanyou](http://www.yanyou.de/)
 
 ### Ethiopian

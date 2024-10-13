@@ -1,11 +1,23 @@
 [
   {
+    "title": "Amor fati",
+    "url": "https://en.wikipedia.org/wiki/Amor_fati"
+  },
+  {
     "title": "Bamberg witch trials",
     "url": "https://en.wikipedia.org/wiki/Bamberg_witch_trials"
   },
   {
     "title": "Brandolini's law",
     "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law"
+  },
+  {
+    "title": "Cargo cult",
+    "url": "https://en.wikipedia.org/wiki/Cargo_cult"
+  },
+  {
+    "title": "Chatham House Rule",
+    "url": "https://en.wikipedia.org/wiki/Chatham_House_Rule"
   },
   {
     "title": "Computational humor",
@@ -53,7 +65,7 @@
   },
   {
     "title": "Etaoin shrdlu",
-    "url": "https://en.m.wikipedia.org/wiki/Etaoin_shrdlu"
+    "url": "https://en.wikipedia.org/wiki/Etaoin_shrdlu"
   },
   {
     "title": "Feraliminal Lycanthropizer",
@@ -116,6 +128,22 @@
     "url": "https://en.wikipedia.org/wiki/M65_atomic_cannon"
   },
   {
+    "title": "Martian meteorite",
+    "url": "https://en.wikipedia.org/wiki/Martian_meteorite"
+  },
+  {
+    "title": "Mere-exposure effect",
+    "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
+  },
+  {
+    "title": "Monkey selfie copyright dispute",
+    "url": "https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute"
+  },
+  {
+    "title": "Mushroom management",
+    "url": "https://en.wikipedia.org/wiki/Mushroom_management"
+  },
+  {
     "title": "Need for cognition",
     "url": "https://en.wikipedia.org/wiki/Need_for_cognition"
   },
@@ -130,6 +158,10 @@
   {
     "title": "Pape Satàn, pape Satàn aleppe",
     "url": "https://en.wikipedia.org/wiki/Pape_Sat%C3%A0n,_pape_Sat%C3%A0n_aleppe"
+  },
+  {
+    "title": "Parietal eye",
+    "url": "https://en.wikipedia.org/wiki/Parietal_eye"
   },
   {
     "title": "Parrondo's paradox",
@@ -193,18 +225,14 @@
   },
   {
     "title": "Vespa 150 TAP",
-    "url": "https://en.m.wikipedia.org/wiki/Vespa_150_TAP"
+    "url": "https://en.wikipedia.org/wiki/Vespa_150_TAP"
   },
   {
     "title": "Wikenigma - an Encyclopedia of Unknowns",
     "url": "https://wikenigma.org.uk/start"
   },
   {
-    "title": "Amor fati",
-    "url": "https://en.m.wikipedia.org/wiki/Amor_fati"
-  },
-  {
     "title": "Zanclean flood",
-    "url": "https://en.m.wikipedia.org/wiki/Zanclean_flood"
+    "url": "https://en.wikipedia.org/wiki/Zanclean_flood"
   }
 ]

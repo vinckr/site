@@ -155,9 +155,8 @@ Personal cheat sheets
 
 #### Disposable Email
 
-- [Disposable email](https://mailcare.io/)
-- [Another disposable email](https://www.guerrillamail.com/)
-- [Yet another disposable email](https://www.byom.de/)
+- [Disposable email](https://www.guerrillamail.com/)
+- [Another disposable email](https://www.byom.de/)
 
 ### Frontend
 

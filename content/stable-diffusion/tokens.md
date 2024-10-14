@@ -74,7 +74,6 @@ claymation, Encaustic, voxel art, biomechanical, spooky,
 
 - (dr-strange), detailed realistic oil painting of **animals**, trending on artstation, (ultra-detailed:1.3), (masterpiece:1.2), highly detailed, fine detail, realistic proportions, captivating, perfect, intricate, realistic lighting, (rendered by Blender:1.2),
 - a forgotten underdark city, (((crypt door))), ((([open |door]2:1))), ((close up)) ((fantasy)) (((dark shadows))) deep underground, black undertones, dramatic, 8k H.R. Giger, ismail inceoglu
-- seed: 3605631349
 - a hyper detailed realistic full body oil painting of the (queen of blades), sideshow figurines, diablo 4, (lilith), by (DBWayneBarlowe), yusuke murata, hiroya oku, dorian cleavenger, tom bagshaw, (zdzisław beksinski), trending on artstation, (best quality:1.3), (ultra-detailed:1.3), highly detailed face, fine detail, realistic proportions, captivating, perfect, intricate, realistic lighting, [lineart]
 - a hyper detailed realistic oil painting of **animals** by moebius, trending on artstation, (ultra-detailed:1.3), (masterpiece:1.2), highly detailed, fine detail, realistic proportions, captivating, perfect, intricate, realistic lighting, (rendered by Blender:1.2)
 - an **animals** charging at camera, with **background** in the background, (best quality:1.4), (official art:1.3), (ultra-detailed:1.2), (Game cg:1.6), (masterpiece:1.4), fine detail, realistic proportions, captivating, perfect, intricate, realistic lighting, [lineart], genshin impact, azur lane, dmt art, artgerm

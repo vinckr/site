@@ -15,12 +15,19 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Legion](https://www.imdb.com/title/tt1038686/) 3/5
+- [La sociedad de la nieve](https://www.imdb.com/title/tt16277242/) 5/5
+- [The Batman](https://www.imdb.com/title/tt1877830/) 3/5
+- [Terminator: Dark Fate](https://www.imdb.com/title/tt6450804/) 2/5
+- [Alien Resurrection](https://www.imdb.com/title/tt0118583/) 4/5
+- [World War Z](https://www.imdb.com/title/tt0816711/) 3/5
 - [Rogue One](https://www.imdb.com/title/tt3748528/) 3/5
 - [Natural Born Killers](https://www.imdb.com/title/tt0110632/) 4/5
 - [Battle Royale](https://www.imdb.com/title/tt0266308/) 4/5
 - [Crank](https://www.imdb.com/title/tt0479884/) 4/5
 - [Alien Romulus](https://www.imdb.com/title/tt18412256/) 5/5
 - [Star Wars: Episode VIII - The Last Jedi](https://www.imdb.com/title/tt2527336/) 2/5
+- [Monkey Man](https://www.imdb.com/title/tt9214772/) 3/5
 - [Pearl Harbor](https://www.imdb.com/title/tt0213149/) 2/5
 - [Catch-22 Miniseries](https://www.imdb.com/title/tt5056196/) 5/5
 - [Paranormal Activity 2](https://www.imdb.com/title/tt1536044/) 2/5

@@ -122,10 +122,11 @@ Personal cheat sheets
 - [IP Geolocation API](https://ipdata.co/)
 - [Website speed test](https://pagespeed.web.dev/)
 - [Convert curl commands to code](https://curlconverter.com/)
-- [Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
 - [Extract data from any website](https://simplescraper.io/)
 - [Convert plain text to obscure characters from Unicode](https://qaz.wtf/u/convert.cgi)
 - [Compare files, archives, and directories](https://diffoscope.org/)
+- [Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
+- [Browser extension to modify HTTP headers](https://modheader.com/)
 
 #### IP
 
@@ -157,6 +158,7 @@ Personal cheat sheets
 
 - [Disposable email](https://www.guerrillamail.com/)
 - [Another disposable email](https://www.byom.de/)
+- [Temporary email](https://email.ml/)
 
 ### Frontend
 
@@ -316,6 +318,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Heroicons](https://heroicons.com/)
 - [Iconbuddy](https://iconbuddy.app/)
 - [Windows 98 Icons](https://win98icons.alexmeub.com/)
+- [hugeicons](https://hugeicons.com/icons)
 
 #### Fonts
 
@@ -327,7 +330,7 @@ Official courses and other learning resources, mostly focused on working with co
 
 ### Security
 
-#### Security Lists
+#### Security Lists and Guides
 
 - [List of almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
 - [List of security resources](https://github.com/sbilly/awesome-security)
@@ -345,6 +348,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Guide on how to inflict sabotage through ordinary means](https://www.hsdl.org/c/abstract/?docid=750070)
 - [Guide on secure email delivery](https://resend.com/blog/email-authentication-a-developers-guide)
 - [Guide how to respond when hit by ransomware](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)
+- [Guide on how to secure routers](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 
 #### OSINT
 
@@ -574,6 +578,7 @@ Anything related to sound or music.
 - [Trippy videos](https://www.symmetric-vision.xyz/)
 - [KRAZAM](https://www.krazam.tv/)
 - [web comics search](https://www.ohnorobot.com/)
+- [2FFFA Game](https://nalinplad.github.io/the-2FA-game/)
 
 ## Work
 
@@ -597,6 +602,7 @@ Anything related to sound or music.
 - [4 Day Work Week Jobs](https://4dayweek.io/)
 - [People-First Jobs](https://peoplefirstjobs.com/)
 - [Remote software companies hiring in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
+- [Hackernews Jobs search](https://grburst.github.io/hnjobs/)
 
 ## Uncategorized
 
@@ -617,6 +623,7 @@ Anything related to sound or music.
 - [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 - [Unicode characters you can not see](https://invisible-characters.com/)
 - [EarthStation1.com - Audio - Visual Archive](https://www.earthstation1.com/)
+- [Bicycle Technical Information](https://www.sheldonbrown.com/)
 
 ### Buy
 

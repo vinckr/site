@@ -5,8 +5,9 @@ title: blog
 
 ## weblog
 
-- [03-2024](03-24)
+- [05-2024](05-24)
 - [04-2024](04-24)
+- [03-2024](03-24)
 - [12-2023](12-23)
 - [11-2023](11-23)
 - [10-2023](10-23)
@@ -46,4 +47,4 @@ title: blog
 - [🥨 munich food tips](munich-tips)
 - [🕵️ notable wikipedia articles](wikipedia)
 - [git](git)
-- [other personal websites](personal-websites)
+- [other peoples personal websites and blogs](personal-websites)

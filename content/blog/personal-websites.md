@@ -40,6 +40,7 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 - [fadeyev.net](https://fadeyev.net/)
 - [second-hander.com](https://second-hander.com/)
 - [getpostdelete.com](https://getpostdelete.com/)
+- [Maggie Appleton](https://maggieappleton.com/)
 
 ## Other collections
 

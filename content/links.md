@@ -83,6 +83,7 @@ Mostly blogs, forums, and other internet-centric publications or good articles.
 - [List of transcripts of Obama speeches](https://obamaspeeches.com/)
 - [Guide to the 8-sequence structure of screenplays](https://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
 - [Guide to writing by the Australian government](https://www.stylemanual.gov.au/)
+- [Dictionary of Slang](https://greensdictofslang.com/)
 
 ## Software
 
@@ -121,9 +122,11 @@ Personal cheat sheets
 - [IP Geolocation API](https://ipdata.co/)
 - [Website speed test](https://pagespeed.web.dev/)
 - [Convert curl commands to code](https://curlconverter.com/)
-- [Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
 - [Extract data from any website](https://simplescraper.io/)
 - [Convert plain text to obscure characters from Unicode](https://qaz.wtf/u/convert.cgi)
+- [Compare files, archives, and directories](https://diffoscope.org/)
+- [Browser extension to modify websites](https://www.geoffreylitt.com/wildcard/)
+- [Browser extension to modify HTTP headers](https://modheader.com/)
 
 #### IP
 
@@ -153,9 +156,9 @@ Personal cheat sheets
 
 #### Disposable Email
 
-- [Disposable email](https://mailcare.io/)
-- [Another disposable email](https://www.guerrillamail.com/)
-- [Yet another disposable email](https://www.byom.de/)
+- [Disposable email](https://www.guerrillamail.com/)
+- [Another disposable email](https://www.byom.de/)
+- [Temporary email](https://email.ml/)
 
 ### Frontend
 
@@ -189,6 +192,7 @@ Personal cheat sheets
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [Neat CSS](https://neat.joeldare.com/)
 - [blocks CSS](https://thesephist.github.io/blocks.css/)
+- [magick.css](https://css.winterveil.net/)
 - [NES CSS](https://nostalgic-css.github.io/NES.css/)
 - [58 bytes CSS](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 - [CSS theme based on Guidelines from Apple](https://github.com/codedgar/Puppertino)
@@ -274,6 +278,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Tool to experiment with DNS](https://messwithdns.net/)
 - [Community of people coding live](https://www.reddit.com/r/WatchPeopleCode/)
 - [Free IBM data science professional certificate course](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Free online computer science course from Harvard](https://cs50.harvard.edu/x/2024/)
 
 #### Lists of learning resources
 
@@ -302,6 +307,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of i18n methods](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 - [List of inclusive design practices](https://universaldesignguide.com/)
 - [List of old graphical user interfaces](https://guidebookgallery.org/screenshots/win95)
+- [HTML-first, open-source library of UI components](https://www.franken-ui.dev/)
 
 #### Icons
 
@@ -311,6 +317,8 @@ Official courses and other learning resources, mostly focused on working with co
 - [Iconhunt](https://www.iconhunt.site/)
 - [Heroicons](https://heroicons.com/)
 - [Iconbuddy](https://iconbuddy.app/)
+- [Windows 98 Icons](https://win98icons.alexmeub.com/)
+- [hugeicons](https://hugeicons.com/icons)
 
 #### Fonts
 
@@ -318,10 +326,11 @@ Official courses and other learning resources, mostly focused on working with co
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 - [B612](https://b612-font.com/)
 - I also like these: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
+- [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
 
 ### Security
 
-#### Security Lists
+#### Security Lists and Guides
 
 - [List of almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
 - [List of security resources](https://github.com/sbilly/awesome-security)
@@ -339,6 +348,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Guide on how to inflict sabotage through ordinary means](https://www.hsdl.org/c/abstract/?docid=750070)
 - [Guide on secure email delivery](https://resend.com/blog/email-authentication-a-developers-guide)
 - [Guide how to respond when hit by ransomware](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)
+- [Guide on how to secure routers](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 
 #### OSINT
 
@@ -350,6 +360,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Tool to find public files in Google Drive](https://www.dedigger.com)
 - [Tool to find a username on all socials](https://www.handlefinder.com/)
 - [Tool to find a username on even more socials](https://github.com/sherlock-project/sherlock)
+- [Enumerate usernames across many websites](https://whatsmyname.app/)
 
 ## Build
 
@@ -402,6 +413,7 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [Yet another list of website inspiration](https://www.awwwards.com/)
 - [List of brutalist websites](https://brutalistwebsites.com/)
 - [Another list of brutalist websites](https://brutalist-web.design/)
+- [List of antique web design](https://www.webdesignmuseum.org/)
 - [List of graphic design items from internet archive](https://archives.design/)
 - [List of website effects and tools](https://github.com/lindelof/awesome-web-effect)
 - [List of 90's Cursor Effects](https://tholman.com/cursor-effects/)
@@ -479,6 +491,7 @@ Anything related to sound or music.
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
 - [Movie Quotes with Sound Bites and SFX](https://movie-sounds.org/)
+- [8 bit sound maker and online sfx generator](https://sfxr.me/)
 
 ## Video
 
@@ -503,10 +516,11 @@ Anything related to sound or music.
 
 - [Vertex Meadow](https://www.vertexmeadow.xyz/)
 - [Remove Background from Image](https://www.remove.bg/)
-- [EbSynth - Transform Video by Painting Over a Single Frame](https://ebsynth.com/)
-- [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
 - [BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)](https://www.birme.net/)
-- [Remove Image Backgrounds](https://pixian.ai/)
+- [Remove image backgrounds](https://pixian.ai/)
+
+- [Generate low poly patterns](https://trianglify.io/)
+- [Generate ugly avatars](https://txstc55.github.io/ugly-avatar/)
 
 ### Image Generation Resources
 
@@ -562,6 +576,9 @@ Anything related to sound or music.
 - [Lots of weird and useful tools](https://cable.ayra.ch/)
 - [Juicy text processor with various effects](https://ash-k.itch.io/textreme)
 - [Trippy videos](https://www.symmetric-vision.xyz/)
+- [KRAZAM](https://www.krazam.tv/)
+- [web comics search](https://www.ohnorobot.com/)
+- [2FFFA Game](https://nalinplad.github.io/the-2FA-game/)
 
 ## Work
 
@@ -585,6 +602,7 @@ Anything related to sound or music.
 - [4 Day Work Week Jobs](https://4dayweek.io/)
 - [People-First Jobs](https://peoplefirstjobs.com/)
 - [Remote software companies hiring in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
+- [Hackernews Jobs search](https://grburst.github.io/hnjobs/)
 
 ## Uncategorized
 
@@ -604,6 +622,8 @@ Anything related to sound or music.
 - [NASA Software Catalog](https://software.nasa.gov/)
 - [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 - [Unicode characters you can not see](https://invisible-characters.com/)
+- [EarthStation1.com - Audio - Visual Archive](https://www.earthstation1.com/)
+- [Bicycle Technical Information](https://www.sheldonbrown.com/)
 
 ### Buy
 

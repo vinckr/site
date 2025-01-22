@@ -14,12 +14,12 @@ my personal feed, or why would you do something like this
 
 ---
 
-- some random (but great!) articles
+- some random great articles
   - [What the Decentralized Nature of Anonymous Tells Us About Its Power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
-- [Panic! at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
-- [The Family That Couldn’t Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)
-- [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
-- [Can Men Live Without War?](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
+  - [Panic! at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
+  - [The Family That Couldn’t Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)
+  - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
+  - [Can Men Live Without War?](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
 
 ---
 

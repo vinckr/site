@@ -45,3 +45,4 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 ## Other collections
 
 - [10 KB Club](https://10kbclub.com/)
+- [ooh.directory](https://ooh.directory/)

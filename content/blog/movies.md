@@ -15,6 +15,10 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [This Place Rules](https://www.imdb.com/title/tt23950956/) 4/5
+- [Late Night with the Devil](https://www.imdb.com/title/tt14966898/) 4/5
+- [Monkey Man](https://www.imdb.com/title/tt9214772/) 4/5
+- [Rogue One](https://www.imdb.com/title/tt3748528/) 3/5
 - [Legion](https://www.imdb.com/title/tt1038686/) 3/5
 - [La sociedad de la nieve](https://www.imdb.com/title/tt16277242/) 5/5
 - [The Batman](https://www.imdb.com/title/tt1877830/) 3/5

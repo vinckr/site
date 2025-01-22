@@ -323,10 +323,12 @@ Official courses and other learning resources, mostly focused on working with co
 #### Fonts
 
 - [List of oldschool PC font](https://int10h.org/oldschool-pc-fonts/)
+- [List of free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- [List of great sci-fi fonts](https://iconian.com/)
+- [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 - [B612](https://b612-font.com/)
-- I also like these: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
-- [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
+- I also like: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
 ### Security
 
@@ -411,6 +413,7 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [List of website inspiration](https://minimal.gallery/)
 - [Another list of website inspiration](https://portfolioproject.io/)
 - [Yet another list of website inspiration](https://www.awwwards.com/)
+- [One more list of website inspiration](https://a-fresh.website/)
 - [List of brutalist websites](https://brutalistwebsites.com/)
 - [Another list of brutalist websites](https://brutalist-web.design/)
 - [List of antique web design](https://www.webdesignmuseum.org/)
@@ -419,6 +422,7 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [List of 90's Cursor Effects](https://tholman.com/cursor-effects/)
 - [List of open source components built with Radix UI and Tailwind CSS](https://ui.shadcn.com/)
 - [List of modern UI components](https://floatui.com/components)
+- [Tool to generate hand-drawn UI elements](https://wiredjs.com/)
 - [Tool to generate mystical colors](https://meodai.github.io/poline/)
 - [List of design tools and tips for developers in a hurry](https://github.com/sw-yx/spark-joy/blob/master/README.md)
 - [List of visual techniques](https://eycndy.com/)
@@ -492,6 +496,8 @@ Anything related to sound or music.
 - [projectM Music Visualizer by codav](https://codav.itch.io/projectm)
 - [Movie Quotes with Sound Bites and SFX](https://movie-sounds.org/)
 - [8 bit sound maker and online sfx generator](https://sfxr.me/)
+- [Wildlife sounds from around the world](https://xeno-canto.org/)
+- [Musical billard](https://billard.medusis.com/)
 
 ## Video
 
@@ -579,6 +585,7 @@ Anything related to sound or music.
 - [KRAZAM](https://www.krazam.tv/)
 - [web comics search](https://www.ohnorobot.com/)
 - [2FFFA Game](https://nalinplad.github.io/the-2FA-game/)
+- [dingboard - make memes quickly](http://dingboard.com/)
 
 ## Work
 

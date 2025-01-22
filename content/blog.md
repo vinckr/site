@@ -3,8 +3,30 @@ layout: layouts/page.njk
 title: blog
 ---
 
-## weblog
+## **[feed](feed)**
 
+## articles
+
+- [travel report cuba 2023](travel-cuba-2023)
+- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
+- [how to encrypt files in a git repository easy mode](encrypt-dir)
+- [how to live life](how-to-live-life)
+- [5 tracks](5tracks)
+
+## pages
+
+- [🎞 movies](movies)
+- [📚 books](books)
+- [💬 quotes](quotes)
+- [🍲 recipes](recipes)
+- [🥨 munich food tips](munich-tips)
+- [🕵️ notable wikipedia articles](wikipedia)
+- [git](git)
+- [great personal websites and blogs](personal-websites)
+
+## weblog 2022-2024
+
+- entries after 05-2024 can be found in [feed](feed)
 - [05-2024](05-24)
 - [04-2024](04-24)
 - [03-2024](03-24)
@@ -29,22 +51,3 @@ title: blog
 - [06-2022](06-22)
 - [05-2022](05-22)
 - [04-2022](04-22)
-
-## articles
-
-- [travel report cuba 2023](travel-cuba-2023)
-- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
-- [how to encrypt files in a git repository easy mode](encrypt-dir)
-- [how to live life](how-to-live-life)
-- [5 tracks](5tracks)
-
-## pages
-
-- [🎞 movies](movies)
-- [📚 books](books)
-- [💬 quotes](quotes)
-- [🍲 recipes](recipes)
-- [🥨 munich food tips](munich-tips)
-- [🕵️ notable wikipedia articles](wikipedia)
-- [git](git)
-- [other peoples personal websites and blogs](personal-websites)

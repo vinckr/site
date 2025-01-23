@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
   });
 
   var mila = require("markdown-it-link-attributes");
-  var md = require("markdown-it")();
+  var md = require("markdown-it")({ html: true });
 
   md.use(mila, {
     matcher(href, config) {

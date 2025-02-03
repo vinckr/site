@@ -6,9 +6,14 @@ module.exports = function (eleventyConfig) {
     public: ".",
   });
 
-  var mila = require("markdown-it-link-attributes");
-  var md = require("markdown-it")({ html: true });
+  const markdownIt = require("markdown-it");
+  const mila = require("markdown-it-link-attributes");
+  const markdownItAnchor = require("markdown-it-anchor");
 
+  // Create a markdown-it instance with HTML enabled
+  const md = markdownIt({ html: true });
+
+  // Use markdown-it-link-attributes for external links
   md.use(mila, {
     matcher(href, config) {
       return href.startsWith("https:");
@@ -19,6 +24,13 @@ module.exports = function (eleventyConfig) {
     },
   });
 
+  // Use markdown-it-anchor to generate IDs for headings
+  md.use(markdownItAnchor, {
+    permalink: markdownItAnchor.permalink.linkInsideHeader(), // Adds a link icon inside the header
+    slugify: (str) => str.trim().toLowerCase().replace(/[\s]+/g, "-"), // Custom slugify logic
+  });
+
+  // Set the markdown-it instance as the markdown library
   eleventyConfig.setLibrary("md", md);
 
   return {

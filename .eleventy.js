@@ -28,6 +28,7 @@ module.exports = function (eleventyConfig) {
   md.use(markdownItAnchor, {
     permalink: markdownItAnchor.permalink.linkInsideHeader(), // Adds a link icon inside the header
     slugify: (str) => str.trim().toLowerCase().replace(/[\s]+/g, "-"), // Custom slugify logic
+    level: 2, // Only use headings with a level of 2
   });
 
   // Set the markdown-it instance as the markdown library

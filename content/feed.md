@@ -5,7 +5,75 @@ title: feed
 
 my personal feed and plunder box
 
+#### 28-07-2024
+
+- [Lissy93/web-check: 🕵️‍♂️ All-in-one OSINT tool for analysing any website](https://github.com/Lissy93/web-check)
+- [Redirect Detective](https://redirectdetective.com/) is a free URL redirection checker
+- [Malfet - Northeast Dungeon Siege MMXXI](https://youtube.com/watch?v=fV2K8DEEzyc) - great dungeon synth set
+
+- Berlin Dataset for Trees: [Daten und Fakten: Stadtbäume](https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/stadtbaeume/)
+
+#### 27-07-2024
+
+> articles
+
+- [90% of performance is data access patterns](https://swizec.com/blog/90p-of-performance-is-data-access-patterns/)
+- [UBI and the Anti-Work Vibe Shift](https://www.greshm.org/blog/ubi-and-the-anti-work-vibe-shift/)
+- [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
+- [Aphex Twin gave us a peek inside a 90s classic. Here’s what we learned.](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
+
+> automated scraping examples github
+
+- [alexwlchan/scheduled-screenshots: Regular screenshots of the homepage of my website](https://github.com/alexwlchan/scheduled-screenshots)
+- [daniel-j-h/bundesrecht-scraper: Github Action based scraper to capture changes to Bundesrecht at gesetze-im-internet.de](https://github.com/daniel-j-h/bundesrecht-scraper)
+- [honzajavorek/czech-political-parties: Tracking changes in Czech political parties](https://github.com/honzajavorek/czech-political-parties)
+- [palewire/nyc-open-data-monitor: Automated monitoring of new and updated datasets posted to New York City's data portal](https://github.com/palewire/nyc-open-data-monitor)
+- [simonw/conditional-get: CLI tool for fetching data using HTTP conditional get](https://github.com/simonw/conditional-get)
+
+> pdf to markdown
+
+- [getomni-ai/zerox: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
+
 #### 24-07-2024
+
+1. **Listen to the birds.** -
+   That's where all the music comes from. Birds know everything about how it should sound and where that sound should come from. And watch hummingbirds. They fly really fast, but a lot of times they aren't going anywhere.
+
+2. **Your guitar is not really a guitar, your guitar is a divining rod.** -
+   Use it to find spirits in the other world and bring them over. A guitar is also a fishing rod. If you're good, you'll land a big one.
+
+3. **Practice in front of a bush** -
+   Wait until the moon is out, then go outside, eat a multi-grained bread and play your guitar to a bush. If the bush dosen't shake, eat another piece of bread.
+
+4. **Walk with the devil** -
+   Old Delta blues players referred to guitar amplifiers as the "devil box." And they were right. You have to be an equal opportunity employer in terms of who you're bringing over from the other side. Electricity attracts devils and demons. Other instruments attract other spirits. An acoustic guitar attracts Casper. A mandolin attracts Wendy. But an electric guitar attracts Beelzebub.
+
+5. **If you're guilty of thinking, you're out** -
+   If your brain is part of the process, you're missing it. You should play like a drowning man, struggling to reach shore. If you can trap that feeling, then you have something that is fur bearing.
+
+6. **Never point your guitar at anyone** -
+   Your instrument has more clout than lightning. Just hit a big chord then run outside to hear it. But make sure you are not standing in an open field.
+
+7. **Always carry a church key** -
+   That's your key-man clause. Like One String Sam. He's one. He was a Detroit street musician who played in the fifties on a homemade instrument. His song "I Need a Hundred Dollars" is warm pie. Another key to the church is Hubert Sumlin, Howlin' Wolf's guitar player. He just stands there like the Statue of Liberty-making you want to look up her dress the whole time to see how he's doing it.
+
+8. **Don't wipe the sweat off your instrument** -
+   You need that stink on there. Then you have to get that stink onto your music.
+
+9. **Keep your guitar in a dark place** -
+   When you're not playing your guitar, cover it and keep it in a dark place. If you don't play your guitar for more than a day, be sure you put a saucer of water in with it.
+
+10. **You gotta have a hood for your engine** -
+    Keep that hat on. A hat is a pressure cooker. If you have a roof on your house, the hot air can't escape. Even a lima bean has to have a piece of wet paper around it to make it grow.
+
+<sup>(This is part of a longer piece, entitled "The Ten Commandments of Guitar Playing as They Were Handed Down to Morris Tepper by Captain Beefheart," by John McCormick, published in 1996 by Rolling Stone in the book Alt-Rock-a-Rama.), plundered from [blog.wfmu.org](https://blog.wfmu.org/freeform/2009/03/captain-beefhearts-10-commandments-of-guitar-playing.html)
+</sup>
+
+---
+
+> Man is a gregarious animal. We work in herds, in teams. The bear can do exactly as he pleases, for he works alone. We do not work alone. We depend throughout our lives on the goodwill of other men. If a man does not learn to bend, to be friendly and considerate, and to respect his brother’s ego — in things both big and little — he’ll find himself disliked and locked up in his own unhappiness." — C.F. Braun
+
+---
 
 _how to market a product_
 

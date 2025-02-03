@@ -1,11 +1,11 @@
 ---
 layout: layouts/page.njk
-title: Feed
+title: feed
 ---
 
-my personal feed, or why would you do something like this
+my personal feed and plunder box
 
-#### sometime in June/July 2024
+#### sometime in June-July 2024
 
 ---
 

@@ -63,8 +63,8 @@ In order of importance?! plans change a lot here so don't count on me doing this
   - [ ] automate format wiki links and add to wiki json
   - [ ] move future weblogs to a json
   - [ ] move past weblogs to a json
-- [ ] markdown text anchor links
-- [ ] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
+- [x] markdown text anchor links
+- [x] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
 - [ ] add cool 90s cursor effects
   - [ ] add tons of other effects ideally without impacting performance
 - [ ] order everything in /links in Audio and below

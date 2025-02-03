@@ -5,6 +5,20 @@ title: feed
 
 my personal feed and plunder box
 
+#### 24-07-2024
+
+_how to market a product_
+
+1. Create a one-liner that tells the primary reason your product needs to exist and should be used by your customers.
+2. Associate each feature with a benefit, all pointing back to the one-liner.
+3. Create a landing page website that proves 1 and 2.
+
+#### 22-07-2024
+
+plundered from HN comment
+
+> The more i've studied i've come to the opposite conclusion. Nature is >99% magic and though some tiny slices of human friendly interfaces of reality are replicable much more is chaos, weird emergence, fields, probabilities and stuff so bizarre to our mammalian logic that we might as well call it magic, god, the simulation or just bleeding edge physics as the whole field is getting weirder and weirder. The whole notion of natures beauty stemming from some replicable, controllable and "no magic" scenario is a very "homo sapiens" desire for order and control. We know close to nothing, and therein lies the beauty in my eyes.
+
 #### sometime in June-July 2024
 
 ---

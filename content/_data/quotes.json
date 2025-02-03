@@ -5,6 +5,11 @@
     "url": "https://www.wikipedia.org/wiki/Aleister_Crowley"
   },
   {
+    "quote": "The purpose of knowledge is action, not knowledge.",
+    "author": "Aristotle",
+    "url": "https://www.wikipedia.org/wiki/Aristotle"
+  },
+  {
     "quote": "Since the time of his youth, Crazy Horse had known that the world men lived in was only a shadow of the real world. To get into the real world, he had to dream, and when he was in the real world everything seemed to float or dance. In this real word his horse danced as if it were wild or crazy, and this was why he called himself Crazy Horse. He had learned that I he dreamed himself into the real world before going into a fight, he could endure anything.",
     "author": "Black Elk",
     "url": "https://www.wikipedia.org/wiki/Black_Elk"
@@ -43,6 +48,11 @@
     "quote": "Aren't there parts of ourselves that are just better left unfed?",
     "author": "David Foster Wallace",
     "url": ""
+  },
+  {
+    "quote": "Cause the technology is just gonna get better and better and it's gonna get easier and easier and more and more convenient and more and more pleasurable to sit alone with images on a screen given to us by people who do not love us but want our money. And that's fine in low doses but if it's the basic main staple of your diet you're gonna die. In a meaningful way, you're going to die.",
+    "author": "David Foster Wallace",
+    "url": "https://www.wikipedia.org/wiki/David_Foster_Wallace"
   },
   {
     "quote": "If you aren't making mistakes, you aren't taking enough risks",
@@ -140,6 +150,11 @@
     "url": "https://gundam.fandom.com/wiki/Jamil_Neate"
   },
   {
+    "quote": "It is astounding to find that the belly of every black and evil thing is as white as snow. And it is saddening to discover how the concealed parts of angels are leporous.",
+    "author": "John Steinbeck",
+    "url": "https://www.wikipedia.org/wiki/John_Steinbeck"
+  },
+  {
     "quote": "I had not realized ... that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people",
     "author": "Joseph Weizenbaum",
     "url": "https://www.wikipedia.org/wiki/Joseph_Weizenbaum"
@@ -168,6 +183,11 @@
     "quote": "We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both.",
     "author": "Louis Brandeis",
     "url": "https://www.wikipedia.org/wiki/Louis_Brandeis"
+  },
+  {
+    "quote": "People should either be caressed or crushed. If you do them minor damage they will get their revenge.",
+    "author": "Machiavelli",
+    "url": "https://www.wikipedia.org/wiki/Machiavelli"
   },
   {
     "quote": "For god's sake, ignore rules for writing. Except the ones that end up making you money.",
@@ -205,6 +225,11 @@
     "url": "https://www.wikipedia.org/wiki/Samuel_Johnson"
   },
   {
+    "quote": "If a man knows not to which port he sails, no wind is favorable.",
+    "author": "Seneca",
+    "url": "https://www.wikipedia.org/wiki/Seneca_the_Younger"
+  },
+  {
     "quote": "The purpose of a system is what it does",
     "author": "Stafford Beer",
     "url": "https://www.wikipedia.org/wiki/Stafford_Beer"
@@ -218,6 +243,16 @@
     "quote": "You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.",
     "author": "Teller",
     "url": "https://www.wikipedia.org/wiki/Teller_(magician)"
+  },
+  {
+    "quote": "Real stupidity beats artificial intelligence every time.",
+    "author": "Terry Pratchett",
+    "url": "https://www.wikipedia.org/wiki/Terry_Pratchett"
+  },
+  {
+    "quote": "Your reward for doing something good is to do something else good.",
+    "author": "Terry Pratchett",
+    "url": "https://www.wikipedia.org/wiki/Terry_Pratchett"
   },
   {
     "quote": "As a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.",
@@ -238,36 +273,6 @@
     "quote": "The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.",
     "author": "Warren Bennis",
     "url": "https://www.wikipedia.org/wiki/Warren_Bennis"
-  },
-  {
-    "quote": "Real stupidity beats artificial intelligence every time.",
-    "author": "Terry Pratchett",
-    "url": "https://www.wikipedia.org/wiki/Terry_Pratchett"
-  },
-  {
-    "quote": "Your reward for doing something good is to do something else good.",
-    "author": "Terry Pratchett",
-    "url": "https://www.wikipedia.org/wiki/Terry_Pratchett"
-  },
-  {
-    "quote": "The purpose of knowledge is action, not knowledge.",
-    "author": "Aristotle",
-    "url": "https://www.wikipedia.org/wiki/Aristotle"
-  },
-  {
-    "quote": "Cause the technology is just gonna get better and better and it's gonna get easier and easier and more and more convenient and more and more pleasurable to sit alone with images on a screen given to us by people who do not love us but want our money. And that's fine in low doses but if it's the basic main staple of your diet you're gonna die. In a meaningful way, you're going to die.",
-    "author": "David Foster Wallace",
-    "url": "https://www.wikipedia.org/wiki/David_Foster_Wallace"
-  },
-  {
-    "quote": "If a man knows not to which port he sails, no wind is favorable.",
-    "author": "Seneca",
-    "url": "https://www.wikipedia.org/wiki/Seneca_the_Younger"
-  },
-  {
-    "quote": "People should either be caressed or crushed. If you do them minor damage they will get their revenge.",
-    "author": "Machiavelli",
-    "url": "https://www.wikipedia.org/wiki/Machiavelli"
   },
   {
     "quote": "It's a responsibility to be as open as you possibly can to the world as an aesthetic object.",

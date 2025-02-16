@@ -5,9 +5,17 @@ title: feed
 
 my personal feed and plunder box
 
+#### 29-07-2024
+
+plundered from Utopia (UK tv show)
+
+> I have over the past 5 years using various international laws, data protetction acts, and internet know how wiped all trace of me from the world
+> no bank account, no bills, drivers license, nothing, and every IP address is masked and encrypted to avoid detection.
+> I'm invisible
+
 #### 28-07-2024
 
-- [Lissy93/web-check: 🕵️‍♂️ All-in-one OSINT tool for analysing any website](https://github.com/Lissy93/web-check)
+- [Lissy93/web-check: OSINT tool for analysing any website](https://github.com/Lissy93/web-check) - comprehensive tool to show a lot of security relevant data on websites - [hosted version to try it out](https://web-check.xyz/)
 - [Redirect Detective](https://redirectdetective.com/) is a free URL redirection checker
 - [Malfet - Northeast Dungeon Siege MMXXI](https://youtube.com/watch?v=fV2K8DEEzyc) - great dungeon synth set
 

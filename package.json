@@ -32,6 +32,7 @@
     "tailwindcss": "^3.3.2"
   },
   "dependencies": {
+    "markdown-it-anchor": "^9.2.0",
     "markdown-it-link-attributes": "^4.0.1"
   }
 }

@@ -63,7 +63,6 @@ Take with a grain of salt 😉
 
 ### Pasta
 
-- [Junge Römer](https://jungeroemer-muenchen.de/)
 - Piccolo principe (Kapuzinerstraße 48, 80469)
 
 ### Spanish

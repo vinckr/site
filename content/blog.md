@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: blog
 ---
 
-## **[feed](feed)**
+## **[feed](../feed)**
 
 ## articles
 

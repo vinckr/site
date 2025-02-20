@@ -7,6 +7,7 @@ title: blog
 
 ## articles
 
+- [36 questions to fall in love](36-questions)
 - [travel report cuba 2023](travel-cuba-2023)
 - [how to use vale as free and customizable open source style checker](open-source-stylecheck)
 - [how to encrypt files in a git repository easy mode](encrypt-dir)
@@ -26,7 +27,7 @@ title: blog
 
 ## weblog 2022-2024
 
-- entries after 05-2024 can be found in [feed](feed)
+- entries after 05-2024 can be found in [feed](../feed)
 - [05-2024](05-24)
 - [04-2024](04-24)
 - [03-2024](03-24)

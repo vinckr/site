@@ -480,7 +480,7 @@ Anything related to sound or music.
 - [Commercial-free, underground/alternative radios](https://somafm.com/)
 - [Ardour Open Source DAW](https://ardour.org/)
 - [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
-- [Shirley & Spinoza Radio ](https://compound-eye.org/)
+- [Shirley & Spinoza Radio](https://compound-eye.org/) - one of the best internet radios
 - [Surge Synth Projects](https://surge-synth-team.org/)
 - [Malfunctioning Industrial Machine Dataset](https://zenodo.org/record/3384388)
 - [Freeware VSTs](https://www.airwindows.com/vsts/)
@@ -600,6 +600,7 @@ Anything related to sound or music.
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
 - [Hand-picked developer jobs](https://devemploy.com/)
 - [Hacker News candidates and jobs](https://hnjobs.u-turn.dev/candidates)
+- [Hacker News who is hiring search engine](https://nchelluri.github.io/hnjobs/)
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
 - [Developer Relations Job Board](https://www.devrelcareers.com/)

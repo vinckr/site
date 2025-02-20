@@ -9,9 +9,7 @@ my personal feed and plunder box
 
 plundered from Utopia (UK tv show)
 
-> I have over the past 5 years using various international laws, data protetction acts, and internet know how wiped all trace of me from the world
-> no bank account, no bills, drivers license, nothing, and every IP address is masked and encrypted to avoid detection.
-> I'm invisible
+> I have over the past 5 years using various international laws, data protetction acts, and internet know how wiped all trace of me from the world no bank account, no bills, drivers license, nothing, and every IP address is masked and encrypted to avoid detection. I'm invisible.
 
 #### 28-07-2024
 
@@ -43,6 +41,8 @@ plundered from Utopia (UK tv show)
 - [getomni-ai/zerox: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
 
 #### 24-07-2024
+
+**The Ten Commandments of Guitar Playing**
 
 1. **Listen to the birds.** -
    That's where all the music comes from. Birds know everything about how it should sound and where that sound should come from. And watch hummingbirds. They fly really fast, but a lot of times they aren't going anywhere.

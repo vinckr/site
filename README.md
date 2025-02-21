@@ -61,8 +61,8 @@ In order of importance?! plans change a lot here so don't count on me doing this
   - [ ] automate format imdb links and add to movie json (also for reviews)
   - [ ] automate format goodreads links and add to books json (also for reviews)
   - [ ] automate format wiki links and add to wiki json
-  - [ ] move future weblogs to a json
-  - [ ] move past weblogs to a json
+  - [x] ~~move future weblogs to a json~~
+  - [x] ~~move past weblogs to a json~~
 - [x] markdown text anchor links
 - [x] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
 - [ ] add cool 90s cursor effects
@@ -74,9 +74,6 @@ In order of importance?! plans change a lot here so don't count on me doing this
   - [ ] add edited date
 - [ ] 404 page
   - [ ] other errors?
-
-## TODO nice to have
-
 - [ ] change goodreads to something else, maybe worldcat
 - [ ] move to my own static site builder again? or dynamic?
 - [ ] markdown footnotes

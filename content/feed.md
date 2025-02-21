@@ -3,15 +3,70 @@ layout: layouts/page.njk
 title: feed
 ---
 
-my personal feed and plunder box
+my personal feed and plunder box.
+
+<small>Always check the sources and don't take it seriously!
+The stories and information posted here are artistic works of fiction and falsehood.
+Only a fool would take anything posted here as fact.</small>
+
+### 20-08-2024
+
+- [A fully free and self-contained modular synthesizer based on the popular VCV Rack](https://cardinal.kx.studio/)
+
+### 23-08-2024
+
+- [CUII Liste](https://cuiiliste.de/) - list of all domains banned in Germany by the CUII
+- [jhj0517/Whisper-WebUI: A Web UI for easy subtitle using whisper model.](https://github.com/jhj0517/Whisper-WebUI) - haven't tried it out yet, but whisper is really cool imo.
+- [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html) - In my experience it very often is a bad idea, since the data is bad and people don't take the time to get it into a state that actually tells you something concrete - most often that is also very hard to do, if not impossible.
+
+Great [HN comment](https://news.combinator.com/item?id=41322474) on that article:
+
+> I spend a huge chunk of my time swimming in a sea of data that people have carelessly amassed on the assumption that data is inherently valuable. And frequently I come to the conclusion that this data has negative value. The people who collected it failed to record enough information about the data's provenance. So I don't know what kind of processes produced it, how and why it was collected, any transformations that might have happened on the way to storing it, etc. Without that information, I simply cannot know for sure what any of it really means with enough precision to be able to draw valid conclusions from it. The best I can do is advise caution, say that this data can help us form hypotheses whose only true use is helping us form a plan to collect new data that will help us answer the question we have. What I'm typically asked to do instead is make a best guess and call it good. The former option is just the scientific method. The latter option is the very essence of pseudoscience. That second word in my job title gives me some anxiety. I'm keenly aware that most people are more fond of the word "science" than they are of the intellectual practice we call science. The people who like to amass data are no exception.
+
+Quote from [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) on death:
+
+> I have no fear of death whatsoever. I used to do a little experiment for the fun of it in my elevator here, when I go down to the first floor. I can control the elevator so when I go in, I shut out the lights and I’m in total darkness. I think, when I get to the first floor that I’m going to be dead. As I go down, I think, I had such an interesting life, I got to be a movie director, have a wife and children, had so much fun with them, got to be in the wine business, go through everything, and as I’m lost in all these interesting thoughts, the door opens on the first floor and I’m not dead. I walk out.
+
+### 22-08-2024
+
+- [Remove Firefox private attribution](https://make-firefox-private-again.com/) - a code snippet - background is that Mozilla added something called "Private Attribution" - I dont know too much about the details but its an effort to implement "private" tracking for marketing. Read more in this [reddit thread](https://www.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/) and decide for yourself.
+- [danhill feed](https://100kb.danhill.is/) - a feed similar to mine, even more minimal - but with tags. I personally don't like organising tags and coming up with good tags, but it works great for dan.
+- [You don't know how bad most things are nor precisely how they're bad.](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how) - great article on how much you don't know or why it is hard to come up with generalized solutions for stuff.
+- [Secret Lives of Orangutans review](https://www.theguardian.com/tv-and-radio/article/2024/aug/22/secret-lives-of-orangutans-review-david-attenborough-netflix) - goes on my watchlist, also enjoyed reading this review.
+
+### 21-08-2024
+
+- [Getting flux to work on Apple Silicon Mac](https://github.com/comfyanonymous/ComfyUI/issues/4165#issuecomment-2264948167) - this comment helped me, basically needed to downgrade torch.
+
+### 11-08-2024
+
+- [Roast my website](https://www.roastmywebsite.ai/) - it's an advertisement for some LLM company but pretty funny - you do need to sign up to their service to use though :/
+- [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail) - I can only second this, Go is the only programming language that I really like working with, and even though I'm no hackerman I have enjoyed writing lots of small personal tools with it, plus my static site generator - which is on ice at the moment, but I am planning to revive it!
+
+### 13-08-2024
+
+[Bangalore meetup report](https://www.ribbonfarm.com/2024/06/05/bangalore-meetup-report/) - a bit random but I just really like this guy's writing, basically any of his blogposts I can recommend.
+[Decision brownouts](https://www.ribbonfarm.com/2024/05/12/decision-brownouts/) - talks about decision making and how it sometimes paralyzes you - to break you you need to get some energy flowing - whatever that means in the moment.
+
+#### 08-08-2024
+
+- [Mitchell and Webb - Immortal Kids - Youtube](https://youtube.com/watch?v=wt6nwvGJiN8) - smug little immortal bastards!
+- [‘Agua, Agua’](https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/) - harrowing tale of desert survival; Pablo Valencia somehow survived a week without water in the desert; decades later a history buff tried to retrace his steps and hilariously also almost died.
+- [How do we evaluate our lives, at the end? What counts, what matters?](https://jakeseliger.com/2023/07/23/how-do-we-evaluate-our-lives-at-the-end-what-counts-what-matters/)
+- [I know what happens to me after I die, but what about those left behind?](https://jakeseliger.com/2023/08/21/i-know-what-happens-to-me-after-i-die-but-what-about-those-left-behind/)
+- [Engage your audience by getting to the point, using story structure, and forcing specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/) - how to use stories for everything
+- [The story spine](https://sketchplanations.com/the-story-spine) - nice illustration of the concept that the article above talks about
+- [Urchin Software Corp.](https://urchin.biz/urchin-software-corp-89a1f5292999?gi=84f21302465b) - the story of how Google Analytics came to be, and why UTM is called UTM, key quote:
+  > The UTM, or Urchin Traffic Monitor, was an early method for augmenting Apache (or IIS, etc.) log files with cookies, such that unique visitors could be established.
+- [What the hell is a luminiferous theremin ?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/) - description of a cool modern theremin design
+- [The Voynich Manuscript](https://archive.org/details/the-voynich-manuscript_202008/) - needs no introduction
+- [The Unclassifiable Essays of Eliot Weinberger](https://archive.vn/fBqOP) - great essay about essays i guess
 
 #### 29-07-2024
 
 plundered from Utopia (UK tv show)
 
-> I have over the past 5 years using various international laws, data protetction acts, and internet know how wiped all trace of me from the world
-> no bank account, no bills, drivers license, nothing, and every IP address is masked and encrypted to avoid detection.
-> I'm invisible
+> I have over the past 5 years using various international laws, data protetction acts, and internet know how wiped all trace of me from the world no bank account, no bills, drivers license, nothing, and every IP address is masked and encrypted to avoid detection. I'm invisible.
 
 #### 28-07-2024
 
@@ -43,6 +98,8 @@ plundered from Utopia (UK tv show)
 - [getomni-ai/zerox: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)
 
 #### 24-07-2024
+
+**The Ten Commandments of Guitar Playing**
 
 1. **Listen to the birds.** -
    That's where all the music comes from. Birds know everything about how it should sound and where that sound should come from. And watch hummingbirds. They fly really fast, but a lot of times they aren't going anywhere.

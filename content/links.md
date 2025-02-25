@@ -15,7 +15,6 @@ Public domain books and online libraries.
 - [Project Gutenberg](https://gutenberg.org/)
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/collections)
 - [The Vintage Technology Digital Archive](https://vtda.org/)
-- [Digital Public Library of America](https://dp.la/)
 - [Digital Collection of the German State Library](https://digital.staatsbibliothek-berlin.de/)
 - [Global Grey](https://www.globalgreyebooks.com/)
 - [The Anarchist Library](https://theanarchistlibrary.org/)
@@ -68,7 +67,6 @@ Mostly blogs, forums, and other internet-centric publications or good articles.
 
 - [Clarkesworld](https://clarkesworldmagazine.com/)
 - [AEscifi](https://aescifi.ca/)
-- [Teleport](https://www.teleportmagazine.com/)
 
 ## Write
 
@@ -80,8 +78,6 @@ Mostly blogs, forums, and other internet-centric publications or good articles.
 - [Tool to find word alternatives](https://carefulwords.com/)
 - [List of tips for effective internet research](https://www.gwern.net/Search)
 - [List of common writing mistakes](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-- [List of transcripts of Obama speeches](https://obamaspeeches.com/)
-- [Guide to the 8-sequence structure of screenplays](https://algeri-wong.com/yishan/things-i-learned-from-my-wifes-screenwriting-education-part-i.html)
 - [Guide to writing by the Australian government](https://www.stylemanual.gov.au/)
 - [Dictionary of Slang](https://greensdictofslang.com/)
 
@@ -100,7 +96,7 @@ Resources for software, web development and other topics related to making the m
 - [List of HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 - [List of common CLI commands](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
-Personal cheat sheets
+#### Personal cheat sheets
 
 - [My list of common git commands](blog/git)
 - [My guide to set up MacOs](blog/macos)
@@ -151,7 +147,6 @@ Personal cheat sheets
 #### File sharing
 
 - [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
-- [Privacy friendly file sharing](https://storage.sx/)
 - [Good file sharing service](https://put.re/)
 
 #### Disposable Email
@@ -279,6 +274,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Community of people coding live](https://www.reddit.com/r/WatchPeopleCode/)
 - [Free IBM data science professional certificate course](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Free online computer science course from Harvard](https://cs50.harvard.edu/x/2024/)
+- [List of free public APIs to play around with](https://www.freepublicapis.com/)
 
 #### Lists of learning resources
 
@@ -327,7 +323,6 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of great sci-fi fonts](https://iconian.com/)
 - [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
-- [B612](https://b612-font.com/)
 - I also like: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
 ### Security
@@ -340,14 +335,12 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of resources for protecting against surveillance](https://ssd.eff.org/)
 - [List of infosec resources](https://hackmd.io/s/V1GLSF0R#related-awesome-lists)
 - [List of common user agent strings](https://www.useragents.me/)
-- [List of security focused videos](https://www.securitytube.net/)
 - [List of security tools](https://offsec.tools/)
 - [Another list of infosec resources](https://github.com/onlurking/awesome-infosec#awesome-infosec)
 - [Tool to create canarytokens](https://canarytokens.org/)
 - [Tool to find leaked credentials](https://github.com/trufflesecurity/trufflehog)
 - [Tool to check if your browser fingerprint is unique](https://amiunique.org/)
 - [Guide to CSRF, CORS, and HTTP headers](https://blog.vnaik.com/posts/web-attacks.html)
-- [Guide on how to inflict sabotage through ordinary means](https://www.hsdl.org/c/abstract/?docid=750070)
 - [Guide on secure email delivery](https://resend.com/blog/email-authentication-a-developers-guide)
 - [Guide how to respond when hit by ransomware](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)
 - [Guide on how to secure routers](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
@@ -360,7 +353,6 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of adversary tactics and techniques](https://attack.mitre.org/)
 - [List of data breaches](https://monitor.firefox.com/breaches)
 - [Tool to find public files in Google Drive](https://www.dedigger.com)
-- [Tool to find a username on all socials](https://www.handlefinder.com/)
 - [Tool to find a username on even more socials](https://github.com/sherlock-project/sherlock)
 - [Enumerate usernames across many websites](https://whatsmyname.app/)
 
@@ -389,7 +381,6 @@ Helpful when building an application, website, business, or something else relat
 - [Guide to payments, tax & subscriptions for software companies](https://www.lemonsqueezy.com/)
 - [Guide to identifying enterprise buying intent through raw logs](https://ghuntley.com/rawlogs/)
 - [List of advice for startups](https://playbook.samaltman.com/)
-- [List of SaaS onboarding flows](https://www.marbleflows.com/onboarding)
 - [Guide to incident management for software companies](https://onlineornot.com/incident-management)
 - [List of Paul Grahams essays](https://github.com/ofou/graham-essays)
 - [Guide to commoditization for companies](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
@@ -401,7 +392,6 @@ Helpful when building an application, website, business, or something else relat
 
 Related to marketing in all its forms.
 
-- [Tool to generate social media post images](https://app.jellylade.com/)
 - [List of resources to promote a startup](https://github.com/trekhleb/promote-your-next-startup)
 - [List of developer content creators](https://github.com/CrowdDotDev/devcontentcreators)
 
@@ -501,7 +491,6 @@ Anything related to sound or music.
 
 ## Video
 
-- [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
 - [Spout - Ultra-fast, realtime video routing for Windows](https://spout.zeal.co/)
 - [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
 
@@ -533,7 +522,7 @@ Anything related to sound or music.
 - [Civitai | Checkpoints, Loras and more](https://civitai.com/)
 - [Stable Diffusion search engine](https://lexica.art/)
 - [Prompthero - prompts/generated images database](https://prompthero.com/)
-- [Krea Prompts API](https://devapi.krea.ai/)
+- [Krea](https://krea.ai/)
 - [Stable Diffusion XL artist style list](https://stablediffusion.fr/artist-style)
 - [The definitive Stable Diffusion experience guide](https://rentry.org/voldy)
 - [Public Prompts](https://publicprompts.art/)
@@ -557,12 +546,10 @@ Anything related to sound or music.
 - [Meme generator from Ace Attorney](https://objection.lol/)
 - [Night-time driving simulation](https://github.com/jes/nightdrive)
 - [you-are-here](https://s-n-d.si/)
-- [Time Cube](https://timecube.2enp.com/)
 - [The Restart Page - Free unlimited rebooting experience from vintage operating systems](http://www.therestartpage.com/)
 - [Creed Thoughts](https://creedthoughtsgov.com/september-20-2007/)
 - [Holotypic occlupanid researc group](https://horg.com/)
 - [Domus Kaotica Marauder Underground](https://dkmu.org/)
-- [Bastard Operator from Hell](https://www.dit.upm.es/~jantonio/personal/sysadmin/)
 - [YTMND - Blue Ball Machine (fixed)](https://blueballfixed.ytmnd.com/)
 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
 - [puter.com](https://puter.com/)
@@ -598,8 +585,6 @@ Anything related to sound or music.
 ### Jobs
 
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
-- [Hand-picked developer jobs](https://devemploy.com/)
-- [Hacker News candidates and jobs](https://hnjobs.u-turn.dev/candidates)
 - [Hacker News who is hiring search engine](https://nchelluri.github.io/hnjobs/)
 - [Remote Friendly Jobs](https://remotefriendly.com/)
 - [Location independent jobs in Engineering, Programming, Marketing, Sales, Design, and more.](https://www.realworkfromanywhere.com/)
@@ -618,7 +603,6 @@ Anything related to sound or music.
 - [HTML Over The Wire](https://hotwire.dev/)
 - [Fix and remove annoying webelements](https://github.com/yourduskquibbles/webannoyances)
 - [555 Timer Circuits](https://www.555-timer-circuits.com/)
-- [Web interface for advanced reddit searches](https://redditsearch.com/)
 - [Double-Entry Accounting from Text Files](https://beancount.github.io/)
 - [The Internet Speculative Fiction Database](https://isfdb.org/cgi-bin/index.cgi)
 - [GitHub Archive](https://www.gharchive.org/)

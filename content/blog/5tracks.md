@@ -16,7 +16,7 @@ It has been one of the things that motivated me to keep starting to blog again a
 
 ## 5 memphis rap songs to bump while riding with the pistol grip
 
-- [Lil Fly - Funked Out Loced Out](https://www.youtube.com/watch?v=sxeKcmyW2YM)
+- [Lil Fly - Funked Out Loced Out](https://www.youtube.com/watch?v=SkLu63LI8dI)
 - [DJ Sir Swift - Creepin' Thru the Graveyard](https://www.youtube.com/watch?v=fsXI1sqSx44)
 - [Three-6 Mafia - Now I'm Hi Pt. 3](https://www.youtube.com/watch?v=zs9n_OYVj9k)
 - [Gangsta Boo & Crunchy Black - I Thought You Knew](https://www.youtube.com/watch?v=rRC8hxytWIs)

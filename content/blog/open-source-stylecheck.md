@@ -15,7 +15,7 @@ Vale contains two main components:
 - Styles: styles for your text.
   - Vocab: contains words you want to excempt from the spellcheck.
 
-Check [the documentation](https://docs.errata.ai) for more detailed information on all features. In the following I will give a short step-by-step guide that will be enough for basic usage.
+Check [the documentation](https://vale.sh/docs/) for more detailed information on all features. In the following I will give a short step-by-step guide that will be enough for basic usage.
 
 [Installation on MacOs](https://vale.sh/docs/) (when using brew): `brew install vale`. Check if Vale has been installed: `vale -h`.
 

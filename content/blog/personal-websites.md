@@ -8,7 +8,6 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 - [drewdevault.com](https://drewdevault.com/)
 - [danluu.com](https://danluu.com/)
 - [jeffgeerling.com](https://www.jeffgeerling.com/blog)
-- [bt.ht](https://bt.ht)
 - [taylor.town](https://taylor.town/about)
 - [alexwlchan.net](https://alexwlchan.net/)
 - [nikiv.dev](https://nikiv.dev/)
@@ -41,8 +40,8 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 - [second-hander.com](https://second-hander.com/)
 - [getpostdelete.com](https://getpostdelete.com/)
 - [Maggie Appleton](https://maggieappleton.com/)
+- [localghost.dev](https://localghost.dev/blog/)
 
 ## Other collections
 
-- [10 KB Club](https://10kbclub.com/)
 - [ooh.directory](https://ooh.directory/)

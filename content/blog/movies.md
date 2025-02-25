@@ -15,6 +15,13 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Speak no evil](https://imdb.com/title/tt27534307/) 3/5
+- [The Day of the Jackal](https://imdb.com/title/tt24053860/) 3/5
+- [Ratatouille](https://imdb.com/title/tt0382932/) 4/5
+- [The Apprentice](https://imdb.com/title/tt8368368/) 3/5
+- [Kaos](https://imdb.com/title/tt8550732/) 4/5
+- [The Substance](https://imdb.com/title/tt17526714/) 4/5
+- [The Terror](https://imdb.com/title/tt2708480/) 4/5
 - [This Place Rules](https://www.imdb.com/title/tt23950956/) 4/5
 - [Late Night with the Devil](https://www.imdb.com/title/tt14966898/) 4/5
 - [Monkey Man](https://www.imdb.com/title/tt9214772/) 4/5

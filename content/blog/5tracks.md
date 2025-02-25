@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+## 5 Dillinja tunes to watch c-beams glitter in the dark to
+
+- [Dillinja - I Wanna Know](https://www.youtube.com/watch?v=5L-HyLggRB8)
+- [Dillinja - Unexplored Terrain](https://www.youtube.com/watch?v=1eKZgTB6Bac)
+- [Dillinja - Silver Blade](https://www.youtube.com/watch?v=i2UA0VG-wms)
+- [Dillinja - Tronik Funk](https://www.youtube.com/watch?v=U5BBG3v13MQ)
+- [Dillinja - The Angels Fell](https://www.youtube.com/watch?v=G9lxLXbHbk8)
+
 ## 5 classic hiphop tracks to chill to on a lazy day
 
 - [Random Thought](https://www.youtube.com/watch?v=vqZUzduZLJg)
@@ -22,7 +30,7 @@ It has been one of the things that motivated me to keep starting to blog again a
 - [Gangsta Boo & Crunchy Black - I Thought You Knew](https://www.youtube.com/watch?v=rRC8hxytWIs)
 - [DJ Paul - Sweet Robbery](https://www.youtube.com/watch?v=ttf9Kd_MbhQ)
 
-## 5 awesome songs that Daft Punk sampled extensively on the Discovery album
+## 5 awesome songs that Daft Punk sampled on the Discovery album
 
 - [Edwin Birdsong - Cola Bottle Baby](https://www.youtube.com/watch?v=Z3AKrwna2C8)
 - [George Duke - I Love You More](https://www.youtube.com/watch?v=IEibygqqLZc)

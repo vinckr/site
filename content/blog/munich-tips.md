@@ -17,7 +17,7 @@ Take with a grain of salt 😉
 
 ### Burger
 
-- [My Stolz - The Burger Boss](https://mystolz.com/)
+- [My Stolz - The Burger Boss](https://mystolzz.de/)
 
 ### Chinese
 

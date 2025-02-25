@@ -244,7 +244,6 @@ No guide here yet.
 - [Stable Diffusion beginner's guide](https://stable-diffusion-art.com/beginners-guide/)
 - [Video to video with Stable Diffusion](https://stable-diffusion-art.com/video-to-video/)
 - [ControlNet guide](https://stable-diffusion-art.com/controlnet/)
-- [Search other peoples prompts](https://search.krea.ai/)
 - [Stable Diffusion DreamBooth Models](https://cyberes.github.io/stable-diffusion-dreambooth-library/)
 - [GFPGAN - Real-world Face Restoration.](https://github.com/TencentARC/GFPGAN)
 - [List of science fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)

@@ -5,9 +5,28 @@ title: feed
 
 my personal feed and plunder box.
 
-<small>Always check the sources and don't take it seriously!
+<small>Always check the sources and don't take this too seriously!
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
+
+### 01-09-2024
+
+- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - I didn't try it out yet, but its on the list.
+- [I ruined my SEO and a stranger from Hacker News help me fix it](https://johnnyreilly.com/how-we-fixed-my-seo) - lots of random SEO tips in this article. I still think some of this is cursed advice in a way...
+- [Real-time maps for lightning strikes](https://www.blitzortung.org/)
+
+### 29-08-2024
+
+- [Bypassing airport security via SQL injection](https://ian.sh/tsa) - a classic story in the category of "auth is hard".
+
+### 26-08-2024
+
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/) - keep it simple stupid
+- [GPG And Me](https://moxie.org/2015/02/24/gpg-and-me.html) - GPG sounds cool but its pretty bad in practice, this article confirms my bias.
+
+### 25-08-2024
+
+- [Poets’ Odd Jobs](https://poets.org/text/poets-odd-jobs) - There’s no money in poetry, but then there’s no poetry in money either - harking back to another article about the sidegigs of world famous artists to support their art this is a list of the jobs of some of the greatest poets of our time.
 
 ### 20-08-2024
 
@@ -19,7 +38,7 @@ Only a fool would take anything posted here as fact.</small>
 - [jhj0517/Whisper-WebUI: A Web UI for easy subtitle using whisper model.](https://github.com/jhj0517/Whisper-WebUI) - haven't tried it out yet, but whisper is really cool imo.
 - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html) - In my experience it very often is a bad idea, since the data is bad and people don't take the time to get it into a state that actually tells you something concrete - most often that is also very hard to do, if not impossible.
 
-Great [HN comment](https://news.combinator.com/item?id=41322474) on that article:
+Great [HN comment](https://news.ycombinator.com/item?id=41322474) on that article:
 
 > I spend a huge chunk of my time swimming in a sea of data that people have carelessly amassed on the assumption that data is inherently valuable. And frequently I come to the conclusion that this data has negative value. The people who collected it failed to record enough information about the data's provenance. So I don't know what kind of processes produced it, how and why it was collected, any transformations that might have happened on the way to storing it, etc. Without that information, I simply cannot know for sure what any of it really means with enough precision to be able to draw valid conclusions from it. The best I can do is advise caution, say that this data can help us form hypotheses whose only true use is helping us form a plan to collect new data that will help us answer the question we have. What I'm typically asked to do instead is make a best guess and call it good. The former option is just the scientific method. The latter option is the very essence of pseudoscience. That second word in my job title gives me some anxiety. I'm keenly aware that most people are more fond of the word "science" than they are of the intellectual practice we call science. The people who like to amass data are no exception.
 
@@ -45,8 +64,8 @@ Quote from [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Cop
 
 ### 13-08-2024
 
-[Bangalore meetup report](https://www.ribbonfarm.com/2024/06/05/bangalore-meetup-report/) - a bit random but I just really like this guy's writing, basically any of his blogposts I can recommend.
-[Decision brownouts](https://www.ribbonfarm.com/2024/05/12/decision-brownouts/) - talks about decision making and how it sometimes paralyzes you - to break you you need to get some energy flowing - whatever that means in the moment.
+- [Bangalore meetup report](https://www.ribbonfarm.com/2024/06/05/bangalore-meetup-report/) - a bit random but I just really like this guy's writing, basically any of his blogposts I can recommend.
+- [Decision brownouts](https://www.ribbonfarm.com/2024/05/12/decision-brownouts/) - talks about decision making and how it sometimes paralyzes you - to break you you need to get some energy flowing - whatever that means in the moment.
 
 #### 08-08-2024
 
@@ -83,7 +102,7 @@ plundered from Utopia (UK tv show)
 - [90% of performance is data access patterns](https://swizec.com/blog/90p-of-performance-is-data-access-patterns/)
 - [UBI and the Anti-Work Vibe Shift](https://www.greshm.org/blog/ubi-and-the-anti-work-vibe-shift/)
 - [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
-- [Aphex Twin gave us a peek inside a 90s classic. Here’s what we learned.](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
+- [Aphex Twin gave us a peek inside a 90s classic. Here’s what we learned.](https://cdm.link/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
 
 > automated scraping examples github
 

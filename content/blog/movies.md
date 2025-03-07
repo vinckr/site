@@ -15,8 +15,17 @@ Rating:
 - 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
 
+- [Nosferatu](https://www.imdb.com/title/tt5040012/) 5/5
+- [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/) 3/5
+- [Terminator: Dark Fate](https://www.imdb.com/title/tt6450804/) 3/5
+- [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/) 2/5
+- [Commando](https://www.imdb.com/title/tt0088944/) 3/5
+- [Alien³](https://www.imdb.com/title/tt0103644/) 4/5
+- [The Maze Runner](https://www.imdb.com/title/tt1790864/) 3/5
+- [The Day of the Jackal (TV Series)](https://imdb.com/title/tt24053860/) 3/5
+- [The Day of the Jackal (1973)](https://www.imdb.com/title/tt0069947/) 4/5
+- [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/) 4/5
 - [Speak no evil](https://imdb.com/title/tt27534307/) 3/5
-- [The Day of the Jackal](https://imdb.com/title/tt24053860/) 3/5
 - [Ratatouille](https://imdb.com/title/tt0382932/) 4/5
 - [The Apprentice](https://imdb.com/title/tt8368368/) 3/5
 - [Kaos](https://imdb.com/title/tt8550732/) 4/5

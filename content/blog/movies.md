@@ -56,7 +56,7 @@ Rating:
 - [One Piece (Live Action)](https://www.imdb.com/title/tt11737520/) 3/5
 - [Maniac (Series)](https://www.imdb.com/title/tt5580146/) 3/5
 - [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/) 3/5
-- [Bad Lieutenant: Port of Call New Orleans](https://www.imdb.com/title/tt1095217/) 3/5
+- [Bad Lieutenant: Port of Call New Orleans](https://www.imdb.com/title/tt1095217/) 4/5
 - [The Five Devils](https://www.imdb.com/title/tt13391708) 4/5
 - [Renfield](https://www.imdb.com/title/tt11358390/) 3/5
 - [Face/Off](https://www.imdb.com/title/tt0119094/) 3/5

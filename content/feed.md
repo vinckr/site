@@ -9,6 +9,137 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 22-09-2024
+
+- [CISA boss: Makers of insecure software must stop enabling today's cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
+  > Even calling security holes 'software vulnerabilities' is too lenient. This phrase really diffuses responsibility. We should call them 'product defects'. And instead of automatically blaming victims for failing to patch their products quickly enough, why don't we ask: Why does software require so many urgent patches? The truth is: We need to demand more of technology vendors.
+  > We don't have a cyber security problem – we have a software quality problem. We don't need more security products – we need more secure products.
+
+### 20-09-2024
+
+- [Stop designing your web application for millions of users when you don’t even have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
+- [Coding Guidelines for Contributors to TypeScript](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines) - STOP READING IMMEDIATELY - I just thought that was hilarious
+
+### 19-09-2024
+
+- Video: [RZA sampling](https://youtu.be/jSEs8-46Qlo) - Perfect scene from Wu-tang Saga that explains the essence of digging, sampling, and beatmaking.
+- [Ellen McLain - Wikipedia](https://en.m.wikipedia.org/wiki/Ellen_McLain)
+- [After the Beep](https://afterthebeep.tel/) - random voicemails
+- [TypeScript Remove is a utility that removes unused code from TypeScript projects](https://github.com/line/ts-remove-unused)
+- [kaBeech/serious-shanns: A legible monospace font for playful professionals. Comic Sans for hackers](https://github.com/kaBeech/serious-shanns)
+
+### 16-09-2024
+
+- [I give you feedback on your blog post draft but you don't send it to me](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me) - great tips how to improve your blogposts, or writing in general. It boils down to "people pay attention to what you are saying","people understand what you are saying", "say the thing".
+- [edgemap](https://resilience-theatre.com/edgemap/) - offline, gps-capable maps, tbh I don't fully understand what this is but it sounds so cool.
+- [Nothing: Simply Do Nothing](https://usenothing.com/) - just don't do anything for once.
+- [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn’t.](https://archive.ph/TmaOu)
+- [Plain Text Accounting (PTA)](https://plaintextaccounting.org/) - I wanted to use this for myself for ages, I just need to do it already haha - [TRY]
+- [meet.hn](https://meet.hn/) - [TRY]
+- [DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit/tree/masterd) - Image viewer and metadata (prompt) searcher for your AI generated images - I really need some tools to organize or just archive my prompts, this could be it - [TRY]
+
+As you can see I'm experimenting with adding the [TRY] tag to anything that I really want to try out but haven't gotten around to yet. Let's see how useful it is. Alternatively I could also create a separate document for this...
+
+plundered from an [HN comment](https://news.ycombinator.com/item?id=41552861) - basic rules for raising children
+
+1. Never lie to children. It's easy to make up a story to avoid an emotional outburst. People that lie cannot be trusted, trust is the cornerstone of a relationship, don't lie.
+1. Don't avoid emotions. Lean in. Feeling emotions is a human right. Let kids feel emotions. Be with them and make them feel safe. Through conversation try to dissect, explain and appreciate why they're feeling emotional.
+1. Hug them. Only let go when they let go.
+1. Say goodbye. Don't sneak out the house to avoid an emotional outburst. Not understanding where a parent went, or why you missed them leaving is traumatic. Say goodbye.
+1. Never pretend that you'll leave them. Kid is at playground and doesn't want to leave? Never faux walk away and pretend you're leaving without them. Fear is not a parenting strategy, it's abuse.
+   Tue, 17 Sept
+
+- Video: [Do Nothing - a message of motivation from Self-help Singh](https://www.youtube.com/watch?v=8An2SxNFvmU)
+
+> We aim at nothing and we seldom miss
+
+### 15-09-2024
+
+- [To Forget is an Ethical Act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
+- [Designing organisations that work](https://thenextwavefutures.wordpress.com/2024/09/10/designing-organisations-that-work-stafford-beer-viable-systems-model/)
+- [The Splintered Mind: The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
+- [How to succeed in MrBeast production (leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
+- [Bullshit Remover](https://www.bullshitremover.com/)
+
+> He who denies my version of the facts is to me perverse, alien, dangerous.
+> How shall I account for him? The opponent has always to be explained, and the last explanation that we ever look for is that he sees a different set of facts.
+
+- [brsloan/warewoolf: A minimalist novel-writing system/rich text editor designed to be usable without a mouse.](https://github.com/brsloan/warewoolf)
+- [Merklemap/merklemap-cli: Discover and enumerate all subdomains associated with a website, including those not publicly advertised.](https://github.com/Barre/merklemap-cli)
+
+### 14-09-2024
+
+- [Gottfried Mind, The Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats/)
+- [CSS Pattern: Fancy backgrounds with CSS gradients](https://css-pattern.com/)
+
+### 12-09-2024
+
+- [Be a thermostat, not a thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
+
+### 11-09-2024
+
+- [Jeremy Couillard’s video games capture what it’s like to be alive right now](https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes?lang=en)
+
+> A comically oversized, neon-yellow sweatshirt imprinted with the word ‘Depression
+
+- Random goofy nick name ideas
+  - String Terminator
+  - U+0083
+  - Data Link Escape
+  - molitor5901
+
+[Remove-BG](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
+
+### 09-09-2024
+
+- plundered from [Olshansk/llm.sh](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
+
+```
+# A one liner to leverage the GPU on a mac to transcribe audio files
+# Inspired by https://simonwillison.net/2024/Aug/13/mlx-whisper/
+llm_transcribe_recording () {
+	local file_path="$1"
+	python3 -c "
+import mlx_whisper
+result = mlx_whisper.transcribe('$file_path', path_or_hf_repo='mlx-community/distil-whisper-large-v3')
+print(result['text'])
+"
+}
+```
+
+- [DevHub](https://github.com/jaywcjlove/DevHub) - offline coding companion app with lots of useful tools
+
+### 08-09-2024
+
+> Get a piece of paper and divide it into two columns. Head one column self-pity and the other one self-compassion. Under the self-compassion headline put the following: “Is constructive and promotes emotional resilience, self-awareness and growth.” Under self-pity headline write: “Is destructive and leads to a cycle of negativity, helplessness and emotional stagnation
+
+[DeutschlandAPI](https://deutschland-api.dev/) - The DeutschlandAPI project provides a modern REST API to access public information of germany. Aggregates different public APIs and data sources and provide them in a unified API.
+
+### 07-09-2024
+
+- [MNT Research](https://mntre.com/) - open hardware/software laptops. I never used them but it does look very cool
+- [‘Right to Repair for Your Body’](https://fourthievesvinegar.org/)
+  Great quote from the article above:
+  > I would have been interested to hear more of his perspective, because I am of the general impression that most people in most situations do what they do because they think it’s the right thing. When you find someone doing something you think is really wrong, they’re usually dealing with a different set of assumptions and logical structure than you are. It’s not that there’s no logic. Usually people have thought it through and their manner of thought is different than yours.”
+
+### 05-09-2024
+
+- [Every Man for Himself and God Against All by Werner Herzog review – magical thinking](https://www.theguardian.com/books/2023/oct/19/every-man-for-himself-and-god-against-all-by-werner-herzog-review-magical-thinking) - great review of Werner Herzogs autobiography
+- [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll) - who knows when I might need this, probably should think of a better place to put these resources though
+- [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/) - how to make cool animated buttons CSS-only. Also very well designed website overall imo.
+
+[object Object]
+
+### 03-09-2024
+
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+
+### 02-09-2024
+
+- [lychee link checker](https://lychee.cli.rs/) - really great, easy to use and fast link checker, it's what I use to check if any links on here are out of date!
+
+> "Elevat Ardor" - from [The rise of the diva](https://www.vam.ac.uk/articles/redefining-the-diva)
+
 ### 01-09-2024
 
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - I didn't try it out yet, but its on the list.

@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+## 5 Pabllo Vittar tracks to light up any party
+
+- [Pabllo Vittar - K.O.](https://www.youtube.com/watch?v=MSHiMtG42Oc)
+- [Pabllo Vittar - Corpo Sensual](https://www.youtube.com/watch?v=o8jzU3keCw0)
+- [Sevdaliza - Alibi ft. Pabllo Vittar & Yseult](https://www.youtube.com/watch?v=qVqFuokjRMc)
+- [Major Lazer - Sua Cara (Feat. Anitta & Pabllo Vittar)](https://www.youtube.com/watch?v=omzk3klIy0E)
+- [Pabllo Vittar - São Amores](https://www.youtube.com/watch?v=WiVKh2xXhEg)
+
 ## 5 random tracks to make your day better
 
 - [Hamid El Shaeri - Ouda](https://www.youtube.com/watch?v=0SSXNhbQMAU)

@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+## 5 classic Digital jungle tunes to vibe futuristicly to
+
+- [Digital - Spacefunk](https://www.youtube.com/watch?v=p5XMTU87vXo)
+- [Digital - Gateman](https://www.youtube.com/watch?v=_mICtyEhTII)
+- [Digital - Waterhouse Dub](https://www.youtube.com/watch?v=1PvAKYXlE0o)
+- [Digital - Deadline](https://www.youtube.com/watch?v=5Kz1sNDdPOI)
+- [Digital - Hard Ears](https://www.youtube.com/watch?v=TV47OAT9xPQ)
+
 ## 5 Pabllo Vittar tracks to light up any party
 
 - [Pabllo Vittar - K.O.](https://www.youtube.com/watch?v=MSHiMtG42Oc)

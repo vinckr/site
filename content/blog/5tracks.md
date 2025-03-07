@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+## 5 random tracks to make your day better
+
+- [Hamid El Shaeri - Ouda](https://www.youtube.com/watch?v=0SSXNhbQMAU)
+- [No Mercy - Where Do You Go (Club Mix)](https://www.youtube.com/watch?v=FYJY19kM-Og)
+- [Frank Sinatra - That's Life](https://www.youtube.com/watch?v=KIiUqfxFttM)
+- [Miki Matsubara - Stay With Me](https://www.youtube.com/watch?v=moR4uw-NWLY)
+- [Lola Young - Don’t Hate Me](https://www.youtube.com/watch?v=2CyXPxAJm9g)
+
 ## 5 Dillinja tunes to watch c-beams glitter in the dark to
 
 - [Dillinja - I Wanna Know](https://www.youtube.com/watch?v=5L-HyLggRB8)

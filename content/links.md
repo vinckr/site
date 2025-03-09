@@ -322,6 +322,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
 - [List of great sci-fi fonts](https://iconian.com/)
 - [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
+- [List of oldschool PC fonts](https://int10h.org/oldschool-pc-fonts/)
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 - I also like: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 

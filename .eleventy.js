@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
   const markdownIt = require("markdown-it");
   const mila = require("markdown-it-link-attributes");
   const markdownItAnchor = require("markdown-it-anchor");
+  const markdownItTaskLists = require("markdown-it-task-lists");
 
   // Create a markdown-it instance with HTML enabled
   const md = markdownIt({ html: true });
@@ -30,6 +31,9 @@ module.exports = function (eleventyConfig) {
     slugify: (str) => str.trim().toLowerCase().replace(/[\s]+/g, "-"), // Custom slugify logic
     level: 2, // Only use headings with a level of 2
   });
+
+  // Use markdown-it-task-lists for task lists
+  md.use(markdownItTaskLists);
 
   // Set the markdown-it instance as the markdown library
   eleventyConfig.setLibrary("md", md);

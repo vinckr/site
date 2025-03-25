@@ -24,6 +24,7 @@ title: blog
 - [🕵️ notable wikipedia articles](wikipedia)
 - [git](git)
 - [great personal websites and blogs](personal-websites)
+- [warhammer40k reading guide](w40k-reading-guide)
 
 ## weblog 2022-2024
 

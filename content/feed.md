@@ -9,6 +9,216 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 18-02-2025
+
+- [What a week, huh?](https://tintin.dlazaro.ca/)
+- [What a day, huh?](https://tintin.dlazaro.ca/day)
+- [What a year, huh?](https://tintin.dlazaro.ca/year)
+- [As a nonsense phrase of shady provenance makes the rounds, Elsevier defends its use](https://retractionwatch.com/2025/02/10/vegetative-electron-microscopy-fingerprint-paper-mill/)
+- [Have you ever seen a goth downtown?](https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown)
+
+### 14-02-2025
+
+- [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+- [Tanq16/ExpenseOwl: expense tracker](https://github.com/Tanq16/ExpenseOwl) - [TRY]
+
+> Strong opinions loosely held
+
+- easy feeding file contents into AI:
+  `find . -print -exec cat {} ; -exec echo ; | pbcopy`
+  > Which will return for each file (and subfolders) the filename and then the content of the file.
+
+### 13-02-2025
+
+- [The Abolitionist Project](https://www.abolitionist.com/)
+- [The flamboyant style of the Sapeurs](https://www.deoost.com/blog/style-of-the-sapeurs)
+- [I Tasted Honda's Spicy Rodent-Repelling Tape](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
+- [Re: On community influencing](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
+
+plundered from [Sun Eye Moon Eye](https://www.goodreads.com/book/show/201966803)
+
+> A divine bouncer with a burning pool cue tossed us out of the Paradise Lounge, and we’ve been drinking ourselves into oblivion ever since. Forgetfulness ain’t quite bliss, doesn’t quite replace ignorance, but it’ll do in a pinch. It’s a lot easier than trying to follow some eight-fold origami path to get to a dry establishment called the Enlightenment Inn.
+
+### 10-02-2025
+
+- [Kill the “User”: Musings of a disillusioned technologist](https://www.pastagang.cc/blog/kill-the-user/)
+- [William Gibson on Watches](https://www.watchpaper.com/2015/07/16/william-gibson-on-watches/)
+- [My Obsession](https://web.archive.org/web/20160609174946/http://www.wired.com/1999/01/ebay/)
+- [xajik/thedeck: card game engine in flutter](https://github.com/xajik/thedeck) - [TRY]
+- [Kaos](https://thestrikeagency.com/kaos/)
+
+- Basic style clothing tips
+  - All clothing should be treated as an extension of your body.
+  - Match the material to yourself in an attempt to always bring the focus back to your face.
+  - Wear colours that harmonise with your hair to frame your head.
+  - Never don accessories which detract attention from your features.
+  - Always opt for items that replicate the colour of your eyes or skin's hue or your rosy cheeks or whatever.
+  - Pop your natural assets.
+  - Contrast or complement, that is the entire nutshell key.
+  - Hair is dark but skin is light: you have a contrast complexion. Compared to the muted counterpart (light/lite hair w/ light skin), contrast complexion should have fuller range of color coordination to contrast the already contrasted feature
+  - Repetition of the hair color with clothing (jacket, glasses, scarfs, vest etc) can enhance the image of face
+  - Jacket shoulder should be more natural. Avoid any sharp sloped artificial padding
+  - Jacket length should be long enough to cover the buttocks but giving the leg as long as a line as possible
+  - Trouser should be worn on waist, not hip. Trouser bottom should cover about two-third of the shoe
+  - When in doubt, over dress: you can always remove a piece of clothing later
+  - Always dress in line with the superior but never more casually than your subordinates
+  - Options of dressing down: shirt top unbuttoned, t-shirt inside of jacket, sweater inside of jacket
+
+### 09-02-2025
+
+- [Definitions of Management Terms: Revealed Preference](https://curiouscat.com/management/dictionary/revealed_preference)
+- [Jackson Pollock Tool](https://jacksonpollock.org/)
+- [Behold My Suit!](https://archive.vn/5AHj0)
+- [My Gucci Addiction](https://www.gq.com/story/buzz-bissinger-shopaholic-gucci-addiction)
+- [Instituto Estadual do Ambiente](https://www.inea.rj.gov.br/rio-de-janeiro/) - check rio water quality
+
+### 08-02-2025
+
+- [The Story of the PS2’s Backwards Compatibility From the Engineer Who Built It](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
+- Video: [Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)](https://m.youtube.com/watch?v=ieGCqd_hoSQ)
+- [The King in Yellow, by Robert W. Chambers](https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow)
+- [The Alchemist and His Quicksilver](https://fantasticanachronism.com/2025/02/03/the-alchemist-and-his-quicksilver/)
+- [Reclame AQUI](https://www.reclameaqui.com.br/) - consumer protection in brasil
+- [Why Is Warner Brothers Discovery Dumping Old Movies On YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
+
+### 04-02-2025
+
+- [Developer philosophy](https://qntm.org/devphilo)
+- [Video Game History Foundation Library](https://archive.gamehistory.org/)
+- [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
+- [Archangel Gabriel](https://www.occult.live/index.php?title=Archangel_Gabriel)
+
+### 03-02-2025
+
+- [Patterns for Personal Web Sites](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
+- [harvard-lil/bag-nabit: Download and attach provenance to public datasets](https://github.com/harvard-lil/bag-nabit)
+- [Migration Is Remaking Our World, and We Don’t Understand It at All](https://archive.vn/quJaX)
+- [Newsstands](https://www.trevortraynor.com/newsstands)
+- [Biohackers Encoded Malware in a Strand of DNA](https://www.wired.com/story/malware-dna-hack/)
+
+> a group of researchers from the University of Washington has shown for the first time that it’s possible to encode malicious software into physical strands of DNA, so that when a gene sequencer analyzes it the resulting data becomes a program that corrupts gene-sequencing software and takes control of the underlying computer.
+
+### 29-01-2025
+
+- [Taming LLMs](https://www.tamingllms.com/markdown/toc.html)
+- [The Protesters' Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
+- [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
+- [Brave New World Revisited (1958) by Aldous Huxley](https://www.huxley.net/bnw-revisited/)
+- [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
+- [Every HTML element](https://iamwillwang.com/dollar/every-html-element/#)
+- [Minor Heresies](http://www.minorheresies.com/)
+- [The Joyce Project : Ulysses](http://m.joyceproject.com/)
+
+### 23-01-2025
+
+- [The Personal AI Company](https://github.com/thepersonalaicompany) - [TRY]
+- [The Jagged, Monstrous Function That Broke Calculus](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+- [TabBoo](https://tabboo.xyz/)
+- [Master the Art of the Product Manager 'No'](https://letsnotdothat.com/)
+
+### 19-01-2025
+
+- [Minimum Levels of Stress](https://collabfund.com/blog/minimum-levels-of-stress/)
+- [tonybaloney/vscode-pets: Adds pets 🦀🐱🐶 in VS Code](https://github.com/tonybaloney/vscode-pets)
+- [baturyilmaz/wordpecker-app: self-hosting duolingo](https://github.com/baturyilmaz/wordpecker-app)
+- [srcl](https://www.sacred.computer/) - [TRY]
+- [bagel-org/ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification](https://github.com/bagel-org/ZKLoRA) - [TRY]
+
+### 17-01-2025
+
+- [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/?node=A0002)
+- [DSPy](https://dspy.ai/) - [TRY]
+- [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
+- [A mysterious grey-hat is patching people's outdated MikroTik routers](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
+
+### 11-01-2025
+
+- [ai-robots-txt/ai.robots.txt: A list of AI agents and robots to block.](https://github.com/ai-robots-txt/ai.robots.txt)
+- [Proof](https://www.scopeofwork.net/proof/)
+- [Maurice Broomfield: Industrial Sublime](https://www.vam.ac.uk/exhibitions/maurice-broomfield-industrial-sublime)
+- [Making of Golf Balls](https://www.chrispaynephoto.com/golf-balls-1)
+- [Women Laughing Alone with Salad](https://www.thehairpin.com/women-laughing-alone-with-salad/)
+- [On Cannibals](https://hyperessays.net/essays/on-cannibals/)
+- Video: [Nuggets] - great representation of addiction
+
+- best xis in Porto Alegre
+  - @opoderoso.lanches
+  - @mek_aurio
+  - @julioxis
+  - @nikilanches
+
+### 10-01-2025
+
+- [Should I Deploy Today?](https://shouldideploy.today)
+- ['That's my ass again'](https://www.pcgamer.com/games/third-person-shooter/thats-my-ass-again-a-marvel-rival-body-model-realises-shes-the-inspiration-behind-the-new-hero-sue-storm-after-recognising-her-butt-in-the-teaser-trailer/)
+- [Symbolic Reasoning Prompt Generator](https://symbolic-scribe.fly.dev/)
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+- [Quixotic](https://marcusb.org/hacks/quixotic.html)
+
+> We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+
+### 07-01-2025
+
+> Work is service, not gain. The object of work is life, not income. The reward of production is plenty, not private fortune. We should measure the prosperity of a nation not by the number of millionaires, but by the absence of poverty, the prevalence of health, the efficiency of the public schools, and the number of people who can and do read worthwhile books.
+
+- [Complain & Propose](https://tidyfirst.substack.com/p/complain-and-propose)
+- [The Brutal Neglect of Dopamine](https://desmolysium.com/dopamine/)
+- [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
+- [eternal mode • infinite backrooms](https://www.infinitebackrooms.com/eternal)
+
+### 02-01-2025
+
+- [alufers/mitmproxy2swagger: Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger) - [TRY]
+- [drx: Teletext Babez](http://drx.a-blast.org/~drx/projects/teletext/index.en.html)
+- [ticky/wayback-classic: A frontend for the Wayback Machine which works on old browsers](https://github.com/ticky/wayback-classic)
+- [bmtwl/exerciseminimilism: A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next](https://github.com/bmtwl/exerciseminimilism) - [TRY]
+- [How I Biohack My Vitality](https://desmolysium.com/vitality/)
+
+- Sleep well strategies
+  - Going to bed at the same time
+  - Early to bed, early to rise
+  - Pitch-black dark
+  - Quiet environment
+  - Cold temperature
+  - No alcohol
+  - Avoiding caffeine
+  - Avoiding large meals
+  - Eating carbs at night
+  - Morning blue light exposure
+  - Evening blue light exposure
+  - Supplements
+  - Melatonin
+  - Hypnotics (“sleeping pills”)
+
+### 01-01-2025
+
+- [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/)
+- [LibRedirect](https://libredirect.github.io/)
+- [Remember, Remember the 22nd of November](https://www.damninteresting.com/remember-remember-the-22nd-of-november)
+
+### 26-12-2024
+
+- [Introducing Differential Growth Addon for Blender · Boris Okunskiy](https://boris.okunskiy.name/posts/blender-differential-growth)
+- [drk1wi/portspoof: Portspoof](https://github.com/drk1wi/portspoof)
+- [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
+- [Jaennaet/pISSStream: macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+
+### 23-12-2024
+
+- [A Life-Saving Checklist](https://archive.is/0H188)
+- [Draw all roads in a city at once](https://anvaka.github.io/city-roads/?q=Munich%20&areaId=3600062428)
+- [AIs Will Increasingly Fake Alignment](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment)
+- [hoarder-app/hoarder: A self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder) - [TRY]
+- [Computer magazines in the Internet Archive](https://archive.org/details/computermagazines)
+
+### 19-12-2024
+
+- [apankrat/nullboard: minimalist kanban board](https://github.com/apankrat/nullboard) - [TRY]
+- [Art as Experience](https://en.m.wikipedia.org/wiki/Art_as_Experience)
+- [Chord Nebula](https://chords.yottanami.com/)
+- [The Ghosts in the Machine](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
+- [IMG_0001](https://walzr.com/IMG_0001)
+
 ### 17-12-2024
 
 - [Always Go To The Funeral](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)

@@ -25,6 +25,7 @@ title: blog
 - [git](git)
 - [great personal websites and blogs](personal-websites)
 - [warhammer40k reading guide](w40k-reading-guide)
+- [the ravers manifesto](ravers-manifesto)
 
 ## weblog 2022-2024
 

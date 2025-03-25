@@ -38,9 +38,7 @@ Note: the git history prior to [6d2454f](https://github.com/vinckr/vinckr.com/co
 
 not part of conventional commits and specific to this site:
 
-`weblog`: new entry to the monthly weblog
-
-`article`: new article
+`blog`: new article/page/content
 
 `edit`: any edits to existing artices, weblogs, lists or other text
 

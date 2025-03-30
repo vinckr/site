@@ -42,6 +42,7 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 - [Maggie Appleton](https://maggieappleton.com/)
 - [localghost.dev](https://localghost.dev/blog/)
 - [Mu-An Chiou](https://muan.co/)
+- [honeypot.net](https://honeypot.net/)
 
 ## Other collections
 

@@ -10,6 +10,144 @@ The stories and information posted here are artistic works of fiction and falseh
 Only a fool would take anything posted here as fact.</small>
 fee
 
+### 29-03-2025
+
+- [Nobody should be a “content creator”](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
+
+> You are being watched. The government has a secret system, a system you asked for, to keep you safe. A machine that spies on you every hour of every day. You've granted it the power to see everything, to index, order and control the lives of ordinary people. The government considers these people irrelevant. We don't. But to it, you are all irrelevant. Victim or perpetrator, if you stand in its way, we'll find you.
+
+From [Person of Interest](https://www.imdb.com/title/tt1839578/)
+
+### 27-03-2025
+
+- [Berlin Partner Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
+- [HN most popular blogs](https://refactoringenglish.com/tools/hn-popularity/)
+- [OpenModelDB](https://openmodeldb.info/) - community driven database of AI Upscaling models
+- [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html?m=1) - makes me want to buy DVDs again and store my important date on them, 15 years seems a reasonable time. Burn the data on DVDs or Blueray and revisit every 10 years, seems like a great solution if you pair it up with a cloud storage solution. I should try this with at least the data that is most important to me - [TRY]
+- [medialab/xan](https://github.com/medialab/xan) - If I ever need to do stuff with CSV, this seems like a great tool
+
+### 25-03-2025
+
+- [abstimmung.eu](https://abstimmung.eu/git/2025) - Bundestag as git log
+- [When Kylie Minogue Was a Font](https://abcdinamo.com/news/german-bold-italic)
+
+### 24-03-2025
+
+- [De-Banking oder: die Rache der Bundesbank?](https://overton-magazin.de/top-story/de-banking-oder-die-rache-der-bundesbank/)
+- [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
+- [Rickover’s Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
+- [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user
+- [Glicol](https://glicol.org/) - music with code - [TRY]
+- [Boombox](https://boombox-agw.pages.dev/) - greek drum patterns
+- [Drum Patterns](http://drumpatterns.onether.com/) - great list of drum patterns, awesome website for rhythm distribution
+
+### 20-03-2025
+
+How to not have terrible CI experience, plundered from [HN](https://news.ycombinator.com/item?id=43420361):
+
+- Write as much CI logic as possible in your own code. Does not really matter what you use (shell scripts, make, just, doit, mage, whatever) as long as it is proper, maintainable code.
+- Invest time that your pipelines can run locally on a developer machine as well (as much as possible at least), otherwise testing/debugging pipelines becomes a nightmare.
+- Avoid YAML as much as possible, period.
+- Don't bind yourself to some fancy new VC-financed thing that will solve CI once and for all but needs to get monetized eventually (see: earthly, dagger, etc.)
+- Always use your own runners, on-premise if possible
+
+### 17-03-2025
+
+- [The trials of an exorcist, 1597](https://www.gethistories.com/p/the-trials-of-an-exorcist-1597)
+- [Liquid Shape Distortions](https://collidingscopes.github.io/liquid-shape-distortions/)
+- [Exploring Brazil and Death Metal from the 1980s](https://www.discogs.com/search/?style_exact=Death+Metal&decade=1980&country_exact=Brazil&srsltid=AfmBOooFm_bqvqedp-4Vq0q1gkoajt89Suf7ZGpuH5cSrwERkWZm99iR)
+
+### 16-03-2025
+
+- [MetaCheck](https://metacheck.appstate.co/) - preview links for posting on social media
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - open source notion - [̃TRY]
+- [UI/UX Design Inspiration for Apps and Websites](https://pageflows.com/)
+- [UI & UX design inspiration for mobile & web apps](https://mobbin.com/)
+- [Zone 2 Heart Rate Training For Longevity and Performance](https://www.howardluksmd.com/zone-2-hr-training-live-longer-less-injury/) - ad-riddled website but great advice, basically run slower and longer.
+
+True Wealth by [Nassim Taleb](https://nitter.net/nntaleb)
+
+- Worriless sleeping
+- Clear conscience
+- Reciprocal gratitude
+- Absence of envy
+- Muscle strength
+- Frequent laughs
+- No meals alone
+- No gym classes
+- Good digestive functions
+- No meeting rooms
+- Periodic surprises
+- Foamy coffee
+- Crusty bread
+- Ability to nap
+- Access to a hammock
+
+### 14-03-2025
+
+- [The Internet of Beefs](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
+- [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
+
+### 10-03-2025
+
+- [Go European](https://www.goeuropean.org/)
+- [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
+- [Warhammer 40k artworks gallery](https://40k.gallery/)
+- Video: [The Steel Of India](https://youtu.be/UvGwIFVUK7M) - advertising done right, absolutely beautiful video
+- [Steam networks](https://worksinprogress.co/issue/steam-networks/)
+
+### 07-03-2025
+
+- [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
+- [#4: principles of any next regime](https://graymirror.substack.com/p/4-principles-of-any-next-regime)
+- [Stellaris: A high-field quasi-isodynamic stellarator for a prototypical fusion power plant](https://www.sciencedirect.com/science/article/pii/S0920379625000705) - fusion is solved, but who has the balls to build it :/
+- [The Man Who Spent Forty-two Years at the Beverly Hills Hotel Pool](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
+- [What do people see when they’re tripping?](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
+- [Half-Life](https://www.filfre.net/2024/12/half-life/) -
+- [The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
+- [Vatican's list of films](https://en.m.wikipedia.org/wiki/Vatican%27s_list_of_films)
+- [Adam Golaski On David Lynch's "Revenge of the Jedi"](https://www.benningtonreview.org/adam-golaski)
+- [Against Effective Altruism](https://fantasticanachronism.com/2022/10/10/against-effective-altruism/)
+- [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
+- [On Zero Sum Games (The Informational Meta-Game)](https://rohan.ga/blog/zero_game/)
+
+Documentaries on bate-bolas
+
+- [Behind the masks: The 'bate-bolas' of the Rio Carnival](https://archive.vn/HNSf3)
+- [Documentário: carnaval, bexiga, funk e sombrinha (COMPLETO) - YouTube](https://youtu.be/RLmJwblZNzc?si=5MLbYgZ1JxTFsemG)
+- [Este é o carnaval do Rio que você nunca viu. Este é o bate bola! "Turma MQT" - YouTube](https://youtu.be/8Z2kS2-i_FE?si=Pudjo8pirkU-Knlg)
+
+### 03-03-2025
+
+- Video: [Dead Dove Do Not Eat](https://www.youtube.com/watch?v=YUKmq7UMJys)
+- [With Great Power Came No Responsibility](https://pluralistic.net/2025/02/26/ursula-franklin/)
+
+> Better to know, than to see; better to see, than be seen; better to be seen, than noticed; better to be noticed, than feared; better to be feared, than hated; better to be hated, than beaten; better to be beaten, than killed
+
+### 28-02-2025
+
+- [LibreWolf](https://librewolf.net/) - maybe time to switch to this after recent Firefox privacy/ad-tech debacles - [TRY]
+- [Schon wieder - Der Aufstieg der NSDAP/AfD](https://datajournal.org/schon-wieder/)
+
+### 26-02-2025
+
+- [Indiana Jones: There Are Always Some Useful Ancient Relics](https://arxiv.org/abs/2501.18628) - describes a jailbreaking method for LLMs. I tried it out and got some pretty good results with it, seems to be working on most current LLMs.
+- [Public Work](https://public.work/) - cool collection of inspirational art, curated by [cosmos](https://www.cosmos.so/discover), this is advertising that appeals to me
+- [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/)
+
+### 23-02-2025
+
+- [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
+- [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
+- [CEO Simulator: Startup Edition](https://ceosimulator.vercel.app/)
+
+Graphic design, mostly communist propaganda
+
+- [Vietnamese Graphic Design](https://vietgd.com/)
+- [Soviet propaganda posters](https://www.sovietposters.com/)
+- [Chinese Posters](https://chineseposters.net/)
+- [Vietnam Propaganda Posters Art](https://vietnampropaganda.com/)
+
 ### 18-02-2025
 
 - [What a week, huh?](https://tintin.dlazaro.ca/)

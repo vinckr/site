@@ -9,12 +9,17 @@ I review and rate movies I watch. Don't take it serious - it's highly subjective
 
 Rating:
 
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
 - 5/5 masterpiece. must consume
+- 4/5 amazing. highly recommended
+- 3/5 pretty good. worth to check out
+- 2/5 ok. would not recommend
+- 1/5 terrible. waste of time
 
+- [Adolescence](https://www.imdb.com/title/tt31806037/) 4/5
+- [Kraven the Hunter](https://www.imdb.com/title/tt8790086/) 2/5
+- [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002) 4/5
+- [1922](https://www.imdb.com/title/tt6214928/) 3/5
+- [Love lies bleeding](https://www.imdb.com/title/tt19637052/) 4/5
 - [Nosferatu](https://www.imdb.com/title/tt5040012/) 5/5
 - [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/) 3/5
 - [Terminator: Dark Fate](https://www.imdb.com/title/tt6450804/) 3/5

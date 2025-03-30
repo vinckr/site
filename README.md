@@ -44,25 +44,15 @@ not part of conventional commits and specific to this site:
 
 ## TODO
 
-In order of importance?! plans change a lot here so don't count on me doing this actually.
+In order of importance?! plans change a lot so don't its whatever.
 
 ### next
 
 - [ ] redesign landing page
-- [x] change lists/pages format to json, build dedicated `list` template
-  - [x] wikipedia
-  - [x] movies
-  - [x] books
-  - [x] quotes
-  - [x] add random movie/book button!
 - [ ] weblog
   - [ ] automate format imdb links and add to movie json (also for reviews)
   - [ ] automate format goodreads links and add to books json (also for reviews)
-  - [ ] automate format wiki links and add to wiki json
-  - [x] ~~move future weblogs to a json~~
-  - [x] ~~move past weblogs to a json~~
-- [x] markdown text anchor links
-- [x] markdown text anchor links, check how to do it [here](https://github.com/11ty/eleventy/issues/1593)
+  - [ ] automate format wiki links and add to wiki jsoneleventy/issues/1593)
 - [ ] add cool 90s cursor effects
   - [ ] add tons of other effects ideally without impacting performance
 - [ ] order everything in /links in Audio and below
@@ -77,5 +67,5 @@ In order of importance?! plans change a lot here so don't count on me doing this
 - [ ] markdown footnotes
 - [ ] Check text with vale rules
 - [ ] add better/more vale rules
-- [x] Check if links are alive: https://github.com/tcort/markdown-link-check, next check in March 2024.
+- [x] Check if links are alive: https://github.com/tcort/markdown-link-check, next check in June 2025.
   - [ ] automate as cron job: [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)

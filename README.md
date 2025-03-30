@@ -44,7 +44,7 @@ not part of conventional commits and specific to this site:
 
 ## TODO
 
-In order of importance?! plans change a lot so don't its whatever.
+In order of importance?! plans change a lot.
 
 ### next
 

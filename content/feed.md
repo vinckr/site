@@ -10,6 +10,32 @@ The stories and information posted here are artistic works of fiction and falseh
 Only a fool would take anything posted here as fact.</small>
 fee
 
+### 06-04-2025
+
+- [Standard Ebooks](https://standardebooks.org/) - free public domain ebooks
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions.
+- Video: [Stream Diffusion Tutorial](https://youtube.com/watch?v=UXFgOePhDIE) - [TRY]
+- [garfield minus garfield](https://garfieldminusgarfield.net/)
+- Video: [lasagnacat](https://youtu.be/NAh9oLs67Cw?si=LuWMn7wPIGZwkIk9)
+
+### 31-03-2025
+
+- [ToS;DR](https://tosdr.org/en)
+- [Watch Global & Local Live TV Online for Free](https://tv.garden/)
+- [Radio Garden – Explore live radio by rotating the globe](https://radio.garden/)
+- [Why I Maintain a 17 Year Old Thinkpad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+- Video: [Hagen Rether - Nordkoreaner](https://youtube.com/watch?v=Ee6uq2p8eSs)
+- Video: [Dr. Strangelove - "An astonishingly good idea"](https://youtube.com/watch?v=zZct-itCwPE)
+
+### 30-03-2025
+
+- [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
+- [Hacker Laws](https://hacker-laws.com/)
+- [The crab](https://samkriss.substack.com/p/the-crab)
+- [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
+- [MakeMKV - Make MKV from Blu-ray and DVD](https://www.makemkv.com/)
+- [They Thought They Were Free: The Germans, 1933-45](https://press.uchicago.edu/Misc/Chicago/511928.htm)
+
 ### 29-03-2025
 
 - [Nobody should be a “content creator”](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)

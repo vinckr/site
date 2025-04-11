@@ -15,10 +15,10 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 ## Part 1: The Fall of Horus
 
 - [x] The Wolf of Ash and Fire - Eye of Terra (35) by Graham McNeill
-- [ ] Horus Rising (1) by Dan Abnett **in progress**
-- [ ] False Gods (2) by Graham McNeill
-- [ ] Galaxy of Flames (3) by Ben Counter
-- [ ] Flight of the Eisenstein (4) by James Swallow
+- [x] Horus Rising (1) by Dan Abnett
+- [x] False Gods (2) by Graham McNeill
+- [x] Galaxy in Flames (3) by Ben Counter
+- [ ] Flight of the Eisenstein (4) by James Swallow **in progress**
 - [ ] Optional: Fulgrim (5) by Graham McNeil
 - [ ] Part 2: The First Heretic
 - [ ] The Last Church - Tales of Heresy (10) (Audio Drama) by Graham McNeill

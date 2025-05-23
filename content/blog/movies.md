@@ -15,6 +15,7 @@ Rating:
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
 
+- [Tenet](https://www.imdb.com/title/tt6723592/) 4/5
 - [Adolescence](https://www.imdb.com/title/tt31806037/) 4/5
 - [Kraven the Hunter](https://www.imdb.com/title/tt8790086/) 2/5
 - [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002) 4/5
@@ -33,7 +34,7 @@ Rating:
 - [Speak no evil](https://imdb.com/title/tt27534307/) 3/5
 - [Ratatouille](https://imdb.com/title/tt0382932/) 4/5
 - [The Apprentice](https://imdb.com/title/tt8368368/) 3/5
-- [Kaos](https://imdb.com/title/tt8550732/) 4/5
+- [Kaos](https://imdb.com/title/tt8550732/) 5/5
 - [The Substance](https://imdb.com/title/tt17526714/) 4/5
 - [The Terror](https://imdb.com/title/tt2708480/) 4/5
 - [This Place Rules](https://www.imdb.com/title/tt23950956/) 4/5

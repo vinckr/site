@@ -16,23 +16,34 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 ## Part 1: The Fall of Horus
 
-- [x] The Wolf of Ash and Fire - Eye of Terra (35) by Graham McNeill - I screwed up here and read the whole collection of short stories. This first story though is something different, we see the Emperor in action cutting up Orks. Overall a nice collection of stories, some I already spoilered for later in this list woops.
-- [x] Horus Rising (1) by Dan Abnett - ends with reaching Davin. Here Horus is portrayed as the ultimate leader - kind, understanding, firm. Sure a warmaster, but also the best version of one that you could imagine. Murder (the planet) is also fun with lots of epic battle. The first half was great, the second a bit tedious.
-- [x] False Gods (2) by Graham McNeill - Here it took a while to get going but as soon as they land on Davin's moon, Nurgle makes his first appearance and I loved that part. The part where Horus gets corrupted was a bit weak for me - to me it was not really realistic that the character was so "easily convinced" to join Chaos. A good read overall.
-- [x] Galaxy in Flames (3) by Ben Counter - Lots of battle on Istvan III, the rebellion is in full swing now. I liked Tarvitz as character, but the endless slaughter can get a bit tedious at times. So far the hardest to get through
-- [x] Flight of the Eisenstein (4) by James Swallow - best one in the series so far! Garro is a great protagonist, lots of fun battle and Nurgle action. Overall very entertaining read-
-- [x] Fulgrim (5) by Graham McNeil - Even though its optional I would recommend to read it - the constant talk about becoming perfect is a bit annoying but the book is a entertaining tale of sinking into more and more depravity. I already spoiled the outcome for me a bit when I read one of the Eye of Terra shortstories on Fulgrim, but I liked that it was not only guns and carnage this time, but a more refined mix of topics.
+- [x] The Wolf of Ash and Fire - Eye of Terra (35) by Graham McNeill
+  - I screwed up here and read the whole collection of short stories. This first story though is something different, we see the Emperor in action cutting up Orks. Overall a nice collection of stories, some I already spoilered for later in this list woops.
+- [x] Horus Rising (1) by Dan Abnett
+  - ends with reaching Davin. Here Horus is portrayed as the ultimate leader - kind, understanding, firm. Sure a warmaster, but also the best version of one that you could imagine. Murder (the planet) is also fun with lots of epic battle. The first half was great, the second a bit tedious.
+- [x] False Gods (2) by Graham McNeill
+  - This one took a while to get going but as soon as they land on Davin's moon, Nurgle makes his first appearance and I loved that part. The part where Horus gets corrupted was a bit weak for me - to me it was not really realistic that the character was so "easily convinced" to join Chaos. A good read overall.
+- [x] Galaxy in Flames (3) by Ben Counter
+  - Lots of battle on Istvan III, the rebellion is in full swing now. I liked Tarvitz as character, but the endless slaughter can get a bit tedious at times. So far the hardest to get through
+- [x] Flight of the Eisenstein (4) by James Swallow
+  - best one in the series so far! Garro is a great protagonist, lots of fun battle and Nurgle action. Overall very entertaining read-
+- [x] Fulgrim (5) by Graham McNeil
+  - Even though its optional I would recommend to read it. The constant talk about becoming perfect is a bit annoying but the book is a entertaining tale of sinking into more and more depravity. I already spoiled the outcome for me a bit when I read one of the Eye of Terra shortstories on Fulgrim, but I liked that it was not only guns and carnage this time, but a more refined mix of topics.
 
 ## Part 2: The First Heretic
 
-- [x] The Last Church - Tales of Heresy (10) by Graham McNeill - short story that sees the Emperor as philosopher musing about religion as he is finishing his conquest of Terra, lots of spooky foreshadowing included.
-- [x] The First Heretic (14) by Aaron Dembski-Bowden - I really liked this one. I would say it was maybe the best of the series so far - not only mandatory reading due to the important turning point in Lorgars journey towards Chaos, but the even aside of the lore the story and other characters are also great. I especially like Argel Tal, very much looking forward to what happens to him.
-- [x] The Aurelian - Eye of Terra (35) by Aaron Dembski-Bowden - short story where we hear the tale of Lorgars own travel into the empyrean. It sheds a bit more light on how he fully turns to Chaos, but I mostly liked the battle against Khornes avatar. Lorgar is becoming a little bit less pathetic here.
-- [x] Know No Fear (19) by Dan Abnett - epic large scale warfare, really entertaining read, a bit confusing in the beginning but I enjoyed both sides of this conflict. So far the loyalists were pretty lame, but they had some real badass moments in this one. I especially liked the perpetual trooper, hopefully he shows up again later on! Also the newbie dreadnought was a great character
+- [x] The Last Church - Tales of Heresy (10) by Graham McNeill
+  - short story that sees the Emperor as philosopher musing about religion as he is finishing his conquest of Terra, lots of spooky foreshadowing included.
+- [x] The First Heretic (14) by Aaron Dembski-Bowden
+  - I really liked this one. I would say it was maybe the best of the series so far - not only mandatory reading due to the important turning point in Lorgars journey towards Chaos, but the even aside of the lore the story and other characters are also great. I especially like Argel Tal, very much looking forward to what happens to him.
+- [x] The Aurelian - Eye of Terra (35) by Aaron Dembski-Bowden
+  - short story where we hear the tale of Lorgars own travel into the empyrean. It sheds a bit more light on how he fully turns to Chaos, but I mostly liked the battle against Khornes avatar. Lorgar is becoming a little bit less pathetic here.
+- [x] Know No Fear (19) by Dan Abnett
+  - epic large scale warfare, really entertaining read, a bit confusing in the beginning but I enjoyed both sides of this conflict. So far the loyalists were pretty lame, but they had some real badass moments in this one. I especially liked the perpetual trooper, hopefully he shows up again later on! Also the newbie dreadnought was a great character
 
 ## Part 3: Betrayer
 
-- [x] After Deshea - Tales of Heresy (10) by Matt Farrer - The XII legion does not have it easy. Nice short story introducing Angron. The more he features as an actual character and not just some bloodthirsty butcher the more I like him!
+- [x] After Deshea - Tales of Heresy (10) by Matt Farrer
+  - The XII legion does not have it easy. Nice short story introducing Angron. The more he features as an actual character and not just some bloodthirsty butcher the more I like him!
 - [ ] Lord of the Red Sands - War Without End (33) by Aaron Dembski-Bowden - skipped for now
 - [ ] Butcher's Nails - Legacies of Betrayal (31) by Aaron Dembski-Bowden - skipped for now
 - [ ] Betrayer (24) by Aaron Dembski-Bowden **in progress**

@@ -23,9 +23,9 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] False Gods (2) by Graham McNeill
   - This one took a while to get going but as soon as they land on Davin's moon, Nurgle makes his first appearance and I loved that part. The part where Horus gets corrupted was a bit weak for me - to me it was not really realistic that the character was so "easily convinced" to join Chaos. A good read overall.
 - [x] Galaxy in Flames (3) by Ben Counter
-  - Lots of battle on Istvan III, the rebellion is in full swing now. I liked Tarvitz as character, but the endless slaughter can get a bit tedious at times. So far the hardest to get through
+  - Lots of battle on Istvan III, the rebellion is in full swing now. I liked Tarvitz as character, but the endless slaughter can get a bit tedious at times. So far the hardest to get through.
 - [x] Flight of the Eisenstein (4) by James Swallow
-  - best one in the series so far! Garro is a great protagonist, lots of fun battle and Nurgle action. Overall very entertaining read-
+  - best one in the series so far! Garro is a great protagonist, lots of fun battle and Nurgle action. Overall very entertaining read.
 - [x] Fulgrim (5) by Graham McNeil
   - Even though its optional I would recommend to read it. The constant talk about becoming perfect is a bit annoying but the book is a entertaining tale of sinking into more and more depravity. I already spoiled the outcome for me a bit when I read one of the Eye of Terra shortstories on Fulgrim, but I liked that it was not only guns and carnage this time, but a more refined mix of topics.
 
@@ -38,7 +38,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] The Aurelian - Eye of Terra (35) by Aaron Dembski-Bowden
   - short story where we hear the tale of Lorgars own travel into the empyrean. It sheds a bit more light on how he fully turns to Chaos, but I mostly liked the battle against Khornes avatar. Lorgar is becoming a little bit less pathetic here.
 - [x] Know No Fear (19) by Dan Abnett
-  - epic large scale warfare, really entertaining read, a bit confusing in the beginning but I enjoyed both sides of this conflict. So far the loyalists were pretty lame, but they had some real badass moments in this one. I especially liked the perpetual trooper, hopefully he shows up again later on! Also the newbie dreadnought was a great character
+  - epic large scale warfare, really entertaining read, a bit confusing in the beginning but I enjoyed both sides of this conflict. So far the loyalists were pretty lame, but they had some real badass moments in this one. I especially liked the perpetual trooper, hopefully he shows up again later on! Also the newbie dreadnought was a great character.
 
 ## Part 3: Betrayer
 
@@ -46,12 +46,15 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
   - The XII legion does not have it easy. Nice short story introducing Angron. The more he features as an actual character and not just some bloodthirsty butcher the more I like him!
 - [ ] Lord of the Red Sands - War Without End (33) by Aaron Dembski-Bowden - skipped for now
 - [ ] Butcher's Nails - Legacies of Betrayal (31) by Aaron Dembski-Bowden - skipped for now
-- [ ] Betrayer (24) by Aaron Dembski-Bowden **in progress**
+- [x] Betrayer (24) by Aaron Dembski-Bowden
+  - describes the ascencion of the World Eaters through bloody massacres to become the bloody skull collectors we know and love. Angron is a particularly interesting primarchs, flawed and despicable but still a lot to like.
 
 ## Part 4: The Lion and The Prince
 
-- [ ] Shadows of Treachery (22) - The Dark King by Graham McNeill
-- [ ] Massacre - Eye of Terra (35) by Aaron Dembski-Bowden
+- [x] Shadows of Treachery (22) - The Dark King by Graham McNeill
+  - I don't have much to say here, its a short story on Cruze's downfall. He probably already was on his way out to Chaos corruption without even Lorgar or Horus playing a role. Nevertheless one of the coolest primarchs.
+- [x] Massacre - Eye of Terra (35) by Aaron Dembski-Bowden
+  - similar, a short story on Nightlords during the Isstvan dropsite massacre.
 - [ ] Fallen Angels (11) by Mike Lee
 - [ ] Savage Weapons - Age of Darkness (16) by Aaron Dembski-Bowden
 - [ ] The Lion - The Primarchs (20) by Gav Thorpe

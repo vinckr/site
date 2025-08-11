@@ -7,7 +7,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 > Thanks so much cd8d for creating this!
 
-- Status: 13 of 144
+- Status: 22 of 100
 
 ## Part 0: 40K
 
@@ -55,12 +55,13 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
   - I don't have much to say here, its a short story on Cruze's downfall. He probably already was on his way out to Chaos corruption without even Lorgar or Horus playing a role. Nevertheless one of the coolest primarchs.
 - [x] Massacre - Eye of Terra (35) by Aaron Dembski-Bowden
   - similar, a short story on Nightlords during the Isstvan dropsite massacre.
-- [ ] Fallen Angels (11) by Mike Lee
-- [ ] Savage Weapons - Age of Darkness (16) by Aaron Dembski-Bowden
-- [ ] The Lion - The Primarchs (20) by Gav Thorpe
-- [ ] Prince of Crows - Shadows of Treachery (22) by Aaron Dembski-Bowden
-- [ ] Master of the First - Eye of Terra (35) by Gav Thorpe
-- [ ] The Long Night - Eye of Terra (35) by Aaron Dembski-Bowden
+- [x] Fallen Angels (11) by Mike Lee
+- [x] Savage Weapons - Age of Darkness (16) by Aaron Dembski-Bowden
+- [x] The Lion - The Primarchs (20) by Gav Thorpe
+- [x] Prince of Crows - Shadows of Treachery (22) by Aaron Dembski-Bowden
+- [x] Master of the First - Eye of Terra (35) by Gav Thorpe
+- [x] The Long Night - Eye of Terra (35) by Aaron Dembski-Bowden
+  - too lazy to write a review for each of these short stories, but I have to say I really warmed up to the Night Lords. Their primarch is pathetic and they are mostly traitors and turncloaks - but I like their savage pride and calculating nature. Especially Sevatar is a great character, rotten, cruel and brutal to the bone - but he still has a "good" side to him. In any case reading about Sevatar decapitating people with his chainglave is just very entertaining and for now the Night Lords are my favourites from these books.
 - [ ] Bonus 40K: Lord of the Night by Simon Spurrier
 - [ ] Bonus 40K: Night Lords Omnibus by Aaron Dembski-Bowden
 

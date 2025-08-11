@@ -304,7 +304,7 @@ plundered from [Sun Eye Moon Eye](https://www.goodreads.com/book/show/201966803)
 - [Making of Golf Balls](https://www.chrispaynephoto.com/golf-balls-1)
 - [Women Laughing Alone with Salad](https://www.thehairpin.com/women-laughing-alone-with-salad/)
 - [On Cannibals](https://hyperessays.net/essays/on-cannibals/)
-- Video: [Nuggets] - great representation of addiction
+- Video: [Nuggets](https://www.youtube.com/watch?v=HUngLgGRJpo) - great representation of addiction
 
 - best xis in Porto Alegre
   - @opoderoso.lanches

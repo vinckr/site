@@ -1,6 +1,17 @@
 {% block footer %}
-    <footer class="flex justify-end items-center pr-32">
-        <span class="mr-4 prose dark:prose-invert">All Rites Reversed Ⓚ {{ year }} by {{ author }}
-        </span>
-        <img src="/img/nekojiru.gif" alt="Nekojiru"></footer>
-    {% endblock %}
+    <footer class="flex flex-col md:flex-row justify-between items-start pr-8 pl-8 md:pr-32 md:pl-32 gap-4">
+        <div class="flex items-center">
+            <span class="mr-4 prose dark:prose-invert">
+                All Rites Reversed Ⓚ {{ year }} by {{ author }}
+            </span>
+            <img src="/img/nekojiru.gif" alt="Nekojiru">
+             <span class="text-xs prose dark:prose-invert">
+            </span>
+        </div>
+        <p class="prose dark:prose-invert text-xs md:text-right max-w-3xl">
+            By reading this website, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.
+            </br>
+            Privacy policy: I don't collect or retain any data at all ever period.
+        </p>
+    </footer>
+{% endblock %}

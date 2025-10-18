@@ -6,7 +6,15 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
-## 5 classic Digital jungle tunes to vibe futuristicly to
+## 5 Gravediggaz tracks to bury your opps
+
+- [Gravediggaz - False Things Must Perish](https://youtu.be/_-N_EsVIUU8)
+- [Gravediggaz - Diary of a Madman](https://youtu.be/YgINIWOAu7k)
+- [Gravediggaz - 6 Feet Deep](https://youtu.be/1-vTkOLNL_A?)
+- [Gravediggaz - 1-800-Suicide featuring KRS One](https://youtu.be/pJmkDbwGqpM)
+- [Gravediggaz - Nowhere to Run, Nowhere to Hide](https://youtu.be/QsoT0jBbjdw)
+
+## 5 classic Digital jungle tunes to skank futuristicly
 
 - [Digital - Spacefunk](https://www.youtube.com/watch?v=p5XMTU87vXo)
 - [Digital - Gateman](https://www.youtube.com/watch?v=_mICtyEhTII)
@@ -30,7 +38,7 @@ It has been one of the things that motivated me to keep starting to blog again a
 - [Miki Matsubara - Stay With Me](https://www.youtube.com/watch?v=moR4uw-NWLY)
 - [Lola Young - Don’t Hate Me](https://www.youtube.com/watch?v=2CyXPxAJm9g)
 
-## 5 Dillinja tunes to watch c-beams glitter in the dark to
+## 5 Dillinja tunes to watch c-beams glitter in the dark
 
 - [Dillinja - I Wanna Know](https://www.youtube.com/watch?v=5L-HyLggRB8)
 - [Dillinja - Unexplored Terrain](https://www.youtube.com/watch?v=1eKZgTB6Bac)

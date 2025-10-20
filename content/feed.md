@@ -49,17 +49,18 @@ How to create a magic sigil:
 - [Best Portable Power Stations - Price Comparison](https://gearscouts.com/power-stations)
 - [Wiki Radio 📻](https://www.monkeon.co.uk/wikiradio/)
 
-> how ugly can it be, how decadent can you make it, how unreal can you transform that experience?
-> they were trying to escape from a world where the horrors of reality just became overbearing.
-> make the music louder.
-> who were at the forefront of most of these incredible changes? they were kids, they were kids who picked up the fm radios at 17/18/19/20 and they felt the power and the power moved them and the music moved them and then there was no restraining them.
+how ugly can it be, how decadent can you make it, how unreal can you transform that experience?  
+they were trying to escape from a world where the horrors of reality just became overbearing.  
+make the music louder.  
+who were at the forefront of most of these incredible changes?  
+they were kids, they were kids who picked up the fm radios at 17/18/19/20 and they felt the power and the power moved them and the music moved them and then there was no restraining them.
 
 ### 19-06-2025
 
-> Though we are alive
-> death surrounds us;
-> on who can we call
-> save to thee?
+Though we are alive  
+death surrounds us;  
+on who can we call  
+save to thee?
 
 ### 14-06-2025
 
@@ -69,7 +70,7 @@ How to create a magic sigil:
 - [ultradiskopanorama](https://youtube.com/@ultradiskopanorama?feature=shared) - great obscure old disco songs
 - [Mementos - Futility Closet](https://www.futilitycloset.com/2025/06/08/mementos-2/)
 
-> Principiis obsta and Finem respice.
+> Principiis obsta and Finem respice.  
 > Resist the beginnings and Consider the end.
 
 ### 01-06-2025
@@ -108,7 +109,7 @@ How to create a magic sigil:
 - [Modern Library Top 100](https://sites.prh.com/modern-library-top-100)
 - [Nirvana](https://farina00.github.io/essays/nevermind/)
 
-> Wenn Du vor mir stehst und mich ansiehst, was weißt Du von den Schmerzen, die in mir sind und was weiß ich von den Deinen. Und wenn ich mich vor Dir niederwerfen würde und weinen und erzählen, was wüsstest Du von mir mehr als von der Hölle, wenn Dir jemand erzählt, sie ist heiß und fürchterlich. Schon darum sollten wir Menschen voreinander so ehrfürchtig, so nachdenklich, so liebend stehn wie vor dem Eingang zur Hölle. "Franz Kafka"
+> Wenn Du vor mir stehst und mich ansiehst, was weißt Du von den Schmerzen, die in mir sind und was weiß ich von den Deinen. Und wenn ich mich vor Dir niederwerfen würde und weinen und erzählen, was wüsstest Du von mir mehr als von der Hölle, wenn Dir jemand erzählt, sie ist heiß und fürchterlich. Schon darum sollten wir Menschen voreinander so ehrfürchtig, so nachdenklich, so liebend stehn wie vor dem Eingang zur Hölle. - Franz Kafka
 
 ### 27-04-2025
 
@@ -132,7 +133,8 @@ How to create a magic sigil:
 - [Philip K. Dick: Stanisław Lem is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 - [FXRant: The Movie Mistake Mystery from "Revenge of the Sith"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html?m=1)
 
-> Omnia permixta sunt" translates to "everything is mixed together" or "all things are mixed." It's a Latin phrase suggesting a state of chaos or disorder where things are not distinct or separate
+Omnia permixta sunt" translates to "everything is mixed together" or "all things are mixed."  
+It's a Latin phrase suggesting a state of chaos or disorder where things are not distinct or separate
 
 ### 15-04-2025
 
@@ -140,18 +142,18 @@ How to create a magic sigil:
 - [50 Classic Bangers That Made Every Quinceañera Pop Off](https://remezcla.com/lists/music/50-classic-quinceanera-bangers/)
 - [hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 
-> When I see the towers fall,
-> It cannot be denied that,
-> As a spectacle,
-> It is a realisation of the mind.
-> You see, I'm standing on a mountain top
-> And letting out a scream,
-> It's the language of the earth,
-> It is the language of the beasts.
-> There's no point to look behind us,
-> We left the corpse behind,
-> Because flesh is weak and forms break down.
-> They cannot last forever.
+When I see the towers fall,  
+It cannot be denied that,  
+As a spectacle,  
+It is a realisation of the mind.  
+You see, I'm standing on a mountain top  
+And letting out a scream,  
+It's the language of the earth,  
+It is the language of the beasts.  
+There's no point to look behind us,  
+We left the corpse behind,  
+Because flesh is weak and forms break down.  
+They cannot last forever.
 
 - [“Blood on my Hands” by Shackleton](https://youtu.be/9iEYQH6iqEs?list=RD9iEYQH6iqEs)
 
@@ -832,7 +834,6 @@ plundered from an [HN comment](https://news.ycombinator.com/item?id=41552861) - 
 1. Hug them. Only let go when they let go.
 1. Say goodbye. Don't sneak out the house to avoid an emotional outburst. Not understanding where a parent went, or why you missed them leaving is traumatic. Say goodbye.
 1. Never pretend that you'll leave them. Kid is at playground and doesn't want to leave? Never faux walk away and pretend you're leaving without them. Fear is not a parenting strategy, it's abuse.
-   Tue, 17 Sept
 
 - Video: [Do Nothing - a message of motivation from Self-help Singh](https://www.youtube.com/watch?v=8An2SxNFvmU)
 
@@ -867,12 +868,6 @@ plundered from an [HN comment](https://news.ycombinator.com/item?id=41552861) - 
 
 > A comically oversized, neon-yellow sweatshirt imprinted with the word ‘Depression
 
-- Random goofy nick name ideas
-  - String Terminator
-  - U+0083
-  - Data Link Escape
-  - molitor5901
-
 [Remove-BG](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
 
 ### 09-09-2024
@@ -905,7 +900,7 @@ print(result['text'])
 - [MNT Research](https://mntre.com/) - open hardware/software laptops. I never used them but it does look very cool
 - [‘Right to Repair for Your Body’](https://fourthievesvinegar.org/)
   Great quote from the article above:
-  > I would have been interested to hear more of his perspective, because I am of the general impression that most people in most situations do what they do because they think it’s the right thing. When you find someone doing something you think is really wrong, they’re usually dealing with a different set of assumptions and logical structure than you are. It’s not that there’s no logic. Usually people have thought it through and their manner of thought is different than yours.”
+  > I would have been interested to hear more of his perspective, because I am of the general impression that most people in most situations do what they do because they think it’s the right thing. When you find someone doing something you think is really wrong, they’re usually dealing with a different set of assumptions and logical structure than you are. It’s not that there’s no logic. Usually people have thought it through and their manner of thought is different than yours.
 
 ### 05-09-2024
 
@@ -1252,7 +1247,7 @@ Nur einmal noch!"
 
 - plundered from [Sam Kriss](https://samkriss.substack.com/)
 
-> the bardo the two peasants had found themselves in was the sidpa bardo, the bardo of becoming, the one we experience after death. Sidpa bardo is tahe interzone between one life and the next, the junkyard of earthly existence, packed with the detritus and runoff of worlds. This is where gods and buddhas take on their fearsome forms, and to pass through sidpa bardo involves suffering many frightening visions. Because this bardo state is made of unstructured waste-thought leaking out from all other bardos, it is always flickering, impermanent. You will see a world you do not understand, and you will see it in ruins. Every city you pass through is bombed. Every person you meet falls dead in battle. You will be attacked by demons and wild animals. But sidpa bardo is educative; the point of these visions is to prepare you for being born again. The entire Second World War had been fought solely to teach these two Tibetan peasants some secret for their next life. They believed they had learned that secret. They had no interest in returning to Gyêgumdo. They did not want the war to have been in vain.
+the bardo the two peasants had found themselves in was the sidpa bardo, the bardo of becoming, the one we experience after death. Sidpa bardo is the interzone between one life and the next, the junkyard of earthly existence, packed with the detritus and runoff of worlds. This is where gods and buddhas take on their fearsome forms, and to pass through sidpa bardo involves suffering many frightening visions. Because this bardo state is made of unstructured waste-thought leaking out from all other bardos, it is always flickering, impermanent. You will see a world you do not understand, and you will see it in ruins. Every city you pass through is bombed. Every person you meet falls dead in battle. You will be attacked by demons and wild animals. But sidpa bardo is educative; the point of these visions is to prepare you for being born again. The entire Second World War had been fought solely to teach these two Tibetan peasants some secret for their next life. They believed they had learned that secret. They had no interest in returning to Gyêgumdo. They did not want the war to have been in vain.
 
 ---
 

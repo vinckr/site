@@ -10,6 +10,167 @@ The stories and information posted here are artistic works of fiction and falseh
 Only a fool would take anything posted here as fact.</small>
 fee
 
+### 01-08-2025
+
+- [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+- [url.town](https://url.town/)
+
+- Chaos Magick = "Use belief like a tool to change yourself or your world."
+
+How to create a magic sigil:
+
+- Write down your desire
+- remove all vowels
+- remove double consonants
+- turn remaining lettersinto a magical looking symbol
+- ????
+- PROFIT!
+
+### 23-07-2025
+
+- [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
+- [The Finest Collection of Niche Perfume](https://www.luckyscent.com/)
+- [Olfactory Design](https://www.cbihateperfume.com/) - weird perfumes
+- [BIOM Tool](https://antlii.work/BIOM-Tool)
+- [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - debloat Windows install
+
+### 11-07-2025
+
+- [From The Mac to The Mystical: Bill Atkinson’s Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
+- [Atkinson Dithering: Transform images to classic Mac graphics](https://atkinson.franzai.com/)
+- [Lorem Gibson](http://loremgibson.com/)
+- [Archive of Our Own](https://archiveofourown.org/)
+- [YoinkUI](https://www.yoinkui.com/)
+
+- Kwisatz Haderach
+- Muad'dib
+- Lisan al Gaib
+
+### 01-07-2025
+
+- [Security Education Companion](https://www.securityeducationcompanion.org/)
+- [Erowid ](https://www.erowid.org/) - open, accurate drug information, lab drug checking, harm reduction, and archiving
+- [Plunderphonics](https://www.plunderphonics.com/xhtml/xplunder.html)
+- [Best Portable Power Stations - Price Comparison](https://gearscouts.com/power-stations)
+- [Wiki Radio 📻](https://www.monkeon.co.uk/wikiradio/)
+
+> how ugly can it be, how decadent can you make it, how unreal can you transform that experience?
+> they were trying to escape from a world where the horrors of reality just became overbearing.
+> make the music louder.
+> who were at the forefront of most of these incredible changes? they were kids, they were kids who picked up the fm radios at 17/18/19/20 and they felt the power and the power moved them and the music moved them and then there was no restraining them.
+
+### 19-06-2025
+
+> Though we are alive
+> death surrounds us;
+> on who can we call
+> save to thee?
+
+### 14-06-2025
+
+- [Which Year - Photo Year Guessing Game](https://whichyr.com/)
+- [TimeGuessr](https://timeguessr.com/)
+- [Safe Space — Alexander Popov](https://strangemachine.tv/safespace/popov/)
+- [ultradiskopanorama](https://youtube.com/@ultradiskopanorama?feature=shared) - great obscure old disco songs
+- [Mementos - Futility Closet](https://www.futilitycloset.com/2025/06/08/mementos-2/)
+
+> Principiis obsta and Finem respice.
+> Resist the beginnings and Consider the end.
+
+### 01-06-2025
+
+- [Kilnettle Shrine Talking Tape Dispenser](https://stephencoyle.net/kilnettle)
+- [Surprisingly Fast AI-Generated Kernels We Didn’t Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+- [#1 Delivery Driver Job Board](https://www.withpara.com/)
+- [Delivery Drivers Are Using Grey Market Apps to Make Their Jobs Suck Less](https://www.vice.com/en/article/delivery-drivers-are-using-grey-market-apps-to-make-their-jobs-suck-less/)
+- [A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#cli-tools-toc)
+- [Stop using JWT for sessions, part 2: Why your solution doesn't work](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
+- [Segal Method of building](https://www.designingbuildings.co.uk/wiki/Segal_Method)
+- [Realistic War Game](https://absurd.website/dday/game.php)
+
+> Love Today, and seize All Tomorrows!
+
+### 17-05-2025
+
+- [The Guide to Sleeping in Airports](https://www.sleepinginairports.net/)
+- [Byrne’s Euclid](https://www.c82.net/euclid/)
+- [Molecular Landscapes by David S. Goodsell](https://pdb101.rcsb.org/sci-art/goodsell-gallery)
+- Video: [Toy Skeleton haunted and possessed - This Is Demonic Crazy](https://www.youtube.com/watch?v=EU2AIxkxiwg) - it is demonic crazy!
+
+### 10-05-2025
+
+- [CSS Stats](https://cssstats.com/stats/?url=www.vinckr.com/)
+- [The Awful German Language](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- Video: [The Japanese man who gets paid to 'do nothing'](https://youtu.be/SxW9M1Uozng)
+- Video: [Northernlion ponders mortality, heritage and identity](https://youtu.be/NGlspzSsVhk)
+
+### 06-05-2025
+
+- [ThunderScope - Revving Up for Production](https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production) - building an OSS oscilloscope, pretty insane project
+- [Graceful Shutdown in Go: Practical Patterns ](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
+- [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
+- [Slidev](https://sli.dev/)
+- [Modern Library Top 100](https://sites.prh.com/modern-library-top-100)
+- [Nirvana](https://farina00.github.io/essays/nevermind/)
+
+> Wenn Du vor mir stehst und mich ansiehst, was weißt Du von den Schmerzen, die in mir sind und was weiß ich von den Deinen. Und wenn ich mich vor Dir niederwerfen würde und weinen und erzählen, was wüsstest Du von mir mehr als von der Hölle, wenn Dir jemand erzählt, sie ist heiß und fürchterlich. Schon darum sollten wir Menschen voreinander so ehrfürchtig, so nachdenklich, so liebend stehn wie vor dem Eingang zur Hölle. "Franz Kafka"
+
+### 27-04-2025
+
+- [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
+- [CSS Hell](https://csshell.com/)
+- [The Egg](https://www.galactanet.com/oneoff/theegg.html)
+- [Howl](https://www.poetryfoundation.org/poems/49303/howl) - I know its a bit tired at this moment but its a great poem.
+- [Warhammer 40k Art Gallery](https://40k.gallery/)
+
+### 21-04-2025
+
+- [SerenityOS](https://serenityos.org/) - graphical Unix-like operating system for desktop computers
+- [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
+
+### 19-04-2025
+
+- [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
+- [Get out of my <head>](https://getoutofmyhead.dev/)
+- [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
+- [Bruce Sterling's Catscan Columns](https://germanponte.com/txt/catscan/sterling.html#ym2)
+- [Philip K. Dick: Stanisław Lem is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
+- [FXRant: The Movie Mistake Mystery from "Revenge of the Sith"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html?m=1)
+
+> Omnia permixta sunt" translates to "everything is mixed together" or "all things are mixed." It's a Latin phrase suggesting a state of chaos or disorder where things are not distinct or separate
+
+### 15-04-2025
+
+- [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
+- [50 Classic Bangers That Made Every Quinceañera Pop Off](https://remezcla.com/lists/music/50-classic-quinceanera-bangers/)
+- [hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
+
+> When I see the towers fall,
+> It cannot be denied that,
+> As a spectacle,
+> It is a realisation of the mind.
+> You see, I'm standing on a mountain top
+> And letting out a scream,
+> It's the language of the earth,
+> It is the language of the beasts.
+> There's no point to look behind us,
+> We left the corpse behind,
+> Because flesh is weak and forms break down.
+> They cannot last forever.
+
+- [“Blood on my Hands” by Shackleton](https://youtu.be/9iEYQH6iqEs?list=RD9iEYQH6iqEs)
+
+### 12-04-2025
+
+- [Why lead is (still) bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
+- [You might not need Websockets](https://hntrl.io/posts/you-dont-need-websockets/)
+- [SVG can do THAT?!](https://slides.com/sdrasner/svg-can-do-that)
+
+### 10-04-2025
+
+- [garfield minus garfield](https://garfieldminusgarfield.net/) - infinitely more depressing
+- Video: [07/27/1978](https://youtu.be/NAh9oLs67Cw) - not sure what to say to this but it tickles my brain
+
 ### 06-04-2025
 
 - [Standard Ebooks](https://standardebooks.org/) - free public domain ebooks

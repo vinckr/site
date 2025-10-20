@@ -147,7 +147,6 @@ Resources for software, web development and other topics related to making the m
 #### File sharing
 
 - [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
-- [Good file sharing service](https://put.re/)
 
 #### Disposable Email
 
@@ -489,6 +488,7 @@ Anything related to sound or music.
 - [8 bit sound maker and online sfx generator](https://sfxr.me/)
 - [Wildlife sounds from around the world](https://xeno-canto.org/)
 - [Musical billard](https://billard.medusis.com/)
+- [Cool sound generator](https://github.grumdrig.com/jsfxr/)
 
 ## Video
 

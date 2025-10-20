@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+## 5 UFO361 songs for hanging out with the space aliens
+
+- [Ufo361 - Nur zur Info](https://www.youtube.com/watch?v=-Ej5qLcmzv0)
+- [Ufo361 feat. Capital Bra - Power](https://www.youtube.com/watch?v=3J18hijASZc)
+- [Ufo361 - Scheiß auf eure Party](https://www.youtube.com/watch?v=6WsZF7dw94k)
+- [KitschKrieg feat. Trettmann, Gringo, Ufo361 & Gzuz - Standard](https://www.youtube.com/watch?v=Sou-nPU6VK4)
+- [Ufo361 feat. Gzuz - Für die Gang](https://www.youtube.com/watch?v=EdFHmMg_kBM)
+
 ## 5 Gravediggaz tracks to bury your opps
 
 - [Gravediggaz - False Things Must Perish](https://youtu.be/_-N_EsVIUU8)

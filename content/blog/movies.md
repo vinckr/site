@@ -5,7 +5,7 @@ title: Movies
 
 ## Reviews
 
-I review and rate movies I watch. Don't take it serious - it's highly subjective and more intended as a list of personal recommendations than as serious critique.
+I review and rate movies I watch. Don't take it seriously - it's subjective and intended as a list of personal recommendations.
 
 Rating:
 
@@ -15,14 +15,26 @@ Rating:
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
 
+- [Edifício Master](https://www.imdb.com/title/tt0333388/) 4/5
+- [Ainda Estou Aqui](https://www.imdb.com/title/tt14961016/) 5/5
+- [13 jours, 13 nuits](https://www.imdb.com/title/tt28291010/) 3/5
+- [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/) 3/5
+- [Caramelo](https://www.imdb.com/title/tt32549601/) 3/5
+- [Call My Agent Berlin](https://www.imdb.com/title/tt36255074/) 4/5
+- [Mickey 17](https://www.imdb.com/title/tt12299608/) 4/5
+- [The Rehearsal](https://www.imdb.com/title/tt10802170/) 4/5
+- [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/) 2/5
+- [Perfect Days](https://www.imdb.com/title/tt27503384/) 5/5
+- [Braveheart](https://www.imdb.com/title/tt0112573/) 3/5
 - [Tenet](https://www.imdb.com/title/tt6723592/) 4/5
 - [Adolescence](https://www.imdb.com/title/tt31806037/) 4/5
+- [Spirited Away](https://www.imdb.com/title/tt0245429/) 5/5
 - [Kraven the Hunter](https://www.imdb.com/title/tt8790086/) 2/5
 - [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002) 4/5
 - [1922](https://www.imdb.com/title/tt6214928/) 3/5
 - [Love lies bleeding](https://www.imdb.com/title/tt19637052/) 4/5
 - [Nosferatu](https://www.imdb.com/title/tt5040012/) 5/5
-- [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/) 3/5
+- [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/) 4/5
 - [Terminator: Dark Fate](https://www.imdb.com/title/tt6450804/) 3/5
 - [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/) 2/5
 - [Commando](https://www.imdb.com/title/tt0088944/) 3/5

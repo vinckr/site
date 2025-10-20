@@ -41,10 +41,6 @@ How to create a magic sigil:
 - [Archive of Our Own](https://archiveofourown.org/)
 - [YoinkUI](https://www.yoinkui.com/)
 
-- Kwisatz Haderach
-- Muad'dib
-- Lisan al Gaib
-
 ### 01-07-2025
 
 - [Security Education Companion](https://www.securityeducationcompanion.org/)

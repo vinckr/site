@@ -176,8 +176,6 @@ How to create a magic sigil:
 - [Standard Ebooks](https://standardebooks.org/) - free public domain ebooks
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions.
 - Video: [Stream Diffusion Tutorial](https://youtube.com/watch?v=UXFgOePhDIE) - [TRY]
-- [garfield minus garfield](https://garfieldminusgarfield.net/)
-- Video: [lasagnacat](https://youtu.be/NAh9oLs67Cw?si=LuWMn7wPIGZwkIk9)
 
 ### 31-03-2025
 

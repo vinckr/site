@@ -5,7 +5,7 @@ title: music
 
 Music is a big passion of mine. I enjoy a wide range of genres, from blues, jazz, metal to electronic music and hip hop beats. Whenever possible I buy music directly from the artist or via Bandcamp.
 
-Under the name _Turdbaby_ or more recently _Dubz_ I am mixing music and tinkering with beats. You can find some of my old material on [soundcloud.com/turdbaby](https://soundcloud.com/turdbaby) and a list of my mixes on [mixcloud.com/turdbaby](https://www.mixcloud.com/turdbaby/) (or listen to them in the widget below).
+Under the name _Turdbaby_ or more recently _Dubzlinger_ I am mixing music and tinkering with beats. You can find some of my old material on [soundcloud.com/dubzlinger](https://soundcloud.com/dubzlinger) and a list of my mixes on [mixcloud.com/dubzlinger](https://www.mixcloud.com/dubzlinger/) (or listen to them in the widget below).
 Being a part of [_Eisbach Callin_](https://eisbachcallin.com/), the longest running bass music party in Munich, has been a huge positive force in my life for more than 13 years.
 
 I love sharing music!

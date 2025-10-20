@@ -8,7 +8,6 @@ my personal feed and plunder box.
 <small>Always check the sources and don't take this too seriously!
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
-fee
 
 ### 01-08-2025
 

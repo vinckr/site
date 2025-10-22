@@ -15,12 +15,14 @@ Rating:
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
 
+- [Prometheus](https://www.imdb.com/title/tt1446714/) 4/5
 - [Edifício Master](https://www.imdb.com/title/tt0333388/) 4/5
 - [Ainda Estou Aqui](https://www.imdb.com/title/tt14961016/) 5/5
 - [13 jours, 13 nuits](https://www.imdb.com/title/tt28291010/) 3/5
 - [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/) 3/5
 - [Caramelo](https://www.imdb.com/title/tt32549601/) 3/5
 - [Call My Agent Berlin](https://www.imdb.com/title/tt36255074/) 4/5
+- [Marvel Zombies](https://www.imdb.com/title/tt16027014/) 4/5
 - [Mickey 17](https://www.imdb.com/title/tt12299608/) 4/5
 - [The Rehearsal](https://www.imdb.com/title/tt10802170/) 4/5
 - [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/) 2/5

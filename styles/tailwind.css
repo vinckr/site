@@ -1,37 +1,24 @@
+@import "./cs16.min.css";
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-nav button {
-  margin-top: 0.5rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  min-width: 100%;
-  border-width: 1px;
-  border-radius: 0.375rem;
-}
+/* base first */
+@import "tailwindcss/base";
 
-nav button:hover {
-  background-color: #5c8d4f;
-  color: black;
-}
+/* components next */
+@import "tailwindcss/components";
 
-main button {
-  color: white;
-  background: #5c8d4f;
-  font-weight: 600;
-  padding: 0.5rem 1rem;
-  border: 1px solid #9ac056;
-  border-radius: 0.375rem;
-}
+/* cs16 theme and components win over Tailwind components */
+@import "./cs16-font.css";
+@import "./cs16.css";
 
-main button:hover {
-  background: #3a6547;
-}
-@media print {
-  body > *:not(article) {
-    display: none;
-  }
+/* utilities last so you can fine-tune with Tailwind classes */
+@import "tailwindcss/utilities";
+
+/* optional site-specific shims, use @layer to keep purge happy */
+@layer components {
+  /* keep empty for now; add tiny app overrides here later */
 }
 
 p meta {

@@ -69,3 +69,43 @@ In order of importance?! plans change a lot.
 - [ ] add better/more vale rules
 - [x] Check if links are alive: https://github.com/tcort/markdown-link-check, next check in June 2025.
   - [ ] automate as cron job: [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)
+
+#### Page-level style overrides
+
+> author note: maybe this is not needed I am not sure, didn't try it out...
+
+The site uses **cs16.css** globally for theming and components.  
+For pages that require custom adjustments, add a scoped override file and import it after `tailwind.css`.
+
+Example:  
+`src/pages/account/account.overrides.css`
+
+```css
+@layer components {
+  .page-account .cs-btn {
+    padding: 6px 10px;
+    font-weight: 600;
+  }
+}
+```
+
+Include the override in Nunjucks template:
+
+```
+{% extends "layouts/base.njk" %}
+{% block head %}
+  <link rel="stylesheet" href="/assets/tailwind.css">
+  <link rel="stylesheet" href="/pages/account/account.overrides.css">
+{% endblock %}
+{% block content %}
+  <main class="page-account">
+    <!-- page content -->
+  </main>
+{% endblock %}
+```
+
+Each override file should:
+
+- Use @layer components so Tailwind’s purge keeps it.
+- Scope rules to a unique wrapper (e.g., .page-account) to avoid global bleed.
+- Never redefine cs16 variables directly; override component rules instead.

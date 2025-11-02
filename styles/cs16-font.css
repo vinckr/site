@@ -1,0 +1,7 @@
+@font-face {
+  font-family: ArialPixel;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/ArialPixel.ttf") format("truetype");
+  font-display: swap;
+}

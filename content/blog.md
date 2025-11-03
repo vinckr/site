@@ -5,29 +5,30 @@ title: blog
 
 ## **[feed](../feed)**
 
-## articles
-
-- [36 questions to fall in love](36-questions)
-- [travel report cuba 2023](travel-cuba-2023)
-- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
-- [how to encrypt files in a git repository easy mode](encrypt-dir)
-- [how to live life](how-to-live-life)
-- [5 tracks](5tracks)
-
 ## pages
 
+- [🎶 5 tracks](5tracks)
 - [🎞 movies](movies)
 - [📚 books](books)
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
-- [🥨 munich food tips](munich-tips)
 - [🕵️ notable wikipedia articles](wikipedia)
 - [git](git)
 - [great personal websites and blogs](personal-websites)
 - [warhammer40k reading guide](w40k-reading-guide)
+- [🥨 munich food tips](munich-tips)
+
+## plundered
+
+- [how to live life](how-to-live-life)
+- [36 questions to fall in love](36-questions)
 - [the ravers manifesto](ravers-manifesto)
 
 ## weblog 2022-2024
+
+- [how to use vale as free and customizable open source style checker](open-source-stylecheck)
+- [how to encrypt files in a git repository easy mode](encrypt-dir)
+- [travel report cuba 2023](travel-cuba-2023)
 
 - entries after 05-2024 can be found in [feed](../feed)
 - [05-2024](05-24)

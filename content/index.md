@@ -3,10 +3,20 @@ layout: layouts/page.njk
 title: hello
 ---
 
-My name is Vincent - I am in charge of **Developer Relations** at **Ory**. My team and I help developers build secure and open identity systems for the web.
+My name is Vincent - I am in charge of **Developer Relations** at [**Ory**](https://www.ory.com/). Ory helps developers build secure, scalable, and open-source auth for the web. I'm also a contributor and maintainer of the open-source [Ory project](https://github.com/ory).
 
 ![Vincent](/img/v.png)
 
-I'm a contributor and maintainer of the [Ory open-source community](https://github.com/ory). My responsibilities include community growth, documentation, developer advocacy, and content among others.
+My other passion is mixing music as a DJ - [read more about it here](./music).
+I also enjoy reading, writing, practical philosophy, and symbiotic relationships with hive-minded arthropods 🐝
 
-Launching a new community, building a developer ecosystem, or growing an open-source project can be challenging. Let me help you create a developer relations program that will set you up for long-term success. [Contact me](mailto:mail@vinckr.com) for a free consultation.
+This my personal website. There are a lot like it, but this one is mine.  
+It's my virtual garden, testlab, and archive. Don't take it too seriously!
+
+I believe in the power and merit of open and free information and try to advance this cause wherever possible.
+
+![rainbow bar](/img/colorbar.gif)
+
+Thanks for visiting!
+
+![Thanks for visiting!](/img/hello.gif)

@@ -18,5 +18,4 @@ I believe in the power and merit of open and free information and try to advance
 ![rainbow bar](/img/colorbar.gif)
 
 Thanks for visiting!
-
 ![Thanks for visiting!](/img/hello.gif)

@@ -3,44 +3,6 @@
 @import "./cs16.css";
 @import "tailwindcss/utilities";
 
-@layer utilities {
-  /* restore native markers globally */
-  ul,
-  ol {
-    display: block;
-    list-style-position: outside;
-    list-style-image: none;
-    padding-left: 1.5rem; /* not crossed out now */
-    margin-left: 0;
-  }
-  ul {
-    list-style-type: disc;
-  }
-  ol {
-    list-style-type: decimal;
-  }
-
-  /* critical: ensure items are real list items again */
-  ul > li,
-  ol > li {
-    display: list-item;
-  }
-
-  /* optional: color */
-  ul > li::marker,
-  ol > li::marker {
-    color: var(--accent);
-  }
-}
-
-@layer utilities {
-  ul,
-  ol {
-    list-style-position: inside;
-    padding-left: 0;
-  }
-}
-
 p meta {
   color: transparent;
   user-select: none;

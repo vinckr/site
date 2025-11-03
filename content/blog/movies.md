@@ -15,16 +15,20 @@ Rating:
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
 
+- [Victor Frankenstein](https://www.imdb.com/title/tt1976009/) 3/5
+- [Encounters at the End of the World](https://www.imdb.com/title/tt1093824/)
 - [Prometheus](https://www.imdb.com/title/tt1446714/) 4/5
 - [Edifício Master](https://www.imdb.com/title/tt0333388/) 4/5
 - [Ainda Estou Aqui](https://www.imdb.com/title/tt14961016/) 5/5
 - [13 jours, 13 nuits](https://www.imdb.com/title/tt28291010/) 3/5
 - [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/) 3/5
 - [Caramelo](https://www.imdb.com/title/tt32549601/) 3/5
+- [The Amateur](https://www.imdb.com/title/tt0899043/) 2/5
 - [Call My Agent Berlin](https://www.imdb.com/title/tt36255074/) 4/5
 - [Marvel Zombies](https://www.imdb.com/title/tt16027014/) 4/5
 - [Mickey 17](https://www.imdb.com/title/tt12299608/) 4/5
 - [The Rehearsal](https://www.imdb.com/title/tt10802170/) 4/5
+- [The Menu](https://www.imdb.com/title/tt9764362/) 3/5
 - [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/) 2/5
 - [Perfect Days](https://www.imdb.com/title/tt27503384/) 5/5
 - [Braveheart](https://www.imdb.com/title/tt0112573/) 3/5
@@ -107,6 +111,7 @@ Rating:
 - [Evil Dead Rise](https://www.imdb.com/title/tt13345606/) 3/5
 - [Evil Dead](https://www.imdb.com/title/tt1288558/) 4/5
 - [Jodorowsky's Dune](https://www.imdb.com/title/tt1935156/) 5/5
+- [The Martian](https://www.imdb.com/title/tt3659388/) 5/5
 - [Jurassic Punk](https://www.imdb.com/title/tt15095920/) 3/5
 - [Mom and Dad](https://www.imdb.com/title/tt5462326/) 4/5
 - [The 6th Day](https://www.imdb.com/title/tt0216216/) 2/5
@@ -127,6 +132,7 @@ Rating:
 - [Curb Your Enthusiasm](https://www.imdb.com/title/tt0264235) 5/5
 - [The Book of Boba Fett](https://www.imdb.com/title/tt13668894/) 4/5
 - [Reality](https://www.imdb.com/title/tt2392672) 3/5
+- [The Revenant](https://www.imdb.com/title/tt1663202/) 5/5
 - [Dune](https://www.imdb.com/title/tt1160419) 3/5
 - [Get Out](https://www.imdb.com/title/tt5052448) 5/5
 - [Nope](https://www.imdb.com/title/tt10954984) 4/5

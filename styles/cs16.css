@@ -40,13 +40,15 @@ p {
   font-weight: 400;
   overflow-wrap: break-word;
 }
+
 @font-face {
   font-family: ArialPixel;
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/ekmas/cs16.css@main/ArialPixel.ttf)
-    format("truetype");
+  src: url("/fonts/ArialPixel.ttf") format("truetype");
+  font-display: swap;
 }
+
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -54,6 +56,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
 }
+
 ::-webkit-scrollbar {
   width: 18px;
 }
@@ -114,9 +117,11 @@ body {
   border-color: var(--border-light) var(--border-dark) var(--border-dark)
     var(--border-light);
   color: #fff;
-  font-size: 16px;
+  font-size: 32px;
   line-height: 15px;
-  padding: 4px 5px 3px;
+  padding: 16px 20px 12px;
+  margin-bottom: 8px;
+  margin-right: 8px;
   user-select: none;
   &.close {
     background: no-repeat 50%;

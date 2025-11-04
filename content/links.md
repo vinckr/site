@@ -340,7 +340,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Tool to create canarytokens](https://canarytokens.org/)
 - [Tool to find leaked credentials](https://github.com/trufflesecurity/trufflehog)
 - [Tool to check if your browser fingerprint is unique](https://amiunique.org/)
-- [Guide to CSRF, CORS, and HTTP headers](https://blog.vnaik.com/posts/web-attacks.html)
+- [Guide to CSRF, CORS, and HTTP headers](https://blog.vnaik.com/posts/csrf-cors-web-attacks/)
 - [Guide on secure email delivery](https://resend.com/blog/email-authentication-a-developers-guide)
 - [Guide how to respond when hit by ransomware](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)
 - [Guide on how to secure routers](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
@@ -479,7 +479,6 @@ Anything related to sound or music.
 - [Jeff Nang's Music Maker Tool List](https://docs.google.com/spreadsheets/d/1D2q8BFBcc3mJMJ9XIXWG04LTtsQRiwDD_xaLYh7TccI/edit#gid=1815619541)
 - [LibriVox - free public domain audiobooks ](https://librivox.org/)
 - [Cool Stuff built with Tensorflow/Magenta.js](https://magenta.tensorflow.org/demos/web/)
-- [Rendahmag Cyphers](https://rendahmag.com/cyphers) Monthly contest to create tracks with given samples.
 - [Music Theory Tools to learn music online for free](https://muted.io/)
 - [Obsolete Sounds - collection of disappearing sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [CoolModFiles - Play MOD files](https://coolmodfiles.com/)

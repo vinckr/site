@@ -241,7 +241,6 @@ How to not have terrible CI experience, plundered from [HN](https://news.ycombin
 
 ### 16-03-2025
 
-- [MetaCheck](https://metacheck.appstate.co/) - preview links for posting on social media
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - open source notion - [̃TRY]
 - [UI/UX Design Inspiration for Apps and Websites](https://pageflows.com/)
 - [UI & UX design inspiration for mobile & web apps](https://mobbin.com/)
@@ -718,7 +717,6 @@ plundered from somewhere...
 - [nop.codes](https://nop.codes/)
 - [h0wdy](https://h0wdy.partners/)
 - [pixeldreams.tokyo](https://pixeldreams.tokyo/)
-- [paralys.is](https://paralys.is/)
 - [Remy Hax](https://remyhax.xyz/)
 - [VVX7](https://vvx7.io/)
 - [Hexadecim8.com](https://hexadecim8.com/)
@@ -823,7 +821,6 @@ Great [HN comment](https://news.ycombinator.com/item?id=41693639) on why LLM art
 - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn’t.](https://archive.ph/TmaOu)
 - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/) - I wanted to use this for myself for ages, I just need to do it already haha - [TRY]
 - [meet.hn](https://meet.hn/) - [TRY]
-- [DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit/tree/masterd) - Image viewer and metadata (prompt) searcher for your AI generated images - I really need some tools to organize or just archive my prompts, this could be it - [TRY]
 
 As you can see I'm experimenting with adding the [TRY] tag to anything that I really want to try out but haven't gotten around to yet. Let's see how useful it is. Alternatively I could also create a separate document for this...
 
@@ -959,7 +956,6 @@ Quote from [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Cop
 
 ### 22-08-2024
 
-- [Remove Firefox private attribution](https://make-firefox-private-again.com/) - a code snippet - background is that Mozilla added something called "Private Attribution" - I dont know too much about the details but its an effort to implement "private" tracking for marketing. Read more in this [reddit thread](https://www.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/) and decide for yourself.
 - [danhill feed](https://100kb.danhill.is/) - a feed similar to mine, even more minimal - but with tags. I personally don't like organising tags and coming up with good tags, but it works great for dan.
 - [You don't know how bad most things are nor precisely how they're bad.](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how) - great article on how much you don't know or why it is hard to come up with generalized solutions for stuff.
 - [Secret Lives of Orangutans review](https://www.theguardian.com/tv-and-radio/article/2024/aug/22/secret-lives-of-orangutans-review-david-attenborough-netflix) - goes on my watchlist, also enjoyed reading this review.

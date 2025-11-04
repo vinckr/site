@@ -42,34 +42,6 @@ not part of conventional commits and specific to this site:
 
 `edit`: any edits to existing artices, weblogs, lists or other text
 
-## TODO
-
-In order of importance?! plans change a lot.
-
-### next
-
-- [ ] redesign landing page
-- [ ] weblog
-  - [ ] automate format imdb links and add to movie json (also for reviews)
-  - [ ] automate format goodreads links and add to books json (also for reviews)
-  - [ ] automate format wiki links and add to wiki jsoneleventy/issues/1593)
-- [ ] add cool 90s cursor effects
-  - [ ] add tons of other effects ideally without impacting performance
-- [ ] order everything in /links in Audio and below
-  - [ ] move /links to a json as well
-  - [ ] restructure /links to be less insane
-- [ ] add published date
-  - [ ] add edited date
-- [ ] 404 page
-  - [ ] other errors?
-- [ ] change goodreads to something else, maybe worldcat
-- [ ] move to my own static site builder again? or dynamic?
-- [ ] markdown footnotes
-- [ ] Check text with vale rules
-- [ ] add better/more vale rules
-- [x] Check if links are alive: https://github.com/tcort/markdown-link-check, next check in June 2025.
-  - [ ] automate as cron job: [github action](https://github.com/gaurav-nelson/github-action-markdown-link-check) is in in maintenance mode and I could not figure out how to deal with all the exceptions without a lot of hassle, [the followup project](https://github.com/UmbrellaDocs/linkspector) still needs a github action, check again sometime (or contribute it you lazy bum!)
-
 #### Page-level style overrides
 
 > author note: maybe this is not needed I am not sure, didn't try it out...

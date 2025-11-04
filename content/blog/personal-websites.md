@@ -22,7 +22,6 @@ A collection of personal blogs and websites, plus a few professionals mixed in -
 - [ellenallien.de](https://ellenallien.de/)
 - [chrissieabbott.com](https://chrissieabbott.com/)
 - [jameshfisher.com](https://jameshfisher.com/)
-- [paot.com.au](https://paot.com.au/)
 - [yrstruly.uk](https://yrstruly.uk/)
 - [l-i-l.de](https://www.l-i-l.de/intro)
 - [codinghorror.com/](https://blog.codinghorror.com/)

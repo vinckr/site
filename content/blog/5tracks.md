@@ -43,7 +43,7 @@ It has been one of the things that motivated me to keep starting to blog again a
 - [Hamid El Shaeri - Ouda](https://www.youtube.com/watch?v=0SSXNhbQMAU)
 - [No Mercy - Where Do You Go (Club Mix)](https://www.youtube.com/watch?v=FYJY19kM-Og)
 - [Frank Sinatra - That's Life](https://www.youtube.com/watch?v=KIiUqfxFttM)
-- [Miki Matsubara - Stay With Me](https://www.youtube.com/watch?v=moR4uw-NWLY)
+- [Miki Matsubara - Stay With Me](https://www.youtube.com/watch?v=QNYT9wVwQ8A)
 - [Lola Young - Don’t Hate Me](https://www.youtube.com/watch?v=2CyXPxAJm9g)
 
 ## 5 Dillinja tunes to watch c-beams glitter in the dark

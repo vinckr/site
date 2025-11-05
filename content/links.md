@@ -494,10 +494,6 @@ Anything related to sound or music.
 - [Spout - Ultra-fast, realtime video routing for Windows](https://spout.zeal.co/)
 - [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
 
-## Text Generation
-
-- [Guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
-
 ## Image Generation
 
 ### Generators
@@ -623,12 +619,3 @@ Anything related to sound or music.
 - [Buy used media products (DE)](https://www.medimops.de/)
 - [Buy electronic components (DE)](https://www.digikey.de/en)
 - [Community for high quality high- and variable-refresh rate display reviews](https://blurbusters.com/)
-
-## Dead
-
-Dead links but still reachable through wayback machine. Testament to how much great content gets lost every day.
-
-- [DiscMaster](https://web.archive.org/web/20230611125628/http://discmaster.textfiles.com/)
-- [Legally Free Python Books List](https://web.archive.org/web/20230926000945/https://www.pythonkitchen.com/legally-free-python-books-list/)
-- [8 Tips for Dev Documentation](https://web.archive.org/web/20230404044018/https://jonbeller.me/8-tips-for-writing-better-developer-documentation)
-- [Cool looking PC design](https://web.archive.org/web/20231001000000*/http://slipperyskip.com/page23.html)

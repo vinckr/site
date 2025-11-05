@@ -5,7 +5,18 @@ title: blog
 
 ## **[feed](../feed)**
 
-## pages
+<div class="cs-tabs">
+  <input
+    class="radiotab"
+    name="tabs"
+    tabindex="1"
+    type="radio"
+    id="tabone"
+    checked="checked"
+  />
+  <label class="label" for="tabone">pages</label>
+  <div class="panel" tabindex="1">
+    <h3>pages</h3>
 
 - [🎶 5 tracks](5tracks)
 - [🎞 movies](movies)
@@ -18,18 +29,37 @@ title: blog
 - [warhammer40k reading guide](w40k-reading-guide)
 - [🥨 munich food tips](munich-tips)
 
-## plundered
+  </div>
+  <input
+    class="radiotab"
+    tabindex="1"
+    name="tabs"
+    type="radio"
+    id="tabtwo"
+  />
+  <label class="label" for="tabtwo">plundered</label>
+  <div class="panel" tabindex="1">
+    <h3>plundered</h3>
 
 - [how to live life](how-to-live-life)
 - [36 questions to fall in love](36-questions)
 - [the ravers manifesto](ravers-manifesto)
 
-## weblog 2022-2024
+  </div>
+  <input
+    class="radiotab"
+    tabindex="1"
+    name="tabs"
+    type="radio"
+    id="tabthree"
+  />
+  <label class="label" for="tabthree">archive</label>
+  <div class="panel" tabindex="1">
+    <h3>archive</h3>
 
 - [how to use vale as free and customizable open source style checker](open-source-stylecheck)
 - [how to encrypt files in a git repository easy mode](encrypt-dir)
 - [travel report cuba 2023](travel-cuba-2023)
-
 - entries after 05-2024 can be found in [feed](../feed)
 - [05-2024](05-24)
 - [04-2024](04-24)
@@ -55,3 +85,6 @@ title: blog
 - [06-2022](06-22)
 - [05-2022](05-22)
 - [04-2022](04-22)
+
+  </div>
+</div>

@@ -3,8 +3,6 @@ layout: layouts/page.njk
 title: blog
 ---
 
-## **[feed](../feed)**
-
 <div class="cs-tabs">
   <input
     class="radiotab"
@@ -14,7 +12,22 @@ title: blog
     id="tabone"
     checked="checked"
   />
-  <label class="label" for="tabone">pages</label>
+  <label class="label" for="tabone">feed</label>
+  <div class="panel" tabindex="1">
+    <h3>feed</h3>
+
+-> [to the feed](../feed)
+
+  </div>
+  <input
+    class="radiotab"
+    name="tabs"
+    tabindex="1"
+    type="radio"
+    id="tabtwo"
+    checked="checked"
+  />
+  <label class="label" for="tabtwo">pages</label>
   <div class="panel" tabindex="1">
     <h3>pages</h3>
 
@@ -35,9 +48,9 @@ title: blog
     tabindex="1"
     name="tabs"
     type="radio"
-    id="tabtwo"
+    id="tabthree"
   />
-  <label class="label" for="tabtwo">plundered</label>
+  <label class="label" for="tabthree">plundered</label>
   <div class="panel" tabindex="1">
     <h3>plundered</h3>
 
@@ -51,9 +64,9 @@ title: blog
     tabindex="1"
     name="tabs"
     type="radio"
-    id="tabthree"
+    id="tabfour"
   />
-  <label class="label" for="tabthree">archive</label>
+  <label class="label" for="tabfour">archive</label>
   <div class="panel" tabindex="1">
     <h3>archive</h3>
 

@@ -42,6 +42,11 @@ not part of conventional commits and specific to this site:
 
 `edit`: any edits to existing artices, weblogs, lists or other text
 
+## Style
+
+This website uses the [cs16.css](https://github.com/ekmas/cs16.css), more about this [here](https://cs16.samke.me/).
+Thanks a lot @emkas for creating this!
+
 #### Page-level style overrides
 
 > author note: maybe this is not needed I am not sure, didn't try it out...

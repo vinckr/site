@@ -10,7 +10,7 @@ Under the name **Dubz** I am performing as a DJ, mixing music, and tinkering wit
 > **Dubz** takes you on a colorful journey through all varieties of bass music, be it soulful garage, gritty dubstep, uptempo kuduro, brostep, or almighty jungle; an eclectic mix of everything that can lead to the fringes of breakcore and dark dub - anything goes, as long as your feet move, the sweat is dripping from the ceiling, and the rave is in ruins afterwards!
 
 My older pseudonyms include _Turdbaby_, _Dubzlinger_, and _Miskatonic_.  
-You can find some of my old tracks on [soundcloud.com/dubzlinger](https://soundcloud.com/dubzlinger) and a list of my mixes on [mixcloud.com/dubzlinger](https://www.mixcloud.com/dubzlinger/) (or listen to them in the widget below).  
+You can find some of my old tracks on [soundcloud.com/dubz_030](https://soundcloud.com/dubz_030) and a list of my mixes on [mixcloud.com/dubz_030](https://www.mixcloud.com/dubz_030/) (or listen to them in the widget below).  
 Being a part of [_Eisbach Callin_](https://eisbachcallin.com/) - the longest running bass music party in Munich - has been a huge positive force in my life since 2009.
 
 I love sharing music!
@@ -18,11 +18,11 @@ I love sharing music!
 - [Check out some of my favourite tracks, organized into small compilations by genre and theme.](../blog/5tracks)
 
 - [**Eisbach Callin** website](https://eisbachcallin.com/)
-- [mixcloud.com/turdbaby](https://www.mixcloud.com/dubzlinger/)
-- [soundcloud.com/turdbaby](https://soundcloud.com/dubzlinger)
+- [mixcloud.com/turdbaby](https://www.mixcloud.com/dubz_030/)
+- [soundcloud.com/turdbaby](https://soundcloud.com/dubz_030)
 
 ## old sets
 
-Visit [mixcloud.com/dubzlinger](https://www.mixcloud.com/dubzlinger/) for the full list.
+Visit [mixcloud.com/dubz_030](https://www.mixcloud.com/dubz_030/) for the full list.
 
-<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&hide_artwork=1&feed=%2Fdubzlinger%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&hide_artwork=1&feed=%2Fdubz_030%2F" frameborder="0" ></iframe>

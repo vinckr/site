@@ -1,0 +1,59 @@
+{% macro matrixParticles(
+  id="matrix",
+  color="#00ff66",
+  baseCount=160,
+  mobileScale=0.4,
+  speed=2.5,
+  sizeMin=12,
+  sizeMax=18,
+  zIndex=-1
+) %}
+  <canvas id="{{ id }}"></canvas>
+  <style>
+    html, body { height: 100%; margin: 0; }
+    #{{ id }} {
+      position: fixed; inset: 0; z-index: {{ zIndex }}; background:#000; pointer-events:none;
+      --content-max: 56rem;
+      --gutter: max(24px, (100vw - var(--content-max)) / 2);
+      -webkit-mask-image: linear-gradient(to right, black 0, black var(--gutter), transparent var(--gutter), transparent calc(100% - var(--gutter)), black calc(100% - var(--gutter)), black 100%);
+      mask-image: linear-gradient(to right, black 0, black var(--gutter), transparent var(--gutter), transparent calc(100% - var(--gutter)), black calc(100% - var(--gutter)), black 100%);
+    }
+  </style>
+  <script>
+    (function(){
+      var c = document.getElementById("{{ id }}");
+      var ctx = c.getContext("2d");
+      function resize(){
+        c.width = innerWidth;
+        c.height = innerHeight;
+        cols = Math.floor(c.width / fontSize);
+        drops = Array.from({ length: cols }, () => Math.floor(Math.random() * (c.height / fontSize)));
+      }
+      var chars = "ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ";
+      var font = "16px monospace";
+      var fontSize = 16;
+      var speed = 30;
+      var fade = 0.08;
+      var cols = 0;
+      var drops = [];
+      resize();
+      addEventListener("resize", resize);
+      function step(){
+        ctx.fillStyle = "rgba(0,0,0," + fade + ")";
+        ctx.fillRect(0, 0, c.width, c.height);
+        ctx.fillStyle = "{{ color }}";
+        ctx.font = font;
+        for (var i = 0; i < drops.length; i++){
+          var ch = chars.charAt(Math.floor(Math.random() * chars.length));
+          var x = i * fontSize;
+          var y = drops[i] * fontSize;
+          ctx.fillText(ch, x, y);
+          if (y > c.height && Math.random() > 0.975) drops[i] = 0;
+          drops[i]++;
+        }
+        setTimeout(step, 1000 / speed);
+      }
+      step();
+    })();
+  </script>
+{% endmacro %}

@@ -1,6 +1,7 @@
 ---
-layout: layouts/lists/movies.njk
+layout: layouts/list.njk
 title: Movies
+listVariant: movie
 ---
 
 ## Reviews

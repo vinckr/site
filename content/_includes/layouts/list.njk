@@ -1,0 +1,112 @@
+---
+layout: "layouts/page.njk"
+---
+
+{# expects:
+   - listVariant: "quotes" | "book" | "movie" | "wikipedia" | "generic"
+   - listItems: array of objects (shape depends on variant)
+#}
+
+{% set variant = listVariant or "generic" %}
+
+{% set listItems = [] %}
+{% if variant == "book" %}
+  {% set listItems = book or [] %}
+{% elif variant == "movie" %}
+  {% set listItems = movie or [] %}
+{% elif variant == "wikipedia" %}
+  {% set listItems = wikipedia or [] %}
+{% elif variant == "quotes" %}
+  {% set listItems = quotes or [] %}
+{% endif %}
+
+{% if listItems and (listItems | length) > 0 %}
+<div class="mt-4">
+  <button id="randomBtn" type="button" class="cs-btn">
+    Random {{ variant | capitalize }}
+  </button>
+  <br>
+  <span id="randomOut" class="cs-input mt-4"></span>
+</div>
+
+<section class="not-prose">
+<details>
+    <summary>
+      Click to expand list of all
+      {% if variant == "book" %}books
+      {% elif variant == "quotes" %}quotes
+      {% elif variant == "movie" %}movies
+      {% elif variant == "wikipedia" %}wikipedia articles
+      {% else %}items{% endif %}
+    </summary>  {% if variant == "quotes" %}
+    {% for item in listItems %}
+      <figure class="my-8">
+        <blockquote class="prose">
+          <p>{{ item.quote }}</p>
+        </blockquote>
+        <figcaption class="mt-2 text-sm opacity-80">
+          - <a href="{{ item.url }}">{{ item.author }}</a>
+        </figcaption>
+      </figure>
+      <hr>
+    {% endfor %}
+  {% else %}
+    <ul id="list" class="list-disc pl-6 space-y-2">
+      {% for item in listItems %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  </details>
+</section>
+
+<script>
+  const LIST_ITEMS = {{ listItems | dump | safe }};
+  const variant = "{{ variant }}";
+  const btn = document.getElementById("randomBtn");
+  const out = document.getElementById("randomOut");
+
+  function pick() {
+    if (!Array.isArray(LIST_ITEMS) || LIST_ITEMS.length === 0) return;
+    const i = Math.floor(Math.random() * LIST_ITEMS.length);
+    const it = LIST_ITEMS[i];
+    if (variant === "quotes") {
+      out.innerHTML = `"${it.quote}" — <a href="${it.url}">${it.author}</a>`;
+    } else {
+      out.innerHTML = `<a href="${it.url}">${it.title}</a>`;
+    }
+  }
+
+  btn?.addEventListener("click", pick);
+</script>
+{% endif %}
+
+{# ---------------- JSON-LD ---------------- #}
+{% if variant == "quotes" %}
+  {% set itemType = "CreativeWork" %}
+{% else %}
+  {% set itemType = "Thing" %}
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {% for item in listItems %}
+    {
+      "@type": "{{ itemType }}",
+      "url": "{{ item.url | escape }}"
+      {% if variant == "quotes" %}
+        , "name": "{{ item.author | escape }}"
+        , "text": "{{ item.quote | escape }}"
+      {% else %}
+        , "name": "{{ item.title | escape }}"
+      {% endif %}
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+
+{{ content | safe }}

@@ -1,6 +1,7 @@
 ---
-layout: layouts/lists/books.njk
+layout: layouts/list.njk
 title: Books
+listVariant: book
 ---
 
 ## Reviews

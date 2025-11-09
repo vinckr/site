@@ -1,7 +1,7 @@
 ---
-layout: layouts/lists/wikipedia.njk
+layout: layouts/list.njk
 title: Notable Wikipedia Articles
-linksData: wikipedia.json
+listVariant: wikipedia
 ---
 
 - [Click here for a random article](https://en.wikipedia.org/wiki/Special:Random)

@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: music
 ---
 
+**If youw want to support me please leave a like on my [Instagram](https://www.instagram.com/dubz030) or [Soundcloud](https://soundcloud.com/dubz_030) profiles.**
+
 Music is a big passion of mine. I enjoy a wide range of genres, from drum&bass, dubstep, to blues, jazz, metal to other electronic styles and hip hop beats. Whenever possible I buy music directly from the artist or via [Bandcamp](https://bandcamp.com/turdbaby).
 
 Under the name **Dubz** I am performing as a DJ, mixing music, and tinkering with beats.

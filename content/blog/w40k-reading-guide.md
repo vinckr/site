@@ -7,7 +7,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 > Thanks so much cd8d for creating this!
 
-- Status: 22 of 100
+- Status: 24 of 89
 
 ## Part 0: 40K
 
@@ -62,8 +62,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] Master of the First - Eye of Terra (35) by Gav Thorpe
 - [x] The Long Night - Eye of Terra (35) by Aaron Dembski-Bowden
   - too lazy to write a review for each of these short stories, but I have to say I really warmed up to the Night Lords. Their primarch is pathetic and they are mostly traitors and turncloaks - but I like their savage pride and calculating nature. Especially Sevatar is a great character, rotten, cruel and brutal to the bone - but he still has a "good" side to him. In any case reading about Sevatar decapitating people with his chainglave is just very entertaining and for now the Night Lords are my favourites from these books.
-- [ ] Bonus 40K: Lord of the Night by Simon Spurrier
-- [ ] Bonus 40K: Night Lords Omnibus by Aaron Dembski-Bowden
+- [x] Lord of the Night by Simon Spurrier - I can recommend this one, very different setting from all other books I read before. Really liked the ending as well.
+- [x] Night Lords Omnibus by Aaron Dembski-Bowden - this was a long one, took me a couple of months to get through. But highly entertaining I don't want to spoil anything but ADB can bring out the best in the Night Lords very convincingly. Truly the best read for those that want to get more into the Night Lords and all the thick lore around them. Also the Night Lords have a very unique view on the Great Betrayal and for all their savagery and evil they - or at least some of them - come across as the most sane of the fallen Legions.
 
 ## Part 5: Imperium Secondus
 
@@ -73,16 +73,12 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Pharos (26) by Guy Haley
 - [ ] Angels of Caliban (38) by Gav Thorpe
 - [ ] Ruinstorm (46) by David Annandale
-- [ ] Bonus 40K: Scythes of the Emperor Anthology by L.J. Goulding
-
-- checked until here
+- [ ] Scythes of the Emperor Anthology by L.J. Goulding
 
 ## Part 6: Legion of One
 
 - [ ] The Last Remembrancer - Age of Darkness (16) by John French
-- [ ] Oath of Moment - Garro (42) by James Swallow
-- [ ] Sword of Truth - Garro (42) by James Swallow
-- [ ] Legion of One - Garro (42) by James Swallow
+- [ ] Weapon of Fate - Garro (42) by James Swallow
 - [ ] Luna Mendax - The Silent War (37) by Graham McNeill
 - [ ] Grey Angel - The Silent War (37) by James Swallow
 - [ ] The Devine Adoratrice - War Without End (33) by Graham McNeill
@@ -97,8 +93,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
 - [ ] The Master of Mankind (41) by Aaron Dembski-Bowden
 - [ ] The Crimson King (44) by Graham McNeill
-- [ ] Bonus 40K: Ahriman Omnibus by John French
-- [ ] Bonus 40K: Forges of Mars Omnibus by Graham McNeil
+- [ ] Ahriman Omnibus by John French
+- [ ] Forges of Mars Omnibus by Graham McNeil
 
 ## Part 8 - Wolves
 
@@ -106,9 +102,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Wolf’s Claw - Legacies of Betrayal (31) by Chris Wraight
 - [ ] Wolf King - Burden of Loyalty (48) by Chris Wraight
 - [ ] Wolfsbane (49) by Guy Haley
-- [ ] Two Metaphysical Blades (Unprinted Short Story) by Chris Wraight
-- [ ] Bonus 40K: The Hunt for Magnus by Chris Wraight
-- [ ] Bonus 40K: Battle of the Fang by Chris Wraight
+- [ ] The Hunt for Magnus by Chris Wraight
+- [ ] by Chris Wraight
 
 ## Part 9 - Scars
 
@@ -117,6 +112,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Allegiance - War Without End (33) by Chris Wraight
 - [ ] Path of Heaven (36) by Chris Wraight
 - [ ] The Last Son of Prospero - Heralds of the Siege (52) by Chris Wraight
+
+- checked until here
 
 ## Part 10 - Iron
 
@@ -173,8 +170,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Herald of Sanguinius - Eye of Terra (35) by Andy Smillie
 - [ ] Sins of the Father - Eye of Terra (35) by Andy Smillie
 - [ ] Virtues of the Sons - War Without End (33) by Andy Smillie
-- [ ] Bonus 40K: Flesh Tearers Anthology by Andy Smillie
-- [ ] Bonus 40K: Wrath of the Lost by Chris Forrester
+- [ ] Flesh Tearers Anthology by Andy Smillie
+- [ ] Wrath of the Lost by Chris Forrester
 
 ### Optional 3: Oll Persson
 
@@ -196,54 +193,4 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [ ] Veritas Ferrum - Legacies of Betrayal (31) by David Annandale
 - [ ] Sermon of Exodus - War Without End (33) by David Annandale
 - [ ] Damnation of Pythos (30) by David Annandale
-- [ ] Bonus 40K: Pandorax by C.Z. Dunn
-
-## The Minimalist Version (17-18 Books Total before Siege)
-
-Just including this for completness sake, but I ain't about the short version.
-
-### Part 1: The Fall of Horus
-
-- [ ] Horus Rising (1) by Dan Abnett
-- [ ] False Gods (2) by Graham McNeill
-- [ ] Galaxy of Flames (3) by Ben Counter
-- [ ] Flight of the Eisenstein (4) by James Swallow
-- [ ] Fulgrim (5) by Graham McNeil
-
-### Part 2: Lorgar & Angron
-
-- [ ] The First Heretic (14) by Aaron Dembski-Bowden
-- [ ] Know No Fear (19) by Dan Abnett
-- [ ] Betrayer (24) by Aaron Dembski-Bowden
-
-### Part 3: Imperium Secondus
-
-- [ ] The Unremembered Empire (27) by Dan Abnett
-- [ ] Angels of Caliban (38) by Gav Thorpe
-- [ ] Ruinstorm (46) by David Annandale
-
-### Part 4 - Magnus, Russ, and Khan
-
-- [ ] A Thousand Sons (12) by Graham McNeil
-- [ ] Scars (28) by Chris Wraight
-- [ ] Path of Heaven (36) by Chris Wraight
-
-### Part 5 - The Emperor & Horus
-
-- [ ] The Master of Mankind (41) by Aaron Dembski-Bowden
-- [ ] Angel Exterminatus (23) by Graham McNeill
-- [ ] Slaves to Darkness (51) by John French
-- [ ] Praetorian of Dorn (39) by John French
-
-### Part 6 - The Siege of Terra Series
-
-- [ ] The Solar War
-- [ ] The Lost and the Damned
-- [ ] The First Wall
-- [ ] Saturnine
-- [ ] Mortis
-- [ ] Warhawk
-- [ ] Echoes of Eternity
-- [ ] The End and the Death Volume 1
-- [ ] The End and the Death Volume 2
-- [ ] The End and the Death Volume 3
+- [ ] Pandorax by C.Z. Dunn

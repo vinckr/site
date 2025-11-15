@@ -9,6 +9,110 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 16-10-2025
+
+- Video: [Live feed from a watering hole in Namibia](https://waterhole.genmon.partykit.dev/) - you can find the youtube source [here](https://www.youtube.com/watch?v=ydYDqZQpim8)
+- Video: [THE PISS SAGA | Short Documentary](https://youtu.be/G5_uaLKpoRQ) - one of the most well made and weirdest and things i saw on the internet, and i seen a lot of shit in my time
+
+### 12-10-2025
+
+- [infohash.lol — Every single torrent is on this website](https://infohash.lol/)
+- [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/) - I think I will try out buying some of these white label hard drives for my next archival session. Right now I have 2 or 3 copies of all the files that are important to me, but spread out over a collection of old hard drives. It would be great to get a couple of reasonably priced big drives to hold all the data in one place from [ Datablocks](https://datablocks.dev/)
+- [The World Trade Center Under Construction Photos](https://rarehistoricalphotos.com/twin-towers-construction-photographs/) - I love these old industrial photos, truly impressing
+- [Wilson’s Algorithm](https://cruzgodar.com/applets/wilsons-algorithm) - a neat algorithm to generate mazes
+- [Awakening Bell](https://awakeningbell.org/) - breathe conciously when you hear the bell
+- [Social Cooling - Big Data's unintended side effect](https://www.socialcooling.com/) - not much needs to be said here, but it's a nice visualization
+- [Discover art with Mixedbread Search](https://nga.demo.mixedbread.com/) - dont generate bad art with natural language, find great art with natural language!
+- [Smartphones and being present](https://herman.bearblog.dev/being-present/) - smartphone bad article, but he has some cool suggestions how to work around it
+- [offline.church](https://offline.church) - a website you can only access in airplane mode, no idea how this works!
+- [Free Software hasn't won](https://dorotac.eu/posts/fosswon/) - modern life getting more and more unfree, demonstrated by technology, free software is a lie folks.
+
+### 10-10-2025
+
+> Yaşamak bir ağaç gibi tek ve hür
+> ve bir orman gibi kardeşçesine,
+> bu hasret bizim.
+> Leben wie ein Baum einzeln und frei,
+> und brüderlich wie ein Wald,
+> das ist unsere Sehnsucht. - Nâzım Hikmet
+
+### 27-09-2025
+
+- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) - a catalog of really old games
+- [ Roland Emmerich’s Far From Conservative Style](https://web.archive.org/web/20091115081946/http://guestofaguest.com/things-we-love/roland-emmerichs-far-from-conservative-style/) - he has some great taste, not really meant as inspiration for my own home. URL is already dead, but long live the archive
+- [Order Up](https://casualarchivist.substack.com/p/order-up) - collection of midcentury North American restaurant placemats
+- [Create a Phishy URL](https://phishyurl.com/) - the name says it all, create some really sus looking redirect URLs
+
+> The sounds you are about to hear they be devastating to your ear
+
+### 15-09-2025
+
+- [Gallery | FFglitch](https://ffglitch.org/gallery/) - some examples of the glitched out video you can produce with ffglitch
+- [Stations and transfers](http://stations.albertguillaumes.cat/) - cool 3d models of subway stations around the world
+- [The Next Step: A New Generation of Artists Is Reinvigorating Dubstep](https://daily.bandcamp.com/lists/new-dubstep-album-guide) - Bandcamp Daily is great overall, but I especially enjoyed this one, some fresh new blood for dubstep.
+- [The Sisyphean Cycle of Technology Panics](https://journals.sagepub.com/doi/full/10.1177/1745691620919372) - history is a flat circle, also when it comes to new technology
+
+> Take what is offered
+
+### 13-09-2025
+
+> Whatever you now find weird, ugly, uncomfortable and nasty about a new medium will surely become its signature. CD distortion, the jitteriness of digital video, the crap sound of 8-bit - all of these will be cherished and emulated as soon as they can be avoided. It’s the sound of failure: so much modern art is the sound of things going out of control, of a medium pushing to its limits and breaking apart. The distorted guitar sound is the sound of something too loud for the medium supposed to carry it. The blues singer with the cracked voice is the sound of an emotional cry too powerful for the throat that releases it. The excitement of grainy film, of bleached-out black and white, is the excitement of witnessing events too momentous for the medium assigned to record them. -Brian Eno
+
+### 06-09-2025
+
+- [Robots - The Old Robots Web Site](https://www.theoldrobots.com/index2.html) - a marvellous collection of oldschool science fiction robot designs
+- [FlyOOBE: Fly through your Windows 11 setup 🐝](https://github.com/builtbybel/FlyOOBE) - make win11 not horrible and disable all AI features
+- [A Navajo weaving of an integrated circuit: the 555 timer](http://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html?m=1) - pretty self-explanatory, a weaved rug of the best circuit.
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/) - the headline says it all, but I enjoyed this write up.
+- [Chimps are sticking grass and sticks in their butts, seemingly as a fashion trend](https://www.cbc.ca/radio/asithappens/chimpanzee-grass-butt-1.7583207) - they are just like us, fashion fads and all. Another nail in the coffin of human supremacy
+
+### 05-09-2025
+
+- [I don't have Spotify](https://idonthavespotify.sjdonado.com/) - and I refuse to get it! Don't get me started on those leeches. I don't blame you for using it, but god help me if I will ever give them money
+- [Eternal](https://yoavg.github.io/eternal/#) - the eternal battle between good and evil, visualized
+
+### 29-08-2025
+
+- [clearcam](https://github.com/roryclear/clearcam) - Turn your RTSP enabled camera or old iPhone into a state of the art AI Security Camera
+- [service-ping (sping)](https://dseltzer.gitlab.io/sping/docs/) - Modern terminal HTTP/TCP latency monitoring tool with real-time visualization.
+
+> been tryna die young so long i got old
+
+### 19-08-2025
+
+> In a world of nothing,
+> of barren hills and cracked earth and once-proud oceans drained to sand,
+> there will still be a monument to our existence
+> bleached by the sun perhaps and blunted by time, but everlasting
+> because this man represents all that is eternal in the human experience.
+> the courage to stand when all others fail or turn away
+> the strenght to recognize the value of freedom and accept its cost no matter how great
+> Through the curtain of the aurora, a comet blazed to herald his arrival
+> and his victories shall be transcribed into every language known to history.
+
+I just love these over the top intros and thought you might enjoy them too.
+
+> We kneel at the side of the road
+> to be covered in the dust from the hooves of our enemy’s horses
+> and we chew on gravel and we smile the smile of broken teeth and supplication,
+> but one man will not yield!
+> One man will stand over it and he will cast you in his shadow!
+> Because the rock on which he stands IS NOT A ROCK!
+> It is courage! It is hope! Enough to sustain a people!
+> He will howl at the moon and he will call his name into the new day to put his claim!
+
+### 07-08-2025
+
+silly tricks for CVs:
+
+- cut to a smaller size than letter, in a branded folder. People tend to stack things with the smaller items on top.
+- subtly watermark with nerdy silly diagrams
+- add valid until <YEAR> in the cover
+
+Good LLM system prompt (plundered from HN):
+
+> Prioritize substance, clarity, and depth. Challenge all my proposals, designs, and conclusions as hypotheses to be tested. Sharpen follow-up questions for precision, surfacing hidden assumptions, trade offs, and failure modes early. Default to terse, logically structured, information-dense responses unless detailed exploration is required. Skip unnecessary praise unless grounded in evidence. Explicitly acknowledge uncertainty when applicable. Always propose at least one alternative framing. Accept critical debate as normal and preferred. Treat all factual claims as provisional unless cited or clearly justified. Cite when appropriate. Acknowledge when claims rely on inference or incomplete information. Favor accuracy over sounding certain. When citing, please tell me in-situ, including reference links. Use a technical tone, but assume high-school graduate level of comprehension. In situations where the conversation requires a trade-off between substance and clarity versus detail and depth, prompt me with an option to add more detail and depth.
+
 ### 01-08-2025
 
 - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
@@ -936,10 +1040,6 @@ print(result['text'])
 
 - [Poets’ Odd Jobs](https://poets.org/text/poets-odd-jobs) - There’s no money in poetry, but then there’s no poetry in money either - harking back to another article about the sidegigs of world famous artists to support their art this is a list of the jobs of some of the greatest poets of our time.
 
-### 20-08-2024
-
-- [A fully free and self-contained modular synthesizer based on the popular VCV Rack](https://cardinal.kx.studio/)
-
 ### 23-08-2024
 
 - [CUII Liste](https://cuiiliste.de/) - list of all domains banned in Germany by the CUII
@@ -963,6 +1063,10 @@ Quote from [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Cop
 ### 21-08-2024
 
 - [Getting flux to work on Apple Silicon Mac](https://github.com/comfyanonymous/ComfyUI/issues/4165#issuecomment-2264948167) - this comment helped me, basically needed to downgrade torch.
+
+### 20-08-2024
+
+- [A fully free and self-contained modular synthesizer based on the popular VCV Rack](https://cardinal.kx.studio/)
 
 ### 11-08-2024
 

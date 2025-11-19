@@ -67,7 +67,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 ## Part 5: Imperium Secondus
 
-- [ ] The Unremembered Empire (27) by Dan Abnett
+- [x] The Unremembered Empire (27) by Dan Abnett - flew through this one, a quick and easy read. If you want to see a lot of primarch and perpetual action and also a bit of backstory on a number of key characters I would recommend it.
 - [ ] A Safe and Shadowed Place - War Without End (33) by Guy Haley
 - [ ] Heart of Pharos - Burden of Loyalty (48) by L.J. Goulding
 - [ ] Pharos (26) by Guy Haley

@@ -46,17 +46,17 @@ p {
 }
 
 @font-face {
-  font-family: ArialPixel;
+  font-family: robertson;
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/ArialPixel.ttf") format("truetype");
+  src: url("/fonts/robertson.ttf") format("truetype");
   font-display: swap;
 }
 
 body {
   background-color: var(--bg);
   color: var(--text);
-  font-family: ArialPixel, system-ui, sans-serif;
+  font-family: robertson, system-ui, sans-serif;
   font-weight: 400;
   line-height: 1.5;
 }

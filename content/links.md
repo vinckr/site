@@ -317,7 +317,6 @@ Official courses and other learning resources, mostly focused on working with co
 
 #### Fonts
 
-- [List of oldschool PC font](https://int10h.org/oldschool-pc-fonts/)
 - [List of free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
 - [List of great sci-fi fonts](https://iconian.com/)
 - [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)

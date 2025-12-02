@@ -69,10 +69,10 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 - [x] The Unremembered Empire (27) by Dan Abnett - flew through this one, a quick and easy read. If you want to see a lot of primarch and perpetual action and also a bit of backstory on a number of key characters I would recommend it.
 - [x] A Safe and Shadowed Place - War Without End (33) by Guy Haley - not much to say here, nice little appearance of the Night Lords, can safely be skipped.
-- [ ] Heart of Pharos - Burden of Loyalty (48) by L.J. Goulding
-- [ ] Pharos (26) by Guy Haley
-- [ ] Angels of Caliban (38) by Gav Thorpe
-- [ ] Ruinstorm (46) by David Annandale
+- [x] Heart of Pharos - Burden of Loyalty (48) by L.J. Goulding
+- [x] Pharos (26) by Guy Haley - I really liked Curze in this one, even though he only had a brief appearance, he was a much deeper and less despicable character than in previous encounters and one of the more interesting primarchs. Also a good depiction of the larger struggle beyond humanity and the origin story of [redacted]. Overall worth to read but long stretches of not so interesting stuff as well.
+- [ ] Angels of Caliban (38) by Gav Thorpe - skipped for now
+- [x] Ruinstorm (46) by David Annandale - Sorry David, but this one was the least fun for now in the series. I really did like some parts of it but at some point all the extreme bombast and the millions of miles of Chaos constructs and the gibbering armies of billions of demons were a bit much. It was all too crazy and out there even for 40k. I get that this is a monumental turning point in the story but I could've skipped this one without regrets and just read the synopsis. I did like Sanguinius and Curze's interactions though.
 - [ ] Scythes of the Emperor Anthology by L.J. Goulding
 
 ## Part 6: Legion of One

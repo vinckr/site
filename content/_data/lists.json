@@ -1,6 +1,22 @@
 [
-  { "slug": "books", "variant": "books", "items": "books" },
-  { "slug": "movies", "variant": "movies", "items": "movies" },
-  { "slug": "wikipedia", "variant": "wikipedia", "items": "wikipedia" },
-  { "slug": "quotes", "variant": "quotes", "items": "quotes" }
+  {
+    "slug": "books",
+    "variant": "books",
+    "items": "books"
+  },
+  {
+    "slug": "movies",
+    "variant": "movies",
+    "items": "movies"
+  },
+  {
+    "slug": "quotes",
+    "variant": "quotes",
+    "items": "quotes"
+  },
+  {
+    "slug": "wikipedia",
+    "variant": "wikipedia",
+    "items": "wikipedia"
+  }
 ]

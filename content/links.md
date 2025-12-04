@@ -5,9 +5,21 @@ title: links
 
 A collection of links to various websites, resources and even more link collections.
 
-## Read
+<div class="cs-tabs">
+   <input
+      class="radiotab"
+      name="tabs"
+      tabindex="1"
+      type="radio"
+      id="tabone"
+      checked="checked"
+      />
+   <label class="label" for="tabone">read</label>
+   <div class="panel" tabindex="1">
 
-### Public Domain
+## read
+
+### public domain
 
 Public domain books and online libraries.
 
@@ -19,9 +31,7 @@ Public domain books and online libraries.
 - [Global Grey](https://www.globalgreyebooks.com/)
 - [The Anarchist Library](https://theanarchistlibrary.org/)
 
-### Mixed Publications
-
-- [My personal list of notable Wikipedia Articles](../blog/wikipedia)
+### mixed publications
 
 Mostly blogs, forums, and other internet-centric publications or good articles.
 
@@ -63,12 +73,23 @@ Mostly blogs, forums, and other internet-centric publications or good articles.
 - [Greek Legends and Myths](https://www.greeklegendsandmyths.com/)
 - [HN Classics](https://posobin.com/hn_classics/)
 
-#### Science Fiction
+#### science fiction
 
 - [Clarkesworld](https://clarkesworldmagazine.com/)
 - [AEscifi](https://aescifi.ca/)
 
-## Write
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabtwo"
+      />
+   <label class="label" for="tabtwo">write</label>
+   <div class="panel" tabindex="1">
+
+## write
 
 - [Tool to edit text to be clear](https://hemingwayapp.com/)
 - [Tool to find alternatives for very](https://www.losethevery.com/)
@@ -81,11 +102,22 @@ Mostly blogs, forums, and other internet-centric publications or good articles.
 - [Guide to writing by the Australian government](https://www.stylemanual.gov.au/)
 - [Dictionary of Slang](https://greensdictofslang.com/)
 
-## Software
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabthree"
+      />
+   <label class="label" for="tabthree">software</label>
+   <div class="panel" tabindex="1">
+
+## software
 
 Resources for software, web development and other topics related to making the machine do what you want.
 
-### Cheat Sheets
+### cheat sheets
 
 - [HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guide to Network Programming](https://beej.us/guide/bgnet/html/)
@@ -96,13 +128,13 @@ Resources for software, web development and other topics related to making the m
 - [List of HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 - [List of common CLI commands](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
-#### Personal cheat sheets
+#### personal cheat sheets
 
 - [My list of common git commands](blog/git)
 - [My guide to set up MacOs](blog/macos)
 - [My list of random commands](blog/misc)
 
-### Tools
+### tools
 
 - [Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 - [Explore SQLite data in the browser](https://lite.datasette.io/)
@@ -130,7 +162,7 @@ Resources for software, web development and other topics related to making the m
 - [Another tool to get your IP](https://icanhazip.com/)
 - [Tool to get IP, Network, and ASN data](https://ip.guide/)
 
-#### Lists of tools
+#### lists of tools
 
 - [List of web performance test tools](https://www.swyx.io/webperf-tests)
 - [List of Static Site Generators](https://jamstack.org/generators/)
@@ -139,22 +171,22 @@ Resources for software, web development and other topics related to making the m
 - [List of online tools for users and developers](https://www.danstools.com/)
 - [List of tunneling tools](https://github.com/anderspitman/awesome-tunneling/)
 
-#### Screenshots
+#### screenshots
 
 - [Tool to make screenshots look nice](https://screenstab.com/)
 - [Another tool to make screenshots look nice](https://screely.com/)
 
-#### File sharing
+#### file sharing
 
 - [List of file-sharing services](https://github.com/ShareX/CustomUploaders)
 
-#### Disposable Email
+#### disposable email
 
 - [Disposable email](https://www.guerrillamail.com/)
 - [Another disposable email](https://www.byom.de/)
 - [Temporary email](https://email.ml/)
 
-### Frontend
+### frontend
 
 #### HTML
 
@@ -164,7 +196,7 @@ Resources for software, web development and other topics related to making the m
 - [Guide to learn HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 - [Guide to sending a HTTP Request as a user leaves a page](https://css-tricks.com/send-an-http-request-on-page-exit/)
 
-##### Lists of HTML resources
+##### HTML lists
 
 - [List of HTML and CSS techniques to reduce JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 - [List of HTML tricks](https://markodenic.com/html-tips/)
@@ -181,7 +213,7 @@ Resources for software, web development and other topics related to making the m
 - [Guide to axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [Game to learn Flexbox](https://flexboxfroggy.com/)
 
-##### CSS Themes
+##### CSS themes
 
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [Neat CSS](https://neat.joeldare.com/)
@@ -192,7 +224,7 @@ Resources for software, web development and other topics related to making the m
 - [CSS theme based on Guidelines from Apple](https://github.com/codedgar/Puppertino)
 - [Tailwind CSS Components](https://www.hyperui.dev/)
 
-##### CSS Lists
+##### CSS lists
 
 - [List of CSS generators](https://markodenic.com/css-generators/)
 - [List of modern web app design patterns](https://www.patterns.dev/)
@@ -208,17 +240,17 @@ Resources for software, web development and other topics related to making the m
 - [List with resources on node-based UIs](https://github.com/wbkd/awesome-node-based-uis)
 - [List of React hooks](https://usehooks.com/)
 
-##### Typescript
+##### typescript
 
 - [Guide to TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Another guide to TypeScript](https://basarat.gitbook.io/typescript/)
 - [Guide to TypeScript development](https://github.com/gibbok/typescript-book)
 
-### Backend
+### backend
 
 - [Guide to Ruby](https://ruby-hacking-guide.github.io/)
 
-#### Database
+#### database
 
 - [Guide to SQLite](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [List of Databases](https://dbdb.io/)
@@ -246,7 +278,7 @@ Resources for software, web development and other topics related to making the m
 - [Guide to automation with Python](https://automatetheboringstuff.com/)
 - [List of Python learning resources](https://learnbyexample.github.io/py_resources/)
 
-### Technical Documentation
+### technical documentation
 
 - [Guide to simplified technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English)
 - [Guide to writing technical documentation](https://jacobian.org/2009/nov/11/technical-style/)
@@ -255,7 +287,7 @@ Resources for software, web development and other topics related to making the m
 - [Tool to write documentation with React and Markdown](https://docusaurus.io/)
 - [List of the Google documentation styles](https://developers.google.com/style/highlights)
 
-### Learn
+### learn
 
 Official courses and other learning resources, mostly focused on working with computers with some exceptions.
 
@@ -275,7 +307,7 @@ Official courses and other learning resources, mostly focused on working with co
 - [Free online computer science course from Harvard](https://cs50.harvard.edu/x/2024/)
 - [List of free public APIs to play around with](https://www.freepublicapis.com/)
 
-#### Lists of learning resources
+#### lists of learning resources
 
 - [List of free online courses on any topic](https://www.openculture.com/freeonlinecourses)
 - [List of free online courses from MIT](https://www.edx.org/school/mitx)
@@ -290,21 +322,21 @@ Official courses and other learning resources, mostly focused on working with co
 - [List of hackits challenges](https://www.0xf.at/)
 - [Wikipedia of free learning resources](https://en.wikiversity.org/)
 
-#### Code Examples
+#### code examples
 
 - [List of clones of popular sites](https://github.com/gorvgoyl/clone-wars)
 - [List of modern application architectures](https://github.com/nginxinc/kic-reference-architectures/)
 - [List of Docker compose exampes](https://github.com/docker/awesome-compose)
 - [Example of website in CLI format](https://github.com/rootvc/cli-website)
 
-### User Interface
+### user interface
 
 - [List of i18n methods](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 - [List of inclusive design practices](https://universaldesignguide.com/)
 - [List of old graphical user interfaces](https://guidebookgallery.org/screenshots/win95)
 - [HTML-first, open-source library of UI components](https://www.franken-ui.dev/)
 
-#### Icons
+#### icons
 
 - [Radix](https://icons.radix-ui.com/)
 - [Feather](https://feathericons.com/)
@@ -315,8 +347,9 @@ Official courses and other learning resources, mostly focused on working with co
 - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 - [hugeicons](https://hugeicons.com/icons)
 
-#### Fonts
+#### fonts
 
+- [List of oldschool PC font](https://int10h.org/oldschool-pc-fonts/)
 - [List of free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
 - [List of great sci-fi fonts](https://iconian.com/)
 - [CAT Fonts by Peter Wiegel](http://peter-wiegel.de/)
@@ -324,9 +357,9 @@ Official courses and other learning resources, mostly focused on working with co
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 - I also like: [Inter](https://fonts.google.com/specimen/Inter), [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono), [Broken 15](https://www.dafont.com/broken15.font)
 
-### Security
+### security
 
-#### Security Lists and Guides
+#### security lists and guides
 
 - [List of almost every web security topic](https://cheatsheetseries.owasp.org/index.html)
 - [List of security resources](https://github.com/sbilly/awesome-security)
@@ -355,9 +388,20 @@ Official courses and other learning resources, mostly focused on working with co
 - [Tool to find a username on even more socials](https://github.com/sherlock-project/sherlock)
 - [Enumerate usernames across many websites](https://whatsmyname.app/)
 
-## Build
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabfour"
+      />
+   <label class="label" for="tabfour">build</label>
+   <div class="panel" tabindex="1">
 
-Helpful when building an application, website, business, or something else related to software. Would be good if I break this up in more detailed categories...
+## build
+
+Helpful when building an application, website, business, or something else related to software.
 
 - [List of services with free tiers](https://github.com/255kb/stack-on-a-budget)
 - [Another list of services with free tiers](https://free-for.life/)
@@ -387,14 +431,14 @@ Helpful when building an application, website, business, or something else relat
 - [List of names with special characters and a regex to block special characters that aren't used in names](https://gist.github.com/rodrigoborgesdeoliveira/15e394fd22255f1117ef1d3c4e2f3304)
 - [Guide to the cheap and smol web](https://potato.cheap/)
 
-### Marketing
+### marketing
 
 Related to marketing in all its forms.
 
 - [List of resources to promote a startup](https://github.com/trekhleb/promote-your-next-startup)
 - [List of developer content creators](https://github.com/CrowdDotDev/devcontentcreators)
 
-### Design
+### design
 
 This section is a mixed collection of design guides, tools, and list of great examples for inspiration. This is also sort of a mess, probably would be good to split up in several categories or merge with others.
 
@@ -427,7 +471,7 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [Tool to build animations in the WebGL shader language](https://smoothstep.io/)
 - [Tool to generate design tokens](https://tokens.layoutit.com/)
 
-#### Game Design
+#### game design
 
 - [List of resources for building games & animations](https://opengameart.org/)
 - [Tool to create digital terrain design](https://quadspinner.com/)
@@ -435,13 +479,18 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [List of content cut from video games](https://tcrf.net/The_Cutting_Room_Floor)
 - [List of SVG Icons intended for games](https://game-icons.net/)
 
-## Data
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabfive"
+      />
+   <label class="label" for="tabfive">visual art</label>
+   <div class="panel" tabindex="1">
 
-- [Tool to show stats on YouTube](https://tubestats.org/)
-- [Tool to show stats on any YouTube channel](https://www.viewstats.com/)
-- [Tool to compare which pages get the most views in Wikipedia](https://pageviews.wmcloud.org/)
-
-## Visual Art
+## visual art
 
 - [List of copyright free images](https://unsplash.com)
 - [List of beautiful objects](https://collection.maas.museum/)
@@ -462,7 +511,18 @@ This section is a mixed collection of design guides, tools, and list of great ex
 - [Tool to search for Gifs](https://gif.so/)
 - [Tool to create graphics with a handdrawn look in Javascript](https://roughjs.com/)
 
-## Audio
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabsix"
+      />
+   <label class="label" for="tabsix">audio</label>
+   <div class="panel" tabindex="1">
+
+## audio
 
 Anything related to sound or music.
 
@@ -488,51 +548,18 @@ Anything related to sound or music.
 - [Musical billard](https://billard.medusis.com/)
 - [Cool sound generator](https://github.grumdrig.com/jsfxr/)
 
-## Video
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabseven"
+      />
+   <label class="label" for="tabseven">fun</label>
+   <div class="panel" tabindex="1">
 
-- [Spout - Ultra-fast, realtime video routing for Windows](https://spout.zeal.co/)
-- [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
-
-## Image Generation
-
-### Generators
-
-- [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [Context Free Art](https://www.contextfreeart.org/index.html)
-
-### Image Generation Tools
-
-- [Vertex Meadow](https://www.vertexmeadow.xyz/)
-- [Remove Background from Image](https://www.remove.bg/)
-- [BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)](https://www.birme.net/)
-- [Remove image backgrounds](https://pixian.ai/)
-
-- [Generate low poly patterns](https://trianglify.io/)
-- [Generate ugly avatars](https://txstc55.github.io/ugly-avatar/)
-
-### Image Generation Resources
-
-- [Civitai | Checkpoints, Loras and more](https://civitai.com/)
-- [Stable Diffusion search engine](https://lexica.art/)
-- [Prompthero - prompts/generated images database](https://prompthero.com/)
-- [Krea](https://krea.ai/)
-- [Stable Diffusion XL artist style list](https://stablediffusion.fr/artist-style)
-- [The definitive Stable Diffusion experience guide](https://rentry.org/voldy)
-- [Public Prompts](https://publicprompts.art/)
-- [OTP prompt generator](https://atsuzaki-playground.neocities.org/)
-- [Prompt resources & tools](https://dallery.gallery/prompt-resources-tools-ai-art/)
-- [List of science fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
-- [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
-- [80s, 90s toys & kidcore Tumblr](https://kidcore-nostalgia.tumblr.com/)
-- [Webb's Jupiter Images Showcase Auroras, Hazes - James Webb Space Telescope](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
-- [ARC Museum Search - Art Renewal Center](https://www.artrenewal.org/Museum/Search#/)
-- [Database of Aesthetics](https://cari.institute/aesthetics)
-- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/)
-- [Comfy Workflows](https://comfyworkflows.com/)
-
-## Fun
+## fun
 
 - [Lonely streams and streamers with zero viewers](https://nobody.live/)
 - [EXP TV - live tv channel broadcasting an endless stream of obscure media and video ephemera](https://exptv.org/)
@@ -568,8 +595,20 @@ Anything related to sound or music.
 - [web comics search](https://www.ohnorobot.com/)
 - [2FFFA Game](https://nalinplad.github.io/the-2FA-game/)
 - [dingboard - make memes quickly](http://dingboard.com/)
+- [Butterchurn Music Visualizer Extension - Chrome Web Store](https://chromewebstore.google.com/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih)
 
-## Work
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabeight"
+      />
+   <label class="label" for="tabeight">work</label>
+   <div class="panel" tabindex="1">
+
+## work
 
 - [no hello](https://nohello.net/en/)
 - [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
@@ -577,7 +616,7 @@ Anything related to sound or music.
 - [VDO.Ninja - Peer-to-peer video calls](https://vdo.ninja/)
 - [List of online earning methods](https://github.com/onmyway133/awesome-online-earning)
 
-### Jobs
+### jobs
 
 - [wceolin/global-hiring: A list of companies hiring globally.](https://github.com/wceolin/global-hiring)
 - [Hacker News who is hiring search engine](https://nchelluri.github.io/hnjobs/)
@@ -592,7 +631,18 @@ Anything related to sound or music.
 - [Remote software companies hiring in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 - [Hackernews Jobs search](https://grburst.github.io/hnjobs/)
 
-## Uncategorized
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabnine"
+      />
+   <label class="label" for="tabnine">uncategorized</label>
+   <div class="panel" tabindex="1">
+
+## uncategorized
 
 - [Ebook reader inside the browser](https://www.loudreader.com/)
 - [HTML Over The Wire](https://hotwire.dev/)
@@ -612,9 +662,12 @@ Anything related to sound or music.
 - [EarthStation1.com - Audio - Visual Archive](https://www.earthstation1.com/)
 - [Bicycle Technical Information](https://www.sheldonbrown.com/)
 
-### Buy
+### buy
 
 - [Headphone reviews](https://diyaudioheaven.wordpress.com/)
 - [Buy used media products (DE)](https://www.medimops.de/)
 - [Buy electronic components (DE)](https://www.digikey.de/en)
 - [Community for high quality high- and variable-refresh rate display reviews](https://blurbusters.com/)
+
+   </div>
+</div>

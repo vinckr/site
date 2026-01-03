@@ -61,7 +61,7 @@ Only a fool would take anything posted here as fact.</small>
 ### 06-09-2025
 
 - [Robots - The Old Robots Web Site](https://www.theoldrobots.com/index2.html) - a marvellous collection of oldschool science fiction robot designs
-- [FlyOOBE: Fly through your Windows 11 setup 🐝](https://github.com/builtbybel/FlyOOBE) - make win11 not horrible and disable all AI features
+- [FlyOOBE: Fly through your Windows 11 setup](https://github.com/builtbybel/FlyOOBE) - make win11 not horrible and disable all AI features
 - [A Navajo weaving of an integrated circuit: the 555 timer](http://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html?m=1) - pretty self-explanatory, a weaved rug of the best circuit.
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/) - the headline says it all, but I enjoyed this write up.
 - [Chimps are sticking grass and sticks in their butts, seemingly as a fashion trend](https://www.cbc.ca/radio/asithappens/chimpanzee-grass-butt-1.7583207) - they are just like us, fashion fads and all. Another nail in the coffin of human supremacy

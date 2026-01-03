@@ -73,16 +73,16 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] Pharos (26) by Guy Haley - I really liked Curze in this one, even though he only had a brief appearance, he was a much deeper and less despicable character than in previous encounters and one of the more interesting primarchs. Also a good depiction of the larger struggle beyond humanity and the origin story of [redacted]. Overall worth to read but long stretches of not so interesting stuff as well.
 - [ ] Angels of Caliban (38) by Gav Thorpe - skipped for now
 - [x] Ruinstorm (46) by David Annandale - Sorry David, but this one was the least fun for now in the series. I really did like some parts of it but at some point all the extreme bombast and the millions of miles of Chaos constructs and the gibbering armies of billions of demons were a bit much. It was all too crazy and out there even for 40k. I get that this is a monumental turning point in the story but I could've skipped this one without regrets and just read the synopsis. I did like Sanguinius and Curze's interactions though.
-- [ ] Scythes of the Emperor Anthology by L.J. Goulding
+- [x] Scythes of the Emperor Anthology by L.J. Goulding - Entertaining battles against the Tyranids, but can safely be skipped, I see no immediate relation to the Horus Heresy story, but it's been interesting to learn what became of Oberdeii.
 
 ## Part 6: Legion of One
 
-- [ ] The Last Remembrancer - Age of Darkness (16) by John French
-- [ ] Weapon of Fate - Garro (42) by James Swallow
-- [ ] Luna Mendax - The Silent War (37) by Graham McNeill
-- [ ] Grey Angel - The Silent War (37) by James Swallow
-- [ ] The Devine Adoratrice - War Without End (33) by Graham McNeill
-- [ ] Vengeful Spirit (29) by Graham Mcneill
+- [x] The Last Remembrancer - Age of Darkness (16) by John French - short but powerful, a glimpse of what the Imperium of Man will become after the great civil war.
+- [x] Weapon of Fate - Garro (42) by James Swallow - always nice to see Garro in action, though it's noticable that these were audio books first. Nice origin story of the Grey Knights.
+- [x] Luna Mendax - The Silent War (37) by Graham McNeill
+- [x] Grey Angel - The Silent War (37) by James Swallow - I didn't really get this one, but probably will make more sense later on...
+- [x] The Devine Adoratrice - War Without End (33) by Graham McNeill - really good short story, great setup for the Vengeful Spirit novel, and very well written. Looking forward to the next!
+- [x] Vengeful Spirit (29) by Graham Mcneill - this one was a lot of fun to read, we get to see Horus in action again finally, and Loken and a bunch of other great characters. I also liked how the subplot from the previous short story was developed here and Molech is a really cool battlefield.
 
 ## Part 7 - Mars & Magnus
 

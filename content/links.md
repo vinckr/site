@@ -662,6 +662,17 @@ Anything related to sound or music.
 - [EarthStation1.com - Audio - Visual Archive](https://www.earthstation1.com/)
 - [Bicycle Technical Information](https://www.sheldonbrown.com/)
 
+   </div>
+   <input
+      class="radiotab"
+      tabindex="1"
+      name="tabs"
+      type="radio"
+      id="tabten"
+      />
+   <label class="label" for="tabten">buy</label>
+   <div class="panel" tabindex="1">
+
 ### buy
 
 - [Headphone reviews](https://diyaudioheaven.wordpress.com/)

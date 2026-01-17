@@ -9,6 +9,133 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 01-01-2026
+
+- [Happy Public Domain Day!](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+
+  Here are some personal highlights
+
+- Robert Musil - The Man Without Qualities
+  it is a masterpiece, highly recommend it, haven't found a good link for it though. I read it a long time ago, but I have to admit I didn't manage to finish the whole thing... maybe someday
+- [Sigmund Freud – Civilization and Its Discontents](https://archive.org/details/in.ernet.dli.2015.221667)
+- [Vladimir Nabokov - The Defense](https://archive.org/details/in.ernet.dli.2015.458615)
+- [Charlie Parker’s compositions](https://www.youtube.com/watch?v=AMuItUv9xZc&list=PL9C4lRUjCkCt0sdzKT6an4pUKMUvzIakk)
+- Hannah Arendt
+
+### 31-12-2025
+
+- some legendary bad movies i (maybe?) want to see
+
+  - [Alone in the Dark](https://www.imdb.com/title/tt0369226/)
+  - [Ben & Arthur](https://www.imdb.com/title/tt0364986/)
+  - [Ballistic: Ecks vs. Sever](https://www.imdb.com/title/tt0308208/)
+  - [Freddy Got Fingered](https://www.imdb.com/title/tt0240515/)
+  - [Jack and Jill](https://www.imdb.com/title/tt0810913/)
+  - [Birdemic: Shock and Terror](https://www.imdb.com/title/tt1316037/)
+
+### 28-12-2025
+
+- [Calendar](https://neatnik.net/calendar/?year=2026) - printable 1 page calendar
+- [Intertapes](https://intertapes.net/) - neat collection of cassette tapes
+- [Opening this PNG in Chrome shows a different image than in Safari or any desktop app](https://lr0.org/blog/p/pngchanges/)
+
+### 26-12-2025
+
+- [Failed to get HTML title](https://tiled.art/) - great tessellation art, mindwarping stuff
+- [Nathan Rooy](https://nry.me/posts/2025-10-09/small-web-screenshots/) - a million screenshots of (small) websites. looks pretty amazing zoomed out, almost like a galaxy. also cool to explore some small websites through this
+- [One Million Screenshots](https://onemillionscreenshots.com/) - the same as above but with the top traffic websites, a bit less interesting but still dope
+- Video: [Who watches the Waymos?](https://www.youtube.com/watch?v=oYU2hAbx_Fc) - we're about to live in a weird world
+
+### 23-12-2025
+
+[Semiconductorwave](https://www.semiconductorwave.com/) - not sure what it is but I love it, a great link collection here
+[Asterisk-AI-Voice-Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent) - open-source AI Voice Agent, might be useful sometime, need to [TRY] it out though
+[OSRS Map Viewer](https://osrs.world) - runescape map in the browser. never played the game but it looks really beautiful
+
+### 02-12-2025
+
+- [Paged Out!](https://pagedout.institute/) - free experimental technical magazine
+- [Learning Music with Strudel course on Notion](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
+- [The code and open-source tools I used to produce a science fiction anthology](https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html) - I have been wanting to create an anthology from some writers I know for a long time, this could be a great guide for me if I ever tackle it [TRY]
+- [STOP DOING COMPUTERS](https://www.richinfante.com/memes/stop) - A collection of 'stop doing' memes
+- [Turtletoy](https://turtletoy.net/) - handcoded art for plotters, I want to [TRY] this out if I ever spend some time in a hackerspace
+
+### 19-11-2025
+
+- [How Complex Systems Fail](https://how.complexsystems.fail/) - a short treatise on the nature of failure
+- [Scientists now know that bees can process time, a first in insects](https://edition.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
+- [Classic Theme](https://windhawk.net/mods/classic-theme-enable) - enabling the Windows Classic theme, haven't tried it out [TRY]
+- [p-e-w/heretic: Fully automatic censorship removal for language models](https://github.com/p-e-w/heretic) - I wanted to [TRY] this out someday
+
+### 11-11-2025
+
+> ᴡʜᴀᴛ ᴡᴏᴜʟᴅ ʜᴀᴠᴇ ʜᴀᴘᴘᴇɴᴇᴅ ɪꜰ ʏᴏᴜ ʜᴀᴅɴ'ᴛ sᴀᴠᴇᴅ ʜɪᴍ?
+> "Yes! The sun would have risen just the same, yes?"
+> ɴᴏ
+> "Oh, come on. You can't expect me to believe that. It's an astronomical fact."
+> ᴛʜᴇ sᴜɴ ᴡᴏᴜʟᴅ ɴᴏᴛ ʜᴀᴠᴇ ʀɪsᴇɴ
+> "Really? Then what would have happened, pray?"
+> ᴀ ᴍᴇʀᴇ ʙᴀʟʟ ᴏꜰ ꜰʟᴀᴍɪɴɢ ɢᴀs ᴡᴏᴜʟᴅ ʜᴀᴠᴇ ɪʟʟᴜᴍɪɴᴀᴛᴇᴅ ᴛʜᴇ ᴡᴏʀʟᴅ
+
+[stickertop.art](https://stickertop.art/) - collection of laptops adorned with creative stickers
+[Javascript sticker](https://samdbeckham.gitlab.io/javascript_sticker/) - javascript sticker to freak out devs
+[Misbrands](https://github.com/mkrl/misbrands) - collection of other misbrand stickers similar to the one above
+
+### 07-11-2025
+
+- [Ticker: Don’t Die of Heart Disease ](https://myticker.com/) - interesting read but not sure if I'll manage to do all this...
+- [Derivative |](https://derivative.ca/) - creators of Touchdesigner, really cool node-based video software. I have been experimenting a bit with it lately to create some visuals for my mixes.
+- [beets: the music geek‘s media organizer](https://beets.io/) - I should [TRY] this out whenever I'm bored enough to start organizing my music library
+- [DiscMaster](http://discmaster.textfiles.com/) - a partial mirror of archive.org focused on vintage media (image/audio/video) and shareware
+- [Why Solarpunk is already happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening) - Africa and China seem so much ahead these days, really stoked for the future.
+- [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) - really beautifully written short story, you should check it out.
+- [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/#fnref1) - this guy is monitoring price listings for cheap flights (something I should [TRY] as well) and thinks about how to speed up/automate the process of sorting out information on visas, tax residency checks etc.
+- [When Stick Figures Fought](https://animationobsessive.substack.com/p/when-stick-figures-fought) - this was a nostalgic read, I can remember watching the stick figure fights a lot when I was a kid, and other flash marvels. really cool to learn more about the backstory.
+
+### 01-11-2025
+
+[RollDaBeats Forum](https://www.rolldabeats.com/) - oldschool forum community about all things drum&bass and jungle
+[Charles Bukowski, William Burroughs, and the Computer](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/) - Bukowski was apparently an early adopter of computer based writing, wouldn't have guessed!
+
+- [Strange Attractors | Shashank Tomar](https://blog.shashanktomar.com/posts/strange-attractors) - I didn't really get the mathematical part but it's really beautiful
+- [Fleurs du mal by Charles Baudelaire](https://fleursdumal.org/poem/231)
+- [A Verilog synthesis flow for Minecraft redstone circuits](https://github.com/itsfrank/MinecraftHDL) - this basically lets you translate any real circuit into redstone, very resource intensive (in Minecraft) but amazing nonetheless
+- [Open source Loom alternative.](https://github.com/CapSoftware/Cap) - let's you take nice screen recordings, I normally use the built-in screen recorder, but if I ever need to record a beautiful demo I will [TRY] this out.
+- [Sample CD Archive](https://www.youtube.com/@samplecdarchive) - a collection of Sampling CD demos, you can find many of these sample CDs on archive.org and other places now
+
+### 28-10-2025
+
+- [bash-screensavers](https://github.com/attogram/bash-screensavers) - screensavers for your shell
+- [A Complete Digitization of Leonardo Da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html) - pretty amazing work
+- [Crash Not Accident](https://crashnotaccident.com/) - traffic crashes aren't accidents. traffic crashes are fixable problems, caused by dangerous streets and unsafe drivers.
+- [Bizarre Movie Posters From Africa That Are So Bad, They’re Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
+- [Wiki Radio 📻](https://www.monkeon.co.uk/wikiradio/) - random audio clips from wikimedia. there is also a mode for shorter clips which is great for sample hunting
+- [Photos of the Japanese Subculture Where People Wear Giant Cyclops Masks](https://www.vice.com/en/article/japanese-subculture-tanganmen-photos/)
+- [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
+- [Harry Ransom Center Digital Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search) - digital collection of vintage movie posters and more
+- [The best cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
+- [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv) - I can only agree 100% with the title, I now use `uv` almost daily and it made Python so much nicer to work with, really great development
+
+### 22-10-2025
+
+- [Birdman86 wiki page](https://commons.wikimedia.org/wiki/User:Birdman86) - wiki user that collects die shots of many CPUs and other interesting chips
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/) - some really nice ones in here, already use some of them [TRY]
+- [Doomsday Scoreboard](https://doomsday.march1studios.com/) - scoreboard for all the doomsday predictions
+- [netcup webhosting](https://www.netcup.com/) - [TRY] was recommended as hosting provider, noted for when I ever need another.
+- [Pointer Pointer](https://pointerpointer.com/) - one of the best amazing websites, simple yet beautiful
+
+### 19-10-2025
+
+- [meow.camera](https://meow.camera/) - watch cats eat
+- [cobalt](https://cobalt.tools/) - save anything from your favorite websites: video, audio, photos or gifs. just paste the link.
+- [2025 Bird Photographer of the Year](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/) - some really dope pictures in here, my favourite is the raven corvus corax (last one)
+
+### 04-11-2025
+
+> Oh Lord by all means please let me be misunderstood.
+
+[The largest vocabulary In Hip Hop](https://pudding.cool/projects/vocabulary/index.html) - Rappers, ranked by the number of unique words used in their lyrics
+
 ### 16-10-2025
 
 - Video: [Live feed from a watering hole in Namibia](https://waterhole.genmon.partykit.dev/) - you can find the youtube source [here](https://www.youtube.com/watch?v=ydYDqZQpim8)
@@ -61,7 +188,7 @@ Only a fool would take anything posted here as fact.</small>
 ### 06-09-2025
 
 - [Robots - The Old Robots Web Site](https://www.theoldrobots.com/index2.html) - a marvellous collection of oldschool science fiction robot designs
-- [FlyOOBE: Fly through your Windows 11 setup 🐝](https://github.com/builtbybel/FlyOOBE) - make win11 not horrible and disable all AI features
+- [FlyOOBE: Fly through your Windows 11 setup](https://github.com/builtbybel/FlyOOBE) - make win11 not horrible and disable all AI features
 - [A Navajo weaving of an integrated circuit: the 555 timer](http://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html?m=1) - pretty self-explanatory, a weaved rug of the best circuit.
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/) - the headline says it all, but I enjoyed this write up.
 - [Chimps are sticking grass and sticks in their butts, seemingly as a fashion trend](https://www.cbc.ca/radio/asithappens/chimpanzee-grass-butt-1.7583207) - they are just like us, fashion fads and all. Another nail in the coffin of human supremacy

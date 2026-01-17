@@ -25,13 +25,15 @@ Record of my training regime, probably not interesting to you.
 
 ### Bodyweight
 
+- Leg Push -> [Squat](https://exrx.net/WeightExercises/Quadriceps/BWSquat)
+- Upper Body Pull -> [Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup)
+- Upper Body Push -> [Push-up](https://exrx.net/WeightExercises/PectoralSternal/BWPushup)
+- Low Back / Hamstrings -> [Weighted Hyperextension](https://exrx.net/WeightExercises/ErectorSpinae/WtHyperextension)
+- Abs -> [Bodyweigth - Situp](https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpX)
+  Optional:
 - Quadriceps -> [Bodyweight - Rear Lunge](https://exrx.net/WeightExercises/Quadriceps/BWRearLunge)
-- Quadriceps -> [Bodyweight - Squat](https://exrx.net/WeightExercises/Quadriceps/BWSquat)
 - Hamstrings -> [Bodyweight - Standing Calf Raise](https://exrx.net/WeightExercises/Gastrocnemius/BWStandingCalfRaise)
-- Chest -> [Bodyweight - Push-up](https://exrx.net/WeightExercises/PectoralSternal/BWPushup)
 - Back -> [Bodyweight - Row (high bar)](https://exrx.net/WeightExercises/BackGeneral/BWSupineRowHigh)
-- Abdominal -> [Bodyweight - Push Crunch](https://exrx.net/WeightExercises/RectusAbdominis/BWCrunch)
-- Abdominal -> [Bodyweigth - Situp](https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpX)
 
 ## Alternative [Push Pull Stagger](https://exrx.net/Workouts/Workout1PPPP)
 

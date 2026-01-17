@@ -16,8 +16,14 @@ Rating:
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
 
+- [The Great Flood](https://imdb.com/title/tt29927663/) 2/5
+- [Lake Mungo](https://www.imdb.com/title/tt0816556/) 3/5
+- [The Watchers](https://www.imdb.com/title/tt26736843/) 2/5
+- [Predator: Badlands](https://www.imdb.com/title/tt31227572/) 2/5
+- [O Agente Secreto](https://www.imdb.com/title/tt27847051/) 4/5
 - [Victor Frankenstein](https://www.imdb.com/title/tt1976009/) 3/5
-- [Encounters at the End of the World](https://www.imdb.com/title/tt1093824/)
+- [Mortal Engines](https://www.imdb.com/title/tt1571234/) 3/5
+- [Encounters at the End of the World](https://www.imdb.com/title/tt1093824/) 5/5
 - [Prometheus](https://www.imdb.com/title/tt1446714/) 4/5
 - [Edifício Master](https://www.imdb.com/title/tt0333388/) 4/5
 - [Ainda Estou Aqui](https://www.imdb.com/title/tt14961016/) 5/5
@@ -135,7 +141,7 @@ Rating:
 - [Reality](https://www.imdb.com/title/tt2392672) 3/5
 - [The Revenant](https://www.imdb.com/title/tt1663202/) 5/5
 - [Dune](https://www.imdb.com/title/tt1160419) 3/5
-- [Get Out](https://www.imdb.com/title/tt5052448) 5/5
+- [Get Out](https://www.imdb.com/title/tt5052448) 4/5
 - [Nope](https://www.imdb.com/title/tt10954984) 4/5
 - [Collateral](https://www.imdb.com/title/tt0369339) 4/5
 - [What We Do in the Shadows](https://www.imdb.com/title/tt3416742) 5/5
@@ -143,7 +149,7 @@ Rating:
 - [The Death of Stalin](https://www.imdb.com/title/tt4686844) 5/5
 - [Utopia (US remake)](https://www.imdb.com/title/tt8303474/) 1/5
 - [Utopia (UK series)](https://www.imdb.com/title/tt2384811/) 5/5
-- [The Northman](https://www.imdb.com/title/tt11138512) 4/5
+- [The Northman](https://www.imdb.com/title/tt11138512) 5/5
 - [The Lighthouse](https://www.imdb.com/title/tt7984734) 5/5
 - [Moonfall](https://www.imdb.com/title/tt5834426) 3/5
 - [Spiderman: No Way Home](https://www.imdb.com/title/tt10872600) 3/5

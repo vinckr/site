@@ -29,8 +29,10 @@ Record of my training regime, probably not interesting to you.
 - Upper Body Pull -> [Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup)
 - Upper Body Push -> [Push-up](https://exrx.net/WeightExercises/PectoralSternal/BWPushup)
 - Low Back / Hamstrings -> [Weighted Hyperextension](https://exrx.net/WeightExercises/ErectorSpinae/WtHyperextension)
-- Abs -> [Bodyweigth - Situp](https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpX)
+- Abs -> [Bodyweight - Situp](https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpX)
+
   Optional:
+
 - Quadriceps -> [Bodyweight - Rear Lunge](https://exrx.net/WeightExercises/Quadriceps/BWRearLunge)
 - Hamstrings -> [Bodyweight - Standing Calf Raise](https://exrx.net/WeightExercises/Gastrocnemius/BWStandingCalfRaise)
 - Back -> [Bodyweight - Row (high bar)](https://exrx.net/WeightExercises/BackGeneral/BWSupineRowHigh)

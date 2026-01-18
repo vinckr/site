@@ -3,8 +3,6 @@ layout: layouts/page.njk
 title: Train
 ---
 
-Record of my training regime, probably not interesting to you.
-
 ## Full Body Workout - Dumbbells
 
 ### [Thighs, Chest, Back, Shoulders, Arms](https://exrx.net/Workouts/Workout1PPPP)

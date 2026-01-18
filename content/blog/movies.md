@@ -8,14 +8,15 @@ listVariant: movie
 
 I review and rate movies I watch. Don't take it seriously - it's subjective and intended as a list of personal recommendations.
 
-Rating:
-
+```
 - 5/5 masterpiece. must consume
 - 4/5 amazing. highly recommended
 - 3/5 pretty good. worth to check out
 - 2/5 ok. would not recommend
 - 1/5 terrible. waste of time
+```
 
+- [IT: Welcome to Derry Season 1](https://www.imdb.com/title/tt19244304/) 3/5
 - [The Great Flood](https://imdb.com/title/tt29927663/) 2/5
 - [Lake Mungo](https://www.imdb.com/title/tt0816556/) 3/5
 - [The Watchers](https://www.imdb.com/title/tt26736843/) 2/5

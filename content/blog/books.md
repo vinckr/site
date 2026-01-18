@@ -8,6 +8,14 @@ listVariant: book
 
 I review and rate most books I read. Don't take it too serious - it's highly subjective and more intended as a list of personal recommendations than as critique.
 
+```
+- 5/5 masterpiece. must consume
+- 4/5 amazing. highly recommended
+- 3/5 pretty good. worth to check out
+- 2/5 ok. would not recommend
+- 1/5 terrible. waste of time
+```
+
 - [I am legend](https://www.goodreads.com/book/show/40940649) 4/5
 - [Blood Rites](https://www.goodreads.com/book/show/30842898) 4/5
 - [Virtual Light](https://www.goodreads.com/book/show/22326) 4/5
@@ -23,11 +31,3 @@ I review and rate most books I read. Don't take it too serious - it's highly sub
 - [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638) 4/5
 - [Der Bau/The Burrow](https://www.goodreads.com/book/show/12003883) 4/5
 - [Blood Meridian, or the Evening Redness in the West ](https://www.goodreads.com/book/show/394535) 5/5
-
-### Rating
-
-- 1/5 terrible. waste of time
-- 2/5 ok. would not recommend
-- 3/5 pretty good. worth to check out
-- 4/5 amazing. highly recommended
-- 5/5 masterpiece. must consume

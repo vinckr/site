@@ -37,10 +37,11 @@ title: blog
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
 - [🕵️ notable wikipedia articles](wikipedia)
-- [git](git)
+- [🎁 wishlist](wish)
+- [🥨 munich food tips](munich-tips)
+- [git cheatsheet](git)
 - [great personal websites and blogs](personal-websites)
 - [warhammer40k reading guide](w40k-reading-guide)
-- [🥨 munich food tips](munich-tips)
 
   </div>
   <input

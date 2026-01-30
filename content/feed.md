@@ -25,7 +25,6 @@ Only a fool would take anything posted here as fact.</small>
 ### 31-12-2025
 
 - some legendary bad movies i (maybe?) want to see
-
   - [Alone in the Dark](https://www.imdb.com/title/tt0369226/)
   - [Ben & Arthur](https://www.imdb.com/title/tt0364986/)
   - [Ballistic: Ecks vs. Sever](https://www.imdb.com/title/tt0308208/)
@@ -1336,7 +1335,6 @@ plundered from HN comment
 ---
 
 - List of optimistic/utopian sci-fi
-
   - Iain M. Banks "Culture" novels
   - Another Life by Sarena Ulibarri
   - Star Trek: Strange New Worlds
@@ -1408,7 +1406,6 @@ He offered a framework for that agenda, characterized by three approaches: resil
 ---
 
 - list of vj / video / animation software
-
   - [vimix | Video Live Mixer](https://brunoherbelin.github.io/vimix/)
   - [Awesome list for vjing/visuals-related resources](https://github.com/LimeLimeW/awesome-vjing)
   - [b-s-l-s-k/MELTr: Visual Jockey Program that can use midi equipment to control visuals](https://github.com/b-s-l-s-k/MELTr)

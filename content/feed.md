@@ -40,7 +40,7 @@ Only a fool would take anything posted here as fact.</small>
 
 ### 26-12-2025
 
-- [Failed to get HTML title](https://tiled.art/) - great tessellation art, mindwarping stuff
+- [Tiled Art](https://tiled.art/) - great tessellation art, mindwarping stuff
 - [Nathan Rooy](https://nry.me/posts/2025-10-09/small-web-screenshots/) - a million screenshots of (small) websites. looks pretty amazing zoomed out, almost like a galaxy. also cool to explore some small websites through this
 - [One Million Screenshots](https://onemillionscreenshots.com/) - the same as above but with the top traffic websites, a bit less interesting but still dope
 - Video: [Who watches the Waymos?](https://www.youtube.com/watch?v=oYU2hAbx_Fc) - we're about to live in a weird world
@@ -99,7 +99,7 @@ Only a fool would take anything posted here as fact.</small>
 - [Strange Attractors | Shashank Tomar](https://blog.shashanktomar.com/posts/strange-attractors) - I didn't really get the mathematical part but it's really beautiful
 - [Fleurs du mal by Charles Baudelaire](https://fleursdumal.org/poem/231)
 - [A Verilog synthesis flow for Minecraft redstone circuits](https://github.com/itsfrank/MinecraftHDL) - this basically lets you translate any real circuit into redstone, very resource intensive (in Minecraft) but amazing nonetheless
-- [Open source Loom alternative.](https://github.com/CapSoftware/Cap) - let's you take nice screen recordings, I normally use the built-in screen recorder, but if I ever need to record a beautiful demo I will [TRY] this out.
+- [Open source Loom alternative.](https://github.com/CapSdoftware/Cap) - let's you take nice screen recordings, I normally use the built-in screen recorder, but if I ever need to record a beautiful demo I will [TRY] this out.
 - [Sample CD Archive](https://www.youtube.com/@samplecdarchive) - a collection of Sampling CD demos, you can find many of these sample CDs on archive.org and other places now
 
 ### 28-10-2025

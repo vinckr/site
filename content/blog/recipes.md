@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: Recipes
 ---
 
+Also: [One Piece Pirate Recipes](/blog/one-piece-cooking/) — dishes cooked by Sanji.
+
 ## Mixed recipes
 
 ### Olden-tyme pancakes

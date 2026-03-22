@@ -16,6 +16,7 @@ I review and rate movies I watch. Don't take it seriously - it's subjective and 
 - 1/5 terrible. waste of time
 ```
 
+- [Streetwise](https://www.imdb.com/title/tt0088196) 3/5
 - [IT: Welcome to Derry Season 1](https://www.imdb.com/title/tt19244304/) 3/5
 - [The Great Flood](https://imdb.com/title/tt29927663/) 2/5
 - [Lake Mungo](https://www.imdb.com/title/tt0816556/) 3/5

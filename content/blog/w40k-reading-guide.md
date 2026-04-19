@@ -88,7 +88,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 - [x] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
 - [x] Mechanicum (9) by Graham McNeill - I did expect more from this one, as I didn't know much about the pre-Heresy Mechanicum. It wasn't a bad read, but for me it suffered a bit from the bombastic scale of everything.
-- [ ] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden
+- [x] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden
 - [ ] A Thousand Sons (12) by Graham McNeil
 - [ ] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
 - [ ] The Master of Mankind (41) by Aaron Dembski-Bowden

@@ -34,6 +34,7 @@ title: blog
 - [🎶 5 tracks](5tracks)
 - [🎞 movies](movies)
 - [📚 books](books)
+- [💥 comics](comics)
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
 - [🕵️ notable wikipedia articles](wikipedia)

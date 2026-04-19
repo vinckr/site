@@ -7,7 +7,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 > Thanks so much cd8d for creating this!
 
-- Status: 24 of 89
+- Status: 38 of 89
 
 ## Part 0: 40K
 
@@ -86,8 +86,8 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 ## Part 7 - Mars & Magnus
 
-- [ ] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
-- [ ] Mechanicum (9) by Graham McNeill
+- [x] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
+- [x] Mechanicum (9) by Graham McNeill - I did expect more from this one, as I didn't know much about the pre-Heresy Mechanicum. It wasn't a bad read, but for me it suffered a bit from the bombastic scale of everything.
 - [ ] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden
 - [ ] A Thousand Sons (12) by Graham McNeil
 - [ ] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill

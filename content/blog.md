@@ -35,6 +35,7 @@ title: blog
 - [🎞 movies](movies)
 - [📚 books](books)
 - [💥 comics](comics)
+- [🎮 games](games)
 - [💬 quotes](quotes)
 - [🍲 recipes](recipes)
 - [🕵️ notable wikipedia articles](wikipedia)

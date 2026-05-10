@@ -64,6 +64,8 @@ Keep classics alive. Most of these either run old games on modern systems or are
 - [Duke Nukem Forever 1996 side-scroller leak](https://archive.org/details/duke-nukem-forever-1996-side-scroller)
 - [Unearth](https://rainlizard.itch.io/unearth)
 - [Starcraft Reverse Campaign](https://github.com/jakec903/Starcraft-Original-Reverse-Campaign)
+- [OpenCiv3](https://openciv3.org/), [OpenCiv1](https://github.com/rajko-horvat/OpenCiv1)
+- [OldUnreal](https://www.oldunreal.com/)
 
 ### wow private servers
 
@@ -84,6 +86,8 @@ Useful when building something bigger than a dirt hut.
 - [Voxel Sphere / Tower Roof Generator](http://oranj.io/blog/VoxelSphereGenerator)
 - [Mapartcraft](https://rebane2001.com/mapartcraft/)
 - [YouTube: 3D model to Minecraft](https://youtu.be/uxz06cMQwCQ)
+- [Randomblockplacement](https://github.com/MEGATREX4/randomblockplacement)
+- [Prism Launcher](https://prismlauncher.org/)
 
 ### browser games and time wasters
 

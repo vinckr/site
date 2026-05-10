@@ -16,6 +16,7 @@ I review and rate comics I read. Don't take it too serious - it's highly subject
 - 1/5 terrible. waste of time
 ```
 
+- [Predator Kills the Marvel Universe](https://comicvine.gamespot.com/predator-kills-the-marvel-universe/4050-166206/) 3/5
 - [Deadpool Kills the Marvel Universe](https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe/4050-50940/) 5/5
 - [DCeased](https://comicvine.gamespot.com/dceased/4050-118648/) 5/5
 - [Old Man Logan](https://comicvine.gamespot.com/old-man-logan/4050-118907/) 5/5

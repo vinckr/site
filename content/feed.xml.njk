@@ -1,0 +1,30 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>vinckr</title>
+  <subtitle>vinckr personal blog and website.</subtitle>
+  <link href="https://vinckr.com/feed.xml" rel="self"/>
+  <link href="https://vinckr.com/"/>
+  <id>https://vinckr.com/</id>
+  <updated>{{ page.date.toISOString() }}</updated>
+  <author>
+    <name>vinckr</name>
+    <uri>https://vinckr.com/</uri>
+  </author>
+{%- for item in collections.all | reverse -%}
+{%- if item.url and "/blog/" in item.url and item.url != "/blog/" %}
+  <entry>
+    <title>{{ item.data.title }}</title>
+    <link href="https://vinckr.com{{ item.url }}"/>
+    <id>https://vinckr.com{{ item.url }}</id>
+    <updated>{{ item.date.toISOString() }}</updated>
+    {%- if item.data.description %}
+    <summary>{{ item.data.description }}</summary>
+    {%- endif %}
+  </entry>
+{%- endif -%}
+{%- endfor %}
+</feed>

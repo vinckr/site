@@ -30,6 +30,19 @@ module.exports = function (eleventyConfig) {
 
   md.use(markdownItTaskLists);
 
+  // Add loading="lazy" and decoding="async" to all markdown images
+  const defaultImageRender =
+    md.renderer.rules.image ||
+    function (tokens, idx, options, env, self) {
+      return self.renderToken(tokens, idx, options);
+    };
+  md.renderer.rules.image = function (tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    if (token.attrIndex("loading") < 0) token.attrSet("loading", "lazy");
+    if (token.attrIndex("decoding") < 0) token.attrSet("decoding", "async");
+    return defaultImageRender(tokens, idx, options, env, self);
+  };
+
   eleventyConfig.setLibrary("md", md);
 
   return {

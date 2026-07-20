@@ -16,6 +16,8 @@ I review and rate most books I read. Don't take it too serious - it's highly sub
 - 1/5 terrible. waste of time
 ```
 
+- [Shantaram](https://www.goodreads.com/book/show/33600) 4/5
+- [Seeing Like a State](https://www.goodreads.com/book/show/20186) 2/5
 - [I am legend](https://www.goodreads.com/book/show/40940649) 4/5
 - [Blood Rites](https://www.goodreads.com/book/show/30842898) 4/5
 - [Virtual Light](https://www.goodreads.com/book/show/22326) 4/5

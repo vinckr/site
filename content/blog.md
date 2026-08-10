@@ -41,6 +41,8 @@ title: blog
 - [🕵️ notable wikipedia articles](wikipedia)
 - [🎁 wishlist](wish)
 - [🥨 munich food tips](munich-tips)
+- [🐻 berlin food tips](berlin-tips)
+- [🎉 festival packing list](festival-list)
 - [git cheatsheet](git)
 - [great personal websites and blogs](personal-websites)
 - [warhammer40k reading guide](w40k-reading-guide)

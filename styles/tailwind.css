@@ -116,6 +116,7 @@ body {
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='16' viewBox='0 0 15 16'%3E%3Cpath fill='%23fff' d='M5 6h1v1H5m6-1h1v1h-1m-1-1h1v1h-1M9 6h1v1H9M8 6h1v1H8M7 6h1v1H7M6 6h1v1H6m0 0h1v1H6m4-1h1v1h-1M9 7h1v1H9M8 7h1v1H8M7 7h1v1H7m0 0h1v1H7m2-1h1v1H9M8 9h1v1H8m0-2h1v1H8'/%3E%3C/svg%3E");
 }
 .cs-btn {
+  display: inline-block;
   background-color: var(--bg);
   border: 1px solid;
   border-color: var(--border-light) var(--border-dark) var(--border-dark)

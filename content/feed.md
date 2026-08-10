@@ -9,6 +9,74 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 10-03-2026
+
+- [Defeat as method](https://www.cabinetmagazine.org/issues/71/khosravi.php) - we'll all be defeated sometime, really good article about the defeated that refuse to make peace with injustice
+- [Flexport Atlas](https://atlas.flexport.com/) - world map of ships in transit
+- [sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [tropes.md](https://tropes.fyi/tropes-md) - A single file containing all cataloged AI writing tropes.
+
+"lost in paranoias most beautiful dream" - The Spaceape - rest in peace sweet prince
+
+### 19-02-2026
+
+- [ciaclean](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html) - learning git tricks directly from the CIA
+- [ooh directory](https://ooh.directory/) - A collection of blogs about every topic
+- [Flashpoint Archive](https://flashpointarchive.org/) - archive of old flashpoint games and animations, vast amounts of treasures can be found here
+
+### 17-02-2026
+
+- [token anxiety](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/) - llms are just slot machines, the actual article is a bit deeper but thats a fair summary
+- [semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/) - why AI writing is so trite and sucks mostly
+- [Unseen Footage of Atari Battlezone Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/) - beautiful machines and some rare insight into how they are made
+
+### 26-01-2026
+
+- [Good Drug Guide](https://www.hedweb.com/gooddrug.htm) - it's a long read but worth it - the responsible parent's guide to healthy mood-boosters for all the family
+- [A$AP Rocky Releases Helicopter Music Video featuring Gaussian Splatting](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting) - Rocky does make some great music videos, this is a nerdy writeup
+- [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions) - some neat tricks with CSS to make your brain rattle
+- [How to leave Germany](https://allaboutberlin.com/guides/leaving-germany) - neat guide on what it takes to emigrate from Germany
+
+### 25-01-2026
+
+[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - for better or for worse everyone can clone voices now pretty convincingly.
+
+### 20-01-2026
+
+- [Self-Replicating Radiation-Shield for Human Deep-Space Exploration](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6) - using fungi as bio-radiation shield in space sounds super cyberpunk to me, love it.
+
+### 16-01-2026
+
+- [Just the Browser](https://justthebrowser.com/) - helps you remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from desktop web browsers
+- [Safe-Cracking Robot](https://joeleb.com/safe-cracking-robot-defcon/) - it's over
+- [Easter Egg](https://eeggs.com/)
+- [Richard D. James speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/) - great lost interview with Aphex Twin
+- [handy](https://github.com/cjpais/Handy) - offline local speech-to-text application
+
+### 14-01-2026
+
+- [“Food JPEGs” in Super Smash Bros & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
+- [Why some clothes shrink in the wash — and how to 'unshrink' them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/) - pretty self-explanatory, simple solid method to unshrink shrunken clothes
+
+### 13-02-2026
+
+- [TREKIFY](https://github.com/SimHacker/moollm/blob/main/skills/trekify/SKILL.md) - transform sensitive information into Star Trek terminology, probably shouldn't use this in production
+- [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html) - sorely needed
+- [World Models for Consistent AI Filmmaking](https://getartcraft.com/news/world-models-for-film) - really would like to produce an animation film sometime, this outlines some interesting new techniques [TRY]
+- [Star Trek Iconic Sounds](https://www.trekcore.com/audio/) - nice samples from Star Trek [TRY]
+-
+
+### 11-01-2026
+
+- [KWSX Radio](https://radio.kwsx.online/) - very comfy website with radio and chat
+- [FEZ spectrogram images](https://blog.krzyhau.pl/fez-spectrograms-adventure) - encoding images in the music via spectrogram, nerdy stuff
+- [Citroën C15](https://en.wikipedia.org/wiki/Citro%C3%ABn_C15) - one of the best cars ever built [TRY]
+
+### 05-01-2026
+
+- [zombo.com](https://zombo.com/) - not sure what to say, turn on sound and enjoy
+- [Strange Website](https://strange.website/) - it's a bit strange
+
 ### 01-01-2026
 
 - [Happy Public Domain Day!](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)

@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: Recipes
 ---
 
+Also: [One Piece Pirate Recipes](/blog/one-piece-cooking/) — dishes cooked by Sanji.
+
 ## Mixed recipes
 
 ### Olden-tyme pancakes
@@ -469,6 +471,28 @@ Blend all ingredients until smooth. Stores well.
 1. Remove parchment and bake uncovered 30 more minutes until deep golden.
 1. Rest 10 minutes, then invert onto a plate and serve.
 
+### Spiced Hard Boiled Eggs
+
+_For 6 eggs_
+
+#### Ingredients
+
+- 6 hard boiled eggs, halved
+- 1½ tbsp oil
+- ½ tsp black pepper powder
+- ½ tsp cumin powder
+- ¼ tsp turmeric
+- Salt to taste
+
+#### Steps
+
+1. Heat oil in a pan.
+1. Add black pepper, cumin, and turmeric with salt. Let spices bloom gently in the oil — don't burn.
+1. Place eggs cut-side down. Let sit undisturbed for 2 minutes.
+1. Flip and brown the other side.
+
+Crispy edges. Spiced oil coating. No bland eggs.
+
 ### Honey Balsamic Mushrooms
 
 #### Ingredients
@@ -676,6 +700,28 @@ Mix water, soy sauce, sugar, and pepper. Add egg white. Add cornflour and mix we
 
 ## Drinks
 
+### Jamaican Peanut Punch
+
+#### Ingredients
+
+- 170 g smooth peanut butter (or 200 g raw peanuts, soaked 6–8 hours and blended)
+- 700 ml whole milk
+- 200 ml cold water
+- 1 can sweetened condensed milk
+- 1 small ripe banana
+- 1 tsp vanilla extract
+- ¼–½ tsp ground nutmeg
+- Tiny pinch of salt
+- 330 ml Guinness Foreign Extra Stout
+
+#### Steps
+
+1. Blend everything except the Guinness until fully smooth.
+1. Add Guinness last and pulse once or stir gently to combine.
+1. Chill for at least 1 hour before serving.
+
+**Traditional method with whole peanuts:** Soak 200 g raw peanuts in cold water 6–8 hours or overnight. Drain, then blend with the milk and water until very smooth. Strain through a fine sieve or cloth — you should get ~800 ml peanut milk. Some don't strain, up to preference. Continue with the rest of the recipe.
+
 ### Jamaican Carrot Juice with Guinness
 
 #### Ingredients
@@ -697,6 +743,26 @@ Mix water, soy sauce, sugar, and pepper. Add egg white. Add cornflour and mix we
 1. Strain through a fine sieve or cloth, pressing well. You should get ~700–750 ml carrot juice.
 1. Add Guinness, coconut milk, condensed milk, vanilla, nutmeg, cinnamon, ginger, and salt. Whisk or blend gently until combined.
 1. Refrigerate a few hours for flavours to develop. Stir before serving (sediment will settle). Serve cold.
+
+### Chocolate Date Rolls
+
+#### Ingredients
+
+- 12 large medjool dates
+- 75 g pistachios
+- 75 g cashew nuts
+- 50 g mixed seeds
+- 1 tbsp butter
+- 1 tsp cinnamon (optional)
+- 200 g dark chocolate
+
+#### Steps
+
+1. Melt butter in a pan over medium heat. Add dates, pistachios, cashews, seeds, and cinnamon. Mix together.
+1. Once dates soften, mash everything to combine.
+1. Turn off heat. Once cooled, transfer to baking paper or cling film and roll into a log.
+1. Optionally refrigerate to make slicing easier, then cut into rounds.
+1. Melt chocolate and coat each piece. Refrigerate until set.
 
 ## Miscellaneous
 

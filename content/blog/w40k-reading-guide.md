@@ -7,7 +7,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 > Thanks so much cd8d for creating this!
 
-- Status: 24 of 89
+- Status: 38 of 89
 
 ## Part 0: 40K
 
@@ -86,15 +86,18 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 ## Part 7 - Mars & Magnus
 
-- [ ] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
-- [ ] Mechanicum (9) by Graham McNeill
-- [ ] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden
+- [x] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
+- [x] Mechanicum (9) by Graham McNeill - I did expect a lot from this one, as I didn't know much about the pre-Heresy Mechanicum. It wasn't a bad read, but for me it suffered a bit from the bombastic scale of everything. interesting description at the adepts of Mars and a good explanation of why the Imperium is so technologically stagnant after the Heresy, although this one wasn’t as much of a banger as I hoped.
+- [x] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden - short story written in reverse, starting with the end and leading up to the beginning. Cute mechanical monkey and the unusual storytelling!
 - [ ] A Thousand Sons (12) by Graham McNeil
 - [ ] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
 - [ ] The Master of Mankind (41) by Aaron Dembski-Bowden
 - [ ] The Crimson King (44) by Graham McNeill
 - [ ] Ahriman Omnibus by John French
 - [ ] Forges of Mars Omnibus by Graham McNeil
+
+Mechanicum -
+Into exile -
 
 ## Part 8 - Wolves
 

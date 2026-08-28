@@ -6,6 +6,14 @@ title: 5 track compilations
 I love sharing music!
 It has been one of the things that motivated me to keep starting to blog again and again. ALl these past blogs are defunct now, so in this section I will continue to share tracks, songs, and beats that I feel you might enjoy.
 
+# 5 classics sampled by Wu-Tang Clan
+
+- [Gladys Knight & The Pips - The Way We Were / Try to Remember](https://youtu.be/kPsPN1XyHHo)
+- [Wendy René - After Laughter (Comes Tears) ](https://youtu.be/H3xZYnhxeT8)
+- [The Charmels - As long as I've got you](https://youtu.be/gp9uZjPaB4w)
+- [The Allen Toussaint Orchestra - Underdog](https://youtu.be/22dH9KZjEHA)
+- [Irene Cara - Fame](https://youtu.be/xQRxhttu8I0)
+
 ## 5 UFO361 songs for hanging out with the space aliens
 
 - [Ufo361 - Nur zur Info](https://www.youtube.com/watch?v=-Ej5qLcmzv0)

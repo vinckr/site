@@ -1,6 +1,6 @@
 /*
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' _.vinckr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; frame-src https://www.mixcloud.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://*.vinckr.com; style-src 'self'; img-src 'self' data:; font-src 'self'; frame-src https://*.mixcloud.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin

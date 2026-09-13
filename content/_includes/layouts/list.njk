@@ -21,7 +21,9 @@ layout: "layouts/page.njk"
 {% endif %}
 
 {% if listItems and (listItems | length) > 0 %}
-<div class="mt-4">
+<div class="mt-4" id="randomPicker"
+     data-variant="{{ variant }}"
+     data-items="{{ listItems | dump | escape }}">
   <button id="randomBtn" type="button" class="cs-btn">
     random {{ variant }} recommendation
   </button>
@@ -60,25 +62,7 @@ layout: "layouts/page.njk"
   </details>
 </section>
 
-<script>
-  const LIST_ITEMS = {{ listItems | dump | safe }};
-  const variant = "{{ variant }}";
-  const btn = document.getElementById("randomBtn");
-  const out = document.getElementById("randomOut");
-
-  function pick() {
-    if (!Array.isArray(LIST_ITEMS) || LIST_ITEMS.length === 0) return;
-    const i = Math.floor(Math.random() * LIST_ITEMS.length);
-    const it = LIST_ITEMS[i];
-    if (variant === "quotes") {
-      out.innerHTML = `"${it.quote}" — <a href="${it.url}">${it.author}</a>`;
-    } else {
-      out.innerHTML = `<a href="${it.url}">${it.title}</a>`;
-    }
-  }
-
-  btn?.addEventListener("click", pick);
-</script>
+<script src="/js/list.js" defer></script>
 {% endif %}
 
 {# ---------------- JSON-LD ---------------- #}

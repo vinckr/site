@@ -16,13 +16,13 @@ I review and rate movies I watch. Don't take it seriously - it's subjective and 
 - 1/5 terrible. waste of time
 ```
 
-- [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+- [One Battle After Another](https://www.imdb.com/title/tt30144839/) 3/5
 - [Sinners](https://www.imdb.com/title/tt31193180/) 4/5
 - [Thrash](https://www.imdb.com/title/tt32362890/) 3/5
 - [If I Had Legs I'd Kick You](https://www.imdb.com/title/tt18382850/) 4/5
 - [Lamb](https://www.imdb.com/title/tt9812474/) 4/5
 - [The Whistler](https://www.imdb.com/title/tt1776340/) 3/5
-- [Gosh!!]https://www.imdb.com/title/tt16734094/() 3/5
+- [Gosh!!](https://www.imdb.com/title/tt16734094/) 3/5
 - [You are the film](https://www.imdb.com/title/tt39715372/) 4/5
 - [Dead Eyes](https://www.imdb.com/title/tt33297308/) 3/5
 - [Cautiverio](https://www.imdb.com/title/tt36462664/) 3/5

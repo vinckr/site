@@ -192,7 +192,7 @@ Bring all to a boil and simmer. Can be done in advance.
 - 50 g carrot, finely chopped
 - 50 g celery, finely chopped
 - 50 g golden onion, finely chopped
-- 100 g dry red wine
+- 100 ml dry red wine
 - Vegetable broth as needed
 - 1 tbsp extra-virgin olive oil
 - Salt and pepper

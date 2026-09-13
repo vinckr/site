@@ -89,9 +89,9 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] The Kaban Project - Shadows of Treachery (22) by Graham McNeill
 - [x] Mechanicum (9) by Graham McNeill - I did expect a lot from this one, as I didn't know much about the pre-Heresy Mechanicum. It wasn't a bad read, but for me it suffered a bit from the bombastic scale of everything. interesting description at the adepts of Mars and a good explanation of why the Imperium is so technologically stagnant after the Heresy, although this one wasn’t as much of a banger as I hoped.
 - [x] Into Exile - The Burden of Loyalty (48) by Aaron Dembski-Bowden - short story written in reverse, starting with the end and leading up to the beginning. Cute mechanical monkey and the unusual storytelling!
-- [ ] A Thousand Sons (12) by Graham McNeil
-- [ ] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
-- [ ] The Master of Mankind (41) by Aaron Dembski-Bowden
+- [x] A Thousand Sons (12) by Graham McNeil - in terms of lore this is one of the most important book so far in this series. I always wanted to learn how the downfall of Magnus took place in detail. It's a bit slow at first but overall a very entertaining read.
+- [x] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
+- [x] The Master of Mankind (41) by Aaron Dembski-Bowden - one of the best so far, great followup to the previous one. Hard to read, not because the prose is bad but because the story is so tragic. Humanity was so close to salvation and some tragic circumstances ruined it all. We also learn a lot about the Emperor while at the same time not too much is really revealed. If you read only one book of the Horus Heresy saga, this would be it!
 - [ ] The Crimson King (44) by Graham McNeill
 - [ ] Ahriman Omnibus by John French
 - [ ] Forges of Mars Omnibus by Graham McNeil

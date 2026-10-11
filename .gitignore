@@ -6,6 +6,10 @@
 
 # Drafts files
 _drafts
+
+# draft pipeline staging (notes store, state, generated drafts)
+_staging
+notes.txt
 drafts/drafts.zip
 urls.txt
 urls-unsorted.txt

@@ -13,6 +13,25 @@ format: .bin/shfmt node_modules  # format the source code
 	.bin/shfmt --write .
 	npm exec -- prettier --write .
 
+draft: # process new Signal notes into books, movies, recipes and a feed draft
+	go run ./cmd/draft -source=signal
+
+draft-file: # same as draft, but read the material from FILE=notes.txt
+	go run ./cmd/draft -source=file -file=$(or $(FILE),notes.txt)
+
+draft-dry: # show what draft would do without writing anything
+	go run ./cmd/draft -source=signal -dry-run
+
+draft-apply: # move the feed block from the newest draft into content/feed.md
+	go run ./cmd/draft -apply="$$(ls -t _staging/draft-*.md | head -1)"
+
+draft-redo: # reprocess every stored note, ignoring what was already processed
+	go run ./cmd/draft -source=signal -all
+
+draft-reset: # clear the note store and processed markers, keeping generated drafts
+	echo "Clearing note store and state"
+	rm -f _staging/notes.jsonl _staging/state.json
+
 links: # generate markdown links from urls.txt
 	echo "Generating markdown links"
 	go run cmd/links/main.go > urls-sorted-markdown.txt 2>&1

@@ -42,10 +42,15 @@ func host(raw string) string {
 	return strings.TrimPrefix(strings.ToLower(u.Hostname()), "www.")
 }
 
+// localeSeg matches the optional language segment IMDb and Goodreads put in
+// shared links, e.g. imdb.com/pt/title/... or goodreads.com/en/book/show/....
+// It is dropped on normalization so stored links stay language-neutral.
+const localeSeg = `(?:[a-z]{2}(?:-[a-z]{2})?/)?`
+
 var (
-	imdbTitleRe = regexp.MustCompile(`imdb\.com/title/(tt\d+)`)
-	grBookRe    = regexp.MustCompile(`goodreads\.com/book/show/(\d+)`)
-	grOtherRe   = regexp.MustCompile(`goodreads\.com/(list|author|series)/show/(\d+)`)
+	imdbTitleRe = regexp.MustCompile(`imdb\.com/` + localeSeg + `title/(tt\d+)`)
+	grBookRe    = regexp.MustCompile(`goodreads\.com/` + localeSeg + `book/show/(\d+)`)
+	grOtherRe   = regexp.MustCompile(`goodreads\.com/` + localeSeg + `(list|author|series)/show/(\d+)`)
 	wikipediaRe = regexp.MustCompile(`^([a-z]+)\.(m\.)?wikipedia\.org$`)
 )
 

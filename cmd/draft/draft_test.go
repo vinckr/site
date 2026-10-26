@@ -39,6 +39,10 @@ func TestNormalizeIMDb(t *testing.T) {
 		"https://m.imdb.com/title/tt0110912/?ref_=nv_sr_1",
 		"https://www.imdb.com/title/tt0110912/",
 		"imdb.com/title/tt0110912",
+		// Language-prefixed share links must land on the same canonical URL.
+		"https://www.imdb.com/pt/title/tt0110912/",
+		"https://m.imdb.com/de/title/tt0110912/?ref_=ext_shr",
+		"https://www.imdb.com/es-es/title/tt0110912/",
 	} {
 		got, ok := normalizeIMDb(in)
 		if !ok || got != "https://www.imdb.com/title/tt0110912/" {
@@ -59,11 +63,25 @@ func TestNormalizeGoodreads(t *testing.T) {
 		got != "https://www.goodreads.com/list/show/8244" {
 		t.Errorf("list URL: got %q, %v", got, ok)
 	}
+	// The language segment is dropped so stored links stay plain goodreads.com.
+	for in, want := range map[string]string{
+		"https://www.goodreads.com/en/book/show/55428.Goodbye_to_All_That":   "https://www.goodreads.com/book/show/55428",
+		"https://www.goodreads.com/en/book/show/50641444-instantiation":      "https://www.goodreads.com/book/show/50641444",
+		"https://www.goodreads.com/en/list/show/8244":                        "https://www.goodreads.com/list/show/8244",
+		"https://www.goodreads.com/pt-br/book/show/77203.The_Kite_Runner?x=": "https://www.goodreads.com/book/show/77203",
+	} {
+		if got, ok := normalizeGoodreads(in); !ok || got != want {
+			t.Errorf("normalizeGoodreads(%q) = %q, %v; want %q", in, got, ok, want)
+		}
+	}
 }
 
 func TestGoodreadsSlugTitle(t *testing.T) {
 	if got := goodreadsSlugTitle("https://www.goodreads.com/book/show/77203.The_Kite_Runner"); got != "The Kite Runner" {
 		t.Errorf("got %q", got)
+	}
+	if got := goodreadsSlugTitle("https://www.goodreads.com/en/book/show/6259.Birdsong"); got != "Birdsong" {
+		t.Errorf("language-prefixed URL: got %q", got)
 	}
 	if got := goodreadsSlugTitle("https://www.goodreads.com/book/show/77203"); got != "" {
 		t.Errorf("want empty for slugless URL, got %q", got)

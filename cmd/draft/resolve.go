@@ -364,7 +364,7 @@ func resolveViaWikipedia(articleURL string) (kind Kind, title, target string, er
 	return "", "", "", fmt.Errorf("no film or book identifiers on %s", articleURL)
 }
 
-var grSlugRe = regexp.MustCompile(`goodreads\.com/book/show/\d+[.\-]([^/?#]+)`)
+var grSlugRe = regexp.MustCompile(`goodreads\.com/` + localeSeg + `book/show/\d+[.\-]([^/?#]+)`)
 
 // goodreadsSlugTitle recovers a readable title from the URL slug, e.g.
 // ".../book/show/77203.The_Kite_Runner" -> "The Kite Runner". Goodreads

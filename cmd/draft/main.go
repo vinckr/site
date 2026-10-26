@@ -274,9 +274,10 @@ func classifyURL(raw string, n Note) Item {
 
 	if u, ok := normalizeGoodreads(raw); ok {
 		title, err := pageTitle(u)
-		if err != nil {
-			// Goodreads rate-limits aggressively; the slug in the original URL
-			// is a better fallback than anything derived from the bare path.
+		if err != nil || title == "" || strings.EqualFold(title, "Goodreads") {
+			// Goodreads rate-limits aggressively and sometimes serves a page
+			// titled just "Goodreads"; the slug in the original URL is a better
+			// fallback than either that or anything derived from the bare path.
 			if slug := goodreadsSlugTitle(raw); slug != "" {
 				title = slug
 			} else {

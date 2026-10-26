@@ -9,6 +9,172 @@ my personal feed and plunder box.
 The stories and information posted here are artistic works of fiction and falsehood.
 Only a fool would take anything posted here as fact.</small>
 
+### 24-09-2026
+
+- [2dwillneverdie.com](https://2dwillneverdie.com/) - 2d sprites and pixel art for about everything
+- [Bastardica](https://bastardica.mitpit.com/) - mix and mashup fonts tool
+
+### 19-09-2026
+
+- [Poster Prompts](https://john.hartnup.uk/poster-prompts/) - some neat prompts for image generators to not get the same plain "AI" look.
+
+### 16-09-2026
+
+- [Charlie Kaufman’s Synecdoche, New York](https://italkyoubored.wordpress.com/2012/03/09/charlie-kaufmans-synecdoche-new-york/) - great analysis of a really cool movie
+
+### 12-09-2026
+
+- [Larger Pacific striped octopus](https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus) - this one is pretty smart
+
+> All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible.
+
+### 11-09-2026
+
+- [Bodily Oddities: strange things the human body can (sometimes) do](https://vester.si/bodily-oddities/) - the title says it all; fun to try out with friends
+
+### 05-09-2026
+
+- [OpenTrailPaper](https://opentrailpaper.com/) - open source DIY e‑paper bike computer; not that I would need that.
+- [Hacker News Rankings](https://hnrankings.com/) - rankings database of HN posts
+- Video: [Shenzhen Night Walk | The Most Futuristic City on Earth [4K Walk]](https://m.youtube.com/watch?v=JiXpYbCZyjs) - pretty amazing, want to visit one day.
+- [System prompts](https://platform.claude.com/docs/en/release-notes/system-prompts/overview) - claude system prompts archive
+- [Protopia](https://kevinkelly.substack.com/p/protopia) - Something between dys- and utopia
+
+### 03-09-2026
+
+- [Farewell Etaoin Shrdlu](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
+
+> It ain’t what you got, it’s what you do with what you have
+> It ain’t what you do, it’s how you do it
+
+### 02-09-2026
+
+- [The Lost Art of Carrying Loads](https://www.carryology.com/insights/the-lost-art-of-carrying-loads/)
+
+### 26-08-2026
+
+- [catherpiee/meowmeowcatcam: cat cam meme camera if you're coming from instagram! we luh cats](https://github.com/catherpiee/meowmeowcatcam)
+- [debloat.dev - replace the junk](https://debloat.dev/) - open-source replacements for bloated vendor software
+- [Super Curry Combat II Turbo: Legend Edition](https://curry-combat-2.com/) - Battle the different Tim Curry's against each other
+
+### 21-08-2026
+
+- [New Worlds](https://precastreinforced.co.uk/2026/08/16/new-worlds/) - we're living in a William Gibson novel; minus the gentech stuff but that'll probably come soon
+
+### 18-08-2026
+
+- [The carrion-eaters](https://samkriss.substack.com/p/the-carrion-eaters) - fun to read like always wiht Sam Kriss
+
+### 10-08-2026
+
+- [Saying No](https://rozumem.xyz/posts/19)
+
+### 02-08-2026
+
+- [Free Printable Paper Globes - Folding Paper Globes](https://foldingglobes.com/globes) -
+
+### 01-08-2026
+
+- [Heikki's Garden of Flowers | archive of pictorial typography](https://garden-of-flowers.heikkilotvonen.com/)
+- [We Don’t Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
+- [COMPULSION: The Writers Who Wrote The Most in History](https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/)
+
+### 29-07-2026
+
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+
+### 05-07-2026
+
+- [Organic Maps: Offline Hike, Bike, Trails and Navigation](https://organicmaps.app/)
+
+### 22-06-2026
+
+- [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+
+### 15-06-2026
+
+- [tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
+
+### 02-06-2026
+
+- [Sweden is now America’s most valuable tech ally.](https://thehill.com/opinion/technology/5898904-strategic-alliance-sweden-us/)
+- [Can You Stop a Hypersonic Missile?](https://protortyp.github.io/posts/can-you-stop-a-hypersonic/)
+
+### 31-05-2026
+
+- [Security Envelope Pattern collection](https://secret-archive.org/)
+- [Mechanical Pencil](https://mechanical-pencil.com/) - cool illustrations for all kinds of technological wonders
+
+### 30-05-2026
+
+- [TV Explorer - Watch 10,000+ Free Live TV Channels Online](https://tvexplorer.live/)
+- [MinishLab/semble: Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read](https://github.com/MinishLab/semble)
+- [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
+
+### 26-05-2026
+
+- [If you let AI do your writing, I will come to your house and kill you](https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will)
+- PDF [Zen and the Art of Computing](https://dl.acm.org/doi/pdf/10.1145/1005937.1005938)
+
+### 24-05-2026
+
+- [The Listening Museum - 36 Keyboards, Sound-Mapped](https://sheets.works/data-viz/keyboard-sounds)
+- [Bears Discover Fire](https://www.lightspeedmagazine.com/fiction/bears-discover-fire/) - cool short story about you guess it
+
+### 23-05-2026
+
+- [Deadliest radiation accidents and other events causing radiation casualties](https://www.johnstonsarchive.net/nuclear/radevents/radevents1.html)
+
+### 19-05-2026
+
+- [Big Tech's War on Users](https://blog.ppb1701.com/big-techs-war-on-users)
+
+### 15-05-2026
+
+- [How To Make Your Text Look Futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
+
+### 10-05-2026
+
+- [Beat Battle](https://beat-battle.net/) - generate audio kits and build a beat. great for short quick sessions
+
+### 09-05-2026
+
+- [Record and share your terminal sessions, the simple way](https://asciinema.org/)
+
+### 22-04-2026
+
+- [Earthset - NASA](https://www.nasa.gov/image-article/earthset/) - amazing earth pictures
+
+### 19-04-2026
+
+- [darktable](https://www.darktable.org/) - open source photography workflow application and raw developer
+
+### 16-04-2026
+
+- [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - learn how to juggle
+
+### 14-04-2026
+
+- [Relisten](https://relisten.net/) - incredible collection of live performances
+
+### 12-04-2026
+
+- [Chimpanzees in Uganda locked in vicious 'civil war'](https://www.bbc.com/news/articles/cr71lkzv49po) -
+
+### 11-04-2026
+
+- [Aadam Jacobs Collection](https://archive.org/details/@aadam_jacobs_collection) - insane treasure of recorded concerst and shows
+
+### 17-03-2026
+
+- [Leaving the dog VS leaving the cat comic strip](https://theoatmeal.com/comics/leaving_dog)
+- [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living) - good advice, hard to follow
+
+### 13-03-2026
+
+- [elder-plinius/OBLITERATUS: OBLITERATE THE CHAINS THAT BIND YOU](https://github.com/elder-plinius/OBLITERATUS) - apparently can break the constraints around LLMs, never tried it out actually [TRY]
+- [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
+
 ### 10-03-2026
 
 - [Defeat as method](https://www.cabinetmagazine.org/issues/71/khosravi.php) - we'll all be defeated sometime, really good article about the defeated that refuse to make peace with injustice

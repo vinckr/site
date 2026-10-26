@@ -16,6 +16,15 @@ I review and rate movies I watch. Don't take it seriously - it's subjective and 
 - 1/5 terrible. waste of time
 ```
 
+- [Top Boy](https://www.imdb.com/title/tt1830379/) 4/5
+- [Babylon A.D.](https://www.imdb.com/title/tt0364970/) 3/5
+- [It Follows](https://www.imdb.com/title/tt3235888/) 4/5
+- [Gladiator II](https://www.imdb.com/title/tt9218128/) 2/5
+- [Cinema, Aspirinas e Urubus](https://www.imdb.com/pt/title/tt0373760/) 3/5
+- [Obsession](https://www.imdb.com/title/tt37287335/) 4/5
+- [A Knight of the Seven Kingdoms (Series)](https://www.imdb.com/title/tt27497448/) 4/5
+- [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/) 4/5
+- [Synecdoche, New York](https://www.imdb.com/title/tt0383028/) 4/5
 - [One Battle After Another](https://www.imdb.com/title/tt30144839/) 3/5
 - [Sinners](https://www.imdb.com/title/tt31193180/) 4/5
 - [Thrash](https://www.imdb.com/title/tt32362890/) 3/5

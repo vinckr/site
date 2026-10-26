@@ -3,11 +3,11 @@ layout: layouts/page.njk
 title: hello
 ---
 
-My name is Vincent - I am in charge of **Developer Relations** at [**Ory**](https://www.ory.com/). Ory helps developers build secure, scalable, and open-source authN/Z for the web. I'm also a maintainer of the open-source [Ory project](https://github.com/ory).
+My name is Vincent.
 
 ![Vincent](/img/v.png)
 
-Besides work my passion is mixing music as a DJ - [read more about it here](./music).
+My passion is mixing music as a DJ - [read more about it here](./music).
 I also enjoy reading, writing, practical philosophy, and symbiotic relationships with hive-minded arthropods 🐝
 
 This my personal website. There are a lot like it, but this one is mine.  

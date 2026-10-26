@@ -11,15 +11,15 @@ Take with a grain of salt 😉
 
 - [Trecento Grammi](https://www.trecentogrammi.de/) - pizza
 - [Song Lam](https://www.songlam37.de/) - vietnamese
-- [Heno Heno](https://henoheno.de/) - japanese
-- [Al Reda](https://alredagrill.eatbu.com/) - iranian
+- [Al Reda](https://alredagrill.eatbu.com/) - libanese
 - [Nusantara](https://nusantara-restaurant.de/) - indonesian
+- [Konditorei Buchwald](https://www.konditorei-buchwald.de/) - cake
 - [Agni House of Tandori Flame](https://restaurant-agni.de/) - indian
 
 ## Outside of Moabit
 
 - [Lon Men's Noodle House](https://lonmen.eatbu.com/) - hongkong noodle soup
-- [Konditorei Buchwald](https://www.konditorei-buchwald.de/) - cake
+- [Heno Heno](https://henoheno.de/) - japanese
 - [Li.ke](https://www.likethaivegan-berlin.de/) - vegan thai
 - [Pamfilya](https://pamfilyarestaurant.de/) - turkish
 

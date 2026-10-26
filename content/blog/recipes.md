@@ -250,6 +250,24 @@ Bring all to a boil and simmer. Can be done in advance.
 1. Transfer half to a baking dish, sprinkle with cheese. Top with rest and more cheese.
 1. Bake at 180°C (350°F) for 20–25 minutes until golden and bubbly.
 
+### Gourmet Packet Ramen
+
+#### Ingredients
+
+- 1 packet instant ramen (with flavour pack)
+- 1 tbsp mayonnaise
+- 1 egg, plus 1 more for topping (optional)
+- Splash of soy sauce
+- Spring onion, sliced
+
+#### Steps
+
+1. Cook ramen noodles. Keep the cooking water.
+1. In a bowl, mix flavour pack, mayonnaise, egg, and soy sauce into a paste.
+1. Add some noodle water a little at a time, stirring constantly, until it has a soup-like consistency.
+1. Optional: poach or fry an egg.
+1. Add cooked noodles and egg to the soup. Sprinkle with spring onion.
+
 ## Chicken
 
 ### Kent Rollins Crispy Chicken Sandwich
@@ -450,6 +468,74 @@ Blend all ingredients until smooth. Stores well.
 1. Flip skin-side down over higher heat for 15–20 minutes until cooked through and skin is charred.
 1. Pour dressing onto a carving board. Place hot chicken on top to rest and absorb dressing. Carve and serve with lime wedges.
 
+### Fallow Chicken Tenders with Hot Honey
+
+[Source: Fallow](https://fallowchefs.substack.com/p/winner-chicken-tenders)
+
+#### Ingredients (serves 2)
+
+- 6 boneless chicken thighs
+- Neutral oil for frying
+
+**Marinade:**
+
+- 240 g sriracha
+- 120 g water
+- 14 g fine salt
+
+**Dry dredge:**
+
+- 400 g plain flour
+- 200 g potato starch
+- 17 g baking powder
+- 12 g fine sea salt
+- 20 g MSG
+- 20 g white pepper
+- 5 g each black pepper, garlic powder, cayenne pepper
+
+**Wet dredge:**
+
+- 200 g buttermilk
+- 200 g sparkling water
+- 50 g cornflour
+
+**Sriracha hot honey:**
+
+- 290 g honey
+- 160 g sriracha
+- 30 g rice wine vinegar
+- 7 g garlic, minced
+- 1 tsp chilli flakes
+- ½ tsp Szechuan peppercorns
+- ¼ tsp fennel seeds
+- ½ tsp MSG (optional)
+- ¾ tsp citric acid (optional)
+
+**Blue cheese ranch:**
+
+- 150 g blue cheese
+- 120 g buttermilk
+- 50 g Japanese mayonnaise
+- 2 tsp white wine vinegar
+- 1 tsp lemon juice
+- ½ tsp honey
+- ½ tsp onion powder
+- ½ tsp freshly ground black pepper
+- Pinch of fine sea salt
+- 5 g chives, finely chopped
+
+#### Steps
+
+1. Unroll each thigh and halve lengthways if very large. Score all over on both sides.
+1. Mix marinade ingredients, submerge chicken, cover, and refrigerate overnight.
+1. **Hot honey:** Warm honey in a pan over medium heat. Add vinegar, sriracha, and the dry ingredients. Simmer and reduce until lightly syrupy. Grate in garlic, cook 3 more minutes, then take off the heat.
+1. Mix dry dredge ingredients. Lift chicken onto a tray, pour over a little of the leftover marinade so it's generously coated, then mix in a handful of dry dredge.
+1. Whisk buttermilk, cornflour, and sparkling water into a slurry.
+1. Drop chicken into the dry dredge and turn by hand 60 times. Dip each piece in the slurry, then back into the dry dredge and turn another 60 times.
+1. Heat a half-filled pan of oil to 185°C. Shake off excess dredge and fry ~4½ minutes until golden and at least 70°C inside. Drain on a wire rack.
+1. **Ranch:** Whisk everything except the chives (for a chunkier dressing), then stir in the chives.
+1. Dip each tender in the hot honey, let the excess drip off, and serve with the ranch.
+
 ## Vegetables & Sides
 
 ### Pommes de Terre Anna
@@ -633,29 +719,36 @@ _4 servings_
 
 #### Steps
 
-1. Combine 150 ml olive oil and egg yolk in a tall, narrow container. Blend with an immersion blender until creamy.
-1. Add pressed garlic, mustard, and lemon juice. Season with salt.
-1. Slowly drizzle in a little more olive oil while stirring to finish.
-1. Refrigerate 1 hour before serving.
+All ingredients should be at room temperature. Put a damp towel under the bowl so it doesn't slide while you whisk.
+
+1. Mash pressed garlic with a pinch of salt into a paste.
+1. Add egg yolk, mustard, and lemon juice. Whisk until combined.
+1. Whisk constantly while adding olive oil drop by drop. Once it thickens and turns pale (after about a quarter of the oil), add the rest in a thin, steady stream.
+1. Season with salt. Refrigerate 1 hour before serving.
+
+**If it splits:** Whisk a fresh egg yolk in a clean bowl, then whisk the split mixture into it drop by drop.
 
 ### Mayonnaise
 
 #### Ingredients
 
-- 1 large egg
+- 1 egg yolk
 - 1 tbsp Dijon mustard
 - 1 tbsp white or red wine vinegar
 - ¼ tsp fine salt
 - 1 cup (240 ml) neutral oil (sunflower, safflower, or vegetable)
 - 1 tsp lemon juice (optional)
 
-#### Steps (immersion blender — foolproof)
+#### Steps (by hand with a whisk)
 
-1. Add egg, mustard, vinegar, salt, and lemon juice to a tall, narrow jar.
-1. Pour all the oil directly on top. Do not stir.
-1. Insert immersion blender all the way to the bottom. Turn on high and hold completely still for 15–30 seconds — mayo will form from the bottom up.
-1. Once thick, slowly lift blender up and down to incorporate remaining oil.
+All ingredients should be at room temperature. Put a damp towel under the bowl so it doesn't slide while you whisk.
+
+1. Whisk egg yolk, mustard, salt, and half the vinegar in a bowl until combined.
+1. Whisk constantly while adding oil drop by drop. Once it thickens and turns pale (after about a quarter of the oil), add the rest in a thin, steady stream.
+1. If it gets too thick to whisk, loosen with the remaining vinegar or the lemon juice, then keep adding oil.
 1. Taste and adjust. Refrigerate up to 1 week.
+
+**If it splits:** Whisk a fresh egg yolk in a clean bowl, then whisk the split mixture into it drop by drop.
 
 ### Salsa Verde
 

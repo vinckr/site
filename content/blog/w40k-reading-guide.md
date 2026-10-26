@@ -7,7 +7,7 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 
 > Thanks so much cd8d for creating this!
 
-- Status: 38 of 89
+- Status: 47 of 89
 
 ## Part 0: 40K
 
@@ -92,28 +92,28 @@ Plundered from [cd8d on Reddit](https://www.reddit.com/r/40kLore/comments/jjr9m5
 - [x] A Thousand Sons (12) by Graham McNeil - in terms of lore this is one of the most important book so far in this series. I always wanted to learn how the downfall of Magnus took place in detail. It's a bit slow at first but overall a very entertaining read.
 - [x] Thief of Revelations - Legacies of Betrayal (31) by Graham McNeill
 - [x] The Master of Mankind (41) by Aaron Dembski-Bowden - one of the best so far, great followup to the previous one. Hard to read, not because the prose is bad but because the story is so tragic. Humanity was so close to salvation and some tragic circumstances ruined it all. We also learn a lot about the Emperor while at the same time not too much is really revealed. If you read only one book of the Horus Heresy saga, this would be it!
-- [ ] The Crimson King (44) by Graham McNeill
-- [ ] Ahriman Omnibus by John French
-- [ ] Forges of Mars Omnibus by Graham McNeil
+- [x] The Crimson King (44) by Graham McNeill - the tale of putting Magnus back together. Quite a strange one at times but I liked Ahriman.
+- [ ] Ahriman Omnibus by John French - skipped for now
+- [ ] Forges of Mars Omnibus by Graham McNeil - skipped for now
 
 Mechanicum -
 Into exile -
 
 ## Part 8 - Wolves
 
-- [ ] Prospero Burns (15) by Dan Abnett
-- [ ] Wolf’s Claw - Legacies of Betrayal (31) by Chris Wraight
-- [ ] Wolf King - Burden of Loyalty (48) by Chris Wraight
-- [ ] Wolfsbane (49) by Guy Haley
-- [ ] The Hunt for Magnus by Chris Wraight
-- [ ] by Chris Wraight
+- [x] Prospero Burns (15) by Dan Abnett - Wolfes versus Thousand Sons, but this time from the perspective of the wolves. I really liked this one. The wolves always seemed a bit too savage and too viking to me, but it really came together nicely here; and the overarching long-term plot is also really cool. Definitely worth a read.
+- [x] Wolf’s Claw - Legacies of Betrayal (31) by Chris Wraight - very short and sweet but not sure why it belongs in this list - we don't really learn anything beyond the wolves fighting alpha legion somewhere somehow.
+- [x] Wolf King - Burden of Loyalty (48) by Chris Wraight - Now the previous one makes more sense, it was a prelude to this a bit longer short story that tells us (a small part) of the story Wolves against Alpha Legion. Not too much to say on this one, but I like Bjorn as a character.
+- [x] Wolfsbane (49) by Guy Haley - Russ versus Horus, a entertaining and high octane read with lots of fun blodshed. I think the first time I see the demonically empowered Horus in action (though just briefly). We also learn about the origin story of Cawl - who is an interesting character that I hope to see more of in the future.
+- [ ] Bonus: The Hunt for Magnus by Chris Wraight - skipped for now
+- [ ] Bonus: Battle of the Fang by Chris Wraight - skipped for now
 
 ## Part 9 - Scars
 
-- [ ] Scars (28) by Chris Wraight
-- [ ] Brotherhood of the Moon - Eye of Terra (35) by Chris Wraight
-- [ ] Allegiance - War Without End (33) by Chris Wraight
-- [ ] Path of Heaven (36) by Chris Wraight
+- [x] Scars (28) by Chris Wraight - really knew nothing about the Scars other than "go fast". The novel was pretty much like that but they alse were a really fun brotherhood to spend time with, not as brooding and depressed as many of the others. Probably one of the legions that has the most fun overall. Until the betrayal of course, but they seem fine afterwards as well.
+- [x] Brotherhood of the Moon - Eye of Terra (35) by Chris Wraight
+- [x] Allegiance - War Without End (33) by Chris Wraight
+- [x] Path of Heaven (36) by Chris Wraight
 - [ ] The Last Son of Prospero - Heralds of the Siege (52) by Chris Wraight
 
 - checked until here

@@ -56,6 +56,10 @@
     "url": "https://www.imdb.com/title/tt15006566/"
   },
   {
+    "title": "Assault on Precinct 13",
+    "url": "https://www.imdb.com/title/tt0074156/"
+  },
+  {
     "title": "Asura no Gotoku",
     "url": "https://imdb.com/title/tt34570673/"
   },
@@ -108,8 +112,16 @@
     "url": "https://imdb.com/title/tt0039192/"
   },
   {
+    "title": "Black Zombie",
+    "url": "https://www.imdb.com/title/tt39368474/"
+  },
+  {
     "title": "Blazing Saddles",
     "url": "https://imdb.com/title/tt0071230/"
+  },
+  {
+    "title": "Bleeder",
+    "url": "https://www.imdb.com/title/tt0161292/"
   },
   {
     "title": "Blind Fury",
@@ -118,6 +130,10 @@
   {
     "title": "Bloodsport",
     "url": "https://www.imdb.com/title/tt0092675/"
+  },
+  {
+    "title": "Blue Streak",
+    "url": "https://www.imdb.com/title/tt0181316/"
   },
   {
     "title": "Blue Sunshine",
@@ -130,6 +146,10 @@
   {
     "title": "Boat Story",
     "url": "https://www.imdb.com/title/tt23729238/"
+  },
+  {
+    "title": "Bound",
+    "url": "https://www.imdb.com/title/tt0115736/"
   },
   {
     "title": "Boyz n the Hood",
@@ -208,6 +228,22 @@
     "url": "https://www.imdb.com/title/tt0112864/"
   },
   {
+    "title": "Dogra Magra",
+    "url": "https://www.imdb.com/title/tt0223154/"
+  },
+  {
+    "title": "Doomed Megalopolis (Series)",
+    "url": "https://www.imdb.com/title/tt0337283/"
+  },
+  {
+    "title": "Dreams",
+    "url": "https://www.imdb.com/title/tt0100998/"
+  },
+  {
+    "title": "Driver's Ed",
+    "url": "https://www.imdb.com/title/tt9308022/"
+  },
+  {
     "title": "Druk",
     "url": "https://imdb.com/title/tt10288566/"
   },
@@ -264,6 +300,10 @@
     "url": "https://imdb.com/title/tt9813792/"
   },
   {
+    "title": "From Beijing with Love",
+    "url": "https://www.imdb.com/title/tt0109962/"
+  },
+  {
     "title": "From Beyond",
     "url": "https://www.imdb.com/title/tt0091083/"
   },
@@ -290,6 +330,10 @@
   {
     "title": "Ghost Ship",
     "url": "https://www.imdb.com/title/tt0288477/"
+  },
+  {
+    "title": "Glengarry Glen Ross",
+    "url": "https://www.imdb.com/title/tt0104348/"
   },
   {
     "title": "Glorious",
@@ -420,6 +464,10 @@
     "url": "https://imdb.com/title/tt0107302/"
   },
   {
+    "title": "Kemonozume (Series)",
+    "url": "https://www.imdb.com/title/tt0928094/"
+  },
+  {
     "title": "Kill Your Darlings",
     "url": "https://www.imdb.com/title/tt1311071/"
   },
@@ -442,6 +490,10 @@
   {
     "title": "La vida loca",
     "url": "https://www.imdb.com/title/tt1305890/"
+  },
+  {
+    "title": "Ladies First",
+    "url": "https://www.imdb.com/title/tt34611082/"
   },
   {
     "title": "Ladri di biciclette",
@@ -530,6 +582,14 @@
   {
     "title": "Martyrs",
     "url": "https://www.imdb.com/title/tt1029234/"
+  },
+  {
+    "title": "Mechanical Violator Hakaider",
+    "url": "https://www.imdb.com/title/tt0161644/"
+  },
+  {
+    "title": "Mimic",
+    "url": "https://www.imdb.com/title/tt0119675/"
   },
   {
     "title": "Monaco Franze",
@@ -628,12 +688,28 @@
     "url": "https://www.imdb.com/title/tt0257044"
   },
   {
+    "title": "Rosencrantz & Guildenstern Are Dead",
+    "url": "https://www.imdb.com/title/tt0100519/"
+  },
+  {
+    "title": "Rubber's Lover",
+    "url": "https://www.imdb.com/title/tt0227408/"
+  },
+  {
     "title": "Running Scared",
     "url": "https://www.imdb.com/title/tt0404390/"
   },
   {
+    "title": "SLC Punk!",
+    "url": "https://www.imdb.com/title/tt0133189/"
+  },
+  {
     "title": "Sans Soleil",
     "url": "https://imdb.com/title/tt0084628/"
+  },
+  {
+    "title": "School in the Crosshairs",
+    "url": "https://www.imdb.com/title/tt0125434/"
   },
   {
     "title": "Seven Psychopaths",
@@ -704,12 +780,20 @@
     "url": "https://imdb.com/title/tt22375054/"
   },
   {
+    "title": "Strange Darling",
+    "url": "https://www.imdb.com/title/tt22375054/"
+  },
+  {
     "title": "Stranger Than Paradise",
     "url": "https://www.imdb.com/title/tt0088184/"
   },
   {
     "title": "Stunt Rock",
     "url": "https://www.imdb.com/title/tt0078335/"
+  },
+  {
+    "title": "Sunshine",
+    "url": "https://www.imdb.com/title/tt0448134/"
   },
   {
     "title": "Super Mario Bros.",
@@ -726,6 +810,10 @@
   {
     "title": "Talk to Me",
     "url": "https://www.imdb.com/title/tt10638522/"
+  },
+  {
+    "title": "Tetsuo: The Iron Man",
+    "url": "https://www.imdb.com/title/tt0096251/"
   },
   {
     "title": "The Act of Killing",
@@ -752,12 +840,20 @@
     "url": "https://www.imdb.com/title/tt0097108/"
   },
   {
+    "title": "The Drama",
+    "url": "https://www.imdb.com/title/tt33071426/"
+  },
+  {
     "title": "The Edge",
     "url": "https://www.imdb.com/title/tt0119051/"
   },
   {
     "title": "The Emerald Forest",
     "url": "https://www.imdb.com/title/tt0089087/"
+  },
+  {
+    "title": "The Goods: Live Hard, Sell Hard",
+    "url": "https://www.imdb.com/title/tt1092633/"
   },
   {
     "title": "The Greatest Movie Ever Sold",
@@ -788,6 +884,10 @@
     "url": "https://imdb.com/title/tt2937900/"
   },
   {
+    "title": "The Legend of Hei",
+    "url": "https://www.imdb.com/title/tt10734928/"
+  },
+  {
     "title": "The Lost City",
     "url": "https://www.imdb.com/title/tt13320622/"
   },
@@ -798,6 +898,10 @@
   {
     "title": "The Naked Island",
     "url": "https://www.imdb.com/title/tt0056049/"
+  },
+  {
+    "title": "The Outlaws (Series)",
+    "url": "https://www.imdb.com/title/tt11646832/"
   },
   {
     "title": "The Possession of Michael King",
@@ -872,6 +976,10 @@
     "url": "https://www.imdb.com/title/tt0129387/"
   },
   {
+    "title": "Thesis",
+    "url": "https://www.imdb.com/title/tt0117883/"
+  },
+  {
     "title": "This is Spinal Tap",
     "url": "https://www.imdb.com/title/tt0088258/"
   },
@@ -896,8 +1004,8 @@
     "url": "https://www.imdb.com/title/tt0090180/"
   },
   {
-    "title": "Top Boy",
-    "url": "https://www.imdb.com/title/tt1830379/"
+    "title": "Toast of London (Series)",
+    "url": "https://www.imdb.com/title/tt2432604/"
   },
   {
     "title": "True Lies",
@@ -924,11 +1032,39 @@
     "url": "https://www.imdb.com/title/tt0187119/"
   },
   {
+    "title": "Zeiram",
+    "url": "https://www.imdb.com/title/tt0103327/"
+  },
+  {
     "title": "Zodiac",
     "url": "https://www.imdb.com/title/tt0443706/"
   },
   {
     "title": "eXistenZ",
     "url": "https://www.imdb.com/title/tt0120907/"
-  }
+  },
+  {
+    "title": "Carts of Darkness",
+    "url": "https://www.imdb.com/title/tt1633175/"
+  },
+  {
+    "title": "How Art Made the World (Series)",
+    "url": "https://www.imdb.com/title/tt0463823/"
+  },
+  {
+    "title": "Do the Right Thing",
+    "url": "https://www.imdb.com/title/tt0097216/"
+  },
+  {
+    "title": "Almost Heroes",
+    "url": "https://www.imdb.com/title/tt0119053/"
+  },
+  {
+    "title": "Withnail and I",
+    "url": "https://www.imdb.com/title/tt0094336/"
+  },
+    {
+    "title": "Gintama",
+    "url": "https://www.imdb.com/title/tt0988818/"
+  },´
 ]

@@ -33,6 +33,7 @@ Games I want to try out. No particular order.
 - [Max Payne 3](https://en.wikipedia.org/wiki/Max_Payne_3)
 - [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island)
 - [Ultrakill](https://en.wikipedia.org/wiki/Ultrakill)
+- [Grindset T.V.](https://store.steampowered.com/app/3159750/Grindset_TV/)
 - [Hypnospace Outlaw](https://en.wikipedia.org/wiki/Hypnospace_Outlaw)
 - [Still Wakes the Deep](https://en.wikipedia.org/wiki/Still_Wakes_the_Deep)
 - [Dawn of War II: Eternal mod](https://www.moddb.com/mods/dawn-of-war-2-eternal)
@@ -66,6 +67,7 @@ Keep classics alive. Most of these either run old games on modern systems or are
 - [Starcraft Reverse Campaign](https://github.com/jakec903/Starcraft-Original-Reverse-Campaign)
 - [OpenCiv3](https://openciv3.org/), [OpenCiv1](https://github.com/rajko-horvat/OpenCiv1)
 - [OldUnreal](https://www.oldunreal.com/)
+  [Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
 
 ### wow private servers
 

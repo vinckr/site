@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all -p dev:*",
-    "build": "npx @11ty/eleventy & tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --minify",
+    "build": "npx @11ty/eleventy && tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --minify",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i styles/tailwind.css -o _site/styles/tailwind.css --watch --postcss",
+    "test:e2e": "npm run build && playwright test",
     "test:links": "npx blc http://localhost:8080/ -ro",
     "test:style": "vale content/**/*.md"
   },
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/vinckr/vinckr.com#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
+    "@playwright/test": "^1.64.1",
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.14",
     "broken-link-checker": "^0.7.8",

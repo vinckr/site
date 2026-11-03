@@ -31,3 +31,6 @@ vale/styles/ory
 !recipe-generator.html
 
 _site
+# e2e test output
+playwright-report
+test-results

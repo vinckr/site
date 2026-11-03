@@ -577,8 +577,6 @@ _For 6 eggs_
 1. Place eggs cut-side down. Let sit undisturbed for 2 minutes.
 1. Flip and brown the other side.
 
-Crispy edges. Spiced oil coating. No bland eggs.
-
 ### Honey Balsamic Mushrooms
 
 #### Ingredients

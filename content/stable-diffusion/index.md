@@ -67,7 +67,7 @@ Steps refer to the iterations in the process of either generating an image - als
 
 ## Text to Image
 
-- [Learn how to use Text to Image, basic prompting and negative prompts here](./txt2img.md)
+- [Learn how to use Text to Image, basic prompting and negative prompts here](./txt2img/)
 
 ## Image to Image
 
@@ -78,15 +78,15 @@ I use img2img for:
 - Refining an image generated through text.
 - Using an existing image as the basis for a new generation.
 
-No guide [here](./img2img.md) yet.
+No guide [here](./img2img/) yet.
 
 ## Inpainting
 
-No guide [here](./inpainting.md) yet.
+No guide [here](./inpainting/) yet.
 
 ## Outpainting
 
-No guide [here](./outpainting.md) yet.
+No guide [here](./outpainting/) yet.
 
 ## Advanced Usage of Stable Diffusion
 

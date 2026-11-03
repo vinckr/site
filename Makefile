@@ -8,6 +8,9 @@ help:  # show all available Make commands
 dev: # run a local server to preview the site
 	npm run start
 
+test: # build the site and run the end-to-end tests
+	npm run test:e2e
+
 format: .bin/shfmt node_modules  # format the source code
 	echo "\n formatting ..."
 	.bin/shfmt --write .
@@ -43,7 +46,8 @@ links-sort: # sort links and delete duplicates
 data-sort: # sort _data and remove duplicates
 	@echo "Sorting data"
 	@for file in content/_data/*.json; do \
-  		jq 'if type == "array" then unique | sort_by(.title) else . end' "$$file" > "$$file.tmp" && mv "$$file.tmp" "$$file"; \
+  		jq 'if type == "array" then unique | sort_by(.title) else . end' "$$file" > "$$file.tmp" && mv "$$file.tmp" "$$file" \
+  			|| { rm -f "$$file.tmp"; echo "Could not sort $$file, fix the JSON first"; exit 1; }; \
 	done
 	git add content/_data/*.json
 	git commit -m "chore: sort data"

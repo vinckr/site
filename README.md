@@ -22,6 +22,17 @@ make dev
 npm run start
 ```
 
+## Tests
+
+End-to-end tests build the site and check it in a real browser with [Playwright](https://playwright.dev/): every page in the sitemap loads, internal links and assets resolve, the data-driven lists render, and nothing errors in the console. They run on every pull request (`.github/workflows/e2e.yml`).
+
+```bash
+npx playwright install chromium  # once
+make test
+# or
+npm run test:e2e
+```
+
 ## Commit messages
 
 Note: the git history prior to [6d2454f](https://github.com/vinckr/vinckr.com/commit/6d2454f827bbffddc43dc0a6814de5064cbdcedd) is a mess so feel free to ignore that (actually it's not really perfect after as well but alas). I'm striving to keep the history clean using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) going forward, but since I am the only one contributing to this I am not always motivated to so.

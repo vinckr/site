@@ -130,9 +130,9 @@ Resources for software, web development and other topics related to making the m
 
 #### personal cheat sheets
 
-- [My list of common git commands](blog/git)
-- [My guide to set up MacOs](blog/macos)
-- [My list of random commands](blog/misc)
+- [My list of common git commands](/blog/git/)
+- [My guide to set up MacOs](/blog/macos/)
+- [My list of random commands](/blog/misc/)
 
 ### tools
 
